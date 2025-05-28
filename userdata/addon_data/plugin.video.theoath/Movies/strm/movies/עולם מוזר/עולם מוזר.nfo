@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>עולם מוזר</title>
+    <originaltitle>Strange World</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.453</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>Dr,TE
+[COLOR lightblue]2023-04-16 15:47:48[/COLOR]
+[COLOR blue]1080p WEB-DL 2022 ז.מ עולם מוזר מדובב.mkv[/COLOR]
+1.53 GB
+'עולם מוזר' יוצא למסע אל מעמקי ארץ בלתי ידועה ומסוכנת שבה יצורים פנטסטיים ממתינים לבואם של משפחת קלייד האגדית, משפחה של מגלי ארצות שההבדלים ביניהם מאיימים למוטט את משימתם החשובה ביותר.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\עולם מוזר</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\עולם מוזר\עולם מוזר.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\עולם מוזר\עולם מוזר.strm</basepath>
+    <uniqueid type="tmdb" default="true">877269</uniqueid>
+    
+    <genre></genre>
+    <year>2022</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//luox1DCEKj7n5lqX6qNV25oZ5O2.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//5wDBVictj4wUYZ31gR5WzCM9dLD.jpg">https://image.tmdb.org/t/p/original//5wDBVictj4wUYZ31gR5WzCM9dLD.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-04-16 15:47:48</dateadded>
+</movie>
+    

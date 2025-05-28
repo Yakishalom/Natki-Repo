@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>שודדי הפיצוחים</title>
+    <originaltitle>The Nut Job</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.77</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,TE
+[COLOR lightblue]2020-07-29 09:00:19[/COLOR]
+[COLOR blue]HDTV 2014 נ.מ שודדי הפיצוחים מדובב.avi[/COLOR]
+0.68 GB
+עלילותיו המסעירות של סנאי עירוני וידידו העכברוש. יחד הם מתכננים שוד נועז של אוצר האגוזים ושלא באשמתם מסתבכים בשוד בנק אמיתי.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\שודדי הפיצוחים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\שודדי הפיצוחים\שודדי הפיצוחים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\שודדי הפיצוחים\שודדי הפיצוחים.strm</basepath>
+    <uniqueid type="tmdb" default="true">227783</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> קומדיה </genre>
+<genre> משפחה </genre>
+<genre> הרפתקאות</genre>
+    <year>2014</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//9w3iXeXR1a5R7pPyLKCzQlTxZfh.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//i8m04vN53U9V5IKlGcNDoFCxavc.jpg">https://image.tmdb.org/t/p/original//i8m04vN53U9V5IKlGcNDoFCxavc.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-07-29 09:00:19</dateadded>
+</movie>
+    

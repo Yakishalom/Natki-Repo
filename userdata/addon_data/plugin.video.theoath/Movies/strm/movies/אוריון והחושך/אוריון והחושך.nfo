@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>אוריון והחושך</title>
+    <originaltitle>Orion and the Dark</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2024-02-4 20:34:11[/COLOR]
+אוריון הוא ילד בעל דמיון מפותח שמתמודד עם פחדיו במסע לילי ובלתי נשכח עם חבר חדש: יצור ענק ומחויך בשם חושך.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אוריון והחושך</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אוריון והחושך\אוריון והחושך.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אוריון והחושך\אוריון והחושך.strm</basepath>
+    <uniqueid type="tmdb" default="true">1139829</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>משפחה</genre>
+<genre>קומדיה</genre>
+<genre>פנטזיה</genre>
+    <year>2024</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=cScAQ2O26Y4</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//h3duihBf5XtIH28l9pN2bfLTdFE.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//zLj0peaxy5y2SlC6wNIQ4V0pfqg.jpg">http://image.tmdb.org/t/p/original//zLj0peaxy5y2SlC6wNIQ4V0pfqg.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2024-02-04 20:34:11</dateadded>
+</movie>
+    

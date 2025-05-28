@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>אבידות ומציאות</title>
+    <originaltitle>Lost and Found [TV Short 2008]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>8</value>
+            <votes>585</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2017-12-2 19:00:21[/COLOR]
+סרט אנימציה ייחודי המבוסס על ספרו של אוליבר ג'פרס. הסרט זכה בלמעלה מ-60 פרסים בינלאומיים ויוקרתיים, ביניהם פרס Children's Award 2009. העלילה מגוללת את סיפורו של ילד צעיר ואמיץ המחליט לצאת למסע להחזרת פינגווין אבוד, שהגיע בטעות אל פתח ביתו, חזרה לקוטב הדרומי – שם מקומו. המסע ילמד את השניים על חברות, אומץ, אהבת אמת וגם על פחד ובדידות.</plot>
+    <runtime>24</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אבידות ומציאות</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אבידות ומציאות\אבידות ומציאות.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אבידות ומציאות\אבידות ומציאות.strm</basepath>
+    <uniqueid type="tmdb" default="true">33572</uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Short</genre>
+<genre>משפחה</genre>
+<genre>אנימציה</genre>
+    <year>2008</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//mV9XXtvZzmv2sxuU3WKSWJqGWi7.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//1V5c0ELABX12VnOyohfOXtseXnj.jpg">http://image.tmdb.org/t/p/original//1V5c0ELABX12VnOyohfOXtseXnj.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2017-12-02 19:00:21</dateadded>
+</movie>
+    

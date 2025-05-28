@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>טינקרבל וסוד הכנפיים</title>
+    <originaltitle>Secret of the Wings</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.175</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE
+[COLOR lightblue]2020-05-06 10:52:07[/COLOR]
+[COLOR blue]טינקרבל וסוד הכנפיים - מדובב נ.מ.mkv[/COLOR]
+1.11 GB
+"טינקרבל וסוד הכנפיים" מזמין את הצופים להצטרף למסע עם טינקרבל וחברותיה הפיות לתוך העולם האסור של חורשות החורף המסתוריים, שם הסקרנות וההרפתקה מובילים את טינק לגילוי מדהים וחושפים סוד קסום שיכול לשנות את עולמה לעד.  טינקרבל, המגיעה מעולם הקיץ הירוק והפורח תמיד, מגלה עולם חדש, קסום וחורפי עם המון דמויות וחברים טריים.בסרט מצטרפות אל טינקרבל שבע דמויות חדשות: פריווינקל, אחותה של טינקרבל; לורד מילורי, המנהיג של יערות החורף; דיואי, הזקן החכם ששומר על הידע והחוכמה של הפיות; גליס וספייק, שתי חברותיה הטובות של פריווינקל; ושני חבריה של פריוונקל: סלד הרציני וסלאש הקליל יותר.  בגרסה המקורית של הסרט, מדבבים אותו לוסי ליו, טימותי דלטון, אנג'ליקה יוסטון ועוד. בגרסה המדובבת, מחליפים אותם אוהד שחר ואחרים.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טינקרבל וסוד הכנפיים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טינקרבל וסוד הכנפיים\טינקרבל וסוד הכנפיים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טינקרבל וסוד הכנפיים\טינקרבל וסוד הכנפיים.strm</basepath>
+    <uniqueid type="tmdb" default="true">75258</uniqueid>
+    
+    <genre></genre>
+    <year>2012</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//f3JyTOn3RXgpjRaUf899RInxq0z.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//wBfvAZ9y5D2HjtHKiLiwsTxP8iu.jpg">https://image.tmdb.org/t/p/original//wBfvAZ9y5D2HjtHKiLiwsTxP8iu.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-05-06 10:52:07</dateadded>
+</movie>
+    

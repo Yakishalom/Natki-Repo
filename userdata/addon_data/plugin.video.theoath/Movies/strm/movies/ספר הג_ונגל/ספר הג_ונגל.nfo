@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>ספר הג'ונגל</title>
+    <originaltitle>The Jungle Book</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.277</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2017-12-5 08:48:34
+ON,TE,TE
+[COLOR lightblue]2017-06-02 00:29:55[/COLOR]
+[COLOR blue]ספר הג'ונגל 1.avi[/COLOR]
+0.6 GB
+בתחילת הסיפור אנו פוגשים את הפנתר באגירה, שמצא תינוק נטוש ונתן אותו למשפחת זאבים, שהאבא בה היה הזאב ראמה. הזאבים קראו לילד מוגלי, וחיבבו אותו מאוד והוא-אותם. לילה אחד הטיגריס הבנגלי האכזר שרחאן חזר לחלק של הג'ונגל שבו מוגלי שכן. באסיפת הזאבים הציע אקילה, הזאב המנהיג, בעזרתו של בגירה לקחת את מוגלי לכפר של בני האדם, ובאגירה מתנדב לעשות זאת. בהמשך הם נתקלים בעוד חברים שונים ומשונים כמו: קאה הנחש, שיירת הפילים, המלך לואי וכו'. האם מוגלי יחזור לכפר בני האדם בשלום?TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ספר הג_ונגל</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ספר הג_ונגל\ספר הג_ונגל.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ספר הג_ונגל\ספר הג_ונגל.strm</basepath>
+    <uniqueid type="tmdb" default="true">9325</uniqueid>
+    
+    <genre></genre>
+    <year>1967</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//b0p27XltB0U5QSj9tvSHqOz9Op0.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//3sbmRuIpYEH5dMvec4z4JxKQHoj.jpg">https://image.tmdb.org/t/p/original//3sbmRuIpYEH5dMvec4z4JxKQHoj.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2017-12-05 08:48:34</dateadded>
+</movie>
+    

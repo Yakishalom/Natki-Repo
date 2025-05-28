@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>פיטר ראביט 2: הבריחה</title>
+    <originaltitle>Peter Rabbit 2: The Runaway</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2021-10-21 18:50:51[/COLOR]
+סרט ההמשך ללהיט משנת 2018. בי, תומאס והארנבים יצרו משפחה חלופית, אך למרות מאמציו הרבים, פיטר לא מצליח להתנער מתדמיתו כשובב. בעודו מטייל מחוץ לגן פיטר מוצא עצמו בעולם בו השובבות שלו מוערכת, אך כאשר משפחתו מסכנת הכול על מנת למצוא אותו, פיטר חייב להבין איזה סוג ארנב הוא רוצה להיות.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פיטר ראביט 2_ הבריחה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פיטר ראביט 2_ הבריחה\פיטר ראביט 2_ הבריחה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פיטר ראביט 2_ הבריחה\פיטר ראביט 2_ הבריחה.strm</basepath>
+    <uniqueid type="tmdb" default="true">522478</uniqueid>
+    
+    <genre>משפחה</genre>
+<genre>קומדיה</genre>
+<genre>הרפתקאות</genre>
+<genre>אנימציה</genre>
+<genre>פנטזיה</genre>
+    <year>2021</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Cb8aRfM9Zvg</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//kF64rfy64V8vWJzjA8TTWTCl3tR.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//5HjzYTihkH7EvOWSE7KcsF6pBMM.jpg">http://image.tmdb.org/t/p/original//5HjzYTihkH7EvOWSE7KcsF6pBMM.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-10-21 18:50:51</dateadded>
+</movie>
+    

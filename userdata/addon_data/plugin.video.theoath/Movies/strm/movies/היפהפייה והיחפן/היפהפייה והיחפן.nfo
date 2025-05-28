@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>היפהפייה והיחפן</title>
+    <originaltitle>Lady and the Tramp</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.248</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2023-07-04 18:04:34
+ON,Dr,TE,TE
+[COLOR lightblue]2023-02-22 18:04:44[/COLOR]
+[COLOR blue]1080p 2019 היפהפייה והיחפן מדובב.mkv[/COLOR]
+1.46 GB
+העלילה מזכירה את הסרט מ-1955 ועוסקת בחיי שני כלבים, אחת כלבה משובחת בת המעמד הבינוני מגזע קוקר ספניאל ("היפהפייה") ואחד הוא כלב משוטט עזוב ממוצא מעורב (אנ') הקרוב לטריירים ("היחפן"). שני הכלבים מתאהבים ומנסים לחיות יחדיו.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\היפהפייה והיחפן</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\היפהפייה והיחפן\היפהפייה והיחפן.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\היפהפייה והיחפן\היפהפייה והיחפן.strm</basepath>
+    <uniqueid type="tmdb" default="true">512895</uniqueid>
+    
+    <genre>משפחה </genre>
+<genre> רומנטי </genre>
+<genre> קומדיה</genre>
+    <year>2019</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//nYaR4w4cygwT1PpMjUnNseiaDXo.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//eXlfDtIi7UvxKoUi9a8oxHDAYej.jpg">https://image.tmdb.org/t/p/original//eXlfDtIi7UvxKoUi9a8oxHDAYej.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-07-04 18:04:34</dateadded>
+</movie>
+    

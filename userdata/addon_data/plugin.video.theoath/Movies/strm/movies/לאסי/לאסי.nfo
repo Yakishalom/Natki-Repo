@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>לאסי</title>
+    <originaltitle>Lassie [2005]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7</value>
+            <votes>3,671</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-07-5 11:48:16[/COLOR]
+הסרט מתחיל ערב מלחמת העולם השנייה ביורקשייר שבצפון אנגליה. אחרי שהם נקלעו לזמנים קשים משפחת קירקלאווד נאלצת למכור את לאסי הכלבה האהובה שלהם, לידי דוכס עשיר. לאסי מוצאת את עצמה מועברת כחמש מאות מייל רחוק מביתה, בכדי לחיות במצדה הנידחת של הדוכס שנמצאת בצד הצפוני של סקוטלנד. היא נחושה להפר את הכללים והחוקים ולחזור במהרה הביתה. בכך מתחיל ההרפתקאה המופלאה שלה לאורך סדרת נופים מדהימים של בריטניה, תוך כדי שהיא מתמודדת בסכנות הלא צפויות עם אנשים, וגם מוצאת עזרה לא צפויה במקומות שהיא מסדרת לעצמה במשך הדרך, לאורך המדינה כולה, בכדי להגיע בזמן לחג המולד.</plot>
+    <runtime>100</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לאסי</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לאסי\לאסי.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לאסי\לאסי.strm</basepath>
+    <uniqueid type="tmdb" default="true">14597</uniqueid>
+    
+    <genre>Adventure</genre>
+<genre>Comedy</genre>
+<genre>Drama</genre>
+<genre>הרפתקאות</genre>
+<genre>דרמה</genre>
+<genre>משפחה</genre>
+    <year>2005</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=jGouO7zJyo8</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//opTOoEWSWlNrEqbeR1qPAj5Hkv1.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//c6pZMou7VQ5HBS3ljN0YhGxFBCA.jpg">http://image.tmdb.org/t/p/original//c6pZMou7VQ5HBS3ljN0YhGxFBCA.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-07-05 11:48:16</dateadded>
+</movie>
+    

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>ביגפוט ג'וניור</title>
+    <originaltitle>The Son of Bigfoot</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.587</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE
+[COLOR lightblue]2021-07-15 19:57:04[/COLOR]
+[COLOR blue]BDRip 2017 נ.מ ביגפוט ג'וניור מדובב.mkv[/COLOR]
+0.72 GB
+אדם הוא נער בודד בן 13, שמחליט לצאת למשימה נועזת על מנת לחשוף את זהותו המסתורית של אביו האבוד. עד מהרה הוא מגלה כי אביו הוא לא אחר מאשר היצור האגדי - ביגפוט, אשר הסתתר ביער במשך שנים על מנת להגן על עצמו ועל משפחתו מפני תאגיד גדול המעוניין לערוך עליו ניסויים מדעיים. במהלך ניסיונותיו לבלות זמן עם אביו ולפצות על הזמן האבוד, אדם מגלה כי גם הוא ניחן בכוחות מיוחדים מעבר לכל דמיון, אולם עקבותיו של אדם הובילו גם את התאגיד על עקבותיו של ביגפוט.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ביגפוט ג_וניור</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ביגפוט ג_וניור\ביגפוט ג_וניור.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ביגפוט ג_וניור\ביגפוט ג_וניור.strm</basepath>
+    <uniqueid type="tmdb" default="true">413644</uniqueid>
+    
+    <genre>משפחה </genre>
+<genre> אנימציה </genre>
+<genre> קומדיה</genre>
+    <year>2017</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//2WvVtl9zUQjnWxNDlhKjPrXCxZo.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//xydu6XhKVFf5FomLi9diWjoWc5d.jpg">https://image.tmdb.org/t/p/original//xydu6XhKVFf5FomLi9diWjoWc5d.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-07-15 19:57:04</dateadded>
+</movie>
+    

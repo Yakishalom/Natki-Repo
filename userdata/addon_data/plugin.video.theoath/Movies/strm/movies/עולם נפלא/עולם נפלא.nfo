@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>עולם נפלא</title>
+    <originaltitle>Enchanted Kingdom 3D [2014]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7</value>
+            <votes>558</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2017-12-5 13:10:02[/COLOR]
+מסע יוצא דופן אל הטבע הפראי כדי לגלות שהעולם הטבעי הוא מוזר, סודי וקסום יותר ממה שאתם יכולים לדמיין, מיערות קסומים ועד לקצה העולם התחתון, מפלנטה טבעית לים פנטסטי, מהרים שמימיים למים הפכפכים והמפגשים הגדולים ביותר של חיות בר.</plot>
+    <runtime>87</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\עולם נפלא</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\עולם נפלא\עולם נפלא.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\עולם נפלא\עולם נפלא.strm</basepath>
+    <uniqueid type="tmdb" default="true">301056</uniqueid>
+    
+    <genre>Documentary</genre>
+<genre>דוקומנטרי</genre>
+    <year>2014</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=TVrfx8ujpXc</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//nbtMi1wBStbGrDQGpNJDyYuvPaO.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//eiUodEzaaUhSQMKRTH8SgRdzo71.jpg">http://image.tmdb.org/t/p/original//eiUodEzaaUhSQMKRTH8SgRdzo71.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2017-12-05 13:10:02</dateadded>
+</movie>
+    

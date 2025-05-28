@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>ארתור 3: מלחמת שני העולמות</title>
+    <originaltitle>Arthur 3: The War of the Two Worlds [2010] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>7,981</votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr
+[COLOR lightblue]2020-11-15 18:18:24[/COLOR]
+מלתזר לוכד את ארתור בארץ המינימונים וחוזר לעולמם של בני האדם. כשהוא מתנשא לגובה של למעלה משני מטרים, הוא מארגן צבא של יתושי ענק ביער הסמוך, ומתחיל בתוכניתו להשתלט על העולם. ארתור הוא היחיד שיכול לעצור אותו, אבל קודם הוא חייב לחזור לחדרו וכמובן לגודלו הטבעי. הוא נעזר בנסיכה סלניה, בטאמש, ולמרבה ההפתעה גם בדרקוס, בנו של מלתזר, שטוען כי הוא רוצה להיות בצד של הטובים הפעם...יחד הם יוצאים למסע רגלי, במכונית, על אופניים ואפילו על אופנוע מסוג הארלי דייוידסון, נחושים בדעתם לנצח בקרב האחרון והמכריע נגד מלתזר</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ארתור 3_ מלחמת שני העולמות</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ארתור 3_ מלחמת שני העולמות\ארתור 3_ מלחמת שני העולמות.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ארתור 3_ מלחמת שני העולמות\ארתור 3_ מלחמת שני העולמות.strm</basepath>
+    <uniqueid type="tmdb" default="true">42949</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>הרפתקאות</genre>
+<genre>פנטזיה</genre>
+<genre>משפחה</genre>
+    <year>2010</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=v_m4OXrSpUM</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//4iKoWJuLTh3NEtz2HD2mt9QyPbw.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//4Pkv39oyVBCKyFHIkhJskYNJLa2.jpg">http://image.tmdb.org/t/p/original//4Pkv39oyVBCKyFHIkhJskYNJLa2.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-11-15 18:18:24</dateadded>
+</movie>
+    

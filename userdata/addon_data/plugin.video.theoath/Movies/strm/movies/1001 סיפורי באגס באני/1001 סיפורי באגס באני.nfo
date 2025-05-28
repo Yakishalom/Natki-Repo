@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>1001 סיפורי באגס באני</title>
+    <originaltitle>Bugs Bunny&apos;s 3rd Movie: 1001 Rabbit Tales</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2021-08-9 07:03:47[/COLOR]
+באגס באני ויריבו דאפי דאק עובדים בהוצאת הספרים 'רמלינג'. השניים יוצאים ומנסים, כל אחד בדרך שלו, למכור ספרים לאנשים. באגס באני נוסע לחוף פיזמו ודאפי לטרמופוליס. בדרך, עם זאת, השניים חווים במשותף דברים מטורפים רבים, ולאחר שהם לא מגיעים ליעדים הרצויים הם מוצאים אחד את השני באמצע הדרך וממשיכים ביחד, עד שהם מגיעים למערה שמלאה בכסף. הזהב מכה בדאפי באור סנוורים, וזה דוחף את באגס בחזרה לאדמה ומתחיל לערום את האוצרות. באגס עובר במדבר המערבי על פני ארמון הסולטאן, שמסתבר שהוא אינו אחר מיוסמיטי סם. ליוסמיטי בן בשם הנסיך אבאדאבה, אשר מתנהג בצורה מפונקת ורוצה שיקריאו לו סיפור, ולכן יוסמיטי, בעצלנותו, מחפש מי שיעשה את זה במקומו. כאשר באגס פוגש לראשונה את הבן הזאטוט, הוא לועג לו ומסרב שהוא יהיה מספר הסיפורים שלו. אך עם זאת, הנסיך מקבל חשק פתאומי לספר סיפורים לאחר שאביו מאיים לטבול אותו בשמן רותח, דהיינו להרתיחו למוות.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\1001 סיפורי באגס באני</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\1001 סיפורי באגס באני\1001 סיפורי באגס באני.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\1001 סיפורי באגס באני\1001 סיפורי באגס באני.strm</basepath>
+    <uniqueid type="tmdb" default="true">26730</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>קומדיה</genre>
+<genre>משפחה</genre>
+    <year>1982</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=X1fF5PFPyYg</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//yB2qiMdvSUwlfU6532wZp1uVlPG.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//aIKOiWQkB1W7huXM1z5uxJNTDjZ.jpg">http://image.tmdb.org/t/p/original//aIKOiWQkB1W7huXM1z5uxJNTDjZ.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-08-09 07:03:47</dateadded>
+</movie>
+    

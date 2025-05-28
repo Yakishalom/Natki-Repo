@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>חבר על ארבע</title>
+    <originaltitle>Jock the Hero Dog [2011]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5</value>
+            <votes>476</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-04-5 10:29:34[/COLOR]
+מדובר בכלבלב קטן הנלחם למצוא את מקומו בין חבריו הגדולים פיזית ממנו. בשעה שהוא מצטרף לקבוצת מחפשי זהב ויוצא למסע אחר אוצרות באפריקה, הוא נאלץ להתמודד עם האתגרים שמעמיד בפניו המסע הקשה, עם האויבים הטבעיים של האדם במרחבי הפרא ועם הפער שבין העוצמה הפנימית שלו לבין מימדיו הקטנים, פער שהולך ומצטמצם ככל שמתפתחת העלילה, וככל שהוא הולך וקטן, כך גם גדלה האמונה של הגיבור בעצמו</plot>
+    <runtime>89</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\חבר על ארבע</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\חבר על ארבע\חבר על ארבע.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\חבר על ארבע\חבר על ארבע.strm</basepath>
+    <uniqueid type="tmdb" default="true">81670</uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Adventure</genre>
+<genre>Comedy</genre>
+<genre>אנימציה</genre>
+<genre>הרפתקאות</genre>
+<genre>משפחה</genre>
+<genre>קומדיה</genre>
+    <year>2011</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=SWNB0DCIgJk</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//4LCy19upJdadZ1ncePAhN6S3l28.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//6muNYHCvORDlDT3GKqQC3qyCRJc.jpg">http://image.tmdb.org/t/p/original//6muNYHCvORDlDT3GKqQC3qyCRJc.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-04-05 10:29:34</dateadded>
+</movie>
+    

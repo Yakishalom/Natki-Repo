@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>בלינג בלינג</title>
+    <originaltitle>Bling [2016]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5</value>
+            <votes>481</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2017-12-16 21:34:08[/COLOR]
+סם, מכונאי העובד בפארק השעשועים, מבלה את זמנו בתיקון מתקנים ובחלומות על אהבת ילדותו סו, מגישת חדשות פופולרית. סם חושב שרק עם טבעת יהלומים נוצצת ומופע אור קולי מפואר יוכל להשיג את נערת חלומותיו, בשל כך, הוא מחליט להרשים אותה בזמן מצעד חג האהבה של פארק השעשועים. אבל כאשר נכנס לתמונה אוסקר הרשע עם טבעת יהלומים משלו, המכילה מתג המאפשר לו להפעיל רובוט ענק שיהרוס את העיר, התוכנית של סם הופכת לבלגן טוטאלי. אוסקר מתבלבל וחושב שהטבעת של סם היא שלו, אוסקר בורח איתה ומאלץ את סם ואת חבורת הרובוטים שלו למצוא את אוסקר ולהציל את העיר.</plot>
+    <runtime>82</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בלינג בלינג</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בלינג בלינג\בלינג בלינג.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בלינג בלינג\בלינג בלינג.strm</basepath>
+    <uniqueid type="tmdb" default="true">385722</uniqueid>
+    
+    <genre>Animation</genre>
+<genre>משפחה</genre>
+<genre>אנימציה</genre>
+    <year>2016</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//jjOxvR2iGLyaWy30MGzP5jp1l2Y.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//cVGf5o6rk1qGv7il9baBPeK7T5K.jpg">http://image.tmdb.org/t/p/original//cVGf5o6rk1qGv7il9baBPeK7T5K.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2017-12-16 21:34:08</dateadded>
+</movie>
+    

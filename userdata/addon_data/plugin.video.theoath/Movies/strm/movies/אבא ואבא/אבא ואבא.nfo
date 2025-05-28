@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>אבא ואבא</title>
+    <originaltitle>Double Dad [2021] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>906</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2021-03-30 19:12:35[/COLOR]
+נערה שגדלה בקומונה היפּית מנצלת את היעדרותה של אימה ויוצאת להרפתקה משנת-חיים כדי למצוא את אביה.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אבא ואבא</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אבא ואבא\אבא ואבא.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אבא ואבא\אבא ואבא.strm</basepath>
+    <uniqueid type="tmdb" default="true">773998</uniqueid>
+    
+    <genre>קומדיה</genre>
+<genre>דרמה</genre>
+<genre>משפחה</genre>
+    <year>2021</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Yjq-LSl98Lg</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//sMhtnlG5wJeOpikrWVqxJBxeQ84.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//aW6BLZdUe7DiainCLZKMTXMnks9.jpg">http://image.tmdb.org/t/p/original//aW6BLZdUe7DiainCLZKMTXMnks9.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-03-30 19:12:35</dateadded>
+</movie>
+    

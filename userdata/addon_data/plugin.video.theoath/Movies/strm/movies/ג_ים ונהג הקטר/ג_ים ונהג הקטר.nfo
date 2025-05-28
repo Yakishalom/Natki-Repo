@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>ג'ים ונהג הקטר</title>
+    <originaltitle>Jim Button and Luke the Engine Driver [2018] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>1,150</votes>
+        </rating>
+    </ratings>
+    <plot>2019-05-7 15:03:20
+ON,Dr
+[COLOR lightblue]2019-05-6 07:59:52[/COLOR]
+המלך אלפונס השנים עשר פחות רבע מולך על נוחיה, המדינה הקטנה בעולם : אי פצפון שגודלו כפליים מן הדירה שבה אתם גרים. משלושה וחצי נתיניו נותרים רק שנים, כשלוקס וג'ים יוצאים, בקטר 'קטורה', למסע הרפתקאות שלא היה כמוהו אל הבלתי נודע. 'קטורה' הוא קטר מיוחד במינו, היכול לשוט בים וגם לנסוע ללא מסילות ברזל. במסעם מגיעים השלושה לסין, שבה מקבלים לוקס וג'ים על עצמם משימה מסוכנת מאד: להציל את הנסיכה לי סי, בת הקיסר, מעיר הדרקונים!</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ג_ים ונהג הקטר</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ג_ים ונהג הקטר\ג_ים ונהג הקטר.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ג_ים ונהג הקטר\ג_ים ונהג הקטר.strm</basepath>
+    <uniqueid type="tmdb" default="true">422742</uniqueid>
+    
+    <genre>הרפתקאות</genre>
+<genre>משפחה</genre>
+<genre>פנטזיה</genre>
+    <year>2018</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=DbV2eb4uzrw</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//vYKbj9wqp8PKQ5FZpf3B4L1Gjyl.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//bHiAoVHdoubtWUnNkQMuAWdb02O.jpg">http://image.tmdb.org/t/p/original//bHiAoVHdoubtWUnNkQMuAWdb02O.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-05-07 15:03:20</dateadded>
+</movie>
+    

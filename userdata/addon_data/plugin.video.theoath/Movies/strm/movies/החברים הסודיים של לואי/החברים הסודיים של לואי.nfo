@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>החברים הסודיים של לואי</title>
+    <originaltitle>Luis und die Aliens</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.411</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>Dr,TE
+[COLOR lightblue]2021-09-03 14:31:38[/COLOR]
+[COLOR blue]720p_2018_ז_מ_החברים_הסודיים_של_לואי_מדובב.mkv[/COLOR]
+1.2 GB
+לואי בן ה-12 מרגיש בודד, אין לו הרבה חברים. לאביו הפיזיקאי כמעט ואין זמן עבורו ומנהל בית הספר מתכוון להעבירו לפנימיה. אך באותו היום הכל משתנה כאשר 3 יצורים שלומיאלים ושובבים נוחתים אצלו בשכונה ומתחבאים בביתו. החברים הסודיים החדשים יכולים להפוך לכל חיה ואדם ומכאן מתחילה קומדיית טעויות מבדחת. בדרך ילמדו לואי וחבריו החדשים מהי ערכה של חברות אמיתית ומעל הכל ילמד אביו אודות הכח שיש במשפחה אוהבת.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\החברים הסודיים של לואי</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\החברים הסודיים של לואי\החברים הסודיים של לואי.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\החברים הסודיים של לואי\החברים הסודיים של לואי.strm</basepath>
+    <uniqueid type="tmdb" default="true">432383</uniqueid>
+    
+    <genre></genre>
+    <year>2018</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//s8A0gZ3mZ6M8BEoxJoGcgT4mDfb.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//p3ZII4uLzv2y2FV4XUqBYNfmLN6.jpg">https://image.tmdb.org/t/p/original//p3ZII4uLzv2y2FV4XUqBYNfmLN6.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-09-03 14:31:38</dateadded>
+</movie>
+    

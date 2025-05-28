@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מכושפת 2</title>
+    <originaltitle>Disenchanted</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2022-11-27 11:34:44[/COLOR]
+עשור וחצי חלף מאז שג'יזל ורוברט התחתנו, אבל ג'יזל, שהתפכחה מהחיים בעיר, מעבירה את משפחתה הגדלה לקהילת הפרברים המנומנמת של מונרוויל בחיפוש אחר חיים יותר אגדתיים. לרוע המזל, זה לא התיקון המהיר שקיוותה לו. לפרברים יש מערכת חוקים חדשה לגמרי ומישהי שעומדת בראש הפירמידה, מלווינה מונרו, שגורמת לג'יזל להרגיש אאוטסיידרית מאי פעם. מתוסכלת, היא פונה לקסם של אנדלסיה לעזרה, הופכת בטעות את העיר כולה לאגדה אמיתית ומעמידה את האושר העתידי של משפחתה בסכנה.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מכושפת 2</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מכושפת 2\מכושפת 2.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מכושפת 2\מכושפת 2.strm</basepath>
+    <uniqueid type="tmdb" default="true">338958</uniqueid>
+    
+    <genre>קומדיה</genre>
+<genre>משפחה</genre>
+<genre>פנטזיה</genre>
+    <year>2022</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=dRuwjZJ-DQw</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//4x3pt6hoLblBeHebUa4OyiVXFiM.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//kpUre8wWSXn3D5RhrMttBZa6w1v.jpg">http://image.tmdb.org/t/p/original//kpUre8wWSXn3D5RhrMttBZa6w1v.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-11-27 11:34:44</dateadded>
+</movie>
+    

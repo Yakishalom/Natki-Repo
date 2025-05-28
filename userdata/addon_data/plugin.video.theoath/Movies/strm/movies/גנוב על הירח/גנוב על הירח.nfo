@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>גנוב על הירח</title>
+    <originaltitle>Despicable Me</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.225</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2021-08-1 01:49:14
+ON,Dr,TE
+[COLOR lightblue]2017-04-20 17:47:56[/COLOR]
+[COLOR blue]אלי_ה סרטים גנוב על הירח מדובב hdtv.avi[/COLOR]
+0.69 GB
+בפרבר שכונתי שמח ומלא בבתים יפים בעלי גדר לבנה ושיחי ורדים מטופחים יושב בית שחור עם דשא צהוב, אשר בו ללא ידיעת השכנים, מוחבא עמוק מתחת לבית מסתור סודי ענקי. מוקף בצבא המיניונים הקטנים והשובבים שלו, אנחנו מגלים את גרו אשר מתכנן את השוד הגדול בהיסטוריה. הוא הולך לגנוב את הירח! גרו, אשר מתענג על כל הדברים המרושעים, מצוייד בארסנל של אקדחי כיווץ, אקדחי הקפאה ועם כלי התחבורה שלו אשר מוכנים לכל קרב גם באוויר וגם ביבשה, הוא גובר על כל אחד שעומד בדרכו. כל זה נכון עד ליום שהוא פוגש את כוח הרצון של שלוש יתומות קטנות אשר מסתכלות עליו ורואות משהו שאף אחד אחר לא ראה: אבא פוטנציאלי.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\גנוב על הירח</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\גנוב על הירח\גנוב על הירח.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\גנוב על הירח\גנוב על הירח.strm</basepath>
+    <uniqueid type="tmdb" default="true">20352</uniqueid>
+    
+    <genre></genre>
+    <year>2010</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//hlG6flvzTKqDXnFfeDvmmIHBiSp.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//euCnMxNRlHNxA4f9BMnWbmxPOse.jpg">https://image.tmdb.org/t/p/original//euCnMxNRlHNxA4f9BMnWbmxPOse.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-08-01 01:49:14</dateadded>
+</movie>
+    

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>כוורת בסרט</title>
+    <originaltitle>Bee Movie</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.013</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE
+[COLOR lightblue]2021-10-27 15:52:11[/COLOR]
+[COLOR blue]נתי מדיה כוורת בסרט מדובב.avi[/COLOR]
+0.66 GB
+ברי ב. בנסון הוא דבורה שזה עתה סיימה קולג'. הוא מתפכח כאשר מסתבר לו שהקריירה היחידה שמצפה לו היא ביצירת דבש. חייו ניצלים ע"י ונסה, צעירה שעובדת בחנות פרחים בניו יורק. מערכת יחסים מיוחדת מתפתחת בין השניים אבל אז הוא מגלה שבני האדם אוכלים דבש ומחליט לתבוע אותם.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\כוורת בסרט</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\כוורת בסרט\כוורת בסרט.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\כוורת בסרט\כוורת בסרט.strm</basepath>
+    <uniqueid type="tmdb" default="true">5559</uniqueid>
+    
+    <genre>משפחה </genre>
+<genre> אנימציה </genre>
+<genre> הרפתקאות </genre>
+<genre> קומדיה</genre>
+    <year>2007</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//yboZWnlj4Xz9ujqW5442KXRPS7p.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//lVfqLDmfrxIXFU2TcWTsG3ePdER.jpg">https://image.tmdb.org/t/p/original//lVfqLDmfrxIXFU2TcWTsG3ePdER.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-10-27 15:52:11</dateadded>
+</movie>
+    

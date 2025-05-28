@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>ביוניקל: מסיכת האור</title>
+    <originaltitle>Bionicle: Mask of Light [Video 2003]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>2,371</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-04-2 09:44:14[/COLOR]
+סרט אנימציה באורך מלא של טרי שייקספיר ודיוויד מולינה, שגם ביימו את סרט ההמשך. הרוח הרעה של מאקוטה חזרה, והיא רוצה שליטה, אך שמועות על מסכה מסתורית מעוררות תקווה בתושבים. כמה גיבורים יוצאים למסע למציאת המסכה, ולהבאתה לרוח הטובה. בדרך הם יצטרכו להתגבר על לא מעט מכשולים.</plot>
+    <runtime>70</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ביוניקל_ מסיכת האור</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ביוניקל_ מסיכת האור\ביוניקל_ מסיכת האור.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ביוניקל_ מסיכת האור\ביוניקל_ מסיכת האור.strm</basepath>
+    <uniqueid type="tmdb" default="true">19325</uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Action</genre>
+<genre>Adventure</genre>
+<genre>אקשן</genre>
+<genre>הרפתקאות</genre>
+<genre>אנימציה</genre>
+<genre>משפחה</genre>
+<genre>מדע בדיוני</genre>
+    <year>2003</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=RwDqw-z_IfY</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//8mXQg2vt4NAAtYfDQHPAWpl9tk8.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//1ox2Ov6pNEloKedMrIhqd3n2W2M.jpg">http://image.tmdb.org/t/p/original//1ox2Ov6pNEloKedMrIhqd3n2W2M.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-04-02 09:44:14</dateadded>
+</movie>
+    

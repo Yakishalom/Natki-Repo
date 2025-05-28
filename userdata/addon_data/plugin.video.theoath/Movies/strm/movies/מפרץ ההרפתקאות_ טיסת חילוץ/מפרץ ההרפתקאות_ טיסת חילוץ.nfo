@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מפרץ ההרפתקאות: טיסת חילוץ</title>
+    <originaltitle>Paw Patrol: Jet to the Rescue</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2023-10-2 17:06:09[/COLOR]
+יחידת החילוץ מוזמנת למסיבת יום ההולדת של נסיכת הבינבורג, ויוצאת למבצע חילוץ שמימי בעקבות גנב יהלומים.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מפרץ ההרפתקאות_ טיסת חילוץ</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מפרץ ההרפתקאות_ טיסת חילוץ\מפרץ ההרפתקאות_ טיסת חילוץ.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מפרץ ההרפתקאות_ טיסת חילוץ\מפרץ ההרפתקאות_ טיסת חילוץ.strm</basepath>
+    <uniqueid type="tmdb" default="true">743439</uniqueid>
+    
+    <genre>משפחה</genre>
+<genre>אנימציה</genre>
+    <year>2020</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=169jD2LiH1A</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//syNuGBDLudvPYIKdgmg6sUcxk9p.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//vwpxy4kmQyW5aBJ3uxhQM6koU6H.jpg">http://image.tmdb.org/t/p/original//vwpxy4kmQyW5aBJ3uxhQM6koU6H.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-10-02 17:06:09</dateadded>
+</movie>
+    

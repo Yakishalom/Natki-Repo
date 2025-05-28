@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הנסיכה והצפרדע</title>
+    <originaltitle>The Princess and the Frog</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.197</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2020-11-16 08:48:08
+ON,Dr,TE,TE
+[COLOR lightblue]2018-06-02 20:32:26[/COLOR]
+[COLOR blue]הנסיכה והצפרדע.מדובב.גוזלן.avi[/COLOR]
+0.69 GB
+מעשייה קסומה על נסיך בשם נאבין אשר נהפך לצפרדע ע"י מכשף מרושע. הנסיך-צפרדע מבקש מנסיכה צעירה בשם טיאנה להסיר מעליו את הכישוף על ידי נשיקה ממנה. אך הנשיקה לא מצליחה להפוך את הצפרדע בחזרה לאדם אלא הופכת את הנסיכה לצפרדע בעצמה. יחדיו, השניים חייבים להגיע לקוסמת טובה בעזרתם של תנין חביב וגחלילית.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הנסיכה והצפרדע</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הנסיכה והצפרדע\הנסיכה והצפרדע.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הנסיכה והצפרדע\הנסיכה והצפרדע.strm</basepath>
+    <uniqueid type="tmdb" default="true">10198</uniqueid>
+    
+    <genre>רומנטי </genre>
+<genre> משפחה </genre>
+<genre> אנימציה</genre>
+    <year>2009</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//8p3Cr2G8MZ7o82RSMK8g7CZwsat.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//z62CBlBBBOoNUuuxZ1jMAcq5ARE.jpg">https://image.tmdb.org/t/p/original//z62CBlBBBOoNUuuxZ1jMAcq5ARE.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-11-16 08:48:08</dateadded>
+</movie>
+    

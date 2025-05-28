@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Super Monsters Save Halloween</title>
+    <originaltitle>Super Monsters Save Halloween [2018]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5</value>
+            <votes>22</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2018-11-9 11:45:56[/COLOR]
+מפלצות העל משתמשות בכוחותיהן כדי להכניס את השכנים לאווירה של ליל כל הקדושים, ואז עוזרות לחבר לחוץ להיווכח שאין ממה לפחד.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\Super Monsters Save Halloween</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\Super Monsters Save Halloween\Super Monsters Save Halloween.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\Super Monsters Save Halloween\Super Monsters Save Halloween.strm</basepath>
+    <uniqueid type="tmdb" default="true">552752</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>משפחה</genre>
+    <year>2018</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//c23CDexw6JJLAIAUf0evS2VahCx.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//y4ZyK00aVmq7hmKxZQcTNz7IVRg.jpg">http://image.tmdb.org/t/p/original//y4ZyK00aVmq7hmKxZQcTNz7IVRg.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-11-09 11:45:56</dateadded>
+</movie>
+    

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>כלבים נגד חתולים</title>
+    <originaltitle>Cats & Dogs</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.381</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE,TE
+[COLOR lightblue]2021-12-13 15:22:19[/COLOR]
+[COLOR blue]2001 נ.מ כלבים נגד חתולים מדובב.avi[/COLOR]
+1.22 GB
+היריבים הנצחיים, החתולים והכלבים, הכריזו על הפסקת אש. אבל תקופת השלום עומדת להסתיים וכעת מוכרזת מלחמה!!! קבוצת חתולים מאומנת היטב יוצאת לקרב נגד הכלבים, שמגינים על המין האנושי. כלבלב צעיר וטירון מנסה להציל את העולם מפני המזימה החתולית.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\כלבים נגד חתולים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\כלבים נגד חתולים\כלבים נגד חתולים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\כלבים נגד חתולים\כלבים נגד חתולים.strm</basepath>
+    <uniqueid type="tmdb" default="true">10992</uniqueid>
+    
+    <genre>משפחה </genre>
+<genre> קומדיה</genre>
+    <year>2001</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//rM6qLVhApXiXYjMuzSFOESUiVaJ.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//rKKMM7YbDXdB6V7V1hmOTQQtYCq.jpg">https://image.tmdb.org/t/p/original//rKKMM7YbDXdB6V7V1hmOTQQtYCq.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-12-13 15:22:19</dateadded>
+</movie>
+    

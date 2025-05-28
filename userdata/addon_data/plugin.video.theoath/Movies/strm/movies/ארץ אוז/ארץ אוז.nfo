@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>ארץ אוז</title>
+    <originaltitle>Oz the Great and Powerful</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.899</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,TE
+[COLOR lightblue]2020-07-20 18:54:05[/COLOR]
+[COLOR blue]HDTV 2013 נתי מדיה ארץ אוז מדובב.avi[/COLOR]
+1.4 GB
+אוסקר דיגז הוא קוסם לא ידוע עם מוסר מפוקפק שעובד בקרקס נידח. הוא נזרק מקנזס המאובקת לארץ אוז שוקקת החיים ובעקבות כך הוא מאמין שזכה בכל הקופה: ההון והתהילה עליהם חלם. אבל אז הוא פוגש בשלוש מכשפות, תאודורה, אווהנורה וגלינדה, שאינן משוכנעות שהוא הקוסם הגדול שכולם מצפים לו. בניגוד לרצונו הוא נשאב למערבולת של בעיות ואתגרים עם ארץ עוץ ותושביה. אוסקר חייב לגלות מי טוב ומי רע לפני שיהיה מאוחר מדי. הוא משתמש בכישורי הקוסמות שלו כדי ליצור אשליה, ובזכות הפקחות שלו וקצת מעשי כשפים הופך עצמו לא רק למכשף הגדול של אוז, אלא גם לאיש טוב יותר.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ארץ אוז</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ארץ אוז\ארץ אוז.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ארץ אוז\ארץ אוז.strm</basepath>
+    <uniqueid type="tmdb" default="true">68728</uniqueid>
+    
+    <genre>פנטזיה </genre>
+<genre> הרפתקאות </genre>
+<genre> משפחה</genre>
+    <year>2013</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//rewzhjQXRncSLteKXrPhnt15lLp.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//a4KUVG5P5hBSgAgHHindbnyubTF.jpg">https://image.tmdb.org/t/p/original//a4KUVG5P5hBSgAgHHindbnyubTF.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-07-20 18:54:05</dateadded>
+</movie>
+    

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>נוקאאוט צ'יקן</title>
+    <originaltitle>Huevos: Little Rooster's Egg-cellent Adventure [2015]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>830</votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr
+[COLOR lightblue]2019-01-23 23:52:30[/COLOR]
+הכירו את טוטו, התרנגול הכי טוב בעולם ב... הכל! לפחות ככה אמא שלו חושבת. בחיים האמתיים טוטו הוא תרנגול צעיר וביישן, שחולם להיות אלוף אגרוף בקרבות תרנגולים, מה שפחות מסתדר עם האופי העדין שלו. באופן מפתיע, החלום שלו עומד להתגשם הרבה יותר מהר ממה שציפה. כאשר בעל החווה בה הוא מתגורר עומד להפסיד את הבית והחווה כולה נמצאת בסיכון, טוטו יוצא למחנה אימונים מפרך עם חבורת ביצים ססגונית ומצחיקה, במטרה להפוך מתרנגול חלשלוש ללוחם אמיץ ונועז, שיתמודד מול התרנגול האלוף והמרושע בזירת הקרבות הגדולה ויציל את ביתו. המסע שעובר טוטו במחנה האימונים מלווה בתחנות משעשעות במהלכן הוא מגלה את התרנגול האמיץ שבתוכו, ולומד שכוח מגיע בכל מיני צורות, גם אם הוא עטוף בדבר שביר כמו קליפת ביצים.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\נוקאאוט צ_יקן</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\נוקאאוט צ_יקן\נוקאאוט צ_יקן.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\נוקאאוט צ_יקן\נוקאאוט צ_יקן.strm</basepath>
+    <uniqueid type="tmdb" default="true">264419</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>משפחה</genre>
+    <year>2015</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=WYl8718wBVs</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//o5vYHs3811TdxAWVq3Ik8oYw3LH.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//zUUVa8ztnS72pAv7znoqL2brT0z.jpg">http://image.tmdb.org/t/p/original//zUUVa8ztnS72pAv7znoqL2brT0z.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-01-23 23:52:30</dateadded>
+</movie>
+    

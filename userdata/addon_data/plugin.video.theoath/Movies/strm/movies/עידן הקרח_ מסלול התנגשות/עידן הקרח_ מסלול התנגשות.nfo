@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>עידן הקרח: מסלול התנגשות</title>
+    <originaltitle>Ice Age: Collision Course</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.065</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2021-06-13 21:58:08
+TE,TE
+[COLOR lightblue]2018-07-05 00:52:20[/COLOR]
+[COLOR blue]NF נתי מדיה עידן הקרח 5 מדובב.avi[/COLOR]
+1.02 GB
+המרדף האפי של סקראט אחר הבלוט החמקמק מושך אותו לתוך יקום שבו הוא יוצר בטעות סדרה של אירועים קוסמיים שהופכים ומאיימים על עידן הקרח בעולם. על מנת להציל את עצמם, סיד, מני, דייגו ויתר החברים חייבים לעזוב את ביתם ולצאת להרפתקה. הם מגיעים לארצות חדשות ואקזוטיות ונתקלים בדמויות חדשות וצבעוניות.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\עידן הקרח_ מסלול התנגשות</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\עידן הקרח_ מסלול התנגשות\עידן הקרח_ מסלול התנגשות.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\עידן הקרח_ מסלול התנגשות\עידן הקרח_ מסלול התנגשות.strm</basepath>
+    <uniqueid type="tmdb" default="true">278154</uniqueid>
+    
+    <genre>הרפתקאות </genre>
+<genre> אנימציה </genre>
+<genre> משפחה </genre>
+<genre> קומדיה </genre>
+<genre> מדע בדיוני</genre>
+    <year>2016</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//lSMd00cRVr0MN3P3gfxfTt9GM9u.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//AuplFVF0C2BzK1goJaHpgH1iczZ.jpg">https://image.tmdb.org/t/p/original//AuplFVF0C2BzK1goJaHpgH1iczZ.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-06-13 21:58:08</dateadded>
+</movie>
+    

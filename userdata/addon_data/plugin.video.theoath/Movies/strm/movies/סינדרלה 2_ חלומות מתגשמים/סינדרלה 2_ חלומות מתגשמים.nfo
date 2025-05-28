@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>סינדרלה 2: חלומות מתגשמים</title>
+    <originaltitle>Cinderella II: Dreams Come True</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.103</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2021-01-10 08:12:46
+ON,Dr,TE
+[COLOR lightblue]2019-10-26 19:26:03[/COLOR]
+[COLOR blue]סינדרלה 2 מדובב 2002.avi[/COLOR]
+0.58 GB
+סינדרלה והנסיך חוזרים מירח הדבש ועל סינדרלה מוטלת האחריות לתכנן את הנשף המלכותי. המלך, הנסיך והדוכס נאלצים להיעדר למשך יומיים, בעוד סינדרלה התמימה צריכה להסתגל לחיים החדשים בארמון, תחת הדרכתה של פרודנס הנוקשה. סינדרלה מתקשה לקבל על עצמה את חוקי הארמון, וחשה כי הם מגבילים את יכולתה לבטא את עצמה. היא מחליטה לארגן את הנשף המלכותי בדרכה. כאשר המלך חוזר, כולם נוכחים לדעת שהנשף שארגנה סינדרלה מצליח ביותר, אף על פי שאינו על פי המסורת המלכותית. סינדרלה לומדת שאם מקשיבים ללב, אפשר להצליח לעשות כל דבר.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סינדרלה 2_ חלומות מתגשמים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סינדרלה 2_ חלומות מתגשמים\סינדרלה 2_ חלומות מתגשמים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סינדרלה 2_ חלומות מתגשמים\סינדרלה 2_ חלומות מתגשמים.strm</basepath>
+    <uniqueid type="tmdb" default="true">14128</uniqueid>
+    
+    <genre>משפחה </genre>
+<genre> אנימציה </genre>
+<genre> רומנטי </genre>
+<genre> פנטזיה</genre>
+    <year>2002</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//1svQ8FoWSN3vFsFdSNUIC9k0dc2.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//oyjIJTUUsF1nMdVXk3Q0ExBr0pQ.jpg">https://image.tmdb.org/t/p/original//oyjIJTUUsF1nMdVXk3Q0ExBr0pQ.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-01-10 08:12:46</dateadded>
+</movie>
+    

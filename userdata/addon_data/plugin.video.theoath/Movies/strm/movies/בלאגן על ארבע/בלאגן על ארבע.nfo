@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>בלאגן על ארבע</title>
+    <originaltitle>Trouble</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.625</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE,TE
+[COLOR lightblue]2023-05-21 14:08:17[/COLOR]
+[COLOR blue]1080p 2019 נ.מ בלאגן על ארבע מדובב.mkv[/COLOR]
+1.45 GB
+כבר כשהיה גור התרגל הכלבלב 'בלאגן' לאורח חיים מפואר. אחוזה גדולה להתרוצץ בה, פילה מיניון לארוחת צהריים וכשהגיע הלילה, הניח את ראשו על סדינים עשויים ממיטב הבדים, אלו היו חייו של הגור המפונק אשר חי את חלומו של כל כלב. אך לאחר פטירת בעליו העשירה, 'בלאגן' נותר אבוד בעודו מחפש את דרכו הביתה.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בלאגן על ארבע</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בלאגן על ארבע\בלאגן על ארבע.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בלאגן על ארבע\בלאגן על ארבע.strm</basepath>
+    <uniqueid type="tmdb" default="true">570480</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> הרפתקאות </genre>
+<genre> משפחה </genre>
+<genre> קומדיה </genre>
+<genre> מוסיקה</genre>
+    <year>2019</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//psFBbSzsuQjq3mOFG2Lv2JOXHpz.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//oIEvrrrjJYI4ZVmv5pTrWLCVjFv.jpg">https://image.tmdb.org/t/p/original//oIEvrrrjJYI4ZVmv5pTrWLCVjFv.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-05-21 14:08:17</dateadded>
+</movie>
+    

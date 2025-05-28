@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>פוקימון 12: ארסיאוס ותכשיטי החיים</title>
+    <originaltitle>Pokémon: Arceus and the Jewel of Life [2009]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>1,486</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2019-02-10 14:36:51[/COLOR]
+לפני אלפי שנים הפוקימון האגדי ארסיאוס עזר לתושבי העיר מצ'ינה בכך שמנע את נפילתו של מטאור אל עבר כדור הארץ. לאחר מכן הוא גם עזר לבני המקום, וביניהם – דאמוס, להפריח את השממה בכך שנתן להם את תכשיט החיים. ההסכם היה שדאמוס ישתמש בתכשיט על מנת להפיח חיים במקום וביום מן הימים יחזיר לארסיאוס את תכשיט החיים. ביום ההחזרה, דאמוס חזר בו מהבטחתו, שמר לעצמו את התכשיט וגם תקף באכזריות את הפוקימון האגדי שנפל לתנומה עמוקה. ארסיאוס שזכר את המעשה, נשבע לנקום את בגידתו של דאמוס ולהעמיד את המין האנושי לצדק.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פוקימון 12_ ארסיאוס ותכשיטי החיים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פוקימון 12_ ארסיאוס ותכשיטי החיים\פוקימון 12_ ארסיאוס ותכשיטי החיים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פוקימון 12_ ארסיאוס ותכשיטי החיים\פוקימון 12_ ארסיאוס ותכשיטי החיים.strm</basepath>
+    <uniqueid type="tmdb" default="true">39057</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>משפחה</genre>
+    <year>2009</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=YWqh0EL6fqg</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//lbewMI1vOaZoT71NQdFB6niAnOD.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//ybe1Q801tgvKqSQrfFliZjrUSKP.jpg">http://image.tmdb.org/t/p/original//ybe1Q801tgvKqSQrfFliZjrUSKP.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-02-10 14:36:51</dateadded>
+</movie>
+    

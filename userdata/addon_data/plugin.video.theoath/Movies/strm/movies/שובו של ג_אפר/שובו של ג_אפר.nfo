@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>שובו של ג'אפר</title>
+    <originaltitle>The Return of Jafar</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.246</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>Dr,TE
+[COLOR lightblue]2022-02-07 15:56:30[/COLOR]
+[COLOR blue]נתי מדיה אלאדין 2 שובו של ג'אפר.avi[/COLOR]
+0.62 GB
+הקוסם הרע ג'אפר עושה את הבלתי יאומן ןמצליח להשתחרר ולצאת ממנורת הקסמים, רק כדי להגביר כוחו ולהפוך לג'יני החזק בעולם.  רק דבר אחד מעסיק את מוחו: כיצד לנקום באלאדין!  אלאדין יוצא לקרב ענקים ומתייצב אל מול גנבים הרוכבים על גבי סוסים מעופפים,  מתחמק מלהבות ניצתות והכל כדי להציל פעם אחת ולתמיד את הממלכה,  בעזרתם של הנסיכה יסמין, אבו, השטיח המעופף וג'יני.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\שובו של ג_אפר</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\שובו של ג_אפר\שובו של ג_אפר.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\שובו של ג_אפר\שובו של ג_אפר.strm</basepath>
+    <uniqueid type="tmdb" default="true">15969</uniqueid>
+    
+    <genre>משפחה </genre>
+<genre> הרפתקאות </genre>
+<genre> אנימציה </genre>
+<genre> רומנטי</genre>
+    <year>1994</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//eYJWvnvM6EReDESAQciXovZwgqQ.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//mOOJm3tamy9iHg2mOEA77CM6ufZ.jpg">https://image.tmdb.org/t/p/original//mOOJm3tamy9iHg2mOEA77CM6ufZ.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-02-07 15:56:30</dateadded>
+</movie>
+    

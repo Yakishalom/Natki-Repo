@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הארי פוטר (6) והנסיך חצוי-הדם</title>
+    <originaltitle>הארי פוטר (6) והנסיך חצוי-הדם</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes> </votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-08-19 09:21:02[/COLOR]
+בסרט ה-6 בסדרת סרטי 'הארי פוטר' אנחנו פוגשים את פוטר וחבורתו בפתחה של שנת הלימודים השישית בהוגוורטס, אחרי חופש גדול עצוב במיוחד. הסרט הקודם 'מסדר עוף החול' הסתיים בכך שלורד וולדמורט התגלה בפני עולם הקסמים, ועכשיו כבר אף אחד לא חושב שהארי ומנהל בית הספר דמבלדור משקרים לגבי חזרתו של זה שאין לנקוב בשמו. מלחמה עקובה מדם פורצת בין 'אוכלי המוות' המרושעים - חסידיו 'טהורי הדם' של וולדרמוט ששונאים 'מוגלגים' ו'בוצדמים' לבין הקוסמים הטובים שלא מוכנים לתת למנוולים להגשים את תוכניתו של וולדמורט  לשלוט בעולם כולו ולהפוך את כולנו המוגלגלים לעבדים של הקוסמים. כשהארי חוזר להוגוורטס הוא מגלה ספר מיסתורי של 'הנסיך חצוי הדם' שהופך אותו לילד המצטיין בשיעור השיקויים. דמבלדור מכין להארי שיעורים פרטיים, כשבכל שיעור דמבלדור יראה להארי זכרון על עברו של אויבו הנצחי לפני שהפך ללורד וולדמורט, טום ואנדרולו רידל. הארי יוצא למסע לחיפוש והשמדת ההורקרוקסים של וולדמורט.</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הארי פוטר (6) והנסיך חצוי-הדם</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הארי פוטר (6) והנסיך חצוי-הדם\הארי פוטר (6) והנסיך חצוי-הדם.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הארי פוטר (6) והנסיך חצוי-הדם\הארי פוטר (6) והנסיך חצוי-הדם.strm</basepath>
+    <uniqueid type="tmdb" default="true"> </uniqueid>
+    
+    <genre>Adventure</genre>
+<genre>Family</genre>
+<genre>Fantasy</genre>
+<genre>הרפתקאות</genre>
+<genre>פנטזיה</genre>
+<genre>משפחה</genre>
+    <year>2009</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//wKkarVspzJeNVC4CThQhDaETrXx.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//kRyojLYtWPsBKfDhphhhl1FdM5a.jpg">http://image.tmdb.org/t/p/original//kRyojLYtWPsBKfDhphhhl1FdM5a.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-08-19 09:21:02</dateadded>
+</movie>
+    

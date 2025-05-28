@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>וול-אי</title>
+    <originaltitle>WALL·E</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>8.077</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2023-05-24 13:08:14
+ON,TE,TE,TE
+[COLOR lightblue]2018-07-30 23:04:22[/COLOR]
+[COLOR blue]וול-E.מדובב.אלירן גוזלן.BRRip.mp4[/COLOR]
+0.57 GB
+הסרט מתחיל בשנת 2007 כשכדור הארץ מוצף בזבל וכל האנשים מפונים לחלל. מאחור נשאר צבא של רובוטים מפני אשפה בשם "וול - אי" שתוכנתו לנקות את כדור הארץ. אחד מהם מתחיל לפתח במהלך השנים אישיות. הוא מתגורר בקרוואן ואפילו מגדל צמח. יום אחד נוחתת חללית וממנה יוצאת איב, רובוט קטנה שבהמשך עוזבת יחד עם הצמח ושוברת את ליבו. וול - אי מחליט לחפש אחריהם.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\וול-אי</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\וול-אי\וול-אי.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\וול-אי\וול-אי.strm</basepath>
+    <uniqueid type="tmdb" default="true">10681</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> משפחה </genre>
+<genre> מדע בדיוני</genre>
+    <year>2010</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//lvcVLwFqeqBTDZs1xe1tJcMHklJ.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//fK5ssgvtI43z19FoWigdlqgpLRE.jpg">https://image.tmdb.org/t/p/original//fK5ssgvtI43z19FoWigdlqgpLRE.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-05-24 13:08:14</dateadded>
+</movie>
+    

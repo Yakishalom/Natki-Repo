@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>משפחת סופר-על 2</title>
+    <originaltitle>Incredibles 2</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.482</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2021-07-15 03:21:58
+ON,Dr,TE,TE
+[COLOR lightblue]2018-10-24 00:25:09[/COLOR]
+[COLOR blue]משפחת סופר על 2.מדובב.גוזלן.720p.avi[/COLOR]
+0.77 GB
+משפחת גיבורי העל האהובה חוזרת! הפעם הלן נמצאת באור הזרקורים, כשהיא משאירה את בוב בבית עם הילדים, להתמודד עם חיי היומיום המשפחתיים, אשר הופכים לקשים אף יותר כאשר ג'ק-ג'ק התינוק מתחיל לפתח גם כן כוחות על. כאשר נבל חדש רוקם מזימה גאונית ומסוכנת, המשפחה חייבת למצוא את הדרך לעבוד יחד שוב – מה שבתאוריה נשמע פשוט, בפועל קשה, אפילו שמדובר במשפחה של גיבורי על.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\משפחת סופר-על 2</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\משפחת סופר-על 2\משפחת סופר-על 2.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\משפחת סופר-על 2\משפחת סופר-על 2.strm</basepath>
+    <uniqueid type="tmdb" default="true">260513</uniqueid>
+    
+    <genre>אקשן </genre>
+<genre> הרפתקאות </genre>
+<genre> אנימציה </genre>
+<genre> משפחה</genre>
+    <year>2018</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//pwIYBTuSvgr6eZa6tlMBFWoVycF.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//mabuNsGJgRuCTuGqjFkWe1xdu19.jpg">https://image.tmdb.org/t/p/original//mabuNsGJgRuCTuGqjFkWe1xdu19.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-07-15 03:21:58</dateadded>
+</movie>
+    

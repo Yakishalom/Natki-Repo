@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>סוס פרא</title>
+    <originaltitle>Spirit: Stallion of the Cimarron</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.695</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2021-08-01 21:12:53
+ON,Dr,TE,TE
+[COLOR lightblue]2020-07-09 15:10:09[/COLOR]
+[COLOR blue]סוס פרא.מדובב.גוזלן.avi[/COLOR]
+0.68 GB
+ספיריט הוא סוס מוסטנג המשוטט במחוזות אמריקה הבלתי נגועה. הוא נודד כסוס חופשי במישורים הפתוחים עד שהוא נופל בשבי פרשים, אך שומר על גאוותו ומסרב להישבר. במסעו הוא פוגש את האדם בפעם הראשונה, מגלה מהו טיבה של חברות ומתאהב בסוסה יפיפייה בשם ריין בדרכו להפוך לאחד מגיבורי המערב.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סוס פרא</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סוס פרא\סוס פרא.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סוס פרא\סוס פרא.strm</basepath>
+    <uniqueid type="tmdb" default="true">9023</uniqueid>
+    
+    <genre>מערבון </genre>
+<genre> אנימציה </genre>
+<genre> הרפתקאות </genre>
+<genre> קומדיה </genre>
+<genre> משפחה </genre>
+<genre> דרמה</genre>
+    <year>2002</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//dLODf9gmKrOT6npJw3yXQp3JdoR.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//b8hPBW0NJmiIVzvQjT3CwIpAdzl.jpg">https://image.tmdb.org/t/p/original//b8hPBW0NJmiIVzvQjT3CwIpAdzl.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-08-01 21:12:53</dateadded>
+</movie>
+    

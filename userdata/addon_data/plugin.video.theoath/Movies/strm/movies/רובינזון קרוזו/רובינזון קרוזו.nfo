@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>רובינזון קרוזו</title>
+    <originaltitle>The Wild Life [2016] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5</value>
+            <votes>5,684</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2021-01-17 22:34:48[/COLOR]
+על אי זעיר ואקזוטי, תוכי חברותי חי עם חבריו בעלי החיים המוזרים. עם זאת, הוא לא יכול להפסיק לחלום על לגלות את העולם. לאחר סערה קשה, התוכי וחבריו מתעוררים ומוצאים יצור מוזר על החוף: רובינזון קרוזו. התוכי רואה מיד בקרוזו כרטיס היציאה שלו מהאי כדי לחקור אדמות חדשות. כמו כן , קרוזו מבין עד מהרה שהמפתח לשרוד על האי הוא באמצעות עזרתו של התוכי וחבריו. זה לא תמיד קל, מפני שהחיות אינן מדברות בשפת האדם, אך לאט לאט, כולם מצליחים לחיות יחד בהרמוניה, עד שיום אחד, חייהם הנוחים מתהפכים על ידי שני חתולי פרא שרוצים להשתלט על האי. קרב מתפתח בין החתולים לקבוצת החברים, וקרוזו ובעלי החיים יגלו את הכוח האמיתי של ידידות נגד כל הסיכוים.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\רובינזון קרוזו</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\רובינזון קרוזו\רובינזון קרוזו.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\רובינזון קרוזו\רובינזון קרוזו.strm</basepath>
+    <uniqueid type="tmdb" default="true">368940</uniqueid>
+    
+    <genre>הרפתקאות</genre>
+<genre>אנימציה</genre>
+<genre>קומדיה</genre>
+<genre>משפחה</genre>
+    <year>2016</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=KNCjU9VEuNc</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//vnVgiJXJQ2l0Ij5Uro6f8dSc9oC.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//pjYpeugt3WOmRSYw8nH6vtu8f1M.jpg">http://image.tmdb.org/t/p/original//pjYpeugt3WOmRSYw8nH6vtu8f1M.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-01-17 22:34:48</dateadded>
+</movie>
+    

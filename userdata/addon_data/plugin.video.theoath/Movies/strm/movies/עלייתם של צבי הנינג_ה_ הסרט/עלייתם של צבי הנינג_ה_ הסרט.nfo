@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>עלייתם של צבי הנינג'ה: הסרט</title>
+    <originaltitle>Rise of the Teenage Mutant Ninja Turtles: The Movie</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.358</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>Dr,TE
+[COLOR lightblue]2023-07-26 22:18:26[/COLOR]
+[COLOR blue]1080p 2022 עלייתם של צבי הנינגה מדובב.mkv[/COLOR]
+1.32 GB
+הצבים המתבגרים וכוחות הנינג'ה המיסטיים שלהם עומדים למבחן האולטימטיבי כשיצורים אכזריים מממד אחר מנסים לזרוע כאוס.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\עלייתם של צבי הנינג_ה_ הסרט</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\עלייתם של צבי הנינג_ה_ הסרט\עלייתם של צבי הנינג_ה_ הסרט.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\עלייתם של צבי הנינג_ה_ הסרט\עלייתם של צבי הנינג_ה_ הסרט.strm</basepath>
+    <uniqueid type="tmdb" default="true">765172</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> אקשן </genre>
+<genre> מדע בדיוני</genre>
+    <year>2022</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//mKBktLztslFKIiJ7vs6Lld5RpmL.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//akSSj2ZB4VgV2aOUE68z9NGYbr0.jpg">https://image.tmdb.org/t/p/original//akSSj2ZB4VgV2aOUE68z9NGYbr0.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-07-26 22:18:26</dateadded>
+</movie>
+    

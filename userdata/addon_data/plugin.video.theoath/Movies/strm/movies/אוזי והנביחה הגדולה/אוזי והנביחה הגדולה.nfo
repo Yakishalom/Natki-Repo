@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>אוזי והנביחה הגדולה</title>
+    <originaltitle>Ozzy</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.938</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>TE
+[COLOR lightblue]2023-04-01 21:12:21[/COLOR]
+[COLOR blue]720p_WEB_2016_אוזי_והנביחה_הגדולה_מדובב.mkv[/COLOR]
+1.05 GB
+החיים המושלמים של אוזי, כלב רגוע וחביב, עומדים להתהפך. משפחתו, אשר נוסעת לטיול ארוך ביפן, מחליטה לשלוח אותו ל"בלו קריק". מה שנראה כספא ופנסיון כלבים יוקרתי, מתגלה כשקר גדול שמטושטש על ידי הבעלים הרעים. אוזי מגלה במהרה שהפנסיון היוקרתי הוא למעשה בית כלא לכלבים, שיושביו הם לרוב כלבי רחוב קשוחים והישרדות בו היא עניין לחזקים בלבד. מהרגע שהוא מבין היכן הוא נמצא ועם מה עליו להתמודד, הוא מוצא כוחות שלא ידע שיש לו.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אוזי והנביחה הגדולה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אוזי והנביחה הגדולה\אוזי והנביחה הגדולה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אוזי והנביחה הגדולה\אוזי והנביחה הגדולה.strm</basepath>
+    <uniqueid type="tmdb" default="true">411221</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> משפחה</genre>
+    <year>2016</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//nZ40Dve58STOi3kGLa2ElsnZUT.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//qQ4Ortz3emo41XDA4lxkY0XoCdD.jpg">https://image.tmdb.org/t/p/original//qQ4Ortz3emo41XDA4lxkY0XoCdD.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-04-01 21:12:21</dateadded>
+</movie>
+    

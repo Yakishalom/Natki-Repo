@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>The best of me.MP4</title>
+    <originaltitle>The best of me.MP4</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0.0</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>TE
+[COLOR lightblue]2021-05-02 20:32:07[/COLOR]
+[COLOR blue]חבורת_חיות_המחמד_מדובב_720p_WEBRip_@cartoon_join.mp4[/COLOR]
+1.76 GB
+In September 1996, 21-year-old Ricardo López mailed a package to pop singer Björk containing a device rigged to spray sulfuric acid to kill or disfigure her. Upon his return home, he committed suicide, leaving behind nearly twenty hours of video diaries recorded over nine months as evidence of his actions. The diaries not only captured the building of the letter bomb, but also López's personal thoughts on his life, his family, and his sanity. Twenty years after these diaries were discovered, they shock and fascinate curious viewers in an online world.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\The best of me_MP4</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\The best of me_MP4\The best of me_MP4.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\The best of me_MP4\The best of me_MP4.strm</basepath>
+    <uniqueid type="tmdb" default="true">1018708</uniqueid>
+    
+    <genre>דוקומנטרי</genre>
+    <year>2010</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//k246I9vImsmPdlzbcCd8Wzl3ThS.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//riRxthwGTLMaq1owPK9QwPgqTHX.jpg">https://image.tmdb.org/t/p/original//riRxthwGTLMaq1owPK9QwPgqTHX.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-05-02 20:32:07</dateadded>
+</movie>
+    

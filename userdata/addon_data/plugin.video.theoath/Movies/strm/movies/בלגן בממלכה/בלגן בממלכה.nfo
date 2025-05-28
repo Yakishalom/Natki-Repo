@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>בלגן בממלכה</title>
+    <originaltitle>Charming</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.508</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE
+[COLOR lightblue]2019-11-10 16:20:07[/COLOR]
+[COLOR blue]720p 2018 נתי מדיה בלגן בממלכה מדובב.mkv[/COLOR]
+1.43 GB
+"הם חיו באושר ועושר עד עצם היום הזה", אבל היום הזה הסתבך. הנסיך פיליפ, שכושף בקסם אישי שלא ניתן לעמוד בפניו, מציע נישואין לכול אישה שהוא פוגש ומשאיר אחריו שובל של נשים שבורות לב ובלגן בממלכה. אביו מכתיב אולטימטום לבנו: מצא אהבה אמיתית לפני גיל 21 או שתפסיד את המלוכה. בתפנית מפתיעה פוגש פיליפ את לנורה, מורדת מקצועית שכושפה בלב שאינו יכול לאהוב, ורואה בה את המפתח למה שלבו רוצה...לנורה מובילה את פיליפ להרפתקה מסוכנת, ויחדיו הזוג הלא רגיל נלחם במפלצות, ענקים וכישופים של מכשפה. הם מקבלים שיעור בחברות ולומדים לסמוך על לבם כדי למצוא אושר ואהבת אמת.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בלגן בממלכה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בלגן בממלכה\בלגן בממלכה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בלגן בממלכה\בלגן בממלכה.strm</basepath>
+    <uniqueid type="tmdb" default="true">354279</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> הרפתקאות </genre>
+<genre> קומדיה </genre>
+<genre> משפחה </genre>
+<genre> פנטזיה </genre>
+<genre> מוסיקה</genre>
+    <year>2018</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//a60KtJAWWZPtGhfgV2Iuo7eJNiA.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//rTefIDfreT1kcjuld8K1wgI3ifp.jpg">https://image.tmdb.org/t/p/original//rTefIDfreT1kcjuld8K1wgI3ifp.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-11-10 16:20:07</dateadded>
+</movie>
+    

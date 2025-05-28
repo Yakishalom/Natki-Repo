@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>משפחה בהחלפה</title>
+    <originaltitle>Monster Family</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.995</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE
+[COLOR lightblue]2023-04-16 15:48:41[/COLOR]
+[COLOR blue]1080p 2017 ז.מ משפחה בהחלפה מדובב.mkv[/COLOR]
+1.41 GB
+סיפור מצחיק על גיבורים שלא רוצים להיות גיבורים, על כישוף שמוטל עליהם, על הרפתקה מסמרת שיער של מסע מסביב לעולם. קומדיה משפחתית ומצחיקה, שבמהלכה נבלה עם מפלצות, נפגוש בדרקולה, נעסוק בכשפים ואפילו נשיר. המשפחה הזאת רחוקה מלהיות משפחה שמחה. אמה, האם, בעלת חנות ספרים לא מצליחה, פרנק, האב, עובד קשה מדי, פיי, הבת, היא בת טיפש עשרה מוקסמת מאהבת נעורים ראשונה, ובן גאון, מקס, שסובל מבריונות בבית ספר. מה עושה משפחה כשמצב הרוח שלה שפוף על מנת לשפר את ההרגשה? יוצאת למסיבת תחפושות.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\משפחה בהחלפה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\משפחה בהחלפה\משפחה בהחלפה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\משפחה בהחלפה\משפחה בהחלפה.strm</basepath>
+    <uniqueid type="tmdb" default="true">454699</uniqueid>
+    
+    <genre></genre>
+    <year>2017</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//s4L0XISLUdKcUbHIy5I4GcGtmwN.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//jFSwrtsYJ0QesgPrvShQNOTn8aV.jpg">https://image.tmdb.org/t/p/original//jFSwrtsYJ0QesgPrvShQNOTn8aV.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-04-16 15:48:41</dateadded>
+</movie>
+    

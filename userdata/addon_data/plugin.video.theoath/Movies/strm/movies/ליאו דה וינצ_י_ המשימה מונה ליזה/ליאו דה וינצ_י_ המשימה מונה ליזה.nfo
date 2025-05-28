@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>ליאו דה וינצ'י: המשימה מונה ליזה</title>
+    <originaltitle>Leo Da Vinci: Mission Mona Lisa [2018]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5</value>
+            <votes>268</votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr
+[COLOR lightblue]2019-02-26 21:18:23[/COLOR]
+החיים זורמים בשלווה בוינצ'י: לאונרדו נאבק עם ההמצאות המדהימות שלו, לורנצו עוזר לו וג'וקונדה מתבונן בהם בלעג. כאשר מספר סיפורים מסתורי מגיע לעיר ...</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ליאו דה וינצ_י_ המשימה מונה ליזה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ליאו דה וינצ_י_ המשימה מונה ליזה\ליאו דה וינצ_י_ המשימה מונה ליזה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ליאו דה וינצ_י_ המשימה מונה ליזה\ליאו דה וינצ_י_ המשימה מונה ליזה.strm</basepath>
+    <uniqueid type="tmdb" default="true">486072</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>הרפתקאות</genre>
+<genre>משפחה</genre>
+    <year>2018</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=3vzfSqCIZZg</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//eGJJP32A9jcxYQBI3AHki98mF1I.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//2WRw3L92LC02AZaEQnQ0M8j4U7Z.jpg">http://image.tmdb.org/t/p/original//2WRw3L92LC02AZaEQnQ0M8j4U7Z.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-02-26 21:18:23</dateadded>
+</movie>
+    

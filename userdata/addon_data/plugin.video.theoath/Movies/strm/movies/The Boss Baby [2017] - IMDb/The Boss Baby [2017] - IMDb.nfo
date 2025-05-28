@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>The Boss Baby [2017] - IMDb</title>
+    <originaltitle>The Boss Baby [2017] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>90,962</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2019-03-20 21:41:45[/COLOR]
+ </plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\The Boss Baby [2017] - IMDb</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\The Boss Baby [2017] - IMDb\The Boss Baby [2017] - IMDb.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\The Boss Baby [2017] - IMDb\The Boss Baby [2017] - IMDb.strm</basepath>
+    <uniqueid type="tmdb" default="true">None</uniqueid>
+    
+    <genre> </genre>
+    <year>2017</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://m.media-amazon.com/images/M/MV5BMTg5MzUxNzgxNV5BMl5BanBnXkFtZTgwMTM2NzQ3MjI@._V1_UY268_CR1,0,182,268_AL_.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://m.media-amazon.com/images/M/MV5BMTg5MzUxNzgxNV5BMl5BanBnXkFtZTgwMTM2NzQ3MjI@._V1_UY268_CR1,0,182,268_AL_.jpg">https://m.media-amazon.com/images/M/MV5BMTg5MzUxNzgxNV5BMl5BanBnXkFtZTgwMTM2NzQ3MjI@._V1_UY268_CR1,0,182,268_AL_.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-03-20 21:41:45</dateadded>
+</movie>
+    

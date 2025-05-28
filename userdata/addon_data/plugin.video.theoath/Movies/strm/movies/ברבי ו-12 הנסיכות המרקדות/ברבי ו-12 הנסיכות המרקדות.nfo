@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>ברבי ו-12 הנסיכות המרקדות</title>
+    <originaltitle>Barbie in the 12 Dancing Princesses</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.692</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>TE
+[COLOR lightblue]2021-12-13 15:13:15[/COLOR]
+[COLOR blue]2006 ברבי ו12 הנסיכות המרקדות מדובב.mkv[/COLOR]
+0.67 GB
+בסרט זה ברבי תרקוד את דרכה היישר אל ליבך בהרפתקה חדשה, קסומה ומהנה. הצטרפו אל ברבי המגלמת את הנסיכה ג'נביב היפה ואל 11 אחיותיה הנסיכות המרקדות כאשר הן מגלות מעבר סודי אל עולם קסום ומדהים בו משאלות מתגשמות! אך כאשר אביהן בסכנה ועומד לאבד את ממלכתו, הנסיכה ג'נביב ואחיותיה חייבות לשתף את הממלכה ואת אביהן. יחד הן לומדות בכוחה של משפחה לנצח כל מכשול.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ברבי ו-12 הנסיכות המרקדות</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ברבי ו-12 הנסיכות המרקדות\ברבי ו-12 הנסיכות המרקדות.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ברבי ו-12 הנסיכות המרקדות\ברבי ו-12 הנסיכות המרקדות.strm</basepath>
+    <uniqueid type="tmdb" default="true">13002</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> משפחה</genre>
+    <year>2006</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//opxyzBkB44ubRRyhdrvkoUFWuIj.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//v5xXTpfMT5NpjQeDMNYNLflaiuA.jpg">https://image.tmdb.org/t/p/original//v5xXTpfMT5NpjQeDMNYNLflaiuA.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-12-13 15:13:15</dateadded>
+</movie>
+    

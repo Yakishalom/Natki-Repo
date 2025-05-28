@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>ז מ ספייס ג'אם 2</title>
+    <originaltitle> ז מ ספייס ג%27אם 2</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>TE
+[COLOR lightblue]2021-11-30 23:08:31[/COLOR]
+[COLOR blue]1080p WEBRip 2021 ז.מ ספייס ג'אם 2 מדובב.mkv[/COLOR]
+1.58 GB
+TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ז מ ספייס ג_אם 2</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ז מ ספייס ג_אם 2\ז מ ספייס ג_אם 2.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ז מ ספייס ג_אם 2\ז מ ספייס ג_אם 2.strm</basepath>
+    <uniqueid type="tmdb" default="true"></uniqueid>
+    
+    <genre></genre>
+    <year>2021</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLd1qz7vDQz79zTTgddDCanmev34lU4E246XoMPYIwJ0q-m5ud&s</thumb>
+    <fanart>
+      <thumb colors="" preview="https://blog.pearachutekids.com/wp-content/uploads/2019/06/netflix-Cover.jpg">https://blog.pearachutekids.com/wp-content/uploads/2019/06/netflix-Cover.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-11-30 23:08:31</dateadded>
+</movie>
+    

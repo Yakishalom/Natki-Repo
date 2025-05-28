@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>גיבורים זה אנחנו</title>
+    <originaltitle>We Can Be Heroes [2020] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5</value>
+            <votes>9,671</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2021-02-8 20:37:12[/COLOR]
+כשחייזרים פולשים לכדור הארץ ולוכדים את גיבורי-העל שלו, ילדיהם של הגיבורים נאלצים לשתף פעולה כדי להציל את הוריהם – ואת העולם כולו.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\גיבורים זה אנחנו</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\גיבורים זה אנחנו\גיבורים זה אנחנו.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\גיבורים זה אנחנו\גיבורים זה אנחנו.strm</basepath>
+    <uniqueid type="tmdb" default="true">615677</uniqueid>
+    
+    <genre>אקשן</genre>
+<genre>פנטזיה</genre>
+<genre>משפחה</genre>
+<genre>דרמה</genre>
+<genre>קומדיה</genre>
+    <year>2020</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=omn2PJEuOTw</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//2MyEpZjDqdUykZlgL64saonTK6Y.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//UgNke0mMQhQdnX2hEu4cN83M0a.jpg">http://image.tmdb.org/t/p/original//UgNke0mMQhQdnX2hEu4cN83M0a.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-02-08 20:37:12</dateadded>
+</movie>
+    

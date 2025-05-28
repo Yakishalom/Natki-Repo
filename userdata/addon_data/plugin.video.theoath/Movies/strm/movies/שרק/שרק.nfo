@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>שרק</title>
+    <originaltitle>Shrek</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.726</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE,TE
+[COLOR lightblue]2020-07-09 15:08:29[/COLOR]
+[COLOR blue]שרק.מס1.מדובב.גוזלן.avi[/COLOR]
+0.67 GB
+פארודיה על סיפורי אגדות ועל סרטי "דיסני", המסתמכת על ספרו של וויליאם שטיג. שרק הוא יצור ירקרק גדול, נרגן, רגזן, מתבודד ועקשן, שחי בביצה נידחת. בדידותו המזהרת בביצה מופרת עם בואם המפתיע של גיבורי אגדות, שסולקו מממלכתם על ידי לורד זדוני. שרק נחוש לסלק אותם מביצתו ולהחזיר את השלווה. ולכן הוא חותם עסקה עם הלורד: שרק יצא להושיע את כלתו המיועדת של הלורד, נסיכה הכלואה במצבר, תמורת החזרת גיבורי האגדה לביתם.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\שרק</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\שרק\שרק.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\שרק\שרק.strm</basepath>
+    <uniqueid type="tmdb" default="true">808</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> קומדיה </genre>
+<genre> פנטזיה </genre>
+<genre> הרפתקאות </genre>
+<genre> משפחה</genre>
+    <year>2011</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//yqMtOlAJ663YmS8MUe5RaALQYxF.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//sRvXNDItGlWCqtO3j6wks52FmbD.jpg">https://image.tmdb.org/t/p/original//sRvXNDItGlWCqtO3j6wks52FmbD.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-07-09 15:08:29</dateadded>
+</movie>
+    

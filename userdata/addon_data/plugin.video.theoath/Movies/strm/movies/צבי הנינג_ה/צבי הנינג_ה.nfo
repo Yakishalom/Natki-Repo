@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>צבי הנינג'ה</title>
+    <originaltitle>TMNT [2007]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>56,178</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-01-7 10:05:10[/COLOR]
+ליאונרדו, דונאטלו רפאל ומיכלאנג'לו הם ארבעת צבי הנינג'ה. ארבעה אחים שהתגלגלו במערכת הביוב של ניו יורק שבטעות נשטפו בחומר כימי. לאחר שעברו שינוי והפכו לצבי ענק עם אובססית פיצות קשה אימץ אותם ספלינטר הזקו, עכברוש מוטנט שלימד אותם תורות לחימה מזרחיות.  לאחר שהארבעה הביסו את שרדר, החבורה התפצלה וכל אחד מהצבים הלך לדרכו. עכשיו הם נאלצים להתאחד ולשתף פעולה שוב בשל שרשרת אירועים מסתוריים שמאחוריהם עומד נבל חדש. האויב הפעם הוא מקס ווינטרס, גאון הי-טק מרושע שזומם לשחרר צבא מפלצות קטלניות בניו יורק.</plot>
+    <runtime>87</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\צבי הנינג_ה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\צבי הנינג_ה\צבי הנינג_ה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\צבי הנינג_ה\צבי הנינג_ה.strm</basepath>
+    <uniqueid type="tmdb" default="true">1273</uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Action</genre>
+<genre>Adventure</genre>
+<genre>הרפתקאות</genre>
+<genre>אנימציה</genre>
+<genre>קומדיה</genre>
+<genre>משפחה</genre>
+    <year>2007</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Hhrw0JAvIvI</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//scZKLwDG6fH7s7JtAJWPrCLnizP.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//jDzE7aMeuBXwVhAxb88GUtDyZPf.jpg">http://image.tmdb.org/t/p/original//jDzE7aMeuBXwVhAxb88GUtDyZPf.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-01-07 10:05:10</dateadded>
+</movie>
+    

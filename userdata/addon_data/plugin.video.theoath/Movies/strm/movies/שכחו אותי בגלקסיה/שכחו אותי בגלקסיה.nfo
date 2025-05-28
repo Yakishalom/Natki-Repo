@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>שכחו אותי בגלקסיה</title>
+    <originaltitle>Terra Willy, planète inconnue</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.219</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2021-09-16 22:23:30
+ON,Dr,TE,TE
+[COLOR lightblue]2021-06-02 00:07:41[/COLOR]
+[COLOR blue]שכחו אותי בגלקסיה.מדובב.גוזלן.1080p.mp4[/COLOR]
+1.44 GB
+ווילי הוא ילד-אסטרונאוט, שנמצא במשימת חלל חשובה עם הוריו האסטרונאוטים. יום בהיר אחד, הוא מגיע בטעות לכוכב לא מוכר המאוכלס ביצורים מוזרים, צבעוניים ומופלאים. בעזרת שני חבריו הטובים- באק, רובוט הישרדות מתוחכם שיודע לעשות הכל, ופלאש, יצור מתוק להפליא, נבון ונאמן במיוחד, יוצא ווילי לחפש את משדר הרדיו רב העוצמה באמצעותו יוכל לאותת לצוות החילוץ ולשוב לכדור הארץ.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\שכחו אותי בגלקסיה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\שכחו אותי בגלקסיה\שכחו אותי בגלקסיה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\שכחו אותי בגלקסיה\שכחו אותי בגלקסיה.strm</basepath>
+    <uniqueid type="tmdb" default="true">580600</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> קומדיה </genre>
+<genre> הרפתקאות </genre>
+<genre> משפחה</genre>
+    <year>2019</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//1mxjyqxb9opdTVI49eGh0Sc9fde.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//ivKorzMwX7ZEWtJozRn6Q3VgZgO.jpg">https://image.tmdb.org/t/p/original//ivKorzMwX7ZEWtJozRn6Q3VgZgO.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-09-16 22:23:30</dateadded>
+</movie>
+    

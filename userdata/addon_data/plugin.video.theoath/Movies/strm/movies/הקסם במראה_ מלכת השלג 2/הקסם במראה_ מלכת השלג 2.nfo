@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הקסם במראה: מלכת השלג 2</title>
+    <originaltitle>Снежная королева 2: Перезаморозка</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.421</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>TE
+[COLOR lightblue]2020-07-20 18:53:12[/COLOR]
+[COLOR blue]HDTV 2014 נתי מדיה מלכת השלג 2 מדובב.avi[/COLOR]
+1.04 GB
+אחרי הניצחון הגדול שלהם על מלכת השלג, חגגו הטרולים את החופש ונהנו מטעם החירות. לאור תפקידו החשוב בהשגת הניצחון, הטרול גום שהוביל את המאבק הפך להיות הגיבור של כולם, אך לו זה לא מספיק. תוך כדי סיפורי גבורה מוגזמים ומצחיקים שחוגגים את מעלליו ומעשיו, הוא טווה רשת של שקרים, שבה לטענתו הוא לבדו ניצח את מלכת השלג, ולכן מגיע לו להינשא לנסיכה ולזכות בכוח גדול ועושר רב הנלווים למעמד ... התעלומה היא להיכן יובילו אותו שקריו?TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הקסם במראה_ מלכת השלג 2</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הקסם במראה_ מלכת השלג 2\הקסם במראה_ מלכת השלג 2.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הקסם במראה_ מלכת השלג 2\הקסם במראה_ מלכת השלג 2.strm</basepath>
+    <uniqueid type="tmdb" default="true">292014</uniqueid>
+    
+    <genre>פנטזיה </genre>
+<genre> משפחה </genre>
+<genre> אנימציה </genre>
+<genre> הרפתקאות</genre>
+    <year>2014</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//ujHUWGOzjAYagjpugXTVBS1laEL.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//wwW1jZSTSPW7HCcPFXgjcRVaeHM.jpg">https://image.tmdb.org/t/p/original//wwW1jZSTSPW7HCcPFXgjcRVaeHM.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-07-20 18:53:12</dateadded>
+</movie>
+    

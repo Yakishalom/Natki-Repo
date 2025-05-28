@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>קנגרו ג'ק: בוקר טוב, אמריקה!</title>
+    <originaltitle>Kangaroo Jack: G&apos;Day, U.S.A.!</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr
+[COLOR lightblue]2021-09-4 18:08:22[/COLOR]
+ג'ק הקנגרו הינו הקנגרו המפורסם מאוסטרליה, קנגרו שלאחר שהסתבך עם המאפיה ועם מי לא, מוצא את עצמו כל הדרך לאמריקה, אומת ההיפ-הופ של העולם, היכן שהוא הולך להיות כוכב ענק - אבל לא רק. אלא גם למצוא את צ'ארלי ולואיס, שני החברים שהציל בסרט הראשון.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קנגרו ג_ק_ בוקר טוב, אמריקה_</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קנגרו ג_ק_ בוקר טוב, אמריקה_\קנגרו ג_ק_ בוקר טוב, אמריקה_.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קנגרו ג_ק_ בוקר טוב, אמריקה_\קנגרו ג_ק_ בוקר טוב, אמריקה_.strm</basepath>
+    <uniqueid type="tmdb" default="true">56739</uniqueid>
+    
+    <genre>משפחה</genre>
+<genre>אנימציה</genre>
+    <year>2004</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//zDbyvyrrwOkWf2iDUv8kREquHuL.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview=" "> </thumb>
+            
+    </fanart>
+    <dateadded>2021-09-04 18:08:22</dateadded>
+</movie>
+    

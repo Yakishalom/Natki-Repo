@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>וִיווֹ</title>
+    <originaltitle>Vivo</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.374</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>Dr,TE
+[COLOR lightblue]2023-08-16 20:00:09[/COLOR]
+[COLOR blue]חננאל סרטים ויוו מדובב 2021 WEB-DL 720p.mp4[/COLOR]
+1.46 GB
+קינקג'ו מוזיקלי יוצא למסע של פעם בחיים כדי להגשים את ייעודו ולהעביר שיר שכתב ידידו הטוב לאהובה מהעבר.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\וִיווֹ</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\וִיווֹ\וִיווֹ.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\וִיווֹ\וִיווֹ.strm</basepath>
+    <uniqueid type="tmdb" default="true">449406</uniqueid>
+    
+    <genre></genre>
+    <year>2021</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//xeJjqQPBFbJLnD8qmXX8GktkQlZ.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//6RT8SBh6AzonbLYnqjkvG4ovaVX.jpg">https://image.tmdb.org/t/p/original//6RT8SBh6AzonbLYnqjkvG4ovaVX.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-08-16 20:00:09</dateadded>
+</movie>
+    

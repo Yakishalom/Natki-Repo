@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מלך האריות</title>
+    <originaltitle>The Lion King</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.13</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2021-07-13 04:18:08
+ON,ON,HP,Dr,TE,TE
+[COLOR lightblue]2019-11-18 18:13:55[/COLOR]
+[COLOR blue]א.ס מלך האריות 2019 מדובב BluRay 1080p.mkv[/COLOR]
+1.43 GB
+סימבה מעריץ את אביו, המלך מופאסה ולוקח ברצינות גמורה את עתידו המלכותי. אך לא כולם בממלכה חוגגים את הולדתו של גור האריות החדש. סקאר, אחיו של מופאסה והיורש לשעבר של כס המלכות, זומם תכניות משלו. הקרב על צוק התקווה מזוהם כולו בבגידה, טרגדיה ודרמה שנגמרת לבסוף בהגלייתו של סימבה. בעזרת זוג חברים חדשים ומסקרנים, סימבה ימצא את דרכו לבגרות וייקח בחזרה את כס המלכות ששייך לו באופן חוקי.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מלך האריות</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מלך האריות\מלך האריות.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מלך האריות\מלך האריות.strm</basepath>
+    <uniqueid type="tmdb" default="true">420818</uniqueid>
+    
+    <genre></genre>
+    <year>2019</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//fILTFOc4uV1mYL0qkoc3LyG1Jo9.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//1TUg5pO1VZ4B0Q1amk3OlXvlpXV.jpg">https://image.tmdb.org/t/p/original//1TUg5pO1VZ4B0Q1amk3OlXvlpXV.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-07-13 04:18:08</dateadded>
+</movie>
+    

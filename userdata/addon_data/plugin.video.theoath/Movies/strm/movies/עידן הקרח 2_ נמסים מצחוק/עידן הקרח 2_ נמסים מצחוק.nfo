@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>עידן הקרח 2: נמסים מצחוק</title>
+    <originaltitle>Ice Age: The Meltdown</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.687</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2021-06-13 21:55:38
+ON,Dr,TE,TE,TE
+[COLOR lightblue]2018-07-05 00:52:20[/COLOR]
+[COLOR blue]NF נתי מדיה עידן הקרח 2 מדובב.avi[/COLOR]
+0.36 GB
+אחרי שעידן הקרח נגמר, שלושת החברים יצטרכו להתמודד עם הקרחונים שנמסים ומציפים את העמק. כדי למנוע את מותם של תושבי העמק הם צריכים לאחד כוחות בשנית ולצאת למשימה קשה במיוחד: לשכנע את החיות הפרה-היסטוריות לעזוב את מקום מגוריהם לפני שהעמק יוצף.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\עידן הקרח 2_ נמסים מצחוק</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\עידן הקרח 2_ נמסים מצחוק\עידן הקרח 2_ נמסים מצחוק.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\עידן הקרח 2_ נמסים מצחוק\עידן הקרח 2_ נמסים מצחוק.strm</basepath>
+    <uniqueid type="tmdb" default="true">950</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> משפחה </genre>
+<genre> קומדיה </genre>
+<genre> הרפתקאות</genre>
+    <year>2011</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//quWqAIBg0kWHJTxbiApOjmt0Bk8.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//wRTZaxAiDP0ZEeQsO0HiiSqYCSp.jpg">https://image.tmdb.org/t/p/original//wRTZaxAiDP0ZEeQsO0HiiSqYCSp.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-06-13 21:55:38</dateadded>
+</movie>
+    

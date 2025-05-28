@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>ענק הברזל</title>
+    <originaltitle>The Iron Giant</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.926</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>TE
+[COLOR lightblue]2023-03-27 00:02:42[/COLOR]
+[COLOR blue]720p HDTV 1999 ז.מ ענק הברזל מדובב.mkv[/COLOR]
+1.57 GB
+השנה היא 1957, אזרחי ארה"ב נמצאים בעיצומה של המלחמה הקרה - הפחד מזרים גדל - האם השכן לידך הוא אויב? הרוסים משגרים את הלווין הראשון לחלל - מתחיל המרוץ הגדול לחלל. הטלוויזיה מתחזקת ותופסת את מקומה בכל סלון. בתוך אי השקט המתהווה גדל הוגארת', עם אימו אנני המנסה להעניק להוגארת' חיי משפחה תקינים במשפחה חד הורית. הוגארת' רק בן 9, אבל מספק לאימו תעסוקה מלאה ומשתף אותה ואת שאר העיירה בעולם הדמיון שלו. בזמן שאנני עובדת בדיינר, הואגארת' יושב בצד ומחפש את הזרים האמיתיים - פולשים חוצנים וצבאות חייזרים שבאים להשתלט על רוקוואל, העיירה הקטנה שבמדינת מיין, ארה"ב. שגרת חייו הדמיוניים של הוגארת' הקטן מקבלת חיזוק כשדייג נכנס אל הדיינר ומתאר מפגש שלו עם "גוף מתכתי ענק שנפל מהשמיים אל תוך הים".TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ענק הברזל</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ענק הברזל\ענק הברזל.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ענק הברזל\ענק הברזל.strm</basepath>
+    <uniqueid type="tmdb" default="true">10386</uniqueid>
+    
+    <genre></genre>
+    <year>1999</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//5OFFy2duWHqYF3ZrIIZCOHkC7h.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//gZ78dyRH9hXeH94ASjuvD9Vw4b5.jpg">https://image.tmdb.org/t/p/original//gZ78dyRH9hXeH94ASjuvD9Vw4b5.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-03-27 00:02:42</dateadded>
+</movie>
+    

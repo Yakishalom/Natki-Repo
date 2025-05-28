@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>לגו באטמן</title>
+    <originaltitle>The Lego Batman Movie [2017] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7</value>
+            <votes>114,207</votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr
+[COLOR lightblue]2019-04-12 18:48:44[/COLOR]
+שינויים רבים מתרחשים בעיר גות'הם. בכדי להציל את העיר מההשתלטות העוינת של הג'וקר, באטמן יוצא למסע העצמה אישי במסגרתו יצטרך להשיל מעליו את כל המגננות וללמוד את חשיבותה של עבודת צוות.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לגו באטמן</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לגו באטמן\לגו באטמן.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לגו באטמן\לגו באטמן.strm</basepath>
+    <uniqueid type="tmdb" default="true">324849</uniqueid>
+    
+    <genre>אקשן</genre>
+<genre>אנימציה</genre>
+<genre>קומדיה</genre>
+<genre>משפחה</genre>
+<genre>פנטזיה</genre>
+    <year>2017</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=LHgQSwgKygk</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//w66unq8AZgqM9iH1Vb8xOwjVY6s.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//jqnbac3oind5VOcAN0mTXyapOGh.jpg">http://image.tmdb.org/t/p/original//jqnbac3oind5VOcAN0mTXyapOGh.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-04-12 18:48:44</dateadded>
+</movie>
+    

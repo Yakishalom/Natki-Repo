@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>ברבי מלכת הרוקנ'רול</title>
+    <originaltitle>Barbie in Rock 'N Royals [2015]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>420</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2017-12-3 12:23:49[/COLOR]
+קורטני היא ברבי, נסיכה מודרנית שעולמה מתהפך לאחר שהיא מחליפה את חייה עם אריקה, כוכבת פופ מפורסמת. עולמותיהן המנוגדים מתנגשים כאשר טעות אנוש שולחת את הנסיכה קורטני ל'מחנה פופ' ואת אריקה ל'מחנה המלוכה'. כשמנהיגי שני המחנות מנסים להעבירן בחזרה למחנה המתאים, קורטני ואריקה לומדות כיצד לעשות כיף עם חברים חדשים ולא צפויים.</plot>
+    <runtime>84</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ברבי מלכת הרוקנ_רול</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ברבי מלכת הרוקנ_רול\ברבי מלכת הרוקנ_רול.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ברבי מלכת הרוקנ_רול\ברבי מלכת הרוקנ_רול.strm</basepath>
+    <uniqueid type="tmdb" default="true">355111</uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Family</genre>
+<genre>אנימציה</genre>
+<genre>מוסיקה</genre>
+<genre>משפחה</genre>
+    <year>2015</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//5mKLDYYRsyo8LRuYuiOTbwLKTpK.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//kNmnBuoUTCHUjnswMA60qR6tb3v.jpg">http://image.tmdb.org/t/p/original//kNmnBuoUTCHUjnswMA60qR6tb3v.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2017-12-03 12:23:49</dateadded>
+</movie>
+    

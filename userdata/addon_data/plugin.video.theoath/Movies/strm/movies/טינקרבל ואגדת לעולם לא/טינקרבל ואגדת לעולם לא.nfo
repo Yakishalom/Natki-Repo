@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>טינקרבל ואגדת לעולם לא</title>
+    <originaltitle>Tinker Bell and the Legend of the NeverBeast [Video 2014] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7</value>
+            <votes>7,403</votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr
+[COLOR lightblue]2020-11-16 09:03:19[/COLOR]
+טינקרבל וחברותיה הפיות חוזרות בהרפתקה חדשה וקסומה מאולפני דיסני. פון, פיית חיות קסומה ומוכשרת מאמינה שאסור לשפוט ספר על פי הכריכה שלו- או חיה ע'פ הניבים שלה, ולכן היא מתחברת עם יצור עצום ומסתורי. טינקרבל וחברותיה אינן בטוחות לגבי טיבו של היצור המפחיד, והפיות הלוחמות לוקחות על עצמן את המשימה ללכוד את היצור לפני שיהרוס את ביתן. הפיה פון חייבת להקשיב לליבה ולהאמין בעצמה אם היא רוצה לגרום לפיות להתלכד ולהציל את היצור המסתורי.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טינקרבל ואגדת לעולם לא</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טינקרבל ואגדת לעולם לא\טינקרבל ואגדת לעולם לא.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טינקרבל ואגדת לעולם לא\טינקרבל ואגדת לעולם לא.strm</basepath>
+    <uniqueid type="tmdb" default="true">297270</uniqueid>
+    
+    <genre>הרפתקאות</genre>
+<genre>אנימציה</genre>
+<genre>משפחה</genre>
+    <year>2014</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ofvJ7KyulPA</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//gS1LFirqwpDeYPXMnQvplCWgOzs.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//ub3BAIzgGnkHqUBtUAf3hpG9xMF.jpg">http://image.tmdb.org/t/p/original//ub3BAIzgGnkHqUBtUAf3hpG9xMF.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-11-16 09:03:19</dateadded>
+</movie>
+    

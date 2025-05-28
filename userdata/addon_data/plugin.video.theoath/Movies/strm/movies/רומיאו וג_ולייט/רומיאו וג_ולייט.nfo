@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>רומיאו וג'ולייט</title>
+    <originaltitle>Romeo + Juliet</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.797</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>TE
+[COLOR lightblue]2021-10-27 15:52:59[/COLOR]
+[COLOR blue]נתי מדיה רומיאו ויוליה מדובב.avi[/COLOR]
+0.51 GB
+העלילה השייקספירית הועתקה לורונה-ביץ' בקליפורניה. בני קפיולט הם כנופיית היספנים לבושי שחורים ויריביהם בני מונטגיו הם נערי חוף קליפורניים בחולצות נוסח הוואי. מרקוצ'יו הוא דראג קווין שחור וקרבות הרחוב מעוצבים בסגנון מערבוני ספגטי וסרטי פעולה הונג-קונגיים. נוסחת האם.טי.וי. השייקספירית של הבמאי האוסטרלי באז לרמן ("רק לרקוד") היא אולי העיבוד השייקספירי המקורי ביותר מאז "כס הדמים" של אקירה קורוסאווה. העלילה מתנהלת בקצב תזזיתי, חיתוכים מהירים וקיצביים, עיצוב פופיסטי, קיטשיות מופגנת, כשבהצד הויזואלי המהמם משתלב היטב עם פס הקול הרוקיסטי. אין להתפלא שהשחקן הבריטי בן קינגסלי הגדיר סרט זה כעיבוד השייקספירי המוצלח ביותר לקולנוע.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\רומיאו וג_ולייט</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\רומיאו וג_ולייט\רומיאו וג_ולייט.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\רומיאו וג_ולייט\רומיאו וג_ולייט.strm</basepath>
+    <uniqueid type="tmdb" default="true">454</uniqueid>
+    
+    <genre>דרמה </genre>
+<genre> רומנטי</genre>
+    <year>2006</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//eLf4jclPijOqfEp6bDAmezRFxk5.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//m0miV65ZZIp13TNHJSRUF6vmCos.jpg">https://image.tmdb.org/t/p/original//m0miV65ZZIp13TNHJSRUF6vmCos.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-10-27 15:52:59</dateadded>
+</movie>
+    

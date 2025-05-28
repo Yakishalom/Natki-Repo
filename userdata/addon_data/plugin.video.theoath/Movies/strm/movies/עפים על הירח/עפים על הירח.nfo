@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>עפים על הירח</title>
+    <originaltitle>Moonbound</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2023-08-8 22:20:57[/COLOR]
+כאשר פיטר מגלה שאחותו הקטנה, אן, נעלמה. הוא מבין שהסיפורים הנפלאים שלה לא היו המצאה, אלא האמת לאמיתה. כמי שתמיד חלם לטוס לירח, פיטר מוצא את עצמו יוצא למשימת חילוץ נועזת של פעם בחיים! בעזרתן של פיות קסומות, הוא יעשה הכול כדי לשחרר את אחותו, מאיש הירח המרושע. הוא מבין שאחותו הקטנה, אשר המעיט בערכה, מתגלה כגדולה!</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\עפים על הירח</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\עפים על הירח\עפים על הירח.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\עפים על הירח\עפים על הירח.strm</basepath>
+    <uniqueid type="tmdb" default="true">809717</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>הרפתקאות</genre>
+<genre>קומדיה</genre>
+    <year>2021</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=HNnx3nslNes</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//q2oQUCBQnlKtBzSCkp0uPUVCRsc.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//ubty43lOcYeeWMnWxszdNsrzf1z.jpg">http://image.tmdb.org/t/p/original//ubty43lOcYeeWMnWxszdNsrzf1z.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-08-08 22:20:57</dateadded>
+</movie>
+    

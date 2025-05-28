@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>באטמן: איש הקרח</title>
+    <originaltitle>Batman & Mr. Freeze: SubZero [Video 1998]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7</value>
+            <votes>10,590</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-04-2 09:37:32[/COLOR]
+איש הקרח חי בקוטב הארקטי עם אשתו הקפואה בדרך קריוגנית. כאשר צוללת הורסת את כמוסת הבלימה שלה, הוא חייב למצוא מישהו כדי 'לתרום' לב חדש בשבילה. החיפוש שלו מעלה תורם אחד עם סוג הדם הנכון: ברברה [באטגירל] גורדון. החטיפה שלה שולחת את בטמן ורובין במרדף כדי לשחרר אותה בזמן.</plot>
+    <runtime>70</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\באטמן_ איש הקרח</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\באטמן_ איש הקרח\באטמן_ איש הקרח.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\באטמן_ איש הקרח\באטמן_ איש הקרח.strm</basepath>
+    <uniqueid type="tmdb" default="true">15805</uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Action</genre>
+<genre>Crime</genre>
+<genre>אנימציה</genre>
+<genre>אקשן</genre>
+<genre>פשע</genre>
+    <year>1998</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=u7yHdSyCqxE</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//6Leq7SqNEuCNVr3fiykDVWf6Z8g.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//yGipWTfWvrMR0sotpypKQeFUzIu.jpg">http://image.tmdb.org/t/p/original//yGipWTfWvrMR0sotpypKQeFUzIu.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-04-02 09:37:32</dateadded>
+</movie>
+    

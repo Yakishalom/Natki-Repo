@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>בול בפוני</title>
+    <originaltitle>A Dog & Pony Show</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2022-01-18 18:09:42[/COLOR]
+קומדיה לכל המשפחה. כלבת מופעים שובבה ננטשת בטעות ע'י הקרקס הנודד שלה. למזלה היא מוצאת מקלט אצל נער חביב ועוזרת לו ולאביו להפוך את חוות החיות שלהם לסיפור הצלחה. עם: מירה סורבינו.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בול בפוני</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בול בפוני\בול בפוני.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בול בפוני\בול בפוני.strm</basepath>
+    <uniqueid type="tmdb" default="true">504295</uniqueid>
+    
+    <genre>קומדיה</genre>
+<genre>משפחה</genre>
+    <year>2018</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=7gXu99e6MNI</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//87V176CHkrAauoANROXTXQRwJnW.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//rXrTHxcpi6JREYo8TKz4XXFPnkK.jpg">http://image.tmdb.org/t/p/original//rXrTHxcpi6JREYo8TKz4XXFPnkK.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-01-18 18:09:42</dateadded>
+</movie>
+    

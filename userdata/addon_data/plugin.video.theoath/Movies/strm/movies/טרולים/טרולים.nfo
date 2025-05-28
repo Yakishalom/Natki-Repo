@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>טרולים</title>
+    <originaltitle>Trolls</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.676</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2019-04-18 08:33:21
+ON,Dr,TE
+[COLOR lightblue]2017-05-26 16:32:18[/COLOR]
+[COLOR blue]טרולים - מדובב.avi[/COLOR]
+0.84 GB
+פופי היא המנהיגה האופטימית של הטרולים ובראנצ' הוא ההיפך המושלם שלה. ביחד, צמד הטרולים המפתיע הזה חייב לצאת להרפתקה שתיקח אותם הרחק מעבר לעולם המוכר להם.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טרולים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טרולים\טרולים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טרולים\טרולים.strm</basepath>
+    <uniqueid type="tmdb" default="true">136799</uniqueid>
+    
+    <genre>משפחה </genre>
+<genre> אנימציה </genre>
+<genre> פנטזיה </genre>
+<genre> הרפתקאות </genre>
+<genre> קומדיה </genre>
+<genre> מוסיקה</genre>
+    <year>2017</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//9XGmJF9J0yjkpPBCniKg3N5eQzg.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//gXyYOWAkk4FdQU3adK8WFj8nN9J.jpg">https://image.tmdb.org/t/p/original//gXyYOWAkk4FdQU3adK8WFj8nN9J.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-04-18 08:33:21</dateadded>
+</movie>
+    

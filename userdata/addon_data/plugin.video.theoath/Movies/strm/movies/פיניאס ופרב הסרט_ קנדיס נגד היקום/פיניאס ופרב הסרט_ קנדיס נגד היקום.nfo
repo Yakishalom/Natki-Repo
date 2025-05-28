@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>פיניאס ופרב הסרט: קנדיס נגד היקום</title>
+    <originaltitle>Phineas and Ferb the Movie: Candace Against the Universe</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2022-06-26 07:23:23[/COLOR]
+אירועי הסרט מתרחשים לפני הפרק האחרון של הסדרה. פיניאס ופרב נוסעים ברחבי הגלקסיה בכדי להציל את אחותם קנדיס שנחטפה על ידי חייזרים ומצאה אוטופיה בכוכב לכת מרוחק מאחיה הקטנים והמעצבנים.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פיניאס ופרב הסרט_ קנדיס נגד היקום</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פיניאס ופרב הסרט_ קנדיס נגד היקום\פיניאס ופרב הסרט_ קנדיס נגד היקום.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פיניאס ופרב הסרט_ קנדיס נגד היקום\פיניאס ופרב הסרט_ קנדיס נגד היקום.strm</basepath>
+    <uniqueid type="tmdb" default="true">594328</uniqueid>
+    
+    <genre>משפחה</genre>
+<genre>אנימציה</genre>
+<genre>מדע בדיוני</genre>
+<genre>קומדיה</genre>
+<genre>סרט טלויזיה</genre>
+    <year>2020</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=w7FySIfypLc</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//n6hptKS7Y0ZjkYwbqKOK3jz9XAC.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//lkeBhXGJFRlhI7cBWn8LQQAdZqK.jpg">http://image.tmdb.org/t/p/original//lkeBhXGJFRlhI7cBWn8LQQAdZqK.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-06-26 07:23:23</dateadded>
+</movie>
+    

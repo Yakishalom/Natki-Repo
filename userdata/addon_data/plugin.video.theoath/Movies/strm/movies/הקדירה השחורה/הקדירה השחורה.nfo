@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הקדירה השחורה</title>
+    <originaltitle>The Black Cauldron</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.44</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>TE
+[COLOR lightblue]2023-04-07 12:36:34[/COLOR]
+[COLOR blue]1080p 1985 ז.מ הקדירה השחורה מדובב.mkv[/COLOR]
+1.2 GB
+סרט הרפתקאות המבוסס על הטרילוגיה של לויד אלכסנדר, על ילד קטן בשם טאראן שיוצא למצוא את הקדירה השחורה, לפני שהמלך בעל הקרניים הרשע יעשה שימוש בכוחה האפל כדי להשתלט על העולם. בתחילת המסע שלו הוא מנסה להציל את החזירה שלו 'הן וון', מפני שרק היא יכולה להראות למלך בעל הקרניים איפה נמצאת הקדירה השחורה, אך הוא מאבד אותה הרבה פעמים. במהלך המסע שלו הוא פוגש את הנסיכה אילונווי, פלודר פלאם וגרגי שעוזרים לו למצוא את הקדרה ולהשמיד אותה. מדובר בסרט דיסני ראשון שבו נעשה שימוש בטכנולוגיית מחשב.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הקדירה השחורה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הקדירה השחורה\הקדירה השחורה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הקדירה השחורה\הקדירה השחורה.strm</basepath>
+    <uniqueid type="tmdb" default="true">10957</uniqueid>
+    
+    <genre></genre>
+    <year>1985</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//wuzwqz371wtGQlWjBNfdDmCD80b.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//eb4MxDQJehL60EZO6cKFFiUq23J.jpg">https://image.tmdb.org/t/p/original//eb4MxDQJehL60EZO6cKFFiUq23J.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-04-07 12:36:34</dateadded>
+</movie>
+    

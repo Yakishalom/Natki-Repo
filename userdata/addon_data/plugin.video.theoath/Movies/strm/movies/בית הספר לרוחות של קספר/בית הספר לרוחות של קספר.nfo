@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>בית הספר לרוחות של קספר</title>
+    <originaltitle>Casper's Scare School [TV Movie 2006]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5</value>
+            <votes>412</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-04-2 09:49:19[/COLOR]
+לקספר יש משימה חדשה: להפגין את כישוריו כרוח רפאים ולהפחיד בני אדם אחרת הוא יישא בתוצאות. זהו אתגר קשה במיוחד לרוח הרפאים הידידותית ביותר בעולם, אך כאשר הוא הולך ל'בית הספר להפחדות' כדי ללמוד את מקצועו, הוא חושף את ואלדר ודאש, המנהל האכזרי בעל שני הראשים, שזומם להשתלט על העולם. הוא מתייצב נגדו יחד עם חברותיו המוזרות: רא, מומיה בעלת 'בעיות לא פתורות', ומנתה, זומבית שלא משתלטת על רגליה. הסיכויים כולם נגד קספר אך ואלדר ודאש אינו מסוגל להבין שכוח הידידות חזק יותר מכל מזימה מרושעת.</plot>
+    <runtime>78</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בית הספר לרוחות של קספר</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בית הספר לרוחות של קספר\בית הספר לרוחות של קספר.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בית הספר לרוחות של קספר\בית הספר לרוחות של קספר.strm</basepath>
+    <uniqueid type="tmdb" default="true">31170</uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Comedy</genre>
+<genre>Family</genre>
+<genre>הרפתקאות</genre>
+<genre>אנימציה</genre>
+<genre>קומדיה</genre>
+<genre>משפחה</genre>
+<genre>פנטזיה</genre>
+    <year>2006</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//dhxOK0j8uWw6EmdLFNSjuFieTkV.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//kMFGzdMz1apxvlhz99cqxo0XNt.jpg">http://image.tmdb.org/t/p/original//kMFGzdMz1apxvlhz99cqxo0XNt.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-04-02 09:49:19</dateadded>
+</movie>
+    

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>החתול של שרק</title>
+    <originaltitle>Puss in Boots</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.527</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2019-02-9 07:24:54
+ON,Dr,TE
+[COLOR lightblue]2017-08-31 13:06:19[/COLOR]
+[COLOR blue]חן_סרטים_החתול_של_שרק_מדובב_עי_אביאל.avi[/COLOR]
+0.68 GB
+הרבה לפני שבכלל פגש את שרק, הלוחם הידוע לשמצה, המאהב והעבריין - 'החתול במגפיים' - הופך לגיבור. זה קורה כשהוא יוצא להרפתקה עם החתלתולה הקשוחה והפקחית קיטי 'סופטפוז' והאמפטי דמפטי במטרה להציל את עירו. לאורך הדרך מחכות להן הסתבכויות וקשיים בדמותם של צמד הנבלים, ג'ק וג'יל, שיעשו כל מה שביכולתם כדי להכשיל את החתול וחבריו במשימתם.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\החתול של שרק</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\החתול של שרק\החתול של שרק.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\החתול של שרק\החתול של שרק.strm</basepath>
+    <uniqueid type="tmdb" default="true">417859</uniqueid>
+    
+    <genre></genre>
+    <year>2011</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//ybtCQu8JIZiIyk68BcHfsObeFar.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//eSdpZZQubPSZ47qppFfUPbKsWlw.jpg">https://image.tmdb.org/t/p/original//eSdpZZQubPSZ47qppFfUPbKsWlw.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-02-09 07:24:54</dateadded>
+</movie>
+    

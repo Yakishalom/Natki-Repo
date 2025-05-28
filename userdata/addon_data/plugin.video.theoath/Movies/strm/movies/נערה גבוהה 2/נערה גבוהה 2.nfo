@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>נערה גבוהה 2</title>
+    <originaltitle>Tall Girl 2</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2022-03-5 21:02:10[/COLOR]
+החלום של ג'ודי מתגשם והיא זוכה בתפקיד הראשי במחזמר שעולה בבית הספר. אבל הלחץ שבא עם התפקיד מערער את ביטחונה – ואת מערכת היחסים שלה.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\נערה גבוהה 2</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\נערה גבוהה 2\נערה גבוהה 2.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\נערה גבוהה 2\נערה גבוהה 2.strm</basepath>
+    <uniqueid type="tmdb" default="true">772272</uniqueid>
+    
+    <genre>קומדיה</genre>
+<genre>דרמה</genre>
+<genre>רומנטי</genre>
+    <year>2022</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=2-1qlHIhWXE</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//t1V3SwvjJo6ERXK2MKUrKZz6hEj.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//vM9gdUBvSKRasOjBarZimJEfN3H.jpg">http://image.tmdb.org/t/p/original//vM9gdUBvSKRasOjBarZimJEfN3H.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-03-05 21:02:10</dateadded>
+</movie>
+    

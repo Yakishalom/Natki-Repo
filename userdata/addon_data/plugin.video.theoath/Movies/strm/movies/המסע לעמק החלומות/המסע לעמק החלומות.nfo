@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>המסע לעמק החלומות</title>
+    <originaltitle>The Land Before Time</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2021-09-9 21:50:23[/COLOR]
+מבית היוצר של סטיבן שפילברג מגיעה הסדרה האהובה אודות הרפתקאות דינוזאורים בעידן ההיסטורי. סיפורו של דינוזאור יתום היוצא למסע לחפש משפחה חדשה, בדרכו הוא פוגש ארבעה דינושאורים צעירים שיחדיו נקלעים להרפתקאות אין ספור ומגלים את חשיבות החברות והמשפחה.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\המסע לעמק החלומות</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\המסע לעמק החלומות\המסע לעמק החלומות.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\המסע לעמק החלומות\המסע לעמק החלומות.strm</basepath>
+    <uniqueid type="tmdb" default="true">12144</uniqueid>
+    
+    <genre>משפחה</genre>
+<genre>אנימציה</genre>
+<genre>הרפתקאות</genre>
+    <year>1988</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=zZA41HbwPLs</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//wSC2wxFj3ZgrIHlIaePeuHN4igo.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//sXfQGa7juaTpZ5IF17Xa6hI53nx.jpg">http://image.tmdb.org/t/p/original//sXfQGa7juaTpZ5IF17Xa6hI53nx.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-09-09 21:50:23</dateadded>
+</movie>
+    

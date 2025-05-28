@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>אבוללה</title>
+    <originaltitle>Abulele [2015]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>2018-09-3 06:24:20
+ON,ON
+[COLOR lightblue]2018-09-2 08:28:34[/COLOR]
+סרט משעשע לכל המשפחה בכיכוב הצמד הבלתי נלאה. הפעם נזרקים השניים לרחוב לאחר שבמרדף הרסני במיוחד הרסו את ביתם, אך לא לזמן רב. הם מחליטים להשתתף במירוץ המכוניות האגדי הנקרא 'מירוץ-על' במטרה לזכות בפרס הגדול: טירת חלומות! במירוץ מטורף זה צריכים המתחרים לחצות מדינות, נופים ואתרים מוכרים מכל רחבי העולם כדי להגיע ראשונים לקו הסיום. וכמובן שלאחר שגיבורינו יחצו אותם יישאר אחריהם רק בלאגן ואבק!</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אבוללה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אבוללה\אבוללה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אבוללה\אבוללה.strm</basepath>
+    <uniqueid type="tmdb" default="true">374919</uniqueid>
+    
+    <genre>אקשן</genre>
+<genre>משפחה</genre>
+<genre>אנימציה</genre>
+<genre>קומדיה</genre>
+<genre>הרפתקאות</genre>
+    <year>2015</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=U9VgKkuCafU</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//vdBbynxj6QnDw45hGKvkiWWEWqW.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//pS2ocmYlKZWHwyapu8IhTw8nBJX.jpg">http://image.tmdb.org/t/p/original//pS2ocmYlKZWHwyapu8IhTw8nBJX.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-09-03 06:24:20</dateadded>
+</movie>
+    

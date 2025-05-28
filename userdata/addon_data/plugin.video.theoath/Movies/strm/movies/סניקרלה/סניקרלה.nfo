@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>סניקרלה</title>
+    <originaltitle>Sneakerella</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2022-06-23 18:27:17[/COLOR]
+טוויסט מודרני לסינדרלה המתרחש בתרבות הסניקרס של ניו יורק. אל, מעצב נעלי ספורט שאפתן מקווינס, עובד כנער סטוק בחנות נעליים ומסתיר את כישרונו האמנותי. ניצוצות עפים לאחר מפגש מקרי עם קירה קינג, מיני נסיכת מנהטן מקסימה. עם דחיפה מהחבר הכי טוב שלו ומגע של קסם, אל מוצא את האומץ לשרוך ולחלום בגדול.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סניקרלה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סניקרלה\סניקרלה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סניקרלה\סניקרלה.strm</basepath>
+    <uniqueid type="tmdb" default="true">756187</uniqueid>
+    
+    <genre>מוסיקה</genre>
+<genre>קומדיה</genre>
+<genre>משפחה</genre>
+    <year>2022</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=imaaYfy4oM0</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//jJ07f8DTdeWnCKCwDzB4htLXKBN.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//AfRgDih0N952YNipEHKS1t7PkEi.jpg">http://image.tmdb.org/t/p/original//AfRgDih0N952YNipEHKS1t7PkEi.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-06-23 18:27:17</dateadded>
+</movie>
+    

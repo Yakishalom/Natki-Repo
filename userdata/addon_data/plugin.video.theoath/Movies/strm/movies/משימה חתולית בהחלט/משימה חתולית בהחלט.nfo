@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>משימה חתולית בהחלט</title>
+    <originaltitle>Die sagenhaften Vier</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.0</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,TE
+[COLOR lightblue]2021-09-16 22:23:22[/COLOR]
+[COLOR blue]720p HDTV 2018 משימה חתולית בהחלט מדובב.mkv[/COLOR]
+1.41 GB
+מארני היא חתולת בית מנומנמת, המבלה את זמנה מול סדרות אקשן בטלוויזיה, וחולמת על הרפתקאות חוץ. שגרת חייה מופרת, כשהיא מקבלת הצעה מפתה, להיות סוכנת חשאית במשימה סודית. מרוגשת מההזדמנות הנדירה, יוצאת מארני למסע אל הלא נודע, רק כדי למצוא את עצמה אבודה באמצע שום מקום. חבריה החיות מנסים לעזור למארני לחזור הביתה, אבל בדרך הכל משתבש, כשהמשטרה חושבת שהם כנופיית גנבים ומנהלת אחריהם מצוד. במירוץ נגד הזמן מנסים החברים לאתר את הגנבים האמיתיים, ומוצאים בדרך את עצמם, אהבה וחברות אמתTEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\משימה חתולית בהחלט</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\משימה חתולית בהחלט\משימה חתולית בהחלט.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\משימה חתולית בהחלט\משימה חתולית בהחלט.strm</basepath>
+    <uniqueid type="tmdb" default="true">509733</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> הרפתקאות </genre>
+<genre> קומדיה </genre>
+<genre> משפחה</genre>
+    <year>2019</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//yiGQBY8J5dQBbNk82yLVrcYnz9Q.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//orjo9md2L2jQjsJMv9QkPCzZbEx.jpg">https://image.tmdb.org/t/p/original//orjo9md2L2jQjsJMv9QkPCzZbEx.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-09-16 22:23:22</dateadded>
+</movie>
+    

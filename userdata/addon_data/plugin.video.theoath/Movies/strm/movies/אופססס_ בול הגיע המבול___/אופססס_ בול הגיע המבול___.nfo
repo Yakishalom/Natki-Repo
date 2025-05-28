@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>אופססס! בול הגיע המבול...</title>
+    <originaltitle>All Creatures Big and Small [2015]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>3,251</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2017-12-2 19:01:31[/COLOR]
+דייב ובנו פיני הם יצורים פרוותיים מצחיקים למראה, שלא הוזמנו להצטרף לתיבת נח. כשכל החיות מתחילות להיכנס אליה, הם מנסים להתגנב פנימה, בעזרתן האדיבה של הייזל וליאה, אם וביתה ממשפחת חתולי הבר. הילדים מוצאים שפה משותפת ויוצאים להסתובב בתיבה, ולהביט בבוא המבול מקרוב. מקרוב מדי, מסתבר. כשהמים שוטפים את הארץ התיבה מזדעזעת, ושני הילדים מוצאים עצמם מחוץ לתיבה. בזמן שהוריהם עושים הכל כדי לסובב את התיבה אחורה ולחפש אותם, עוברים הגורים הרפתקת הישרדות סוחפת ומצחיקה בנסיון לחזור לתיבה. הם פוגשים חברים חדשים, חיות נוספות שמצאו עצמן מחוץ לרשימת המוזמנים לתיבה, ומתחמקים מאויבים רשעים ומצרות. בדרך הם לומדים על העולם, על חברות ועל עצמם. כי לפעמים, רק מי שעומד מול סוף העולם, מוצא את מקומו בו.</plot>
+    <runtime>87</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אופססס_ בול הגיע המבול___</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אופססס_ בול הגיע המבול___\אופססס_ בול הגיע המבול___.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אופססס_ בול הגיע המבול___\אופססס_ בול הגיע המבול___.strm</basepath>
+    <uniqueid type="tmdb" default="true">326215</uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Adventure</genre>
+<genre>Comedy</genre>
+<genre>אנימציה</genre>
+<genre>הרפתקאות</genre>
+<genre>קומדיה</genre>
+    <year>2015</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=spcghvLHXdk</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//z8WrrcOrYl8lL2uXVogYrPcTts3.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//aVcpJiLFpvPkoHgE54R4FaI40If.jpg">http://image.tmdb.org/t/p/original//aVcpJiLFpvPkoHgE54R4FaI40If.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2017-12-02 19:01:31</dateadded>
+</movie>
+    

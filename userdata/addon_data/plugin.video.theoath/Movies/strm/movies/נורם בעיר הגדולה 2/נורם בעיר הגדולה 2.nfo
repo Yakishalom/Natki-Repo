@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>נורם בעיר הגדולה 2</title>
+    <originaltitle>Norm of the North: Keys to the Kingdom</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.1</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2023-10-13 17:08:00
+ON,Dr,TE
+[COLOR lightblue]2022-01-31 02:01:18[/COLOR]
+[COLOR blue]1080p 2018 נ.מ נורם בעיר הגדולה 2 מדובב.mkv[/COLOR]
+1.44 GB
+הצטרפו אל נורם, המלך החדש, כשהוא משתמש בכישורי הקוטב שלו כדי להוכיח שהוא ראוי לכתר. נורם וחבריו המכרסמים יוצאים להרפתקה חדשה מלאת אקשן - בה הוא יהפוך מגיבור למבוקש מס' 1 בניו יורק. בזמן שנורם מנסה לטהר את שמו, הוא לא מודע לבעיות שמתרחשות בבית, כשחברת מים מינרלים מגיעה ומחליטה להפוך את הקרח מהקטבים למים בבקבוקים! האם נורם יצליח לטהר את שמו, להציל את הקוטב ולהוכיח שהוא ראוי להיות מלך?TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\נורם בעיר הגדולה 2</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\נורם בעיר הגדולה 2\נורם בעיר הגדולה 2.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\נורם בעיר הגדולה 2\נורם בעיר הגדולה 2.strm</basepath>
+    <uniqueid type="tmdb" default="true">545963</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> קומדיה </genre>
+<genre> משפחה</genre>
+    <year>2018</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//vt5i1AONm8GxTwkzxwcSY5j5mud.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//nvp54siZbqpckAAkVShnhLyZhgS.jpg">https://image.tmdb.org/t/p/original//nvp54siZbqpckAAkVShnhLyZhgS.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-10-13 17:08:00</dateadded>
+</movie>
+    

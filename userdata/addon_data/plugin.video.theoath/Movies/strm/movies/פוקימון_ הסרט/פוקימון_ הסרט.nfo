@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>פוקימון: הסרט</title>
+    <originaltitle>劇場版ポケットモンスター ミュウツーの逆襲</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.915</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,TE
+[COLOR lightblue]2021-04-16 15:54:58[/COLOR]
+[COLOR blue]פוקימון_מיוטו_מכה_שנית_מדובב_גוזלן.mp4[/COLOR]
+1.22 GB
+אי שם במעבדה סודית, מנסה חבורת מדענים ליצור מחומר גנטי שהופק משערה מאובנת  של מיו, את הפוקימון האגדי, החזק מכולם מיוטו.אלא הדברים מסתבכים, ובמקום הפוקימון המופלא נוצרת מפלצת הנשבעת לנקום בעולם.כך מוצאים את עצמם אש וחבריו, מעורבים בסידרת הקרבות העולמיים, בהשתתפות חבורה של מאמנים, כל אחד מהם רוצה להיות מאסטר פוקימון.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פוקימון_ הסרט</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פוקימון_ הסרט\פוקימון_ הסרט.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פוקימון_ הסרט\פוקימון_ הסרט.strm</basepath>
+    <uniqueid type="tmdb" default="true">10228</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> משפחה </genre>
+<genre> הרפתקאות </genre>
+<genre> פנטזיה </genre>
+<genre> אקשן</genre>
+    <year>2019</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//t5n4rQsN1E9GhoTg2aPFSnuzV4i.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//d59cyYhl5xx4x4KQCY9JkwU8xRy.jpg">https://image.tmdb.org/t/p/original//d59cyYhl5xx4x4KQCY9JkwU8xRy.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-04-16 15:54:58</dateadded>
+</movie>
+    

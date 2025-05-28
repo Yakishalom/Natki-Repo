@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>גארפילד וכח החיות</title>
+    <originaltitle>Garfield's Pet Force [Video 2009]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>4</value>
+            <votes>599</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-04-3 08:28:34[/COLOR]
+שום דבר בעולם לא יכול לגרום לגארפילד להיות מעורב במשהו אלא אם כן זה אוכל, עד שהסופר-חתול השרירי גארזוקה מגיע. הוא נוחת בעולם המצויר היישר מעולם הקומיקס עם חדשות מבעתות – המרשעת הגדולה וטויקס תקפה את הכוכב השקט דורקון וגנבה מכשיר ערבול מולקולרי [אקדח Moscram] שיכול לערבל שני אובייקטים באשר הם – אפילו בני אדם!מי שמתערבל עובר לשליטתה של וטויקס. אבל כדי להשתמש במכשיר וטויקס צריכה את הקריסטל שגארזוקה גנב והבריח לעולם הסרטים המצוירים. וטויקס יוצאת במרדף אחר גארזוקה ואם היא תשיג את הקריסטל, כל יצורי העולם המצויר יהיו נתונים לסכנת ערבול ויעברו לשליטתה.אלא אם כן גארפילד יצליח להקים את עצמו מהספה ולהצטרף ליריב שלו גארזוקה למאבק שיציל את עולמותיהם.</plot>
+    <runtime>73</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\גארפילד וכח החיות</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\גארפילד וכח החיות\גארפילד וכח החיות.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\גארפילד וכח החיות\גארפילד וכח החיות.strm</basepath>
+    <uniqueid type="tmdb" default="true">19508</uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Action</genre>
+<genre>Comedy</genre>
+<genre>אנימציה</genre>
+<genre>קומדיה</genre>
+<genre>משפחה</genre>
+    <year>2009</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//hxxmCfF9csIhF5UNQrVxeDU3WaP.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//z8VTImXP5AIzaLeUyDWbiZHTiyJ.jpg">http://image.tmdb.org/t/p/original//z8VTImXP5AIzaLeUyDWbiZHTiyJ.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-04-03 08:28:34</dateadded>
+</movie>
+    

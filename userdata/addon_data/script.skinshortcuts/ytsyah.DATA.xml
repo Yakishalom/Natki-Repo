@@ -1,0 +1,10 @@
+<shortcuts>
+	<shortcut>
+		<defaultID>13009</defaultID>
+		<label>יציאה מהקודי</label>
+		<label2>פריטים מותאמים אישית</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>RunAddon("plugin.close.kodi")</action>
+		</shortcut>
+	</shortcuts>

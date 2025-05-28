@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>האי של נים</title>
+    <originaltitle>Nim's Island [2008]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>30,169</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-04-3 12:41:03[/COLOR]
+הכל יכול לקרות באי של נים, מקום קסום הנשלט על ידי דמיונה של ילדה צעירה. זהו קיום המשקף את זה של גיבורה הספרותי, אלכס רובר - ההרפתקן הגדול בעולם. אך אלכסנדרה, מחברת ספריו של רובר, מעבירה את חייה בבדידות בעיר הגדולה. כשאביה של נים נעלם מהאי, הגורל מפגיש אותה עם אלכסנדרה. כעת עליהם לשאוב כוח אחד מן השני ואומץ מהדמות הבדיונית, אלכס רובר, כדי לכבוש את האי של נים.</plot>
+    <runtime>96</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\האי של נים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\האי של נים\האי של נים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\האי של נים\האי של נים.strm</basepath>
+    <uniqueid type="tmdb" default="true">10488</uniqueid>
+    
+    <genre>Adventure</genre>
+<genre>Comedy</genre>
+<genre>Family</genre>
+<genre>הרפתקאות</genre>
+<genre>קומדיה</genre>
+<genre>משפחה</genre>
+<genre>פנטזיה</genre>
+    <year>2008</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=yVkrPH48k_I</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//1yPSuu8vIkpXruggWVZ6BDns2nD.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//hVzII4DQU9X9TVhXwQoLgeweZV9.jpg">http://image.tmdb.org/t/p/original//hVzII4DQU9X9TVhXwQoLgeweZV9.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-04-03 12:41:03</dateadded>
+</movie>
+    

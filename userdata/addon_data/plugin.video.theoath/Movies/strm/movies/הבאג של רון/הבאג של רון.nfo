@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הבאג של רון</title>
+    <originaltitle>Ron&apos;s Gone Wrong</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2022-03-22 06:28:57[/COLOR]
+ברני הוא תלמיד חטיבת ביניים שמתקשה חברתית, חברו החדש רון הוא רובוט מהלך ומדבר אשר אמור להיות ‘חברו הטוב ביותר ברגע שתוציא אותו מהאריזה’. התקלות המבדרות בתפקודו של רון, המתרחשות בעידן המדיה הדיגיטלית, שולחות את השניים למסע מלא אקשן בו ברני ורון יתעמתו עם הבלגן המופלא שנקרא חברות אמת.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הבאג של רון</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הבאג של רון\הבאג של רון.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הבאג של רון\הבאג של רון.strm</basepath>
+    <uniqueid type="tmdb" default="true">482321</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>מדע בדיוני</genre>
+<genre>משפחה</genre>
+<genre>קומדיה</genre>
+    <year>2021</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=fCqGfjBSk0I</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//3XuPumgwQlb17U4VkjB5jF0OsoK.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//sdL37sfUBth7mdkAolI83bXAl7L.jpg">http://image.tmdb.org/t/p/original//sdL37sfUBth7mdkAolI83bXAl7L.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-03-22 06:28:57</dateadded>
+</movie>
+    

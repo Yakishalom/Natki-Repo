@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מדגסקר</title>
+    <originaltitle>Madagascar</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.89</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2018-12-22 00:01:55
+ON,Dr,TE
+[COLOR lightblue]2017-04-12 21:11:17[/COLOR]
+[COLOR blue]יוסי_סרטים_מדגסקר_1_מדובב_עי_כפי.mp4[/COLOR]
+0.48 GB
+בגן החיות הלאומי בניו-יורק, אריה, זברה, ג'ירפה, והיפופוטם, החברים הכי טובים, וכוכבי ההופעה. אבל כאשר אחד החיות ברח מהכלוב שלו, שאר החיות יוצאות מחיפוש אחריו, רק בשביל שיאוחדו שוב. על אוניה בדרך למדגסקר, אך החברים לומדים, שהחיים יכולים להיות כמו בעולם הפתוח.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מדגסקר</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מדגסקר\מדגסקר.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מדגסקר\מדגסקר.strm</basepath>
+    <uniqueid type="tmdb" default="true">953</uniqueid>
+    
+    <genre></genre>
+    <year>2005</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//4xzvtuxTrvq8a2u2rbLWb1xyH8l.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//8NCftAWfkETwrbf7QwEaDH1xpus.jpg">https://image.tmdb.org/t/p/original//8NCftAWfkETwrbf7QwEaDH1xpus.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-12-22 00:01:55</dateadded>
+</movie>
+    

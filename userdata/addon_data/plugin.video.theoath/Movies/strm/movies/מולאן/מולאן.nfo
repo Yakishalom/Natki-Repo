@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מולאן</title>
+    <originaltitle>Mulan</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.91</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2021-11-7 17:07:30
+ON,Dr,Dr,TE
+[COLOR lightblue]2018-06-02 20:32:27[/COLOR]
+[COLOR blue]מולאן מס 2.מדובב.גוזלן.mp4[/COLOR]
+1.15 GB
+כאשר הקיסר הסיני מוציא צו מלכותי המחייב גבר אחד מכל משפחה לשרת בצבא האימפריה כדי להגן על המדינה מפלישה מצפון, הואה מולאן, ביתו הגדולה של לוחם עבר מעוטר, נענית לצו הקיסר במקום אביה החולה. בעודה מעמידה פנים שהיא גבר בשם הואה ג'וּן, על מנת לשרת בצבא הקיסר, היא עומדת במבחנים רבים לאורך הדרך. מולאן לומדת לרתום את כוחה הפנימי כדי לממש את מלוא הפוטנציאל שלה. זהו מסע מופלא, אשר יהפוך את מולאן ללוחמת מוערכת, ויזכה אותה בהוקרת התודה של מדינתה ושל אביה.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מולאן</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מולאן\מולאן.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מולאן\מולאן.strm</basepath>
+    <uniqueid type="tmdb" default="true">337401</uniqueid>
+    
+    <genre>הרפתקאות </genre>
+<genre> פנטזיה </genre>
+<genre> דרמה </genre>
+<genre> אקשן</genre>
+    <year>2004</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//tpiwM4qBhe3sIC5DIsfRghKllj9.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//zMrk2G3XsnfYKiIp1NEfdtvDyBH.jpg">https://image.tmdb.org/t/p/original//zMrk2G3XsnfYKiIp1NEfdtvDyBH.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-11-07 17:07:30</dateadded>
+</movie>
+    

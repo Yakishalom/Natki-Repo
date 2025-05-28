@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>פוקימון הסרט: סודות הג'ונגל</title>
+    <originaltitle>劇場版ポケットモンスター ココ</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.154</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>Dr,TE,TE
+[COLOR lightblue]2021-11-07 16:54:48[/COLOR]
+[COLOR blue]1080p_2020_פוקימון_הסרט_סודות_הג'ונגל_מדובב.mkv[/COLOR]
+1.5 GB
+הילד האנושי קוקו גדל בג'ונגל בחיק שבט הזארוד המבודד. כאשר הוא פוגש את אש ואת פיקאצ'ו ומתיידד איתם, הוא מגלה את עולם בני האדם – וחושף מזימה שמאיימת על ביתו האהוב!TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פוקימון הסרט_ סודות הג_ונגל</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פוקימון הסרט_ סודות הג_ונגל\פוקימון הסרט_ סודות הג_ונגל.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פוקימון הסרט_ סודות הג_ונגל\פוקימון הסרט_ סודות הג_ונגל.strm</basepath>
+    <uniqueid type="tmdb" default="true">662708</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> הרפתקאות </genre>
+<genre> משפחה </genre>
+<genre> פנטזיה</genre>
+    <year>2020</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//6fMvvHyYy8NTDEcflUCcCuR3pLi.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//4KpNHvQIjyg1YFovRAoUXoFrGnR.jpg">https://image.tmdb.org/t/p/original//4KpNHvQIjyg1YFovRAoUXoFrGnR.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-11-07 16:54:48</dateadded>
+</movie>
+    

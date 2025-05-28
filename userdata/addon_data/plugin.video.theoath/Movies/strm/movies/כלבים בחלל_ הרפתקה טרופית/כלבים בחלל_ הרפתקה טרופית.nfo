@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>כלבים בחלל: הרפתקה טרופית</title>
+    <originaltitle>Белка и Стрелка: Карибская тайна</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.7</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>TE
+[COLOR lightblue]2017-06-16 10:46:45[/COLOR]
+[COLOR blue]כלבים בחלל מדובב.avi[/COLOR]
+0.68 GB
+כאשר מערבולת מסתורית ומסוכנת מופיעה באזורים הטרופיים של האוקיאנוס האטלנטי, נשלחות האסטרונאוטיות בלקה וסטרלקה לחקור בעניין. בעזרת חבריהם הטובים, עליהן לפעול שוב בגבורה ולהשלים משימה נועזת להצלת כדור הארץ הכוללת גם את ביתם הרחוק של חבריהם החיזרים.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\כלבים בחלל_ הרפתקה טרופית</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\כלבים בחלל_ הרפתקה טרופית\כלבים בחלל_ הרפתקה טרופית.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\כלבים בחלל_ הרפתקה טרופית\כלבים בחלל_ הרפתקה טרופית.strm</basepath>
+    <uniqueid type="tmdb" default="true">579824</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> משפחה</genre>
+    <year>2010</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//xIqmN3UZZKHNMXK5YJmRPAftxOk.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//xcqfiPxScWXZk3Ry9ZOM7x4V1Hg.jpg">https://image.tmdb.org/t/p/original//xcqfiPxScWXZk3Ry9ZOM7x4V1Hg.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2017-06-16 10:46:45</dateadded>
+</movie>
+    

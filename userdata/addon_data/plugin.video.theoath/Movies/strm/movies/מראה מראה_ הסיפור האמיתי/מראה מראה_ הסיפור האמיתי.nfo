@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מראה מראה: הסיפור האמיתי</title>
+    <originaltitle>Mirror Mirror [2012]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>76,959</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-07-16 09:26:15[/COLOR]
+שלגיה מגורשת מן הארמון אל היער ע'י המלכה המרשעת. שבעה גמדים מתגייסים לעזור לה לחזור לארמון ולהשיב את כבודה. אבל המלכה שסוף סוף זכתה לשלוט בממלכה לא תוותר בקלות, ותילחם בשלגיה בקומדיה שמלאה ברומנטיקה, הומור, יצרים והמון רגש.</plot>
+    <runtime>106</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מראה מראה_ הסיפור האמיתי</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מראה מראה_ הסיפור האמיתי\מראה מראה_ הסיפור האמיתי.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מראה מראה_ הסיפור האמיתי\מראה מראה_ הסיפור האמיתי.strm</basepath>
+    <uniqueid type="tmdb" default="true">62764</uniqueid>
+    
+    <genre>Adventure</genre>
+<genre>Comedy</genre>
+<genre>Drama</genre>
+<genre>הרפתקאות</genre>
+<genre>קומדיה</genre>
+<genre>דרמה</genre>
+<genre>משפחה</genre>
+<genre>פנטזיה</genre>
+    <year>2012</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=j3hFD9xqTCU</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//t4o4NTi12N9ftPlqjggzQnjHsKa.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//b6oaKs9wG3cdJKNCSNg0U3nv2gQ.jpg">http://image.tmdb.org/t/p/original//b6oaKs9wG3cdJKNCSNg0U3nv2gQ.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-07-16 09:26:15</dateadded>
+</movie>
+    

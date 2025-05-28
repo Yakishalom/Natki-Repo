@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>ג'לי טרזן</title>
+    <originaltitle>Ivan the Incredible [2012]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>4</value>
+            <votes>572</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-10-7 07:08:06[/COLOR]
+איוואן הוא ילד מוטרד, בבית הספר מציקים לו, חבורת בריונים רודפת אחריו כדי למלא את מכנסיו במים. הוא חי עם אביו, מעריץ מושבע של טרזן, אבל הוא לא מעריך את יכולותיו בנו, ובשל כך הוא מכנה אותו ג'לי טרזן [טרזן חלשלוש]. כאשר לוטי, הילדה החמודה של הכיתה רוצה להיות חברה שלו, חוסר הביטחון של איוואן מונע ממנו לנצל את ההזדמנות להסכים. אבל יום אחד, מקבל איוואן את ההזדמנות לעמוד בכל ציפיותיו של אביו, וללמד את חבורת הבריונים שמציקה לו לקח. הוא פוגש מכשפה ידידותית שרוקחת לו שיקוי קסם שהופך אותו 'לילד מוצלח' ליום אחד. העובדה שכוחות הפלא שלו לא חולפים בתום היום הראשון, היא רק אחת מההפתעות שקורות במהלך ההרפתקה.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ג_לי טרזן</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ג_לי טרזן\ג_לי טרזן.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ג_לי טרזן\ג_לי טרזן.strm</basepath>
+    <uniqueid type="tmdb" default="true">132313</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>קומדיה</genre>
+<genre>משפחה</genre>
+    <year>2012</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9V06oVs0Rkg</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//lPkOwcVVuq3ggwenKgA10lHZu2x.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//uMraWztu7o6V1FBs75c2RI6pL5k.jpg">http://image.tmdb.org/t/p/original//uMraWztu7o6V1FBs75c2RI6pL5k.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-10-07 07:08:06</dateadded>
+</movie>
+    

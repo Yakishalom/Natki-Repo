@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מיה ובוני החלומות</title>
+    <originaltitle>Drømmebyggerne</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2021-09-11 16:36:33[/COLOR]
+לאבא של מינה יש אשה חדשה והיא עוברת לגור איתם, יחד עם בתה, ג'ני. עד מהרה, החיים של מינה משתנים, ולא לטובה. ג'ני מרושעת ומינה חייבת להפטר ממנה! לילה אחד היא פוגשת ביצורים קסומים בשם 'בוני החלומות' ומגלה שהיא יכולה לשנות את החלומות של ג'ני וכך לשנות גם אותה. אבל לכל דבר יש מחיר...  מדנמרק מגיע סרט אנימציה קסום וגדוש בהרפתקאות. האנימציה המרהיבה, פס-הקול החינני וההמצאות של התסריט חוברים יחד כדי לנסוך חיים בעולם של חלומות ולעזור לילדה קטנה אחת למצוא את דרכה.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מיה ובוני החלומות</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מיה ובוני החלומות\מיה ובוני החלומות.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מיה ובוני החלומות\מיה ובוני החלומות.strm</basepath>
+    <uniqueid type="tmdb" default="true">586742</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>הרפתקאות</genre>
+<genre>משפחה</genre>
+    <year>2020</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=f9_K1OJdPoE</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//qSzoOTsoyLeDvvmCAv6n6fDMSfJ.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//mmsw80DQpR0eEJBJvDjLyNimBjL.jpg">http://image.tmdb.org/t/p/original//mmsw80DQpR0eEJBJvDjLyNimBjL.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-09-11 16:36:33</dateadded>
+</movie>
+    

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>קרקס החיות</title>
+    <originaltitle>Animal Crackers</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2022-03-14 21:04:07[/COLOR]
+חייו של אוון הם מעגל אין סופי של עבודה, אוכל ושינה. המעגל הזה לא מאפשר לו להתראות עם אשתו זואי, או עם בתו בת ה-3 מקנזי. הוא מרגיש שחייב לעשות שינוי אחרת הדברים יהפכו לבלתי נסבלים לחלוטין... יום אחד, אוון מגלה לפתע שדוד שהוא לא ידע עליו [באפלו בוב... איש הקרקס המגניב ביותר במערב] נפטר... והשאיר לו קרקס! מה שיכול היה להיות ברכה.... במהרה מתברר כקללה.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קרקס החיות</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קרקס החיות\קרקס החיות.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קרקס החיות\קרקס החיות.strm</basepath>
+    <uniqueid type="tmdb" default="true">315064</uniqueid>
+    
+    <genre>קומדיה</genre>
+<genre>אנימציה</genre>
+<genre>הרפתקאות</genre>
+    <year>2017</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=6yrtrDjmw5c</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//2NoC9uAmoal9btvaFVu6E1OAjxc.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//q5uZqd324Tug2xWxL72j18ZzK2Z.jpg">http://image.tmdb.org/t/p/original//q5uZqd324Tug2xWxL72j18ZzK2Z.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-03-14 21:04:07</dateadded>
+</movie>
+    

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Super Monsters: Day of the Monsters</title>
+    <originaltitle>Super Monsters: Dia de los Monsters [2020] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>4</value>
+            <votes>19</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2020-12-16 12:43:36[/COLOR]
+The Super Monsters celebrate Día de los Muertos in Vida’s hometown with her magical family, some new monster friends and a spook-tacular parade!</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\Super Monsters_ Day of the Monsters</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\Super Monsters_ Day of the Monsters\Super Monsters_ Day of the Monsters.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\Super Monsters_ Day of the Monsters\Super Monsters_ Day of the Monsters.strm</basepath>
+    <uniqueid type="tmdb" default="true">751562</uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Family</genre>
+    <year>2020</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//lPjZGbGtWlwRb8Fvujz7yYCuVw1.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//tAK9wwg0QF3cKJIxsL4Fjl9dKGt.jpg">http://image.tmdb.org/t/p/original//tAK9wwg0QF3cKJIxsL4Fjl9dKGt.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-12-16 12:43:36</dateadded>
+</movie>
+    

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>טום וג'רי: רובין הוד ועכברו העליז</title>
+    <originaltitle>Tom and Jerry: Robin Hood and His Merry Mouse [Video 2012]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-09-2 13:29:45[/COLOR]
+כאשר ג'רי, החבר הקטן ביותר בכנופיה של רובין הוד, נתקל בטום, נושא הכלים של מריון המטורף. הם לא רק חתול ועכבר משני צדי מתרס, טום באופן חשאי עובד כמרגל עבור השריף של נוטינגהאם והנסיך המרשע ג'ון. אבל כאשר הרשעים מצליחים ללכוד את רובין הוד , טום מבין לחרדתו כי הם מתכוונים לפגוע גם במריון . דבר המאלץ איחוד כוחות עם ג'רי, ובנוסף שניהם מאפשרים את חזרתו של המלך ריצ'רד.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טום וג_רי_ רובין הוד ועכברו העליז</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טום וג_רי_ רובין הוד ועכברו העליז\טום וג_רי_ רובין הוד ועכברו העליז.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טום וג_רי_ רובין הוד ועכברו העליז\טום וג_רי_ רובין הוד ועכברו העליז.strm</basepath>
+    <uniqueid type="tmdb" default="true">134623</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>קומדיה</genre>
+<genre>משפחה</genre>
+    <year>2012</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//lzMSThxUI0zJZ2vKoArHo2hqJvZ.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//4odngWjfAfpVokMZp4jUbfL08ea.jpg">http://image.tmdb.org/t/p/original//4odngWjfAfpVokMZp4jUbfL08ea.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-09-02 13:29:45</dateadded>
+</movie>
+    

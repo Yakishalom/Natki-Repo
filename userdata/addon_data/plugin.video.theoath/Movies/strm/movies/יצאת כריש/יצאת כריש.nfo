@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>יצאת כריש</title>
+    <originaltitle>Shark Bait</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.023</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,TE
+[COLOR lightblue]2019-11-14 15:53:59[/COLOR]
+[COLOR blue]BDRip 2006 נתי מדיה יצאת כריש מדובב.mkv[/COLOR]
+0.68 GB
+פאי הוא דג קטן מבוסטון שעובר לגור אצל דודתו פרל בריף האקזוטי.בביתו החדש הוא פוגש בקורדיליה - היפה שבדגים. הבעיה היא שגם טרוי שהוא במקרה הכריש הכי מרושע באוקיינוס שם עין על קורדיליה. עכשיו, אם פאי לא רוצה להפוך לחטיף של טרוי הוא יצטרך למצוא תוכנית להשיג את אהובתו ובדרך לגרש את הכריש המרושע מהריף השקט.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\יצאת כריש</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\יצאת כריש\יצאת כריש.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\יצאת כריש\יצאת כריש.strm</basepath>
+    <uniqueid type="tmdb" default="true">19595</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> משפחה</genre>
+    <year>2006</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//pQGEaiPbtR3qb9Yq7M40hSzk12O.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//wjluPJYlI0cJxi55Z1nkyGJ8SGZ.jpg">https://image.tmdb.org/t/p/original//wjluPJYlI0cJxi55Z1nkyGJ8SGZ.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-11-14 15:53:59</dateadded>
+</movie>
+    

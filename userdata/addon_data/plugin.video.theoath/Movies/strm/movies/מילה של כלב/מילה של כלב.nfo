@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מילה של כלב</title>
+    <originaltitle>Show Dogs [2018] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>4</value>
+            <votes>3,379</votes>
+        </rating>
+    </ratings>
+    <plot>2019-05-7 15:03:33
+ON,Dr
+[COLOR lightblue]2019-04-27 16:34:04[/COLOR]
+מקס הוא השוטר הכי קשוח ברחוב – הוא אמיץ, הוא חכם, הוא מצחיק – ויש לו זנב! מקס יעשה הכל כדי לשמור על חבריו בעלי החיים, אבל כשמשהו לא חוקי מתרחש בתחרות הכלבים הגדולה בעולם בלאס וגאס, הוא והשותף שלו – שוטר אדם שבכלל לא מסתדר עם כלבים - יוצאים למשימה חשאית. השניים חייבים להעמיד פנים שהם החברים הכי טובים, ולעבוד יחד במסווה של מתמודדים בתחרות. הצרה היא שאף אחד מהם לא ממש יודע מה צריך לעשות כדי לנצח בה...</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מילה של כלב</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מילה של כלב\מילה של כלב.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מילה של כלב\מילה של כלב.strm</basepath>
+    <uniqueid type="tmdb" default="true">425148</uniqueid>
+    
+    <genre>הרפתקאות</genre>
+<genre>פשע</genre>
+<genre>משפחה</genre>
+<genre>קומדיה</genre>
+    <year>2018</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ogpTTHLprFs</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//jo65BKlcbytA7kkiUSKYqK76Ld3.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//6jNackbDC9FKDHTH5rQbSQoa2Uq.jpg">http://image.tmdb.org/t/p/original//6jNackbDC9FKDHTH5rQbSQoa2Uq.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-05-07 15:03:33</dateadded>
+</movie>
+    

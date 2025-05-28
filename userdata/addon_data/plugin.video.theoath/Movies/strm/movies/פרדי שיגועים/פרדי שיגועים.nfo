@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>פרדי שיגועים</title>
+    <originaltitle>Orla Frøsnapper</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.6</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2021-09-22 17:03:05
+Dr,TE,TE,TE
+[COLOR lightblue]2017-01-02 09:16:29[/COLOR]
+[COLOR blue]יוסי_סרטים_פרדי_שיגועים_מדובב_DVDRIP.avi[/COLOR]
+0.68 GB
+הילד ויקטור וחבריו נאלצים למצוא דרכים יצירתיות להתמודד עם פרדי, בריון העיר שנוהג להציק להם. בזכות חברות אמיצה ושיתוף פעולה בין חברים, הם מצליחים להערים עליו ולומדים בעזרת המצאות מצחיקות ועולם הדמיון, לעמוד על שלהם ולא להתפשר.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פרדי שיגועים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פרדי שיגועים\פרדי שיגועים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פרדי שיגועים\פרדי שיגועים.strm</basepath>
+    <uniqueid type="tmdb" default="true">79557</uniqueid>
+    
+    <genre>קומדיה </genre>
+<genre> אנימציה </genre>
+<genre> משפחה</genre>
+    <year>2011</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//lfQi0UkiiH4y8o3eTNPruAUKJuf.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//m6VvDrmSB56PaDaBkwSVYcqhvnr.jpg">https://image.tmdb.org/t/p/original//m6VvDrmSB56PaDaBkwSVYcqhvnr.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-09-22 17:03:05</dateadded>
+</movie>
+    

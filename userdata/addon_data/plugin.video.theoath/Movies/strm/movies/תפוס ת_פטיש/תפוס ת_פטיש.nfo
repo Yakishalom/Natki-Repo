@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>תפוס ת'פטיש</title>
+    <originaltitle>Hetjur Valhallar - Þór</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.3</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>TE
+[COLOR lightblue]2021-06-13 08:52:55[/COLOR]
+[COLOR blue]NF נתי מדיה תפוס ת'פטיש מדובב עי.avi[/COLOR]
+0.68 GB
+ת'ור, היה נפח שחי באושר עם אמו בכפר שליו וקטן, בצירוף מקרים, הנשק הכי חזק בעולם, פטיש המחץ, הגיע לידיו. מהר מאוד הוא מוצא את עצמו נלחם עם צבא ענקים שזוממים יחד עם המלכה המרשעת, הל, להשתלט על העולם. הם מקפיאים את כל מי שעומד בדרכם ומצליחים לשים יד על הפטיש. גם כאשר הכל נראה אבוד, העזרה מגיעה ממקומות לא צפויים ות'ור יוצא למאבק האחרון, להשיב את פטיש המחץ והשליטה אליו.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\תפוס ת_פטיש</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\תפוס ת_פטיש\תפוס ת_פטיש.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\תפוס ת_פטיש\תפוס ת_פטיש.strm</basepath>
+    <uniqueid type="tmdb" default="true">106631</uniqueid>
+    
+    <genre></genre>
+    <year>2011</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//2pgibCeAGIDxChJllbDQw0OHqf1.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//6UwmkaB1mRZ0fo5A79m5XpVA5RK.jpg">https://image.tmdb.org/t/p/original//6UwmkaB1mRZ0fo5A79m5XpVA5RK.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-06-13 08:52:55</dateadded>
+</movie>
+    

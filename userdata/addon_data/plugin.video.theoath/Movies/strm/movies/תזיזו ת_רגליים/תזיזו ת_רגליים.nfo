@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>תזיזו ת'רגליים</title>
+    <originaltitle>Happy Feet [2006] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>156,484</votes>
+        </rating>
+    </ratings>
+    <plot>2020-03-31 11:26:28
+ON,Dr
+[COLOR lightblue]2019-04-12 18:53:15[/COLOR]
+עלילת הסרט מתרחשת באימפריה הגדולה של הפינגווינים הקיסרים באנטרקטיקה.  הסיפור הוא על זן מסוים של פינגווינים שכדי למצוא בת זוג הם שרים לה מכל הלב.  הפינגווין שלנו הוא בנם של זמרים מפורסמים מאוד לממפסי ונורמה ג'ין, הצרה היא  שהוא פשוט לא יודע לשיר, אבל מסתבר שהוא רקדן סטפס מבריק. האם כשרון הריקוד יכול לעזור לו בחיזור אחרי בנות המין היפה?</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\תזיזו ת_רגליים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\תזיזו ת_רגליים\תזיזו ת_רגליים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\תזיזו ת_רגליים\תזיזו ת_רגליים.strm</basepath>
+    <uniqueid type="tmdb" default="true">9836</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>קומדיה</genre>
+<genre>משפחה</genre>
+    <year>2006</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ThMZMdH3gVA</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//za41IHkj6LnkilfTzv5B2qmthKD.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//9DUAR7p4SGqt2ISH2lmSzNx3uni.jpg">http://image.tmdb.org/t/p/original//9DUAR7p4SGqt2ISH2lmSzNx3uni.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-03-31 11:26:28</dateadded>
+</movie>
+    

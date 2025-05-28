@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>טינקרבל ופיית הפיראטים</title>
+    <originaltitle>The Pirate Fairy [Video 2014] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7</value>
+            <votes>11,323</votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr
+[COLOR lightblue]2019-08-2 08:31:10[/COLOR]
+'טינקרבל ופיית הפיראטים' - הרפתקה חדשה על זארינה, פייה חכמה ושאפתנית. כאשר הרעיונות המשוגעים של זארינה מסבכים אותה בצרות, היא בורחת מפיקסי הולו ומתחברת עם הפיראטים של סלע הגולגולת שהופכים אותה להיות הקפטנית של הספינה שלהם. טינקרבל וחברותיה יוצאות למסע הרפקתני כדי למצוא את זארינה וביחד הן יתמודדו עם חבורת הפיראטים שבראשם עומד נער סיפון בשם ג'יימס, הלא הוא קפטן הוק בכבודו ובעצמו.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טינקרבל ופיית הפיראטים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טינקרבל ופיית הפיראטים\טינקרבל ופיית הפיראטים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טינקרבל ופיית הפיראטים\טינקרבל ופיית הפיראטים.strm</basepath>
+    <uniqueid type="tmdb" default="true">175112</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>משפחה</genre>
+    <year>2014</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Et4zsoUNb_0</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//qZLBe9Z8Y6WSDVqbqTQJUf8V1mp.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//o1i7cP3t4tyCJJUPSbMxEoA1pXP.jpg">http://image.tmdb.org/t/p/original//o1i7cP3t4tyCJJUPSbMxEoA1pXP.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-08-02 08:31:10</dateadded>
+</movie>
+    

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>דלהי ספארי</title>
+    <originaltitle>Delhi Safari</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.2</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,TE
+[COLOR lightblue]2019-11-15 11:03:24[/COLOR]
+[COLOR blue]דלהי ספארי.מדובב.גוזלן.avi[/COLOR]
+0.68 GB
+הסרט מגולל את סיפור מסעם של ברדלס ואימו, קוף, דוב ותוכי כאשר הם מגלים שהיער שבו הם חיו עומד לפני הריסה בגלל התערבותם של בני האדם. חמשת החיות מגיעות לפרלמנט בדלהי ומעלות לדיון שאלה מדוע האדם הפך לחיה המסוכנת מכולן? האם האדם מבין שכאשר הוא יחריב את היערות ואת החיות גורלו יהיה זהה לשלהם?TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דלהי ספארי</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דלהי ספארי\דלהי ספארי.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דלהי ספארי\דלהי ספארי.strm</basepath>
+    <uniqueid type="tmdb" default="true">51485</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> קומדיה </genre>
+<genre> משפחה</genre>
+    <year>2012</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//lOHkT0UMej8KXKqm0VxQMysSvDw.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview=" "> </thumb>
+            
+    </fanart>
+    <dateadded>2019-11-15 11:03:24</dateadded>
+</movie>
+    

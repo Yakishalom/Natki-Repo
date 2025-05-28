@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>נסיך פאוריה(2018)</title>
+    <originaltitle>נסיך פאוריה(2018)</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes> </votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2019-02-5 09:08:40[/COLOR]
+נסיך פאוריה ( -2018). סטטוס:בין עונות. עלילה:נסיך מארץ רחוקה רוצה לחוות כמתבגר רגיל. הוא עוזב את הממלכה ומתחבר עם טדי, תלמיד מופנם ושקדן</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\נסיך פאוריה(2018)</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\נסיך פאוריה(2018)\נסיך פאוריה(2018).strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\נסיך פאוריה(2018)\נסיך פאוריה(2018).strm</basepath>
+    <uniqueid type="tmdb" default="true"> </uniqueid>
+    
+    <genre>פשע</genre>
+<genre>דרמה</genre>
+<genre>מסתורין</genre>
+<genre>אקשן והרפתקאות</genre>
+    <year> 2018</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://lh3.googleusercontent.com/GgOSOJZqWoB3JTHv-3mboC9ab7kciYIM2MhGu2TGN9WIX74wmmfcflBC1-ohcSLLt2sfWJQ3eL2yIj8JHG2U0uzwwKkcpj_9t8cwLTqK-wnpZN-lK2rewAYN2qk0a2pLl6P4ho3KrT-j8iW4E0zTeFZy7fQWXc5X-UFrItoMUY7MFMlZcChhqBaqXJPVQfmt8_Lxz_i7xIkB_riigu9AZ_Qu3I_tG51wuKmZSFUFs7SBnS-x1--dQPGUo4sUdxACH-xEBXqz7uWLnQNfofBMsosA8GAhPPP2mFf1WecUNSsOC-W5BxHEBONqaSElYzedLxsEAuje5kFe7FkRBWRqQjNsEOnNeMYxNtIVcQWsVdhMLpqYsmD1_SfJrEvoopZiIq5bIE8exL1RV5X04IMDHDDr6dGABpi6pZvLaxIRmRU6WRaQBK-f41yDlxeshrawRo4yzt9PwJm1hCjPwxlX0fSBAXcnPRiJPa8EA-7mMTjxo_5VcorIzhEM0p7wu2KX_qtGzyQIAEnogHVeZVFiIzBhdSfZmiZ6zqsWAnJ7yr5Ta6RZCbi04JFyD2EhE0NaCS32glIYa6qekB3EaGpvK1c74EGHB5o0YqeiL2L_s7wqCILFtZ5vmJAPDbLWdcF2-XWxAwul8qczK-bvNa2WwbVn6w=w640-h360-no</thumb>
+    <fanart>
+      <thumb colors="" preview="https://lh3.googleusercontent.com/GgOSOJZqWoB3JTHv-3mboC9ab7kciYIM2MhGu2TGN9WIX74wmmfcflBC1-ohcSLLt2sfWJQ3eL2yIj8JHG2U0uzwwKkcpj_9t8cwLTqK-wnpZN-lK2rewAYN2qk0a2pLl6P4ho3KrT-j8iW4E0zTeFZy7fQWXc5X-UFrItoMUY7MFMlZcChhqBaqXJPVQfmt8_Lxz_i7xIkB_riigu9AZ_Qu3I_tG51wuKmZSFUFs7SBnS-x1--dQPGUo4sUdxACH-xEBXqz7uWLnQNfofBMsosA8GAhPPP2mFf1WecUNSsOC-W5BxHEBONqaSElYzedLxsEAuje5kFe7FkRBWRqQjNsEOnNeMYxNtIVcQWsVdhMLpqYsmD1_SfJrEvoopZiIq5bIE8exL1RV5X04IMDHDDr6dGABpi6pZvLaxIRmRU6WRaQBK-f41yDlxeshrawRo4yzt9PwJm1hCjPwxlX0fSBAXcnPRiJPa8EA-7mMTjxo_5VcorIzhEM0p7wu2KX_qtGzyQIAEnogHVeZVFiIzBhdSfZmiZ6zqsWAnJ7yr5Ta6RZCbi04JFyD2EhE0NaCS32glIYa6qekB3EaGpvK1c74EGHB5o0YqeiL2L_s7wqCILFtZ5vmJAPDbLWdcF2-XWxAwul8qczK-bvNa2WwbVn6w=w640-h360-no">https://lh3.googleusercontent.com/GgOSOJZqWoB3JTHv-3mboC9ab7kciYIM2MhGu2TGN9WIX74wmmfcflBC1-ohcSLLt2sfWJQ3eL2yIj8JHG2U0uzwwKkcpj_9t8cwLTqK-wnpZN-lK2rewAYN2qk0a2pLl6P4ho3KrT-j8iW4E0zTeFZy7fQWXc5X-UFrItoMUY7MFMlZcChhqBaqXJPVQfmt8_Lxz_i7xIkB_riigu9AZ_Qu3I_tG51wuKmZSFUFs7SBnS-x1--dQPGUo4sUdxACH-xEBXqz7uWLnQNfofBMsosA8GAhPPP2mFf1WecUNSsOC-W5BxHEBONqaSElYzedLxsEAuje5kFe7FkRBWRqQjNsEOnNeMYxNtIVcQWsVdhMLpqYsmD1_SfJrEvoopZiIq5bIE8exL1RV5X04IMDHDDr6dGABpi6pZvLaxIRmRU6WRaQBK-f41yDlxeshrawRo4yzt9PwJm1hCjPwxlX0fSBAXcnPRiJPa8EA-7mMTjxo_5VcorIzhEM0p7wu2KX_qtGzyQIAEnogHVeZVFiIzBhdSfZmiZ6zqsWAnJ7yr5Ta6RZCbi04JFyD2EhE0NaCS32glIYa6qekB3EaGpvK1c74EGHB5o0YqeiL2L_s7wqCILFtZ5vmJAPDbLWdcF2-XWxAwul8qczK-bvNa2WwbVn6w=w640-h360-no</thumb>
+            
+    </fanart>
+    <dateadded>2019-02-05 09:08:40</dateadded>
+</movie>
+    

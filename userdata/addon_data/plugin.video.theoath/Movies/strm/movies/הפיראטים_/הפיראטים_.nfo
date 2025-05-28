@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הפיראטים!</title>
+    <originaltitle>The Pirates! Band of Misfits [2012]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7</value>
+            <votes>40,307</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-07-16 08:41:55[/COLOR]
+קפטן פיראט, שודד הים המזוקן והנלהב, אימת יורדי הים. כשלצידו צוות כושל במיוחד, נראה שאין להם סיכוי מול הסכנות האורבות להם בדרך. אך לקפטן יש מטרה אחת: להכות באויביו המרים בלאק בלאמי וקוטלאס ליז, כדי לזכות בפרס פיראט השנה. הם יוצאים למסע בין חופים אקזוטיים לרחובותיה הערפיליים של לונדון הוויקטוריאנית, ולאורך הדרך נלחמים במלכה השטנית ומתחברים למדען צעיר ואומלל-צ'ארלס דרווין, ולרגע לא מוותרים.</plot>
+    <runtime>88</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הפיראטים_</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הפיראטים_\הפיראטים_.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הפיראטים_\הפיראטים_.strm</basepath>
+    <uniqueid type="tmdb" default="true">72197</uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Adventure</genre>
+<genre>Comedy</genre>
+<genre>אנימציה</genre>
+<genre>הרפתקאות</genre>
+<genre>משפחה</genre>
+<genre>קומדיה</genre>
+    <year>2012</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=EYuEBOCDzUY</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//z3abtsVuypFShFkfvTOjzATkeg9.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//yJT2JCdjtuH5K202bC4YL0wOYD2.jpg">http://image.tmdb.org/t/p/original//yJT2JCdjtuH5K202bC4YL0wOYD2.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-07-16 08:41:55</dateadded>
+</movie>
+    

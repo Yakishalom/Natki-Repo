@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>כוח ג'י</title>
+    <originaltitle>G-Force [2009]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5</value>
+            <votes>37,744</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-10-27 08:19:37[/COLOR]
+כשהם חמושים בטכנולוגיה המתקדמת ביותר, כוח ג'י המורכב מחבורת שרקנים שבאמצעים חדשניים הוסבה ליחידת מרגלי עילית המגלה כי גורל העולם כולו מונח בכפותיהם השעירות. בראש היחידה עומד המפקד דרווין, הנחוש להצליח במשימה בכל מחיר. לצדו בצוות: בלאסטר, מומחה לנשק הפרוע, עם גישה חצופה לחיים וחיבה יתרה לכל מה שמוגדר מסוכן וקיצוני. חוארז, שרקנית סקסית ומומחית באמנויות הלחימה. מוצ, הזבוב על הקיר, תרתי משמע, הממונה על איסוף המידע, וספקלס החפרפרת - מומחה במחשבים ואחראי על המודיעין. במהלך הרפתקאותיהם יפגשו חברי היחידה חבורה רבה ומגוונת מממלכת החיות וגם כמה אנשים מוזרים.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\כוח ג_י</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\כוח ג_י\כוח ג_י.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\כוח ג_י\כוח ג_י.strm</basepath>
+    <uniqueid type="tmdb" default="true">19585</uniqueid>
+    
+    <genre>פנטזיה</genre>
+<genre>אקשן</genre>
+<genre>הרפתקאות</genre>
+<genre>משפחה</genre>
+<genre>קומדיה</genre>
+    <year>2009</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=7GaEZ2e9Ijs</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//p4aiRoEHg4YqbmU3TBntFk620Nj.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//dnBiiPKJnIKb1e8BcDo3cicdjFG.jpg">http://image.tmdb.org/t/p/original//dnBiiPKJnIKb1e8BcDo3cicdjFG.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-10-27 08:19:37</dateadded>
+</movie>
+    

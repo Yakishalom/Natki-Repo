@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>החבובות: מבוקשות!</title>
+    <originaltitle>Muppets Most Wanted [2014]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>27,219</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-04-3 12:55:24[/COLOR]
+אולפני דיסני מסדרים לחבובות מסע הופעות עולמי בכמה מהיעדים המלהיבים ביותר באירופה בין היתר בברלין, מדריד, דאבלין ולונדון. בכל מקום הם זוכים להצלחה רבה, אבל הבלאגן מתחיל כאשר החבורה מוצאת את עצמה מסתבכת בפשע עולמי שבוצע על ידי קונסטנטין, הפושע מספר אחת בעולם - שדומה שתי טיפות מים לקרמיט - והעוזר שלו דומיניק, שידוע גם בכינוי: מספר שתיים.</plot>
+    <runtime>107</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\החבובות_ מבוקשות_</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\החבובות_ מבוקשות_\החבובות_ מבוקשות_.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\החבובות_ מבוקשות_\החבובות_ מבוקשות_.strm</basepath>
+    <uniqueid type="tmdb" default="true">145220</uniqueid>
+    
+    <genre>Adventure</genre>
+<genre>Comedy</genre>
+<genre>Crime</genre>
+<genre>קומדיה</genre>
+<genre>הרפתקאות</genre>
+<genre>פשע</genre>
+<genre>משפחה</genre>
+    <year>2014</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Vcw2Aje5KU0</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//nY64u0ughAdVBnzzq5jEqSywhmQ.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//j5KtmMiOzLlyW0VWVP74exW3N5F.jpg">http://image.tmdb.org/t/p/original//j5KtmMiOzLlyW0VWVP74exW3N5F.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-04-03 12:55:24</dateadded>
+</movie>
+    

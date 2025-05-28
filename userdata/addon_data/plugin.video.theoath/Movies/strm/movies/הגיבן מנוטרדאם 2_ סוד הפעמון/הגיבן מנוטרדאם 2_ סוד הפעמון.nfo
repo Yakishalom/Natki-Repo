@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הגיבן מנוטרדאם 2: סוד הפעמון</title>
+    <originaltitle>The Hunchback of Notre Dame II</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2022-10-31 20:30:17[/COLOR]
+הגיבן שולט על העיר פריז מלמעלה, ממגדל הפעמונים של הנוטרדאם. קוואזימודו וחברו זפיר, בנם של אזמרלדה ופיבוס, עוצרים בקרקס נודד ומתיידדים עם מדלן, בת של קוסם מרושע בשם סארוש, שזומם לקטוף את הפעמונים של הקתדרלה המפורסמת.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הגיבן מנוטרדאם 2_ סוד הפעמון</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הגיבן מנוטרדאם 2_ סוד הפעמון\הגיבן מנוטרדאם 2_ סוד הפעמון.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הגיבן מנוטרדאם 2_ סוד הפעמון\הגיבן מנוטרדאם 2_ סוד הפעמון.strm</basepath>
+    <uniqueid type="tmdb" default="true">12448</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>משפחה</genre>
+<genre>קומדיה</genre>
+    <year>2002</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=DGZctUBBtR8</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//jCIO3ZEa3kKQbkMao8YNO7nCnwb.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//bVgzCYEQ6HaWnA6XW3uqit5vxeF.jpg">http://image.tmdb.org/t/p/original//bVgzCYEQ6HaWnA6XW3uqit5vxeF.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-10-31 20:30:17</dateadded>
+</movie>
+    

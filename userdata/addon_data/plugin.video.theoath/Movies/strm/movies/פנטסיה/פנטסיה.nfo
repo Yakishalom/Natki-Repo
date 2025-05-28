@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>פנטסיה</title>
+    <originaltitle>Fantasia</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.365</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2021-04-16 15:57:26
+TE,TE
+[COLOR lightblue]2020-07-29 09:03:22[/COLOR]
+[COLOR blue]DVDRip 1940 נתי מדיה פנטסיה מדובב.avi[/COLOR]
+1.37 GB
+המנצח לאופולד סטוקובסקי הושיב את תזמורת פילדלפיה לנגן כמה מהקלאסיקות המוזיקליות המוכרות ביותר, והאנימטורים של דיסני התחילו להרביץ כמיטב הדמיון ובטכניקולור חדשני לזמנו. "שוליית הקוסם" מציג את מיקי מאוס בניסיון ראוותני יתר על המידה להוכיח את כישורי הכישוף שלו. "פולחן האביב" הוקדש לאבולוציה ולהיכחדותם של הדינוזאורים. "ריקוד השעות" הוא מחול של בעלי חיים גדולים במיוחד. "לילה על הר קירח" ו"אווה מריה" מציגים צדדים אפלים של החיים, וגם של האנימטורים עצמם. קסום בכל גיל ובכל סיבוב צפייה מחדש.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פנטסיה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פנטסיה\פנטסיה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פנטסיה\פנטסיה.strm</basepath>
+    <uniqueid type="tmdb" default="true">756</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> משפחה</genre>
+    <year>1940</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//1N838iZTSXXN4r5eOd63A2yGwC2.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//yRDU00odN8kHIFJQobkoCKcL6Le.jpg">https://image.tmdb.org/t/p/original//yRDU00odN8kHIFJQobkoCKcL6Le.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-04-16 15:57:26</dateadded>
+</movie>
+    

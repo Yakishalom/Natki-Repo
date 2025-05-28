@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>פלונטר: לפני שהכל התחיל</title>
+    <originaltitle>Tangled: Before Ever After</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.828</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>TE
+[COLOR lightblue]2022-01-23 21:01:34[/COLOR]
+[COLOR blue]Tangled.Before.Ever.After.2017.720p.HebDub.@Disney_plus_il.mp4[/COLOR]
+1.03 GB
+רפונזל נרגשת להתחיל בחייה החדשים בממלכת קורונה, לאחר שאוחדה שוב עם הוריה, המלך והמלכה, וכשלצידה אהוב ליבה יוג'ין ושומרת-הראש שלה קסנדרה. אך עם ההתרגשות באות גם הסכנות, ואויב חדש מתכנן מתקפה נגדה ונגד כל הממלכה.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פלונטר_ לפני שהכל התחיל</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פלונטר_ לפני שהכל התחיל\פלונטר_ לפני שהכל התחיל.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פלונטר_ לפני שהכל התחיל\פלונטר_ לפני שהכל התחיל.strm</basepath>
+    <uniqueid type="tmdb" default="true">438747</uniqueid>
+    
+    <genre>הרפתקאות </genre>
+<genre> אנימציה </genre>
+<genre> קומדיה </genre>
+<genre> משפחה </genre>
+<genre> פנטזיה </genre>
+<genre> סרט טלויזיה</genre>
+    <year>2017</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//zj82L9maBSW6CAVZltBoFBSuTk1.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//bAHwlrxTvC37wU86kl4D2QJkMfj.jpg">https://image.tmdb.org/t/p/original//bAHwlrxTvC37wU86kl4D2QJkMfj.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-01-23 21:01:34</dateadded>
+</movie>
+    

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>יומנו של חנון</title>
+    <originaltitle>Diary of a Wimpy Kid</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2022-07-6 07:52:32[/COLOR]
+גרג הפלי הוא ילד צנום ושאפתן בעל דמיון פעיל, אשר יש לו תוכניות גדולות להיות עשיר ומפורסם, אך לפני שזה יקרה עליו לשרוד את חטיבת הביניים.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\יומנו של חנון</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\יומנו של חנון\יומנו של חנון.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\יומנו של חנון\יומנו של חנון.strm</basepath>
+    <uniqueid type="tmdb" default="true">774741</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>קומדיה</genre>
+<genre>משפחה</genre>
+    <year>2021</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=VKhCPUa-glo</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//8QSaObc7Yw2UvJtrYCsPlz0Xxrt.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//x78cvxbmpBNcHON7x3Iv8vih5Sj.jpg">http://image.tmdb.org/t/p/original//x78cvxbmpBNcHON7x3Iv8vih5Sj.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-07-06 07:52:32</dateadded>
+</movie>
+    

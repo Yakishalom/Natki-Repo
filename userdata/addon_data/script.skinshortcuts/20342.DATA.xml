@@ -1,0 +1,42 @@
+<shortcuts>
+	<shortcut>
+		<defaultID>652</defaultID>
+		<label>סרטים לפי שנים</label>
+		<label2>פריטים מותאמים אישית</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.cobra/?name=32472&amp;iconImage=calender&amp;mode=navigator.years&amp;menu_type=movie",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>חיפוש</label>
+		<label2>פריטים מותאמים אישית</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.cobra/?name=32450&amp;iconImage=search&amp;mode=navigator.search",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>סרטים לפי זאנר</label>
+		<label2>פריטים מותאמים אישית</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.cobra/?name=32470&amp;iconImage=genres&amp;mode=navigator.genres&amp;menu_type=movie",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>סרטים ישראלים</label>
+		<label2>פריטים מותאמים אישית</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.cobra/?mode=build_movie_list&amp;action=tmdb_movies_languages&amp;language=he&amp;name=%D7%A2%D7%91%D7%A8%D7%99%D7%AA&amp;iconImage=https%3A%2F%2Fi.imgur.com%2FgxgLI0J.png",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>סרטים שזכו באוסקר</label>
+		<label2>פריטים מותאמים אישית</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.cobra/?name=32468&amp;iconImage=oscar_winners&amp;mode=build_movie_list&amp;action=imdb_movies_oscar_winners",return)</action>
+		</shortcut>
+	</shortcuts>

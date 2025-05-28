@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>פול גז</title>
+    <originaltitle>Full Gas [2019] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5</value>
+            <votes>13</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2020-04-6 15:21:04[/COLOR]
+תומר בן ה-17 עובר עם אמו ליישוב קטן בקצה המדבר. זה קורה בדיוק חודש לפני אליפות המדינה לנוער ברכיבת אופנועי שטח, בה נמרוד השחצן אמור לזכות. ההגעה של תומר משנה את כללי המשחק אפילו בלי להתכוון. מה שמתחיל בהתנכלויות כלפיו מצד נמרוד וחבורתו תוך מאבק על לבה של עמליה היפה, הופך לדרמה כשתומר פוגש את אלברט – אופנוען מזדקן ומסתורי שמתבודד בביתו ומנותק מהסביבה כבר 30 שנה. מפגש מקרי ביניהם הופך לחברות אמיצה, במהלכה תומר מקלף מאלברט את סודות העבר, ואילו אלברט הופך למאסטר שמלמד את תלמידו הצעיר לרכוב על אופנוע ומכין אותו לקרב של חייו על המסלול מול נמרוד</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פול גז</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פול גז\פול גז.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פול גז\פול גז.strm</basepath>
+    <uniqueid type="tmdb" default="true">684055</uniqueid>
+    
+    <genre> </genre>
+    <year>2019</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//di93Xux7v07CgfZF0pTZ1jJb7FD.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://m.media-amazon.com/images/M/MV5BMGI3ZWJmYmUtZTY0NS00ZmRjLWI2OGQtNzU2NmNhOWRmOGRjXkEyXkFqcGdeQXVyMjMyMzI4MzY@._V1_UX182_CR0,0,182,268_AL_.jpg">https://m.media-amazon.com/images/M/MV5BMGI3ZWJmYmUtZTY0NS00ZmRjLWI2OGQtNzU2NmNhOWRmOGRjXkEyXkFqcGdeQXVyMjMyMzI4MzY@._V1_UX182_CR0,0,182,268_AL_.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-04-06 15:21:04</dateadded>
+</movie>
+    

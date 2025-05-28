@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הרוח הקטנה</title>
+    <originaltitle>Das kleine Gespenst</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2021-08-28 19:03:30[/COLOR]
+הרוח הקטנה גרה בטירה. היא מתעוררת כל לילה בדיוק בשעה אחת אחרי חצות. למרות האזהרות, הרוח הקטנה רוצה מאוד לראות פעם אחת את העולם באור יום .כאשר יום אחד מגיעים ילדים מהעיירה לטיול בטירה כדי לחקור אותה, הם פוגשים לראשונה את הרוח הקטנה. למחרת הרוח מתעוררת בשעה 12:00 בצהריים. מאושרת היא יוצאת לכיוון העיר בעקבות קרני השמש. אבל עם חשיפתה לאור, הרוח הלבנה הופכת לשחורה. האושר חולף במהרה בגלל הפחד והמהומה הרבה שהיא גורמת בעיירה. כאשר המשטרה פותחת במרדף אחריה, היא מבקשת את עזרת הילדים כדי להיחלץ מהמצב.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הרוח הקטנה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הרוח הקטנה\הרוח הקטנה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הרוח הקטנה\הרוח הקטנה.strm</basepath>
+    <uniqueid type="tmdb" default="true">235044</uniqueid>
+    
+    <genre>משפחה</genre>
+<genre>פנטזיה</genre>
+    <year>2013</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//7B3Tykigl9mhdieXAA6N2CXJHtb.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//hTYMT6H5qaxlR4ZzGcxypZyitoF.jpg">http://image.tmdb.org/t/p/original//hTYMT6H5qaxlR4ZzGcxypZyitoF.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-08-28 19:03:30</dateadded>
+</movie>
+    

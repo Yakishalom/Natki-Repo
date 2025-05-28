@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>בלאגן במטבח</title>
+    <originaltitle>Die Heinzels - Rückkehr der Heinzelmännchen</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2021-08-6 00:25:58[/COLOR]
+אנימציה מקסימה בשפה הגרמנית. מעל ל-200 שנה חיה חבורת גמדים מתוקים מתחת לאדמה, הרחק מבני האדם. יום אחד מחליטה גמדה שובבה ושאפתנית לצאת מהמחבוא, וביחד עם שני חברים נוחתת במטבחו של קונדיטור מדופלם.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בלאגן במטבח</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בלאגן במטבח\בלאגן במטבח.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בלאגן במטבח\בלאגן במטבח.strm</basepath>
+    <uniqueid type="tmdb" default="true">638220</uniqueid>
+    
+    <genre>משפחה</genre>
+<genre>אנימציה</genre>
+<genre>קומדיה</genre>
+<genre>פנטזיה</genre>
+    <year>2020</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=xCHAF0GvV5c</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//6q7JLHrIBG82eoH00RdjsDBEVc7.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//iv1tYPdy7uJNQuBk97IpptJO23h.jpg">http://image.tmdb.org/t/p/original//iv1tYPdy7uJNQuBk97IpptJO23h.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-08-06 00:25:58</dateadded>
+</movie>
+    

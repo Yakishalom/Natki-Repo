@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>סמוראי על ארבעלוי מדיה</title>
+    <originaltitle>סמוראי על ארבעלוי מדיה</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>TE
+[COLOR lightblue]2022-10-04 11:42:19[/COLOR]
+[COLOR blue]סמוראי על ארבע - לוי מדיה .mp4[/COLOR]
+1.35 GB
+TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סמוראי על ארבעלוי מדיה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סמוראי על ארבעלוי מדיה\סמוראי על ארבעלוי מדיה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סמוראי על ארבעלוי מדיה\סמוראי על ארבעלוי מדיה.strm</basepath>
+    <uniqueid type="tmdb" default="true"></uniqueid>
+    
+    <genre></genre>
+    <year>0</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLd1qz7vDQz79zTTgddDCanmev34lU4E246XoMPYIwJ0q-m5ud&s</thumb>
+    <fanart>
+      <thumb colors="" preview="https://blog.pearachutekids.com/wp-content/uploads/2019/06/netflix-Cover.jpg">https://blog.pearachutekids.com/wp-content/uploads/2019/06/netflix-Cover.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-10-04 11:42:19</dateadded>
+</movie>
+    

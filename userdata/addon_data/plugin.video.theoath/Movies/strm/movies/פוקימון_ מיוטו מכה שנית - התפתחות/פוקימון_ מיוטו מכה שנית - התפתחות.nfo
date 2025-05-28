@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>פוקימון: מיוטו מכה שנית - התפתחות</title>
+    <originaltitle>ミュウツーの逆襲 EVOLUTION</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.709</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>TE
+[COLOR lightblue]2020-03-16 12:08:48[/COLOR]
+[COLOR blue]1080p WEB-DL 2019 מיוטו מכה שנית מדובב.mkv[/COLOR]
+1.41 GB
+אש, מיסטי וברוק מקבלים הזמנה ממאמן מסתורי ופוגשים את מיוטו, פוקמון מעשה ידי אדם עם יצר קרב מפותח במיוחד.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פוקימון_ מיוטו מכה שנית - התפתחות</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פוקימון_ מיוטו מכה שנית - התפתחות\פוקימון_ מיוטו מכה שנית - התפתחות.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פוקימון_ מיוטו מכה שנית - התפתחות\פוקימון_ מיוטו מכה שנית - התפתחות.strm</basepath>
+    <uniqueid type="tmdb" default="true">571891</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> הרפתקאות </genre>
+<genre> פנטזיה </genre>
+<genre> אקשן </genre>
+<genre> משפחה</genre>
+    <year>2019</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//pf3FoKe0EdcNnHuUtiwre0wGkLM.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//6ufHj6uqyje1ogAlCvRB54hcGgn.jpg">https://image.tmdb.org/t/p/original//6ufHj6uqyje1ogAlCvRB54hcGgn.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-03-16 12:08:48</dateadded>
+</movie>
+    

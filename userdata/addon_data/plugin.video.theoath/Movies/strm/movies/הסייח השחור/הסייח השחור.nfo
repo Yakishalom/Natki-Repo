@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הסייח השחור</title>
+    <originaltitle>Young Black Stallion</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.612</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,TE
+[COLOR lightblue]2020-12-23 20:44:12[/COLOR]
+[COLOR blue]HDTV 2003 נתי מדיה הסייח השחור מדובב.avi[/COLOR]
+0.24 GB
+הצטרפו לחוויה קולנועית מרהיבה שתשבה את ליבכם - הסייח השחור. הסרט עובד באופן מרהיבעל מנת לספר סיפור רב עוצמה על טיבה של חברות אמת. כאשר נערה צעירה בשם ניירה הולכתלאיבוד ברחבי המדבר, היא פוגשת סייח צעיר, פראי ומהיר בצורה יוצאת דופן. השניים נקשריםאחד לשני ומוצאים יחדיו את דרכם הביתה. בשובה לביתה מגלה ניירה כי סבה החליט להפסיקלגדל ולהשביח סוסי מרוץ ונאלצת להירשם למרוץ סוסים מפרך, ולהתחרות אל מול יריבים רביעוצמה על מנת לשקם את המוניטין ושמו הטוב של סבה. המחיר שתיאלץ לשלם במידה ותפסידהוא גדול משום שהיא מהמרת על החבר הטוב ביותר שלה - הסייח השחור.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הסייח השחור</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הסייח השחור\הסייח השחור.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הסייח השחור\הסייח השחור.strm</basepath>
+    <uniqueid type="tmdb" default="true">42418</uniqueid>
+    
+    <genre>הרפתקאות </genre>
+<genre> דרמה </genre>
+<genre> משפחה</genre>
+    <year>2003</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//emHK0UPlznLOkeu1Ml4ctoEQGp7.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//jHaBtSr3g1RaHeyK4v3sFRmXh2C.jpg">https://image.tmdb.org/t/p/original//jHaBtSr3g1RaHeyK4v3sFRmXh2C.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-12-23 20:44:12</dateadded>
+</movie>
+    

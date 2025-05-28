@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>תומס וחברים: אגדת האוצר האבוד של סודור</title>
+    <originaltitle>Thomas & Friends: Sodor&apos;s Legend of the Lost Treasure</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2023-10-30 19:08:50[/COLOR]
+התפתעות אורבות לתומס ולידידיו כשנגלית להם ההרפתקה הנועזת ביותר שהם ידעו עד כה. לאחר הוצאת ספינת פיראטים עתיקה מבטן האדמה מחפש תומס בעקבות האוצר האבוד של סודור. כשתומס פוגש כמה חברים חדשים, הצרות לא מאחרות להגיע. האם יספיק תומס לאתר את האוצר, או שמא הספן ג'ון ייקח אותו ויפליג?</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\תומס וחברים_ אגדת האוצר האבוד של סודור</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\תומס וחברים_ אגדת האוצר האבוד של סודור\תומס וחברים_ אגדת האוצר האבוד של סודור.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\תומס וחברים_ אגדת האוצר האבוד של סודור\תומס וחברים_ אגדת האוצר האבוד של סודור.strm</basepath>
+    <uniqueid type="tmdb" default="true">349112</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>משפחה</genre>
+    <year>2015</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=M5vJOFuz2uM</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//8xWjofI4zXEtL5AauIWDvmu4FcT.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//bbyThHVNMJWnE0z21sytlQibPz3.jpg">http://image.tmdb.org/t/p/original//bbyThHVNMJWnE0z21sytlQibPz3.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-10-30 19:08:50</dateadded>
+</movie>
+    

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>ראלף ההורס</title>
+    <originaltitle>Wreck-It Ralph</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.327</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2022-02-01 15:38:47
+ON,Dr,TE,TE,TE
+[COLOR lightblue]2018-07-12 08:55:28[/COLOR]
+[COLOR blue]ראלף ההורס - מדובב.mkv[/COLOR]
+0.75 GB
+לראלף נמאס לחיות בצילו של פליקס, האיש הטוב והכוכב של המשחק שתמיד מצליח להציל את כולם. אחרי כמה עשורים בהם הוא עושה כל יום בדיוק את אותו הדבר ורואה איך פליקס זוכה בכל התהילה, מחליט ראלף שנמאס לו לשחק את התפקיד של האיש הרע. הוא לוקח העניין לידיו ויוצא למסע בו הוא קופץ ממשחק למשחק ועובר בין דור לדור של משחקי וידאו כדי להוכיח שיש לו את מה שצריך כדי להפוך לגיבור.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ראלף ההורס</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ראלף ההורס\ראלף ההורס.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ראלף ההורס\ראלף ההורס.strm</basepath>
+    <uniqueid type="tmdb" default="true">82690</uniqueid>
+    
+    <genre>משפחה </genre>
+<genre> אנימציה </genre>
+<genre> קומדיה </genre>
+<genre> הרפתקאות</genre>
+    <year>2012</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//1pLncQUoFY5gthKCYZddrxy4mQQ.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//ziC23LkMYj8gToQQYQGWSGJCLNF.jpg">https://image.tmdb.org/t/p/original//ziC23LkMYj8gToQQYQGWSGJCLNF.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-02-01 15:38:47</dateadded>
+</movie>
+    

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הרפתקאות תום ואווזי הבר</title>
+    <originaltitle>Donne-moi des ailes</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.481</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2023-07-30 08:15:54
+Dr,TE
+[COLOR lightblue]2023-04-01 21:12:13[/COLOR]
+[COLOR blue]1080p_2019_הרפתקאות_תום_ואווזי_הבר_מדובב.mkv[/COLOR]
+1.43 GB
+תומאס הוא ילד עירוני אשר נשלח לגור עם אביו כריסטיאן בחופשת הקיץ. אביו הינו אורניתולוג אשר שואף בכוחות עצמו להציל זן אווזים נכחדים על ידי לימוד נדידת האווזים באמצעות מטוס זעיר. במהרה תומאס הסקפטי נקשר לאווזים הקטנים והופך לחלק משמעותי בתוכנית של אביו. יחדיו הם יוצאים למסע פנטסטי אשר ישנה את חייהם לעד. מבוסס על סיפור אמיתי.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הרפתקאות תום ואווזי הבר</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הרפתקאות תום ואווזי הבר\הרפתקאות תום ואווזי הבר.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הרפתקאות תום ואווזי הבר\הרפתקאות תום ואווזי הבר.strm</basepath>
+    <uniqueid type="tmdb" default="true">589982</uniqueid>
+    
+    <genre>הרפתקאות </genre>
+<genre> משפחה</genre>
+    <year>2019</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//ctO7IPkRZa4fTslzVdBzqKTvdVo.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//c1ZvmYUedAYIpU2NRewWTBJRXW3.jpg">https://image.tmdb.org/t/p/original//c1ZvmYUedAYIpU2NRewWTBJRXW3.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-07-30 08:15:54</dateadded>
+</movie>
+    

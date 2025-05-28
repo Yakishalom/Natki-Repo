@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>טום וג'רי</title>
+    <originaltitle>Tom & Jerry</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2021-09-8 00:35:41[/COLOR]
+כשג'רי העכבר עובר למחילת פאר במלון יוקרה בעיר ניו יורק ערב 'חתונת המאה', המלון נאלץ להעסיק את טום החתול בשביל לתפוס את העכבר השובב. קרב החתול והעכבר המתפתח מאיים להרוס קריירות, את החתונה ואולי את המלון כולו.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טום וג_רי</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טום וג_רי\טום וג_רי.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טום וג_רי\טום וג_רי.strm</basepath>
+    <uniqueid type="tmdb" default="true">587807</uniqueid>
+    
+    <genre>קומדיה</genre>
+<genre>משפחה</genre>
+<genre>אנימציה</genre>
+    <year>2021</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=kP9TfCWaQT4</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//xI8citJQt9mBG3DOIgAEqZazHuR.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//9ns9463dwOeo1CK1JU2wirL5Yi1.jpg">http://image.tmdb.org/t/p/original//9ns9463dwOeo1CK1JU2wirL5Yi1.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-09-08 00:35:41</dateadded>
+</movie>
+    

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>משפחת סימפסון - הסרט</title>
+    <originaltitle>The Simpsons Movie [2007]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7</value>
+            <votes>276,419</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-01-7 08:09:42[/COLOR]
+הומר מתגייס להצלת העולם מאסון אקולוגי חמור, שמי אם לא הוא, גרם לו. כרגיל שרשרת אירועים לא שיגרתיים מביאים את הומר, הפעם בליווי החזיר מחמד שלו, לגרום לאסון. אסון כל כך גדול שאפילו חבריו הקרובים ביותר של הומר לא חלמו שיקרה. כעת עתידה של עיירת ספרינגפילד מוטלת בספק והומר, שנודה מהחברה, מחליט לקחת את העניינים לידיים...</plot>
+    <runtime>87</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\משפחת סימפסון - הסרט</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\משפחת סימפסון - הסרט\משפחת סימפסון - הסרט.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\משפחת סימפסון - הסרט\משפחת סימפסון - הסרט.strm</basepath>
+    <uniqueid type="tmdb" default="true">35</uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Adventure</genre>
+<genre>Comedy</genre>
+<genre>אנימציה</genre>
+<genre>קומדיה</genre>
+<genre>משפחה</genre>
+    <year>2007</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=PulHR2LfPVk</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//2CUJrfZwcdL1MasaBOcHgMMABFz.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//4RaoQCwliLvbokgpFzMXvSznC0h.jpg">http://image.tmdb.org/t/p/original//4RaoQCwliLvbokgpFzMXvSznC0h.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-01-07 08:09:42</dateadded>
+</movie>
+    

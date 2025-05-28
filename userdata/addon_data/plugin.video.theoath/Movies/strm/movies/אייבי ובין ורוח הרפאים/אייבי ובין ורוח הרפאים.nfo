@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>אייבי ובין ורוח הרפאים</title>
+    <originaltitle>Ivy + Bean: The Ghost That Had to Go</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.9</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>Dr,TE
+[COLOR lightblue]2023-04-17 21:45:45[/COLOR]
+[COLOR blue]2022 אייבי ובין ורוח הרפאים מדובב.mkv[/COLOR]
+1.08 GB
+ערפל לבן וקר. צינורות מקרקשים. קול מסתורי שמגיע מפתח הניקוז. האם השירותים בבית הספר… רדופי רוחות? אייבי ובין יוצאות לפתור את התעלומה!TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אייבי ובין ורוח הרפאים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אייבי ובין ורוח הרפאים\אייבי ובין ורוח הרפאים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אייבי ובין ורוח הרפאים\אייבי ובין ורוח הרפאים.strm</basepath>
+    <uniqueid type="tmdb" default="true">1014676</uniqueid>
+    
+    <genre>משפחה </genre>
+<genre> קומדיה</genre>
+    <year>2022</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//izm0ZVZlv7d2k9UAJKbwratJkFb.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//zqQHnNsefzmiw6XOdm2fiS0jEbp.jpg">https://image.tmdb.org/t/p/original//zqQHnNsefzmiw6XOdm2fiS0jEbp.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-04-17 21:45:45</dateadded>
+</movie>
+    

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>ברנרד וביאנקה במבצע אוסטרליה</title>
+    <originaltitle>The Rescuers Down Under [1990]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7</value>
+            <votes>31,379</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-04-3 08:24:19[/COLOR]
+העכברים האמיצים ביותר בעולם, ברנארד וביאנקה חוזרים בסרט ההמשך בו הם קופצים לאוסטרליה ונחלצים לעזרתו של ילד שמנסה להציל את הנשר הגדול מפני צייד חסר רחמים.</plot>
+    <runtime>77</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ברנרד וביאנקה במבצע אוסטרליה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ברנרד וביאנקה במבצע אוסטרליה\ברנרד וביאנקה במבצע אוסטרליה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ברנרד וביאנקה במבצע אוסטרליה\ברנרד וביאנקה במבצע אוסטרליה.strm</basepath>
+    <uniqueid type="tmdb" default="true">11135</uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Adventure</genre>
+<genre>Crime</genre>
+<genre>הרפתקאות</genre>
+<genre>אנימציה</genre>
+<genre>משפחה</genre>
+<genre>פנטזיה</genre>
+    <year>1990</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=x5Jown0os74</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//uFgUiJy6dxlrefrpdg3tw8dWqb7.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//jCbLi7MXY7mO22WO6dVta2fCPmV.jpg">http://image.tmdb.org/t/p/original//jCbLi7MXY7mO22WO6dVta2fCPmV.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-04-03 08:24:19</dateadded>
+</movie>
+    

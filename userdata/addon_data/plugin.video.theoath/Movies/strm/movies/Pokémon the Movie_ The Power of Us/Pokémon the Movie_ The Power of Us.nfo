@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Pokémon the Movie: The Power of Us</title>
+    <originaltitle>Pokémon the Movie: The Power of Us [2018] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>2,052</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2021-02-18 17:21:40[/COLOR]
+A young athlete whose running days might be behind her, a compulsive liar, a shy researcher, a bitter old woman, and a little girl with a big secret—the only thing they have in common is the annual Wind Festival in Fula City.  The festival celebrates the Legendary Pokémon Lugia, who brings the wind that powers this seaside city. When a series of threats endangers not just the festival, but all the people and Pokémon of Fula City, it’ll take more than just Satoshi and Pikachu to save the day! Can everyone put aside their differences and work together—or will it all end in destruction?</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\Pokémon the Movie_ The Power of Us</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\Pokémon the Movie_ The Power of Us\Pokémon the Movie_ The Power of Us.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\Pokémon the Movie_ The Power of Us\Pokémon the Movie_ The Power of Us.strm</basepath>
+    <uniqueid type="tmdb" default="true">494407</uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Family</genre>
+<genre>Adventure</genre>
+<genre>Fantasy</genre>
+    <year>2018</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=8PGsP59Io20</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//eakBFzG1dZn0uouBgv6kYtPXLkT.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//b1EKIjZWYAoC3WUk14012DX46Cb.jpg">http://image.tmdb.org/t/p/original//b1EKIjZWYAoC3WUk14012DX46Cb.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-02-18 17:21:40</dateadded>
+</movie>
+    

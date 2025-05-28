@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>סלמברלנד: ארץ החלומות</title>
+    <originaltitle>Slumberland</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2022-11-28 02:59:25[/COLOR]
+פליפ, פורע חוק אקסצנטרי עוזר לילדה קטנה לשוטט בין חלומות ולהימלט מסיוטים, בתקווה לראות שוב את אביה.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סלמברלנד_ ארץ החלומות</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סלמברלנד_ ארץ החלומות\סלמברלנד_ ארץ החלומות.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סלמברלנד_ ארץ החלומות\סלמברלנד_ ארץ החלומות.strm</basepath>
+    <uniqueid type="tmdb" default="true">668461</uniqueid>
+    
+    <genre>משפחה</genre>
+<genre>פנטזיה</genre>
+<genre>הרפתקאות</genre>
+<genre>דרמה</genre>
+    <year>2022</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=FBnkVJslRGo</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//eCahJgZRllMQKhHAT41mHDaoZ1f.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//o3mothJXDR9vLlZHpwyfFCycCNx.jpg">http://image.tmdb.org/t/p/original//o3mothJXDR9vLlZHpwyfFCycCNx.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-11-28 02:59:25</dateadded>
+</movie>
+    

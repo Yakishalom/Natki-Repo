@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הדב פדינגטון</title>
+    <originaltitle>Paddington [2014]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7</value>
+            <votes>59,845</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2017-12-25 09:01:18[/COLOR]
+במעמקי הג'ונגל של פרו, חי הדוב פדינגטון עם דודו ודודתו בשלווה. לאחר שרעידת אדמה מכה באזור ופוגעת בביתו, פדינגטון מחליט לעזוב ללונדון, שם הוא פוגש את מר בראון [יו בונוויל, 'אחוזת דואנטון'] וגברת בראון, שמזמינים אותו לחיות עמו בביתם עם ילדיהם. פדינגטון הופך לבן בית במהירות, אך הכול נמצא בסכנה כאשר מיליסנט [ניקול קידמן] חובבת הפוחלצים, שמה את עינה על פדינגטון וזוממת להפוך אותו למיצג החדש שלה.</plot>
+    <runtime>95</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הדב פדינגטון</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הדב פדינגטון\הדב פדינגטון.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הדב פדינגטון\הדב פדינגטון.strm</basepath>
+    <uniqueid type="tmdb" default="true">116149</uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Adventure</genre>
+<genre>Comedy</genre>
+<genre>קומדיה</genre>
+<genre>משפחה</genre>
+    <year>2014</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=qFuzMlfZGWM</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//1JbsAjPfrtM7sxX7xIQ02rfY5QT.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//zwMEMIo1j5TjP9oUG89aWCKDjYt.jpg">http://image.tmdb.org/t/p/original//zwMEMIo1j5TjP9oUG89aWCKDjYt.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2017-12-25 09:01:18</dateadded>
+</movie>
+    

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>פו הדב</title>
+    <originaltitle>Winnie the Pooh [2011] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7</value>
+            <votes>21,548</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2020-11-13 16:10:40[/COLOR]
+במהלך יום רגיל בו פו יוצא לחפש דבש, הוא מוצא פתק מכריסטופר רובין ומפרש אותו באופן שגוי. פו משכנע את חבריו שכריסטופר רובין נתפס על ידי יצור בשם 'בקסון' וכל החבורה יוצאת להצילו.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פו הדב</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פו הדב\פו הדב.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פו הדב\פו הדב.strm</basepath>
+    <uniqueid type="tmdb" default="true">51162</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>משפחה</genre>
+    <year>2011</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=hRT86ZggCEk</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//t2EmVdXCMObgS0i09h4N9UFl978.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//5lTe0toKgE7wfpCP6YuyWrXtKqU.jpg">http://image.tmdb.org/t/p/original//5lTe0toKgE7wfpCP6YuyWrXtKqU.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-11-13 16:10:40</dateadded>
+</movie>
+    

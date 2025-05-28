@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>חבורת חיות המחמד</title>
+    <originaltitle>Pets United [2019] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>4</value>
+            <votes>1,720</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2021-01-10 08:05:17[/COLOR]
+כשרוג'ר, כלב רחוב קשוח, המנסה לשרוד ברחובות ודואג להציל את עצמו וחבריו ממצבים מסובכים ובל, חתולה אלגנטית ומפונקת, שחיה חיי נוחות מאושרים בדירה מפנקת, נאלצים לשתף פעולה בתוך הבלגן שנוצר מהשתלטות הרובוטים על העיר שלהם, הם חייבים לסלק את הדעות הקדומות שלהם אחד על השני כדי לשרוד. יחד הם יוצאים להרפתקה שבה הם יסכנו את הכול כדי להציל את העיר.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\חבורת חיות המחמד</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\חבורת חיות המחמד\חבורת חיות המחמד.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\חבורת חיות המחמד\חבורת חיות המחמד.strm</basepath>
+    <uniqueid type="tmdb" default="true">638134</uniqueid>
+    
+    <genre>משפחה</genre>
+<genre>אנימציה</genre>
+<genre>הרפתקאות</genre>
+<genre>קומדיה</genre>
+    <year>2019</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=l5VKjgVI00A</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//iuBzS3Hh8KznQkvw1t2rLxsKvWY.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//bftdQMCkQa3KXHWXwAaW0g1p6ZH.jpg">http://image.tmdb.org/t/p/original//bftdQMCkQa3KXHWXwAaW0g1p6ZH.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-01-10 08:05:17</dateadded>
+</movie>
+    

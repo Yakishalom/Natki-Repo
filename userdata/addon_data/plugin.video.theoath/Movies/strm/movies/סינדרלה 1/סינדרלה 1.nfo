@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>סינדרלה 1</title>
+    <originaltitle>סינדרלה 1</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes> </votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-09-3 06:47:44[/COLOR]
+האגדה הקלאסית על סינדרלה המושפלת על ידי אמה החורגת וצמד אחיותיה המרשעות. בזמן שהיא מנקה את הבית הן יוצאות להתהולל ולחפש חתן. כשסינדרלה מצליחה להתגנב לנשף הגדול שעורך הנסיך בעזרתם של עכברי הבית וקסמיהם הנסיך יפה התואר נשבה בקסמיה. אך כשהיא בורחת מהארמון לפני חצות, השעה שהקסם פג, היא משאירה מאחוריה את נעל הזכוכית שבעזרתה יוצא הנסיך לחפש אותה. אהבה אמיתית היא זו שמנצחת והשניים חיים באושר ועושר בזמן שאחיותיה החורגות נשארות רווקות זקנות...</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סינדרלה 1</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סינדרלה 1\סינדרלה 1.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סינדרלה 1\סינדרלה 1.strm</basepath>
+    <uniqueid type="tmdb" default="true"> </uniqueid>
+    
+    <genre>משפחה</genre>
+<genre>פנטזיה</genre>
+<genre>אנימציה</genre>
+<genre>רומנטי</genre>
+    <year>1950</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//5WZgMSgbTW1hi31nEdpNv3nwIby.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//xSN1cpugrzi8DjpVxtHeRRlbB6Q.jpg">http://image.tmdb.org/t/p/original//xSN1cpugrzi8DjpVxtHeRRlbB6Q.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-09-03 06:47:44</dateadded>
+</movie>
+    

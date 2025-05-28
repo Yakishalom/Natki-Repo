@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מלך האריות 3: האקונה מאטאטה(2004)</title>
+    <originaltitle>מלך האריות 3: האקונה מאטאטה(2004)</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes> </votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2018-12-19 18:57:22[/COLOR]
+ מלך האריות 3: האקונה מאטאטה הוא סרט אנימציה שיצא בשנת 2004, ומהווה פריקוול לסרטי מלך האריות. הסרט מתאר את עלילת הסרט מלך האריות מנקודת המבט של הדמויות טימון ופומבה</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מלך האריות 3_ האקונה מאטאטה(2004)</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מלך האריות 3_ האקונה מאטאטה(2004)\מלך האריות 3_ האקונה מאטאטה(2004).strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מלך האריות 3_ האקונה מאטאטה(2004)\מלך האריות 3_ האקונה מאטאטה(2004).strm</basepath>
+    <uniqueid type="tmdb" default="true"> </uniqueid>
+    
+    <genre>הרפתקאות</genre>
+<genre>אנימציה</genre>
+<genre>משפחה</genre>
+    <year> 2004</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://upload.wikimedia.org/wikipedia/he/a/ab/Lionking3.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://upload.wikimedia.org/wikipedia/he/a/ab/Lionking3.jpg">https://upload.wikimedia.org/wikipedia/he/a/ab/Lionking3.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-12-19 18:57:22</dateadded>
+</movie>
+    

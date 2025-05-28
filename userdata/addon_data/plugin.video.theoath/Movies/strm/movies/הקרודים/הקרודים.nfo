@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הקרודים</title>
+    <originaltitle>The Croods</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.9</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE
+[COLOR lightblue]2021-06-02 00:06:43[/COLOR]
+[COLOR blue]הקרודים.2013.מדובב.גוזלן.720p.mp4[/COLOR]
+1.41 GB
+בתקופה הפרה-היסטורית, כאשר בני אדם חיו במערות, משפחת קרוד מגלה שביתה נהרס, ועליה לצאת למסע כדי למצוא מערה חדשה שתהיה להם לבית. העולם שבחוץ הוא זר, ומלא ביצורים משונים ובטבע פראי, אך המשפחה המלכודת לא תסיים את ה-"רוד-טריפ" הקדמוני שלה עד שתגיע ליעד, בעזרתו האדיבה של נווד חביב ומוזר. בין המדובבים: ניקולס קייג', ריאן ריינולדס ואמה סטון.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הקרודים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הקרודים\הקרודים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הקרודים\הקרודים.strm</basepath>
+    <uniqueid type="tmdb" default="true">49519</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> הרפתקאות </genre>
+<genre> משפחה </genre>
+<genre> פנטזיה </genre>
+<genre> קומדיה </genre>
+<genre> אקשן</genre>
+    <year>2013</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//wKzWuMEoegyXSSebypZcNzYxoME.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//bNgqt819qpHcszjCzLCG5y16ldF.jpg">https://image.tmdb.org/t/p/original//bNgqt819qpHcszjCzLCG5y16ldF.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-06-02 00:06:43</dateadded>
+</movie>
+    

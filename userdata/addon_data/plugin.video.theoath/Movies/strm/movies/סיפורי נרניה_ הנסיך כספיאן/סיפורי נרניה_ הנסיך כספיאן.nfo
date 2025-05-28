@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>סיפורי נרניה: הנסיך כספיאן</title>
+    <originaltitle>The Chronicles of Narnia: Prince Caspian</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.614</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>TE
+[COLOR lightblue]2020-06-16 21:00:19[/COLOR]
+[COLOR blue]סיפורי נרניה 2.מדובב.גוזלן.avi[/COLOR]
+1.4 GB
+האחים פבנסי חוזרים לנרניה לאחר אלף שנה ומגלים שהמלך האכזר, מיראז השתלט על הארץ ומונע מהנסיך הטוב למשול. הם התגייסו פעם נוספת לעזור ליצורים הססגוניים של נרניה יחד עם העכבר האמיץ, ריפיציפ, אסלן והנסיך כספיאן ומפילים את המלך מהשלטון. עכשיו נשאלת השאלה, כיצד ימצאו את דרכם בחזרה הביתה?TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סיפורי נרניה_ הנסיך כספיאן</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סיפורי נרניה_ הנסיך כספיאן\סיפורי נרניה_ הנסיך כספיאן.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סיפורי נרניה_ הנסיך כספיאן\סיפורי נרניה_ הנסיך כספיאן.strm</basepath>
+    <uniqueid type="tmdb" default="true">2454</uniqueid>
+    
+    <genre>הרפתקאות </genre>
+<genre> משפחה </genre>
+<genre> פנטזיה</genre>
+    <year>2008</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//9Ot3gHyIEmGBn11cULxQEbgVQRh.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//9pBv1BOSloAUgAkF0meJWdnbV4Q.jpg">https://image.tmdb.org/t/p/original//9pBv1BOSloAUgAkF0meJWdnbV4Q.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-06-16 21:00:19</dateadded>
+</movie>
+    

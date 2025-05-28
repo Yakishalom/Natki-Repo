@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הנסיכה הגנובה</title>
+    <originaltitle>Викрадена принцеса: Руслан і Людмила</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.816</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>Dr,TE
+[COLOR lightblue]2023-07-10 15:48:44[/COLOR]
+[COLOR blue]720p HDTV 2018 נ.מ הנסיכה הגנובה מדובב.mkv[/COLOR]
+1.43 GB
+רוסלאן הוא צעיר, עני אך מוכשר כל חלומו הוא למצוא את ייעודו בחיים. החלום זוכה לאתגר ראוי כאשר נודע בממלכה כי הנסיכה האהובה נחטפה. ללא היסוס, אך גם ללא ניסיון בקרב הוא יוצא עם חבריו מעולם החיות, להצילה מהמכשף הגדול שמציב מולו אתגרים מסוכנים ודרקונים יורקי אש.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הנסיכה הגנובה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הנסיכה הגנובה\הנסיכה הגנובה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הנסיכה הגנובה\הנסיכה הגנובה.strm</basepath>
+    <uniqueid type="tmdb" default="true">463116</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> קומדיה </genre>
+<genre> הרפתקאות </genre>
+<genre> משפחה</genre>
+    <year>2018</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//hXmneR78feQJasBG3gBu4yiSUql.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//kzk5nmtpYdGXrScqKiTJOshVacc.jpg">https://image.tmdb.org/t/p/original//kzk5nmtpYdGXrScqKiTJOshVacc.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-07-10 15:48:44</dateadded>
+</movie>
+    

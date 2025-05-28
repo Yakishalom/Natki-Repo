@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Maleficent: Mistress of Evil</title>
+    <originaltitle>Maleficent: Mistress of Evil [2019] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7</value>
+            <votes>82,373</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2020-12-16 11:50:56[/COLOR]
+פנטזיית הרפתקאות אשר מתרחשת כמה שנים לאחר אירועי הסרט 'מליפיסנט', בו למדו הצופים על האירועים שהקשיחו את לבה של הנבלית וגרמו לה להטיל קללה על הנסיכה אורורה התינוקת. הסרט ממשיך לחקור את מערכת היחסית המורכבת בין הפיה בעלת הקרניים והמלכה לעתיד, בעוד הן כורתות בריתות חדשות ועומדות בפני יריבים חדשים במאבקן להגן על הביצות ועל היצורים הקסומים שחיים בהן</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\Maleficent_ Mistress of Evil</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\Maleficent_ Mistress of Evil\Maleficent_ Mistress of Evil.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\Maleficent_ Mistress of Evil\Maleficent_ Mistress of Evil.strm</basepath>
+    <uniqueid type="tmdb" default="true">420809</uniqueid>
+    
+    <genre>Fantasy</genre>
+<genre>Family</genre>
+<genre>Adventure</genre>
+    <year>2019</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=n0OFH4xpPr4</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//vloNTScJ3w7jwNwtNGoG8DbTThv.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//HmEXofYSc56wBHIqY6tJDroCSw.jpg">http://image.tmdb.org/t/p/original//HmEXofYSc56wBHIqY6tJDroCSw.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-12-16 11:50:56</dateadded>
+</movie>
+    

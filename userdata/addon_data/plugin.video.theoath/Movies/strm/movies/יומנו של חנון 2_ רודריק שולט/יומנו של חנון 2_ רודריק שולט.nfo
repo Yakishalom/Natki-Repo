@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>יומנו של חנון 2: רודריק שולט</title>
+    <originaltitle>Diary of a Wimpy Kid: Rodrick Rules</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2022-12-5 18:22:03[/COLOR]
+סרט על פי הספר השני בסדרת הספרים המצליחה מאוד של ג'ף קיני. הכרכורים ההרסניים של תלמיד החטיבה רדוף החרדות הנוטה לאסונות, גרג הפלי, ממשיכים, ומתמקדים הפעם במערכת היחסים המורכבת שלו עם אחיו הגדול רודריק. גרג מתמודד עם האתגר הגדול ביותר שלו עד עתה: לשרוד סוף שבוע שלם לבד עם אחיו רודריק תוך שהוא נשמע לרשימה גדלה והולכת של כללים שהוא ממציא.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\יומנו של חנון 2_ רודריק שולט</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\יומנו של חנון 2_ רודריק שולט\יומנו של חנון 2_ רודריק שולט.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\יומנו של חנון 2_ רודריק שולט\יומנו של חנון 2_ רודריק שולט.strm</basepath>
+    <uniqueid type="tmdb" default="true">897192</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>קומדיה</genre>
+<genre>משפחה</genre>
+    <year>2022</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=16u7oeK0O90</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//iW6ixzkrvdrcxk0umiLZMtlSl9L.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//94QHrTXnxdmIyXWGUpOPe7PU8DL.jpg">http://image.tmdb.org/t/p/original//94QHrTXnxdmIyXWGUpOPe7PU8DL.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-12-05 18:22:03</dateadded>
+</movie>
+    

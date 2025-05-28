@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>סרט ספיישל: דרגון בול זי: בארדוק, אביו של גוקו</title>
+    <originaltitle>סרט ספיישל: דרגון בול זי: בארדוק, אביו של גוקו</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes> </votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2021-04-16 18:48:06[/COLOR]
+סרט זה מספר את סיפורו של בארדוק, אביו הביולוגי של גוקו כלוחם סאייאני המקבל כוח לראיית העתיד.</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סרט ספיישל_ דרגון בול זי_ בארדוק, אביו של גוקו</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סרט ספיישל_ דרגון בול זי_ בארדוק, אביו של גוקו\סרט ספיישל_ דרגון בול זי_ בארדוק, אביו של גוקו.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סרט ספיישל_ דרגון בול זי_ בארדוק, אביו של גוקו\סרט ספיישל_ דרגון בול זי_ בארדוק, אביו של גוקו.strm</basepath>
+    <uniqueid type="tmdb" default="true"> </uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>אקשן</genre>
+<genre>מדע בדיוני</genre>
+    <year>1990</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://i.imgur.com/k6NDlH4.png</thumb>
+    <fanart>
+      <thumb colors="" preview="https://i.imgur.com/k6NDlH4.png">https://i.imgur.com/k6NDlH4.png</thumb>
+            
+    </fanart>
+    <dateadded>2021-04-16 18:48:06</dateadded>
+</movie>
+    

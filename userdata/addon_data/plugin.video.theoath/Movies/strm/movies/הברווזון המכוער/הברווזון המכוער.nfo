@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הברווזון המכוער</title>
+    <originaltitle>The Ugly Duckling</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.949</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>TE
+[COLOR lightblue]2021-09-22 20:17:39[/COLOR]
+[COLOR blue]הברווזון המכוער מדובב.mkv[/COLOR]
+0.37 GB
+הסיפור עוסק בברווזון השונה מאחיו הברווזונים, מגושם, מכוער, דוחה, ועל כן נרדף. הסיפור מתאר את התמודדויותיו השונות עד לסוף הטוב, שבו הוא מגלה שלמעשה אינו ברווז אלא ברבור יפה תואר. יש הסוברים כי הסיפור מבוסס על חייו הקשים של היוצר עצמו, אנדרסן, אשר בתחילת דרכו נרדף והושפל עד שהפך לסופר מפורסם. אבא ברווז עכוז עתיד צועד לצדה של אשתו. לפתע, הביצים של אם הברווז מתחילות לבקוע, לשמחתו של האב, ומולידות ארבעה ברווזונים קטנים. אבל אז, בוקעת ביצה חמישית, וחושפת ברווזון לבן שאינו תואם, והאב מתווכח עם האם על כך. (משתמע שהאב מאשים את האם בניהול רומן עם ברבור אחר) הברווזון המכוער מנסה להצטרף למשפחת הברווזים, אך הם מפנים לו עורף. אז הברווזון מנסה להצטרף למשפחת ציפורים ואפילו מנסה להתיידד עם פתיל ציד ברווז, אבל כולם דוחים אותו. הברווזון מרחם על עצמו ובוכה עד שאם ברבור והברווזונים שלה מתקרבים אליו. הוא מצטרף למשפחה הזו וכולם מקבלים אותו. האם הברווזון והברווזונים שלה מופתעים לגלות שהוא מצא את משפחתו האמיתית ונפרדים ממנו לשלום.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הברווזון המכוער</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הברווזון המכוער\הברווזון המכוער.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הברווזון המכוער\הברווזון המכוער.strm</basepath>
+    <uniqueid type="tmdb" default="true">418956</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> קומדיה</genre>
+    <year>1997</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//nCkMoq2penMxvdhQa0LGwK1G6fJ.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//woMB1t6cBbS9xPzZzsv8DI7IOxV.jpg">https://image.tmdb.org/t/p/original//woMB1t6cBbS9xPzZzsv8DI7IOxV.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-09-22 20:17:39</dateadded>
+</movie>
+    

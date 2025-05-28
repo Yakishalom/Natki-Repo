@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>ממלכת טראביתיה</title>
+    <originaltitle>Bridge to Terabithia</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.289</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,TE
+[COLOR lightblue]2021-02-08 19:15:51[/COLOR]
+[COLOR blue]ממלכת טראביתיה.2007.מדובב.גוזלן.720p.mp4[/COLOR]
+1.0 GB
+ג'ס ארונס אינו מקובל בקרב ילדי בית הספר. אפילו בחיק משפחתו ג'ס אינו מוצא את מקומו. לאחר שהתאמן במשך כל חופשת הקיץ במטרה להיות הילד המהיר בכיתה, מגיע רגע האמת, והתואר הנכסף הולך לילדה החדשה בכיתה, לזלי ברק. עם הזמן, השניים מתיידדים ומוצאים אחד בשני נחמה מסביבת בית הספר העוינת. לזלי אוהבת לספר סיפורים על קסמים ואגדות וג'ס אוהב לצייר. לזלי פותחת לג'ס עולם דמיוני חדש, וביחד הם מגלים את "ממלכת טראביתיה", מקום הנגיש רק למי שעובר ב-"גשר" הממוקם אי שם ביער הסמוך לביתם. יחד, השניים שולטים ב-"ממלכה", נלחמים ב-"שליט האופל" ובנתיניו, וזוממים מזימות כנגד הבריונים של בית הספר.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ממלכת טראביתיה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ממלכת טראביתיה\ממלכת טראביתיה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ממלכת טראביתיה\ממלכת טראביתיה.strm</basepath>
+    <uniqueid type="tmdb" default="true">1265</uniqueid>
+    
+    <genre>הרפתקאות </genre>
+<genre> דרמה </genre>
+<genre> משפחה</genre>
+    <year>2007</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//ixjH33z2iRTDIdKY0JlyYcRNCWD.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//5ZFydVjSpSUzYkPbNbz4aXqdJIx.jpg">https://image.tmdb.org/t/p/original//5ZFydVjSpSUzYkPbNbz4aXqdJIx.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-02-08 19:15:51</dateadded>
+</movie>
+    

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הקיץ המופלא של מיקי מאוס</title>
+    <originaltitle>The Wonderful Summer of Mickey Mouse</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.455</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>TE
+[COLOR lightblue]2023-04-03 12:18:12[/COLOR]
+[COLOR blue]720p 2022 הקיץ המופלא של מיקי מדובב.mkv[/COLOR]
+0.25 GB
+מיקי מאוס וחברים נזכרים באירועים הפרועים שקדמו למופע זיקוקי הקיץ השנתי.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הקיץ המופלא של מיקי מאוס</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הקיץ המופלא של מיקי מאוס\הקיץ המופלא של מיקי מאוס.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הקיץ המופלא של מיקי מאוס\הקיץ המופלא של מיקי מאוס.strm</basepath>
+    <uniqueid type="tmdb" default="true">987337</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> קומדיה</genre>
+    <year>2022</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//9sdmCWZlLwFF4GbohSQxlD24g6m.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//dQ4gftU8BtTFJbOyYSXpcPmUb83.jpg">https://image.tmdb.org/t/p/original//dQ4gftU8BtTFJbOyYSXpcPmUb83.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-04-03 12:18:12</dateadded>
+</movie>
+    

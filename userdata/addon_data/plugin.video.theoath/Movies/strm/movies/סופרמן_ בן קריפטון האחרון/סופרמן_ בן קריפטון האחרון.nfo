@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>סופרמן: בן קריפטון האחרון</title>
+    <originaltitle>Superman: The Last Son of Krypton [TV Movie 1996]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-08-28 14:48:15[/COLOR]
+לאחר ששרד את ההרס של הפלנטה קריפטון הרחוקה, קלארק קנת הצעיר מגיע לכדור הארץ והופך כאן לגבר שבגברים, כשהוא ער לכוחות בהם בורך ושאותם הוא רוצה לנצל על מנת להביא לתועלת לכדור הארץ, הפלנטה המאמצת שלו. הוא עובר להתגורר במטרופוליס, הופך לכתב במגזין ה'דיילי פלנט' - ויריבה של הכתבת הבכירה לואיס ליין. הוא גם מעורר את זעמו של המולטי מליונר לקס לותר, שיתכן ויש לו נגיעה גדולה יותר לגניבה של חליפת מלחמה משהוא מוכן להודות. הכל תלוי באלטר-אדו של קלארק. סופרמן, ללחום בטרוריסטים חסרי רחמים ולמנוע בכד לותק מלשחרר את הנשק האולטימטיבי שלו!</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סופרמן_ בן קריפטון האחרון</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סופרמן_ בן קריפטון האחרון\סופרמן_ בן קריפטון האחרון.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סופרמן_ בן קריפטון האחרון\סופרמן_ בן קריפטון האחרון.strm</basepath>
+    <uniqueid type="tmdb" default="true">49076</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>משפחה</genre>
+    <year>1996</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=wW86XbgYDwA</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//fRIdZp60uZUtXm3sBdKzwmNMFWc.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//52ozszkXOBDLwyppir7hEKIQwQl.jpg">http://image.tmdb.org/t/p/original//52ozszkXOBDLwyppir7hEKIQwQl.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-08-28 14:48:15</dateadded>
+</movie>
+    

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>במבי</title>
+    <originaltitle>Bambi [1942]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7</value>
+            <votes>108,356</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-04-2 16:14:49[/COLOR]
+קסמן של חיות היער ובייחוד של במבי, העופר הקטן שנולד אל תוך הסרט וגדל עד להיותו אב ל'במבים' קטנים. אנושיותם של החיות היא שהפכה את הסרט לאחד מסרטי האנימציה המרגשים ביותר המשאיר את קהל הצופים עם דמעות של התרגשות בעיניים.</plot>
+    <runtime>70</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\במבי</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\במבי\במבי.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\במבי\במבי.strm</basepath>
+    <uniqueid type="tmdb" default="true">3170</uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Drama</genre>
+<genre>Family</genre>
+<genre>אנימציה</genre>
+<genre>דרמה</genre>
+<genre>משפחה</genre>
+    <year>1942</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=nLvX-erABqY</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//lercM3d4wjXAzNOecqpvQ0hTMDp.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//zM2Rdsh4kiTEXPkkO9lWBzZpwAH.jpg">http://image.tmdb.org/t/p/original//zM2Rdsh4kiTEXPkkO9lWBzZpwAH.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-04-02 16:14:49</dateadded>
+</movie>
+    

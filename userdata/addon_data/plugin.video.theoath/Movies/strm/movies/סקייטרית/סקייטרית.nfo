@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>סקייטרית</title>
+    <originaltitle>Skater Girl</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2022-10-17 16:30:07[/COLOR]
+דרמה בוליוודית בשפה ההינדית.  נערה הודית כפרית לומדת לגלוש על סקייטבורד, ועד מהרה התחביב החדש ממלא את חייה. כשהיא מנסה להגשים את חלומה ולהתחרות, היא מגלה שהדרך לניצחון מלווה מהמורות.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סקייטרית</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סקייטרית\סקייטרית.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סקייטרית\סקייטרית.strm</basepath>
+    <uniqueid type="tmdb" default="true">785522</uniqueid>
+    
+    <genre>דרמה</genre>
+<genre>משפחה</genre>
+    <year>2021</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=k5Fn99wmFCQ</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//61Rmb9qTF1cOyAZNilVs3r6g81z.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//kFZAu1g0f7bpunIumUY8Gb3Y9WU.jpg">http://image.tmdb.org/t/p/original//kFZAu1g0f7bpunIumUY8Gb3Y9WU.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-10-17 16:30:07</dateadded>
+</movie>
+    

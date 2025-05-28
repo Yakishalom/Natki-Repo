@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מדגסקר 3: מקרקסים את אירופה</title>
+    <originaltitle>Madagascar 3: Europe's Most Wanted [2012]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7</value>
+            <votes>142,605</votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr
+[COLOR lightblue]2019-02-1 00:09:26[/COLOR]
+אלכס האריה מלמן הג'ירף גלוריה ההיפופוטמית ומרטי הזברה מגיעים לאירופה ונתפסים על ידי המשטרה. במהלך המרדף הם וחבריהם הפינגוינים הקופים והלמורים מוצאים הסוואה בתוך קרקס נודד שהוא גם הפיתרון הכי טוב בשביל לחזור הביתה לניו יורק במהלך השתתפותם בקרקס החבורה מכירה את ויטלי נמר רוסי שחצן וקוטר גיאה ברדלסית דרום אמריקאית טובת לב ואמיצה ואת סטפנו כלב ים איטלקי שמח ומשועשע ביחד איתם המדגסקר מעלים מופע מהסרטים שכמוהו עוד לא נראה!</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מדגסקר 3_ מקרקסים את אירופה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מדגסקר 3_ מקרקסים את אירופה\מדגסקר 3_ מקרקסים את אירופה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מדגסקר 3_ מקרקסים את אירופה\מדגסקר 3_ מקרקסים את אירופה.strm</basepath>
+    <uniqueid type="tmdb" default="true">80321</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>משפחה</genre>
+<genre>קומדיה</genre>
+    <year>2012</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=FsyBwLYDidA</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//ekraj4ksvIKeuvQVEevEJkuybZd.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//hfdds27YL5nTAhiOtjfNNxD3bJe.jpg">http://image.tmdb.org/t/p/original//hfdds27YL5nTAhiOtjfNNxD3bJe.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-02-01 00:09:26</dateadded>
+</movie>
+    

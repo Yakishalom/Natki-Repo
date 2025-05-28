@@ -1,0 +1,1 @@
+["\u05e0\u05e9\u05d1\u05dc\u05d5\u05e4\u05d8\u05e9\u05dc", ["backup management", "backup 1-2-3", "cyber backup"], [], {"google:suggestsubtypes": [[512, 546], [512, 546], [512, 546]], "google:suggesttype": ["QUERY", "QUERY", "QUERY"]}]

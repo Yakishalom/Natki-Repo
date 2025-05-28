@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>ספר הג'ונגל 1</title>
+    <originaltitle>ספר הג'ונגל 1</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes> </votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-09-3 06:49:40[/COLOR]
+בתחילת הסיפור אנו פוגשים את הפנתר באגירה, שמצא תינוק נטוש ונתן אותו למשפחת זאבים, שהאבא בה היה הזאב ראמה. הזאבים קראו לילד מוגלי, וחיבבו אותו מאוד והוא-אותם. לילה אחד הטיגריס הבנגלי האכזר שרחאן חזר לחלק של הג'ונגל שבו מוגלי שכן. באסיפת הזאבים הציע אקילה, הזאב המנהיג, בעזרתו של בגירה לקחת את מוגלי לכפר של בני האדם, ובאגירה מתנדב לעשות זאת. בהמשך הם נתקלים בעוד חברים שונים ומשונים כמו: קאה הנחש, שיירת הפילים, המלך לואי וכו'. האם מוגלי יחזור לכפר בני האדם בשלום?</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ספר הג_ונגל 1</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ספר הג_ונגל 1\ספר הג_ונגל 1.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ספר הג_ונגל 1\ספר הג_ונגל 1.strm</basepath>
+    <uniqueid type="tmdb" default="true"> </uniqueid>
+    
+    <genre>משפחה</genre>
+<genre>אנימציה</genre>
+<genre>הרפתקאות</genre>
+    <year>1967</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//b0p27XltB0U5QSj9tvSHqOz9Op0.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//pfSLaXhojt0cNU6lWRGxvbQ2HWi.jpg">http://image.tmdb.org/t/p/original//pfSLaXhojt0cNU6lWRGxvbQ2HWi.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-09-03 06:49:40</dateadded>
+</movie>
+    

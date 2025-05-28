@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>טורבו</title>
+    <originaltitle>Turbo</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.178</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2021-06-23 17:34:39
+ON,Dr,TE,TE
+[COLOR lightblue]2021-02-24 01:15:25[/COLOR]
+[COLOR blue]טורבו.מדובב.גוזלן.720p.mp4[/COLOR]
+0.98 GB
+הסרט "טורבו" מגולל את סיפורו של חילזון גינה העונה לשם טורבו, חלומו הוא להיות החילזון הכי מהיר בעולם ולנצח במירוץ "אינדי 500", בדיוק כמו הגיבור שלו, האלוף גיא גאנג. האובססיה שלו למהירות הופכת אותו לתופעה מוזרה בקרב קהילת החילזונות, הדבר מבייש את אחיו הגדול, צ'ט. טורבו נואש להימלט מחייו האיטיים והמשעממים. כאשר הוא עובר תאונה מוזרה, הוא מגלה שהוא מהיר מאוד. כעת, כשטורבו מקבל את הזדמנות להגשים את חלומו, הוא יוצא למסע יוצא דופן כדי להשיג את הבלתי האפשרי: מרוץ כנגד הגיבור שלו, האלוף גיא גאנג.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טורבו</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טורבו\טורבו.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טורבו\טורבו.strm</basepath>
+    <uniqueid type="tmdb" default="true">77950</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> משפחה</genre>
+    <year>2003</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//rZoQnxxyrAa2O7QiVpYgfQTYyHz.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//dxmp5eHarPlNyeRyuzD6oMWqTjs.jpg">https://image.tmdb.org/t/p/original//dxmp5eHarPlNyeRyuzD6oMWqTjs.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-06-23 17:34:39</dateadded>
+</movie>
+    

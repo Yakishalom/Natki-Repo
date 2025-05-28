@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הפתעה מצחיקה: הסרט</title>
+    <originaltitle>L.O.L. Surprise: The Movie</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2022-11-15 07:09:51[/COLOR]
+קווין בי ורויאל בי, שתי בובות אחיות, יוצאות להרפתקה חד-פעמית קסומה ומפיקות את הסרט הראשון שלהן בעזרת חברותיהן האופנתיות.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הפתעה מצחיקה_ הסרט</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הפתעה מצחיקה_ הסרט\הפתעה מצחיקה_ הסרט.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הפתעה מצחיקה_ הסרט\הפתעה מצחיקה_ הסרט.strm</basepath>
+    <uniqueid type="tmdb" default="true">882206</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>משפחה</genre>
+    <year>2021</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=uqNuidWmR1Q</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//vbc8H3SR3BM6TZkJw6UBN4ekdjK.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//pXLdhDTJmrmg0PMBvgpzl67cCST.jpg">http://image.tmdb.org/t/p/original//pXLdhDTJmrmg0PMBvgpzl67cCST.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-11-15 07:09:51</dateadded>
+</movie>
+    

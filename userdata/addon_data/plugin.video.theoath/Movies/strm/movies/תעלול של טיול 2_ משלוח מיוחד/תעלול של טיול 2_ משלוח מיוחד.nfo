@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>תעלול של טיול 2: משלוח מיוחד</title>
+    <originaltitle>Большое путешествие. Специальная доставка</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.4</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>TE
+[COLOR lightblue]2021-04-16 15:55:10[/COLOR]
+[COLOR blue]תעלול של טיול.מדובב.גוזלן.1080p.mp4[/COLOR]
+1.33 GB
+שני חברים, הדוב פטריק והארנב אוסקר, מגיעים בטעות לטפל בגור דוב גריזלי. יחד הם יוצאים להרפתקה כדי להביא את הדוב תינוק למי שאמור להיות אמא ואבא שלו.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\תעלול של טיול 2_ משלוח מיוחד</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\תעלול של טיול 2_ משלוח מיוחד\תעלול של טיול 2_ משלוח מיוחד.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\תעלול של טיול 2_ משלוח מיוחד\תעלול של טיול 2_ משלוח מיוחד.strm</basepath>
+    <uniqueid type="tmdb" default="true">599019</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> משפחה </genre>
+<genre> הרפתקאות </genre>
+<genre> קומדיה</genre>
+    <year>2019</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//dabXVfrAFfhDte8XVemom3mTJog.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//zMY0rK0a4VLvkkfD4UXHSinhQSi.jpg">https://image.tmdb.org/t/p/original//zMY0rK0a4VLvkkfD4UXHSinhQSi.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-04-16 15:55:10</dateadded>
+</movie>
+    

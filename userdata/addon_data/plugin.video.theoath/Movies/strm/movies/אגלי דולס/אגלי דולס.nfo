@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>אגלי דולס</title>
+    <originaltitle>UglyDolls</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.696</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2019-12-18 16:20:05
+Dr,TE,TE
+[COLOR lightblue]2019-11-13 17:23:41[/COLOR]
+[COLOR blue]ק.סרטים אגלי דולס מדובב BluRay 720p.mp4[/COLOR]
+1.19 GB
+בעיר החמודה והשונה אגליוויל, מוקסי חסרת הדאגות וחברותיה האגלי דולס, יגלו מה המשמעות של להיות שונה ויתמודדו עם הרצון להיות אהובות ולבסוף יגלו שלא חייבים להיות מושלמים כדי להיות מדהימים, כי מי שאתם באמת זה מה שהכי חשוב.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אגלי דולס</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אגלי דולס\אגלי דולס.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אגלי דולס\אגלי דולס.strm</basepath>
+    <uniqueid type="tmdb" default="true">454458</uniqueid>
+    
+    <genre>משפחה </genre>
+<genre> אנימציה </genre>
+<genre> מוסיקה</genre>
+    <year>2019</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//6wHQgM3OgYNI3BtrE0LPPbjYrQc.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//93gOZuHazBWulk7b47MCXWVTiqh.jpg">https://image.tmdb.org/t/p/original//93gOZuHazBWulk7b47MCXWVTiqh.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-12-18 16:20:05</dateadded>
+</movie>
+    

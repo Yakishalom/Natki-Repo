@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>לילו וסטיץ'</title>
+    <originaltitle>Lilo & Stitch</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.511</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,TE,TE
+[COLOR lightblue]2023-05-10 20:08:19[/COLOR]
+[COLOR blue]720p BluRay 2002 נ.מ לילו וסטיץ' 1 מדובב.mkv[/COLOR]
+1.43 GB
+לילו היא ילדה בת חמש מהוואי, הנוהגת לאסוף חיות פצועות ולטפל בהן. יום אחד לילו מוצאת את סטיץ'. היא חושבת שהוא כלב מכוער במיוחד ואוספת אותו לביתה. סטיץ' מצידו היה יכול להיות כלב מצויין אם הוא רק לא היה ניסוי גנטי של חייזרים הנמלט מכוכב אחר ונחת נחיתת אונס על כדור הארץ. דרך האהבה שלה והאמונה שלה ב-"אוהנה", לילו פורצת אל ליבו של סטיץ' ומעניקה לו את הדבר היחיד שמעולם לא היה לו, היכולת להרגיש ולאהוב.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לילו וסטיץ_</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לילו וסטיץ_\לילו וסטיץ_.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לילו וסטיץ_\לילו וסטיץ_.strm</basepath>
+    <uniqueid type="tmdb" default="true">11544</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> משפחה</genre>
+    <year>2002</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//QtqgdHrZpQn4BAOZKNi8EpUodx.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//w102m4HoCP5uxhW8Yh7Hv7QShix.jpg">https://image.tmdb.org/t/p/original//w102m4HoCP5uxhW8Yh7Hv7QShix.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-05-10 20:08:19</dateadded>
+</movie>
+    

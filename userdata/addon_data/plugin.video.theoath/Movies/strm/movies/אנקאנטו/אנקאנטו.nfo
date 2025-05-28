@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>אנקאנטו</title>
+    <originaltitle>Encanto</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2022-06-22 23:15:43[/COLOR]
+סיפורה של משפחה יוצאת דופן, משפחת מדריגל. המשפחה מתגוררת אי שם בהרי קולומביה, בבית קסום בעיירה צבעונית במקום מופלא בשם “אנקאנטו”. הקסם של אנקאנטו בירך כל ילד במשפחת מדריגל במתנה יוצאת דופן, מכוח על אנושי ועד כוחות ריפוי, כל הילדים פרט לילדה אחת, מיראבל. אך כאשר היא מגלה שהקסם העוטף את אנקאנטו בסכנה, מיראבל מחליטה שהיא, בת משפחת מדריגל היחידה ללא כוחות על, עשויה להיות התקווה האחרונה של משפחתה המופלאה.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אנקאנטו</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אנקאנטו\אנקאנטו.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אנקאנטו\אנקאנטו.strm</basepath>
+    <uniqueid type="tmdb" default="true">568124</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>קומדיה</genre>
+<genre>משפחה</genre>
+<genre>פנטזיה</genre>
+    <year>2021</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=owOdp61oIxY</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//6iiPerEMn3DGNeUUgF9ma63WVh8.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//3G1Q5xF40HkUBJXxt2DQgQzKTp5.jpg">http://image.tmdb.org/t/p/original//3G1Q5xF40HkUBJXxt2DQgQzKTp5.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-06-22 23:15:43</dateadded>
+</movie>
+    

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>נורם בעיר הגדולה</title>
+    <originaltitle>Norm of the North</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>4.711</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2022-01-31 02:01:02
+ON,Dr,TE,TE,TE
+[COLOR lightblue]2017-12-13 16:13:47[/COLOR]
+[COLOR blue]BDRip נ.מדיה נורם בעיר הגדולה מדובב.mkv[/COLOR]
+0.72 GB
+נורם, דוב קוטב שאינו יודע איך לצוד, אך הוא מחזיק יכולת נדירה בדומה לסבא שלו - הוא יכול לתקשר עם בני אדם. כאשר ורה, מנהלת שיווק נדל"ן מגיעה לאזור מגוריו של נורם בכדי לצלם פרסומת טלוויזיה למכירת בתי יוקרה באזור, נורם מתכונן לעשות משהו שיציל את ביתו מידיו של הבוס מר גרין. בעידוד חברו סוקרטס השחף, נורם עוזב את משפחתו ויוצא על ספינה לניו יורק בליווי בעלי בריתו הנאמנים - שלושה מכרסמים שובבים ובלתי מנוצחים.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\נורם בעיר הגדולה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\נורם בעיר הגדולה\נורם בעיר הגדולה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\נורם בעיר הגדולה\נורם בעיר הגדולה.strm</basepath>
+    <uniqueid type="tmdb" default="true">276905</uniqueid>
+    
+    <genre>הרפתקאות </genre>
+<genre> אנימציה </genre>
+<genre> קומדיה </genre>
+<genre> משפחה</genre>
+    <year>2018</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//zdoc1wwElz62BNahHQWT4tfe5yu.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//bqBtjT11WMPaX6RY6jkGBFz2HfS.jpg">https://image.tmdb.org/t/p/original//bqBtjT11WMPaX6RY6jkGBFz2HfS.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-01-31 02:01:02</dateadded>
+</movie>
+    

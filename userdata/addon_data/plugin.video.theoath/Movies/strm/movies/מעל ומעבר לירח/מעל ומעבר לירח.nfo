@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מעל ומעבר לירח</title>
+    <originaltitle>Over the Moon [2020] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>10,535</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2021-01-9 19:48:41[/COLOR]
+סרט אנימציה מוזיקלי בדיבובם של קאת'י אנג, פיליפה סו, קן ג'ונג, ג'ון צ'ו וסנדרה או. פייפיי הנבונה ומלאת התושייה מתאבלת על אמה, ומחליטה לצאת למסע לירח כדי להוכיח את קיומה של אלת ירח מיתולוגית. לשם כך כמובן היא תזדקק לחללית.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מעל ומעבר לירח</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מעל ומעבר לירח\מעל ומעבר לירח.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מעל ומעבר לירח\מעל ומעבר לירח.strm</basepath>
+    <uniqueid type="tmdb" default="true">560050</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>הרפתקאות</genre>
+<genre>משפחה</genre>
+<genre>פנטזיה</genre>
+    <year>2020</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=0J6AudFxgU8</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//olHyDGzDkzSyKgDSopfot1F4pBG.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//htBUhLSS7FfHtydgYxUWjL3J1Q1.jpg">http://image.tmdb.org/t/p/original//htBUhLSS7FfHtydgYxUWjL3J1Q1.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-01-09 19:48:41</dateadded>
+</movie>
+    

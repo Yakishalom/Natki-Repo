@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>קרוסלת הקסמים</title>
+    <originaltitle>The Magic Roundabout</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.3</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,TE
+[COLOR lightblue]2021-10-27 15:52:50[/COLOR]
+[COLOR blue]נתי מדיה קרוסלת הקסמים מדובב.avi[/COLOR]
+0.68 GB
+"קרוסלת הקסמים" הוא עיבוד מודרני לסדרת טלוויזיה פולחנית משנות השישים שבוימה בידי אריק תומפסון, אביה של אמה. העלילה עוסקת בקורותיהם של כמה ידידים (פרה, חלזון, ארנב וכלבלב) היוצאים בחיפוש אחר שלושה יהלומים לפני שמכשף נורא יקפיא את העולם. אם בשנות השישים עדיין היה מדובר באנימציית סטופ-מושן קלאסית, הגרסה הנוכחית כבר נעשתה במחשב.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קרוסלת הקסמים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קרוסלת הקסמים\קרוסלת הקסמים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קרוסלת הקסמים\קרוסלת הקסמים.strm</basepath>
+    <uniqueid type="tmdb" default="true">16455</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> משפחה</genre>
+    <year>2005</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//qUUxGu8Oxtzk2VasR99Jqy74ogK.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//wsMd6w63m8TETGYdwCAnyMRs7h1.jpg">https://image.tmdb.org/t/p/original//wsMd6w63m8TETGYdwCAnyMRs7h1.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-10-27 15:52:50</dateadded>
+</movie>
+    

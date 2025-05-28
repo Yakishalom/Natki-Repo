@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>אמיצה</title>
+    <originaltitle>Brave</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.01</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2021-06-23 17:15:13
+ON,TE,TE
+[COLOR lightblue]2018-08-13 14:05:25[/COLOR]
+[COLOR blue]אמיצה.מדובב.גוזלן.BDRip.avi[/COLOR]
+0.85 GB
+מרידה היא קשתית מאומנת וזריזה, ביתם של המלך פרגוס ושל המלכה אלינור. מרידה רוצה להוכיח את עצמה ויוצאת נגד מנהג עתיק יומין בממלכה. היא מצליחה להרגיז את אדוני הארץ, ומעשיה גורמים לכאוס ופחד בממלכה. כשהיא מבקשת מאישה זקנה ויוצאת דופן שתעזור לה, היא נוחלת כישלון מר.הצרות אליהן היא נכנסת מלמדות את מרידה את משמעותו של האומץ, והיא מצליחה לגבור עליהן רגע לפני שכבר מאוחר מדי.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אמיצה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אמיצה\אמיצה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אמיצה\אמיצה.strm</basepath>
+    <uniqueid type="tmdb" default="true">62177</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> הרפתקאות </genre>
+<genre> קומדיה </genre>
+<genre> משפחה </genre>
+<genre> אקשן </genre>
+<genre> פנטזיה</genre>
+    <year>2004</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//n92O9AXWHvVI52mejYssWPyGres.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//qx9ts2hBYJrkIQxhryitxnLlm2u.jpg">https://image.tmdb.org/t/p/original//qx9ts2hBYJrkIQxhryitxnLlm2u.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-06-23 17:15:13</dateadded>
+</movie>
+    

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>דרגון בול Z: ברולי: השיבה</title>
+    <originaltitle>דרגון בול Z: ברולי: השיבה</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes> </votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2021-04-16 18:01:07[/COLOR]
+אחרי שהובס על ידי סון גוקו, ברולי מתרסק בכדור הארץ וקופא למשך שבע שנים במהלכן גופו מתרפא מפציעות הקרב הקשות שספג. לאחר שיצא מהקיפאון, הוא יוצא לחסל את גוקו, אך נתקל במקום בגוהאן, גוטן, טראנקס ווידאל אשר נלחמים בו בכל כוחם על מנת להביסו.</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דרגון בול Z_ ברולי_ השיבה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דרגון בול Z_ ברולי_ השיבה\דרגון בול Z_ ברולי_ השיבה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דרגון בול Z_ ברולי_ השיבה\דרגון בול Z_ ברולי_ השיבה.strm</basepath>
+    <uniqueid type="tmdb" default="true"> </uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>אקשן</genre>
+<genre>מדע בדיוני</genre>
+    <year>1994</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://i.imgur.com/sWD91ns.png</thumb>
+    <fanart>
+      <thumb colors="" preview="https://i.imgur.com/sWD91ns.png">https://i.imgur.com/sWD91ns.png</thumb>
+            
+    </fanart>
+    <dateadded>2021-04-16 18:01:07</dateadded>
+</movie>
+    

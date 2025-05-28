@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>דינוזאור</title>
+    <originaltitle>Dinosaur</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.527</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE
+[COLOR lightblue]2021-10-13 23:41:05[/COLOR]
+[COLOR blue]DVDRip 2000 נתי מדיה דינוזאור מדובב.avi[/COLOR]
+0.47 GB
+סרט אנימציה מאולפני וולט דיסני שהצריך תשתיות חדשות להפקה. רק על המעבדה הדיגיטלית בה יוצרו האפקטים החזותיים שדל הסרט עבדו ארבע שנים! סיפורו של דינוזאור ושמו אלאדור הנפרד מבני מינו ומאומץ ע"י משפחה של למורים, אחרי שמטאור ענק פוגע בכדור הארץ. אין קשר בין הסיפור לעובדות המדעיות על הדינוזאורים, כמובן, אך העיצוב הריאליסטי של החיות מבלבל מעט. ביימו ראלף זונטאג ואריק לייטון, שהיה בין האנימטורים ב-"ג'יימס והאפרסק הענק" ו-"סיוט לפני חג המולד".TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דינוזאור</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דינוזאור\דינוזאור.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דינוזאור\דינוזאור.strm</basepath>
+    <uniqueid type="tmdb" default="true">10567</uniqueid>
+    
+    <genre>משפחה </genre>
+<genre> אנימציה</genre>
+    <year>2000</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//mxvB5A21hueeySlz2XZNwkPKFNY.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//laeEtakR2pLKu3CeRwB2lU5Y53X.jpg">https://image.tmdb.org/t/p/original//laeEtakR2pLKu3CeRwB2lU5Y53X.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-10-13 23:41:05</dateadded>
+</movie>
+    

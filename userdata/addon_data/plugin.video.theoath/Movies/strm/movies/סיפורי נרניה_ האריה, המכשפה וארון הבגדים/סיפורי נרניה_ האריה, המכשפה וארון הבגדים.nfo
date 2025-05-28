@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>סיפורי נרניה: האריה, המכשפה וארון הבגדים</title>
+    <originaltitle>The Chronicles of Narnia: The Lion, the Witch and the Wardrobe</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.124</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2020-11-9 07:26:17
+Dr,TE
+[COLOR lightblue]2020-06-16 20:58:06[/COLOR]
+[COLOR blue]סיפורי נרניה 1.מדובב.גוזלן.avi[/COLOR]
+1.4 GB
+ארבעת ילדי משפחת פבנסי מפונים מלונדון בימי הבליץ הגרמני על העיר. במהלך משחק מחבואים בביתו של פרופסור קירק מגלה לוסי, הצעירה שבהם, כי מאחורי ארון הבגדים ממתינה ממלכת נרניה השרויה בהקפאה עמוקה בעקבות קללתה של המכשפה הלבנה. ארבעת הילדים מסתקרנים לטייל בממלכה וללמוד על תושביה המופלאים. כאשר אדמונד מתפתה להבטחות המכשפה ונופל בשביה, רק האריה האמיץ אסלאן יוכל להצילו.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סיפורי נרניה_ האריה, המכשפה וארון הבגדים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סיפורי נרניה_ האריה, המכשפה וארון הבגדים\סיפורי נרניה_ האריה, המכשפה וארון הבגדים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סיפורי נרניה_ האריה, המכשפה וארון הבגדים\סיפורי נרניה_ האריה, המכשפה וארון הבגדים.strm</basepath>
+    <uniqueid type="tmdb" default="true">411</uniqueid>
+    
+    <genre>הרפתקאות </genre>
+<genre> משפחה </genre>
+<genre> פנטזיה</genre>
+    <year>2005</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//44T8vOdfmgJEziQFLPNqS8DKCH9.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//9iRRfMZbnpgHDdKi2lczGGYZXDo.jpg">https://image.tmdb.org/t/p/original//9iRRfMZbnpgHDdKi2lczGGYZXDo.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-11-09 07:26:17</dateadded>
+</movie>
+    

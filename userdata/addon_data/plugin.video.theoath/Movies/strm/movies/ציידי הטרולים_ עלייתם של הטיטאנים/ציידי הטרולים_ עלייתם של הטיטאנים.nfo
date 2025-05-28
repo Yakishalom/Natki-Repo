@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>ציידי הטרולים: עלייתם של הטיטאנים</title>
+    <originaltitle>Trollhunters: Rise of the Titans</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.653</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>Dr,TE,TE,TE
+[COLOR lightblue]2023-08-16 20:00:19[/COLOR]
+[COLOR blue]1080p WEB-DL 2021 ז.מ ציידי הטרולים מדובב.mkv[/COLOR]
+1.45 GB
+הגיבורים של "ציידי הטרולים", "שלושה בהסוואה" ו"מכשפים: סיפורי ארקדיה" מאחדים כוחות כדי להילחם באויב מסתורי שמאיים להשתלט על עולמם – ולהשיב את כדור הארץ לעידן הבריאה.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ציידי הטרולים_ עלייתם של הטיטאנים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ציידי הטרולים_ עלייתם של הטיטאנים\ציידי הטרולים_ עלייתם של הטיטאנים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ציידי הטרולים_ עלייתם של הטיטאנים\ציידי הטרולים_ עלייתם של הטיטאנים.strm</basepath>
+    <uniqueid type="tmdb" default="true">730840</uniqueid>
+    
+    <genre></genre>
+    <year>2021</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//gr90LU3Iv2pHcRLYGWwsUb9GBLv.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//3OwaKVZf3A2NdnarqKbwzFEhKir.jpg">https://image.tmdb.org/t/p/original//3OwaKVZf3A2NdnarqKbwzFEhKir.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-08-16 20:00:19</dateadded>
+</movie>
+    

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הרפתקאותיו הרבות של פו הדב</title>
+    <originaltitle>The Many Adventures of Winnie the Pooh [1977]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>8</value>
+            <votes>28,430</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-10-3 06:35:40[/COLOR]
+הסרט הוא גרסה מאוחדת של שלושה סרטי פו הדב אותם הפיקה דיסני בעבר: 'פו הדב ועץ הדבש' [1966], 'פו הדב והיום הסוער' [1968] ו'פו הדב וטיגר גם' [1974].  ב'פו הדב ועץ הדבש' פו, שתאוותו לדבש אינה יודעת גבול, מנסה להגיע לכוורת דבש עם בלון כחול אבל הדבורים רודפות אחריו והוא ניצל מהן בזכות ידידו כריסטופר רובין.  ב'פו הדב והיום הסוער' אנו פוגשים את חזרזיר. חזרזיר ופו עפים לתוך ביתו של ינשוף, שלאחר מכן נהרס לחלוטין. בלילה פו פוגש את טיגר, שמסביר לו שדבש, ובעיקר דבש גנוב, אהוב על יצורים הנקראים 'פילנפילים' [פרפילים בגרסת הדיבוב] ו'תועלים' [שועלדונים בגרסת הדיבוב].  ב'פו הדב וטיגר גם', לארנב נמאס מהניתורים של טיגר, והוא מחליט לעשות מעשה: לאבד את טיגר בערפל. הדבר לא מצליח.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הרפתקאותיו הרבות של פו הדב</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הרפתקאותיו הרבות של פו הדב\הרפתקאותיו הרבות של פו הדב.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הרפתקאותיו הרבות של פו הדב\הרפתקאותיו הרבות של פו הדב.strm</basepath>
+    <uniqueid type="tmdb" default="true">250480</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>משפחה</genre>
+    <year>1977</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=I96O1b9BVIk</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//zwQ0l7ErjKOxabv8HOE6OEph5rG.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//lSY6fPzIaYS6wvbXQP9uU9y2njf.jpg">http://image.tmdb.org/t/p/original//lSY6fPzIaYS6wvbXQP9uU9y2njf.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-10-03 06:35:40</dateadded>
+</movie>
+    

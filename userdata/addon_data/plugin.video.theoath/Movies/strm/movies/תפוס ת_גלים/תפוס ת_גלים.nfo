@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>תפוס ת'גלים</title>
+    <originaltitle>Surf's Up [2007]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7</value>
+            <votes>60,660</votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr
+[COLOR lightblue]2018-11-9 12:37:05[/COLOR]
+העלילה עוסקת בגיבור הסרט, קודי מאבריק שכל חלומו הוא לגלוש באופן מקצועי ולהוכיח למשפחתו וחבריו שהוא מזן של אלופים. בעזרת 'ביג זי', מדריכו הרוחני וגיבור נעוריו הוא לומד את רזי הגלישה, מתאהב ומתאמן לתחרות. בסרט, צוות דוקומנטרי נשלח לסקר את האליפות, ולוקח את הקהל אל מאחורי הקלעים של האירוע התחרותי ביותר, המסוכן ביותר והמרהיב ביותר בתחום גלישת הגלים בעולם - אליפות העולם לגלישה של פינגווינים.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\תפוס ת_גלים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\תפוס ת_גלים\תפוס ת_גלים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\תפוס ת_גלים\תפוס ת_גלים.strm</basepath>
+    <uniqueid type="tmdb" default="true">9408</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>קומדיה</genre>
+<genre>משפחה</genre>
+    <year>2007</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=N41QJ0VCs68</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//tmoUq9qImvfPPkDkwdA9arcYBvF.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//qOfUKwYsRLaZJIdkTdQyNeeGc2f.jpg">http://image.tmdb.org/t/p/original//qOfUKwYsRLaZJIdkTdQyNeeGc2f.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-11-09 12:37:05</dateadded>
+</movie>
+    

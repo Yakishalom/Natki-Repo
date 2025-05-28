@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הרפתקאותיו של פינוקיו</title>
+    <originaltitle>Le avventure di Pinocchio</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.521</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>TE
+[COLOR lightblue]2018-12-09 18:27:18[/COLOR]
+[COLOR blue]הרפתקאותיו_של_פינוקיו_מדובב_גוזלן.avi[/COLOR]
+0.28 GB
+Mastro Geppetto is a poor carpenter with no wife and no children. The man is very lonely, and after trading a piece of wood with his colleague Mastro Ciliegia, decides to build himself a puppet to keep him company.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הרפתקאותיו של פינוקיו</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הרפתקאותיו של פינוקיו\הרפתקאותיו של פינוקיו.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הרפתקאותיו של פינוקיו\הרפתקאותיו של פינוקיו.strm</basepath>
+    <uniqueid type="tmdb" default="true">58451</uniqueid>
+    
+    <genre>משפחה </genre>
+<genre> דרמה </genre>
+<genre> הרפתקאות </genre>
+<genre> פנטזיה </genre>
+<genre> קומדיה</genre>
+    <year>1999</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//xjoYc9umKoZHTVr2B0uBbn3bCXj.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//1gAIPtpuHSYWJ6PjF8r9jOJdSmG.jpg">https://image.tmdb.org/t/p/original//1gAIPtpuHSYWJ6PjF8r9jOJdSmG.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-12-09 18:27:18</dateadded>
+</movie>
+    

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>עליסה בארץ הפלאות</title>
+    <originaltitle>Alice in Wonderland [1951] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7</value>
+            <votes>115,487</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2019-04-22 20:36:39[/COLOR]
+מבוסס על ספרו הקלאסי של לואיס קרול ומביא את מסעה הקסום של עליסה הקטנה, המטיילת בארץ הפלאות ועוברת חוויות מופלאות ביניהן מסיבת תה מוזרה, משחק קלפים מרתק, שדה של פרחים מדברים, שפן שממהר כל הזמן, משקה שמקטין ומגדיל אותה ועוד ועוד.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\עליסה בארץ הפלאות</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\עליסה בארץ הפלאות\עליסה בארץ הפלאות.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\עליסה בארץ הפלאות\עליסה בארץ הפלאות.strm</basepath>
+    <uniqueid type="tmdb" default="true">12092</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>משפחה</genre>
+<genre>פנטזיה</genre>
+<genre>הרפתקאות</genre>
+    <year>1951</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=KLIqErnQCuw</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//AdwfqyNiH8UqeYKFYoiKhwTtjAb.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//b4yiLlIFuiULuuLTxT0Pt1QyT6J.jpg">http://image.tmdb.org/t/p/original//b4yiLlIFuiULuuLTxT0Pt1QyT6J.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-04-22 20:36:39</dateadded>
+</movie>
+    

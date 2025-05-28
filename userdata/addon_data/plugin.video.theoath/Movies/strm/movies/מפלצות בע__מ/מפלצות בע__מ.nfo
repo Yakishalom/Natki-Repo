@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מפלצות בע''מ</title>
+    <originaltitle>Monsters, Inc.</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.834</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE
+[COLOR lightblue]2020-11-01 18:02:56[/COLOR]
+[COLOR blue]DVDRip 2001 נ.מ מפלצות בעמ מדובב.avi[/COLOR]
+0.68 GB
+בעולם שמאחורי דלתות הארון שלנו, מפלצות כמייק וסאלי עובדים קשה בשביל המשכורת שלהם, עבור חברת 'מפלצות בע"מ', ארגון ענק הלוכד את צרחותיהם של ילדים והופך אותן לאנרגיה. הבעיה היא שהילדים כבר לא מפחדים. אך כשהילדה הקטנה, בו, הולכת אחרי סאלי דרך דלת הארון אל תוך מפעל 'מפלצות בע"מ' היא יוצרת בעיה חדשה ודחופה הרבה יותר עבור החברה מכיוון שהמפלצות מפחדות פחד מוות מילדים.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מפלצות בע__מ</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מפלצות בע__מ\מפלצות בע__מ.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מפלצות בע__מ\מפלצות בע__מ.strm</basepath>
+    <uniqueid type="tmdb" default="true">585</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> קומדיה </genre>
+<genre> משפחה</genre>
+    <year>2001</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//pzkP0yl7G3H2c8g6YnpnevwYq6S.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//vUTVUdfbsY4DePCYzxxDMXKp6v6.jpg">https://image.tmdb.org/t/p/original//vUTVUdfbsY4DePCYzxxDMXKp6v6.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-11-01 18:02:56</dateadded>
+</movie>
+    

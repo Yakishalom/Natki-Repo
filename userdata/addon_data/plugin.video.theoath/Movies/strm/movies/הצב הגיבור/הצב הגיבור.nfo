@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הצב הגיבור</title>
+    <originaltitle>הצב הגיבור</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes> </votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-04-5 10:23:41[/COLOR]
+סרט הרפתקאות קסום על צב קטן ההופך לגיבור גדול. צב צעיר מתנדב לעלות לממלכת האדמה להציל את מלך ממלכת הים. הוא פוגש חברים ואויבים, מתייצב מול סכנות וגם כיף...</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הצב הגיבור</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הצב הגיבור\הצב הגיבור.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הצב הגיבור\הצב הגיבור.strm</basepath>
+    <uniqueid type="tmdb" default="true"> </uniqueid>
+    
+    <genre> </genre>
+    <year>2001</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//8zckCOrQq9nr5qjlaBHPuEUDjB6.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://ia.media-imdb.com/images/M/MV5BODQ2OTNhYjctZTBhYi00ODAyLTlmY2UtYzIwNWZlZjJkMDljXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UX182_CR0,0,182,268_AL_.jpg">https://ia.media-imdb.com/images/M/MV5BODQ2OTNhYjctZTBhYi00ODAyLTlmY2UtYzIwNWZlZjJkMDljXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-04-05 10:23:41</dateadded>
+</movie>
+    

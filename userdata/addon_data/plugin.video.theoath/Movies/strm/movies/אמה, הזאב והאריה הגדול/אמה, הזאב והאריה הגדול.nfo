@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>אמה, הזאב והאריה הגדול</title>
+    <originaltitle>Le loup et le lion</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2023-01-26 20:36:00[/COLOR]
+אמה מגיעה לבקתה של סבה שזה עתה הלך לעולמו. בעודה מעבירה שם לילה לפני חזרתה ללימודי המוזיקה שלה בעיר, היא מוצאת גור אריות ששרד התרסקות מטוס באזור וגור זאבים שהושאר בפתח ביתה על ידי אמו הזאבה. יחדיו הם יוצאים למסע שכולו חברות אמת, אהבה לטבע, לחיות ולחיים עצמם.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אמה, הזאב והאריה הגדול</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אמה, הזאב והאריה הגדול\אמה, הזאב והאריה הגדול.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אמה, הזאב והאריה הגדול\אמה, הזאב והאריה הגדול.strm</basepath>
+    <uniqueid type="tmdb" default="true">780382</uniqueid>
+    
+    <genre>משפחה</genre>
+<genre>הרפתקאות</genre>
+    <year>2021</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=R2jpRwSFenU</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//aSRvK4kLJORBrVdlFn2wrGx8XPv.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//vYAuEi9NO23JeutE1REn6RkZUTj.jpg">http://image.tmdb.org/t/p/original//vYAuEi9NO23JeutE1REn6RkZUTj.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-01-26 20:36:00</dateadded>
+</movie>
+    

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>The Lion King [Video Game 1994]</title>
+    <originaltitle>The Lion King [Video Game 1994]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>8</value>
+            <votes>786</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2018-12-19 18:45:19[/COLOR]
+ מלך האריות, The Lion King - סיפור נצחי, אנימציה עוצרת נשימה, דמויות אהובות, ופסקול זוכה פרסי האוסקר וגלובוס הזהב, משמשים תפאורה מנצחת להרפתקאותיו של סימבה, גור האריות הנמרץ אשר 'לא יכול לחכות להיות מלך'. אבל דודו הקנאי, הדוד סקאר מתכנן לעצמו להשתלט על כס המלוכה, ומסלק את סימבה לגלות ממלכת האריות. בודד ונתון לחסדי היער, סימבה מתחבר במהרה להרפתקאות של סוריקטה מצחיק בשם טימון וחברו טוב הלב, חזיר היבלות העונה לשם פומבה. <br /></plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\The Lion King [Video Game 1994]</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\The Lion King [Video Game 1994]\The Lion King [Video Game 1994].strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\The Lion King [Video Game 1994]\The Lion King [Video Game 1994].strm</basepath>
+    <uniqueid type="tmdb" default="true">None</uniqueid>
+    
+    <genre> </genre>
+    <year>1994</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://m.media-amazon.com/images/M/MV5BNzVmNzQ2ZmYtMmUzNy00MzhjLTg4ODUtMTQ0MjMzYTdkMDg5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY268_CR5,0,182,268_AL_.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://m.media-amazon.com/images/M/MV5BNzVmNzQ2ZmYtMmUzNy00MzhjLTg4ODUtMTQ0MjMzYTdkMDg5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY268_CR5,0,182,268_AL_.jpg">https://m.media-amazon.com/images/M/MV5BNzVmNzQ2ZmYtMmUzNy00MzhjLTg4ODUtMTQ0MjMzYTdkMDg5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY268_CR5,0,182,268_AL_.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-12-19 18:45:19</dateadded>
+</movie>
+    

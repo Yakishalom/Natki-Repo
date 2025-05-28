@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מרי פופינס חוזרת</title>
+    <originaltitle>Mary Poppins Returns</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.507</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE
+[COLOR lightblue]2023-02-20 22:10:41[/COLOR]
+[COLOR blue]1080p BluRay 2018 מרי פופינס חוזרת מדובב.mkv[/COLOR]
+1.87 GB
+בלונדון של שנות השלושים – 24 שנים לאחר התרחשויות הסרט המקורי. מייקל בנקס עובד בבנק בו עבד אביו, ועדיין מתגורר בבית ילדותו יחד עם שלושת ילדיו: אנאבל, ג'ורג'י וג'ון ועוזרת הבית שלהם אלן. מרי פופינס חוזרת לעזור לדור הבא של משפחת בנקס למצוא אושר וקסם לאחר שחוו אובדן. האומנת המסתורית מצטרפת לחברה ג'ק, מדליק פנסי רחוב אופטימי, אשר עוזר לה להחזיר אור וחיים לרחובות לונדון.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מרי פופינס חוזרת</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מרי פופינס חוזרת\מרי פופינס חוזרת.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מרי פופינס חוזרת\מרי פופינס חוזרת.strm</basepath>
+    <uniqueid type="tmdb" default="true">400650</uniqueid>
+    
+    <genre>פנטזיה </genre>
+<genre> משפחה </genre>
+<genre> קומדיה</genre>
+    <year>2018</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//9GUWAVxSwDDSNMnFax58ledCyL8.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//oGzToOBTRdXVOrHj8r0VgK3d2sU.jpg">https://image.tmdb.org/t/p/original//oGzToOBTRdXVOrHj8r0VgK3d2sU.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-02-20 22:10:41</dateadded>
+</movie>
+    

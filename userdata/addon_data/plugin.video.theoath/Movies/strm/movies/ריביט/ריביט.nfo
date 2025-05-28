@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>ריביט</title>
+    <originaltitle>Ribbit</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>4.571</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2018-01-7 12:01:57
+ON,TE
+[COLOR lightblue]2017-12-13 18:03:38[/COLOR]
+[COLOR blue]ריביט - מדובב.avi[/COLOR]
+0.68 GB
+קרה לכם פעם שהרגשתם שונים מאחרים? שאתם נמצאים במקום הלא נכון ובזמן הלא נכון? זה בדיוק מה שמרגיש ריביט הצעיר, צפרדעון מצחיק עם משבר זהות - הוא לא אוהב מים, שונא קפיצות וניתורים וסולד מזבובים. הוא מסרב לקבל את גורלו כצפרדע, ויום אחד ריביט, עקב משחק היפנוט שהשתבש, מבין את המקור לתחושות הניכור הללו: הוא בכלל לא צפרדע! אלא נסיך אגדי שהפך לצפרדע, ועליו רק לשכנע נסיכה אקראית לנשק אותו, כדי שיזכה לחיי אדם שוב! ממש כמו באגדות. יחד עם חברתו הטובה הסנאית המעופפת, הוא יוצא למסע הרפתקאות מסעיר בחיפוש אחר המקום שלו בעולם. עם התקדמותו בדרך אל עבר מטרתו הסופית, הוא עובר מסע פנימי משמעותי לא פחות, בדרך לגילוי האמת. זהו סרט עם תובנות עמוקות שכל אחד יכול להזדהות איתן, על המקום שלנו בעולם, גורל וחשיבות המימוש העצמי, כמו גם התבגרות ומציאת אהבה, קרוב ממה שחשבנו.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ריביט</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ריביט\ריביט.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ריביט\ריביט.strm</basepath>
+    <uniqueid type="tmdb" default="true">256690</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> קומדיה </genre>
+<genre> משפחה </genre>
+<genre> הרפתקאות</genre>
+    <year>2014</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//vKHPzB0LqFJkf8TqLrhZEmoQIfr.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//etcOaTO8BDLx3VHdfhWE1g7ys3l.jpg">https://image.tmdb.org/t/p/original//etcOaTO8BDLx3VHdfhWE1g7ys3l.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-01-07 12:01:57</dateadded>
+</movie>
+    

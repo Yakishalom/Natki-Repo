@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>קינג</title>
+    <originaltitle>King</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2023-08-30 07:03:07[/COLOR]
+מה הייתם עושים אם פתאום היה מופיע בכניסה לביתכם גור אריות מתוק? זה בדיוק מה שקורה לזוג אחים שמגלים לפתע בביתם גור אריות שברח משדה התעופה. עכשיו, כשכל העולם מחפש אותו, מה יעשו איתו צמד האחים ומי יעזור להם בדרך?</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קינג</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קינג\קינג.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קינג\קינג.strm</basepath>
+    <uniqueid type="tmdb" default="true">892527</uniqueid>
+    
+    <genre>הרפתקאות</genre>
+<genre>קומדיה</genre>
+<genre>משפחה</genre>
+    <year>2022</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=askNIvjaER8</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//hYLaaEKzXnj2FvXOVS0OPjcYw8.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//ykl4EIbQIddiBYTrq5hghgDL9Ky.jpg">http://image.tmdb.org/t/p/original//ykl4EIbQIddiBYTrq5hghgDL9Ky.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-08-30 07:03:07</dateadded>
+</movie>
+    

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הדרדסים וחליל הקסם</title>
+    <originaltitle>La Flûte à six schtroumpfs</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.573</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2021-11-30 23:11:17
+TE,TE
+[COLOR lightblue]2021-10-27 15:53:06[/COLOR]
+[COLOR blue]נתי_מדיה_הדרדסים_וחליל_הקסם_מדובב.avi[/COLOR]
+0.53 GB
+לדרדסים יש חליל קסם שגורם לאנשים לרקוד. החליל נלקח מכפר הדרדסים ונופל לידיהם של הצעיר אוהב המתיחות פיוויט והאביר הטוב יוהן. זה לא נורא, אבל כשפיוויט מאבד את החליל ורשע בשם מק - שרץ גונב אותו ומשתמש בו בכדי לשדוד אותם, הדרדסים יוצאים להציל את המצב...TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הדרדסים וחליל הקסם</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הדרדסים וחליל הקסם\הדרדסים וחליל הקסם.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הדרדסים וחליל הקסם\הדרדסים וחליל הקסם.strm</basepath>
+    <uniqueid type="tmdb" default="true">53566</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> הרפתקאות </genre>
+<genre> משפחה </genre>
+<genre> קומדיה </genre>
+<genre> פנטזיה</genre>
+    <year>1976</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//nMtwinQKxRSe8FqUeWLjrLkvrHw.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//usvXzp8WSBkuAY46HkOwtBrBBba.jpg">https://image.tmdb.org/t/p/original//usvXzp8WSBkuAY46HkOwtBrBBba.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-11-30 23:11:17</dateadded>
+</movie>
+    

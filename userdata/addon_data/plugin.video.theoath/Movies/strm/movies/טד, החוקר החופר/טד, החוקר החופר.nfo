@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>טד, החוקר החופר</title>
+    <originaltitle>Tad the Lost Explorer and the Secret of King Midas [2017]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>1,936</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2019-01-29 20:13:13[/COLOR]
+לאחר שהארכיאולוגית שרה לברוף מגלה את אחת משלוש הטבעות המוזהבות של מחרוזת המלך מידאס, המעניקה את הכוח לשולט בה להפוך כל דבר לזהב, טד נוסע ללוס אנג'לס לתערוכה בה שרה תחשוף את הגילוי הארכיאולוגי בפעם הראשונה אי פעם. אך הפגישה המחודשת של טד ושרה משנה כיוון כאשר הנבל ג'ק רקהאם והצוות שלו שודדים את הטבעת וחוטפים את שרה בידיעה מלאה כי מי שמעמיד את שלוש הטבעות של מחרוזת המלך מידאס בחזרה, יזכה לרשת את כוחו ואת עושרו העצום.  טד יוצא למסע להציל את שרה ולהרוס התוכניות המרושעות של רקהאם, כשהוא נוסע בעולם לצד חבריו המומיה, בלזוני התוכי והכלב שלו ג'ף.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טד, החוקר החופר</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טד, החוקר החופר\טד, החוקר החופר.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טד, החוקר החופר\טד, החוקר החופר.strm</basepath>
+    <uniqueid type="tmdb" default="true">452773</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>הרפתקאות</genre>
+<genre>קומדיה</genre>
+<genre>משפחה</genre>
+    <year>2017</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=3NOX6BMFllk</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//lYEQEH34Q7xleZH3sJEgiRWVE19.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//AsFLWRkMTWLdp9niddXarc6Epc7.jpg">http://image.tmdb.org/t/p/original//AsFLWRkMTWLdp9niddXarc6Epc7.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-01-29 20:13:13</dateadded>
+</movie>
+    

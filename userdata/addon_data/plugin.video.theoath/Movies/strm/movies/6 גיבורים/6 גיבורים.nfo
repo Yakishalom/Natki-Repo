@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>6 גיבורים</title>
+    <originaltitle>Big Hero 6</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.738</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2021-07-06 17:28:54
+TE,TE
+[COLOR lightblue]2018-06-25 23:54:51[/COLOR]
+[COLOR blue]שישה גיבורים.מדובב.גוזלן.avi[/COLOR]
+0.85 GB
+גאון טכנולוגי בשם הירו המדה והרובוט שלו ביימאקס , המוצאים את עצמם בתוך השתלשלות עבריינית המאימת להרוס את העיר בעלת הקצב והטכנולוגיה המסחררים, סאן פרנסיוקיו. השניים משלבים כוחות עם צוות חסר מוטיבציה של לוחמי פשע בתחילת דרכם במשימה להציל את העיר. הסרט נכתב בהשראת הרומן הגרפי של מארוול ומציג קטעי פעולה בסגנון הקומיקס בשילוב הרבה חוש הומור ורגש על פי מיטב המסורת של סרטי וולט דיסני.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\6 גיבורים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\6 גיבורים\6 גיבורים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\6 גיבורים\6 גיבורים.strm</basepath>
+    <uniqueid type="tmdb" default="true">177572</uniqueid>
+    
+    <genre>הרפתקאות </genre>
+<genre> משפחה </genre>
+<genre> אנימציה </genre>
+<genre> אקשן </genre>
+<genre> קומדיה</genre>
+    <year>2014</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//zC4Bn43E32LtCU8BWpmeTcN8wbN.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//5tub2Kw6NboWFblA1CgDEwB59jP.jpg">https://image.tmdb.org/t/p/original//5tub2Kw6NboWFblA1CgDEwB59jP.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-07-06 17:28:54</dateadded>
+</movie>
+    

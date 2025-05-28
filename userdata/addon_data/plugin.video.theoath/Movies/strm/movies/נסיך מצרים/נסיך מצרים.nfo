@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>נסיך מצרים</title>
+    <originaltitle>The Prince of Egypt</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.245</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2019-03-8 14:19:03
+ON,Dr,TE,TE
+[COLOR lightblue]2018-10-29 12:01:04[/COLOR]
+[COLOR blue]נסיך מצרים .מדובב.גוזלן.1998.mkv[/COLOR]
+0.96 GB
+נסיך מצרי לומד על זהותו העברית, ומנסה להוציא לחופשי את בני עמו... במצריים לפני ימים רבים, מלך מצרים פרעה סתי, מורה שכל התינוקות העברים ממן זכר יושלכו לייאור ויוטבעו. אם הנואשת מניחה את בנה בסל נצרים בייאור. כשהיא סומכת על אלוהי העברים שיציל אותו. הסל נמצא ע"י בת המלוכה, ומשה נלקח לארמון וגודל כאח ליורש העצר רעמסס. שנים אחרי האחים שגודלים בעושר ואושר נפרדים ברגע שמשה מזהה את מורשתו האמיתית ונקרא ע"י אלוהים למשימה של שחרור העברים מהעבדות.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\נסיך מצרים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\נסיך מצרים\נסיך מצרים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\נסיך מצרים\נסיך מצרים.strm</basepath>
+    <uniqueid type="tmdb" default="true">9837</uniqueid>
+    
+    <genre>הרפתקאות </genre>
+<genre> אנימציה </genre>
+<genre> דרמה </genre>
+<genre> משפחה</genre>
+    <year>1998</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//cMjcJIwr3bGbQvdGnyRE9kwkYwL.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//kchiiKCtsOg0VoFUpLnu1H98AX.jpg">https://image.tmdb.org/t/p/original//kchiiKCtsOg0VoFUpLnu1H98AX.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-03-08 14:19:03</dateadded>
+</movie>
+    

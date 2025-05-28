@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>אנסטסיה</title>
+    <originaltitle>Anastasia [1997] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7</value>
+            <votes>103,088</votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr
+[COLOR lightblue]2019-06-24 08:16:40[/COLOR]
+סיפורה של הנסיכה אנסטסיה, יורשת לצאר הרוסי, שעליה ועל המלוכה מוטלת קללה ע'י הנזיר המשוגע רספוטין. אנסטסיה מאבדת את זיכרונה ונעלמת מהארמון. אחרי 10 שנים, חסרת בית, היא מחליטה לצאת ולגלות את זהותה האמיתית. היא פוגשת את דימיטרי הצעיר, שמחפש בחורה שתתחזה לאנסטסיה ותיסע איתו לפאריז. בפאריז מחכה סופי, סבתא של אנסטסיה, למצוא את נכדתה האבודה. הרפתקאה שמתחילה במרדף אחר פרס כספי הופכת למסע של אהבה, שהרי פאריז היא העיר הרומנטית ביותר שאפשר לצייר.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אנסטסיה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אנסטסיה\אנסטסיה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אנסטסיה\אנסטסיה.strm</basepath>
+    <uniqueid type="tmdb" default="true">9444</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>משפחה</genre>
+    <year>1997</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=lOHIvonvjDQ</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//3qbAX0cltrlbCXpgMmuv0LLrfp8.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//aMdz0ngZaAsKvlbOCIXieHd9fgD.jpg">http://image.tmdb.org/t/p/original//aMdz0ngZaAsKvlbOCIXieHd9fgD.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-06-24 08:16:40</dateadded>
+</movie>
+    

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>עידן הקרח 5: מסלול התנגשות</title>
+    <originaltitle>Ice Age: Collision Course [2016]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>46,066</votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr
+[COLOR lightblue]2018-12-31 21:08:28[/COLOR]
+המרדף האפי של סקראט אחר הבלוט החמקמק מושך אותו לתוך יקום שבו הוא יוצר בטעות סדרה של אירועים קוסמיים שהופכים ומאיימים על עידן הקרח בעולם. על מנת להציל את עצמם, סיד, מני, דייגו ויתר החברים חייבים לעזוב את ביתם ולצאת להרפתקה. הם מגיעים לארצות חדשות ואקזוטיות ונתקלים בדמויות חדשות וצבעוניות.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\עידן הקרח 5_ מסלול התנגשות</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\עידן הקרח 5_ מסלול התנגשות\עידן הקרח 5_ מסלול התנגשות.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\עידן הקרח 5_ מסלול התנגשות\עידן הקרח 5_ מסלול התנגשות.strm</basepath>
+    <uniqueid type="tmdb" default="true">278154</uniqueid>
+    
+    <genre>הרפתקאות</genre>
+<genre>אנימציה</genre>
+<genre>משפחה</genre>
+<genre>קומדיה</genre>
+    <year>2016</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=QywEmtslLFI</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//xoGmKknatH5qfrkd8QgXetCmsFW.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//lyt9DYP0Suy1j8XnjJl0saVOs8K.jpg">http://image.tmdb.org/t/p/original//lyt9DYP0Suy1j8XnjJl0saVOs8K.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-12-31 21:08:28</dateadded>
+</movie>
+    

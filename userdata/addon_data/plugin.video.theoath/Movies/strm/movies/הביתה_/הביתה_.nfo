@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הביתה!</title>
+    <originaltitle>Back to the Outback</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2021-12-14 00:53:27[/COLOR]
+‏בעלי החיים האלה אולי נראים מסוכנים, אבל אף אחד לא מבין שיש להם לב זהב. עכשיו הם בורחים מהשבי ומחפשים את הבית.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הביתה_</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הביתה_\הביתה_.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הביתה_\הביתה_.strm</basepath>
+    <uniqueid type="tmdb" default="true">770254</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>הרפתקאות</genre>
+<genre>קומדיה</genre>
+<genre>משפחה</genre>
+    <year>2021</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=dDNhtB7L8Lk</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//59RDcQsMnF6WTY5jC9VwsAqCo5H.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//5B22eed7ErxFiYAG4Ksb4eLwKNF.jpg">http://image.tmdb.org/t/p/original//5B22eed7ErxFiYAG4Ksb4eLwKNF.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-12-14 00:53:27</dateadded>
+</movie>
+    

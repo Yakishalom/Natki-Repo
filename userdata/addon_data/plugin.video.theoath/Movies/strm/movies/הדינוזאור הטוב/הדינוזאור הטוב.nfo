@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הדינוזאור הטוב</title>
+    <originaltitle>The Good Dinosaur [2015] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7</value>
+            <votes>90,820</votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr
+[COLOR lightblue]2019-04-26 15:11:54[/COLOR]
+מה היה קורה לו האסטרואיד אשר שינה את החיים על פני כדור הארץ לתמיד, לא היה פוגע, והדינוזאורים לא היו נכחדים? דיסני פיקסאר לוקחים את הצופה למסע אל תוך עולם הדינוזאורים, כאשר דינוזאור בשם ארלו מתחבר עם בן אדם. במסע דרך נופים מסוכנים ומסתוריים, ארלו לומד כיצד להתמודד עם הפחדים שלו ומגלה את היכולות שלו.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הדינוזאור הטוב</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הדינוזאור הטוב\הדינוזאור הטוב.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הדינוזאור הטוב\הדינוזאור הטוב.strm</basepath>
+    <uniqueid type="tmdb" default="true">105864</uniqueid>
+    
+    <genre>הרפתקאות</genre>
+<genre>אנימציה</genre>
+<genre>משפחה</genre>
+    <year>2015</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=daFnEiLEx70</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//dM50iVbcnzQUIoc9TmUUk0SP4P4.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//fMdtO9Vk5VG42xi6QUMlaobR44W.jpg">http://image.tmdb.org/t/p/original//fMdtO9Vk5VG42xi6QUMlaobR44W.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-04-26 15:11:54</dateadded>
+</movie>
+    

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>אגדה שמגדה</title>
+    <originaltitle>Happily N%27Ever After</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>4.996</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE
+[COLOR lightblue]2023-08-01 22:19:49[/COLOR]
+[COLOR blue]720p WEBRip 2006 ז.מ אגדה שמגדה מדובב.mkv[/COLOR]
+0.95 GB
+מהמפיק זוכה האוסקר ג'ון ויליאמס ("שרק", "פגוש את היונים") מביא לכם סרט אנימציה חדש לכל המשפחה. מושפע מאגדות "האחים גרים", הסרט מגרפיקה ממוחשבת מראה לנו מה היה קורה אילו השוויון בין "טוב ורע", היה טיפה מתעוות בארץ האגדות. עייפה מהסטטוס קוו, שותף של הרעים מובל ע"י פרידה, אמה החורגת הרעה של סינדרלה, אל הבחורים הטובים. סינדרלה (הידועה בשם: אלה) מתחילה כעלמה במצוקה, אבל כאשר האגדה שלה עצמה מקבלת סטייה חדה,היא נאלצת ליצור חזית התקפתית ובסופו של דבר להוביל קבוצה ללא ה"נסיך" שלה. במסע אחרי תיקון עולם האגדות שיוצא בפראות משליטה, אלה, ואהובה הלא ידועה ריק, השותף כלים של הארמון, חייבים לבחור את גורלם בעולם שבו "סופים טובים" הפכו לרעים. המירוץ לשליטה בממלכה, והכוח של פרידה המטורפת, המלאה בבוז לטוב, מנסה לעשות הכל כדי לשנות את עלילה שמיושנת ל"אושר, ומה שמעבר".TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אגדה שמגדה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אגדה שמגדה\אגדה שמגדה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אגדה שמגדה\אגדה שמגדה.strm</basepath>
+    <uniqueid type="tmdb" default="true">5393</uniqueid>
+    
+    <genre></genre>
+    <year>2007</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//mFCulZk2xcQT4i1uz6zHkwxDVoM.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//zBW4LZyYi0Moqz82BTkEQzR7h0z.jpg">https://image.tmdb.org/t/p/original//zBW4LZyYi0Moqz82BTkEQzR7h0z.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-08-01 22:19:49</dateadded>
+</movie>
+    

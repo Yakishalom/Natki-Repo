@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>ארתור והמינימונים</title>
+    <originaltitle>Arthur and the Invisibles [2006] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>32,754</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2020-11-15 06:36:39[/COLOR]
+לפני ארבע שנים סבו של ארתור נעלם בפתאומיות והשאיר אחריו ספר כשפים ישן מלא רמזים. אחד מן הרמזים האלה מוביל לאוצר שמצוי בממלכת המינימונים, שלמרבה הפלא שוכנת בחצר ביתו של ארתור וסבתו. האוצר הזה יכול להציל את ביתם מהריסה, אבל כדי להגיע אליו, ארתור צריך להיות כמו אחד המינימונים, וזה אומר קטן יותר ממה שעין רגילה יכולה לראות.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ארתור והמינימונים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ארתור והמינימונים\ארתור והמינימונים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ארתור והמינימונים\ארתור והמינימונים.strm</basepath>
+    <uniqueid type="tmdb" default="true">9992</uniqueid>
+    
+    <genre>הרפתקאות</genre>
+<genre>פנטזיה</genre>
+<genre>אנימציה</genre>
+<genre>משפחה</genre>
+    <year>2006</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=xIzKgO3C6Z8</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//gH27K0S7BiZCsNMxzOQTacG9IZp.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//nAJ7kA7ve15Bv6xv78XPJiovtZM.jpg">http://image.tmdb.org/t/p/original//nAJ7kA7ve15Bv6xv78XPJiovtZM.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-11-15 06:36:39</dateadded>
+</movie>
+    

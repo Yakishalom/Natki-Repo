@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>בלש על שמונה ותעלומת האלמנה השחורה</title>
+    <originaltitle>Inspector Sun y la maldición de la viuda negra</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2024-02-21 00:26:34[/COLOR]
+המפקח סאן הוא לא סתם עכביש – הוא בלש רב פעלים [ורגליים] שפותר תעלומות בעולם החרקים, המתקיים ממש מתחת לרגלי בני האדם. לאחר שהצליח לתפוס את אויבו הגדול ביותר – הארבה האדום המפקח סאן עולה על טיסה. פשע חמור מתבצע על הטיסה כחלק ממזימה המאיימת על עולמם של בני האדם והחרקים כאחד! האם המפקח סאן יצליח לתפוס את הפושע האמיתי?</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בלש על שמונה ותעלומת האלמנה השחורה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בלש על שמונה ותעלומת האלמנה השחורה\בלש על שמונה ותעלומת האלמנה השחורה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בלש על שמונה ותעלומת האלמנה השחורה\בלש על שמונה ותעלומת האלמנה השחורה.strm</basepath>
+    <uniqueid type="tmdb" default="true">987750</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>משפחה</genre>
+<genre>קומדיה</genre>
+<genre>מסתורין</genre>
+    <year>2022</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=mQNlO8fPGYA</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//kB78gyQN75fPpmWq6B5ZUmxJPDX.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//oMsoN3RsJEjxOWcImvwTffEnkMd.jpg">http://image.tmdb.org/t/p/original//oMsoN3RsJEjxOWcImvwTffEnkMd.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2024-02-21 00:26:34</dateadded>
+</movie>
+    

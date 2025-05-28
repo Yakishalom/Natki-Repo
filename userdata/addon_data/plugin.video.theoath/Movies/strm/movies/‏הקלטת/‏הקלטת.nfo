@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>‏הקלטת</title>
+    <originaltitle>Mixtape</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2022-01-13 13:26:00[/COLOR]
+דרמה משפחתית בכיכובה של ג'ולי בואן ['משפחה מודרנית']. השנה היא 1999. בוורלי בת ה-12 מוצאת קלטת שהכינו הוריה המנוחים, ויוצאת למסע בעקבות השירים – ובעקבות אימהּ ואביה.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\‏הקלטת</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\‏הקלטת\‏הקלטת.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\‏הקלטת\‏הקלטת.strm</basepath>
+    <uniqueid type="tmdb" default="true">32471</uniqueid>
+    
+    <genre>קומדיה</genre>
+<genre>משפחה</genre>
+    <year>2021</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=IAxDaDw7TfM</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//tfDIv5b5oFlxZUNbpc9ZhvqyJuV.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//tf81EFI4hMfflKgc8beIMwhFbu2.jpg">http://image.tmdb.org/t/p/original//tf81EFI4hMfflKgc8beIMwhFbu2.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-01-13 13:26:00</dateadded>
+</movie>
+    

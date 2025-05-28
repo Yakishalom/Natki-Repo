@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>המטרה: כדורגל</title>
+    <originaltitle>The Soccer Football Movie</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2023-07-26 00:07:17[/COLOR]
+ארבעה אוהדי כדורגל צעירים משלבים כוחות כדי להחזיר לאליליהם את כישרונם, לאחר שמדען רשע ונכלולי גנב אותו מהם.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\המטרה_ כדורגל</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\המטרה_ כדורגל\המטרה_ כדורגל.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\המטרה_ כדורגל\המטרה_ כדורגל.strm</basepath>
+    <uniqueid type="tmdb" default="true">1037858</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>קומדיה</genre>
+<genre>משפחה</genre>
+    <year>2022</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=GHI6rIQshHs</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//2NKEnnoaaJEdHuHbRLr26XcaTyd.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//sqVxhRkPwOo6jogWZjE99V1HRE1.jpg">http://image.tmdb.org/t/p/original//sqVxhRkPwOo6jogWZjE99V1HRE1.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-07-26 00:07:17</dateadded>
+</movie>
+    

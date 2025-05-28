@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>עוז רוח</title>
+    <originaltitle>True Spirit</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.01</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2023-05-20 18:39:37
+Dr,TE
+[COLOR lightblue]2021-08-24 18:57:17[/COLOR]
+[COLOR blue]720p HDTV 2013 ז.מ הרוח הקטנה מדובב.mkv[/COLOR]
+1.04 GB
+דרמה מעוררת השראה המבוססת על סיפור אמיתי. בכיכובם של טיגן קרופט, קליף קרטיס, ג'וש לוסון וזוכת פרס האוסקר אנה פקווין. נערה עקשנית מאוסטרליה מגשימה את חלומותיה – וניצבת מול פחדיה – בניסיון להפוך לאדם הצעיר ביותר שהפליג לבדו מסביב לעולם.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\עוז רוח</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\עוז רוח\עוז רוח.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\עוז רוח\עוז רוח.strm</basepath>
+    <uniqueid type="tmdb" default="true">739986</uniqueid>
+    
+    <genre></genre>
+    <year>2023</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//spMeTzpHb2VeKwWBmL3JPbZIJFz.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//dA34DDakXgvbjnyKocOcLJtKz0.jpg">https://image.tmdb.org/t/p/original//dA34DDakXgvbjnyKocOcLJtKz0.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-05-20 18:39:37</dateadded>
+</movie>
+    

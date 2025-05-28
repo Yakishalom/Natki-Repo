@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>ג'ננה בסוואנה</title>
+    <originaltitle>Konferenz der Tiere</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.593</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,TE,TE
+[COLOR lightblue]2023-08-01 22:19:59[/COLOR]
+[COLOR blue]DVDRip 2010 ז.מ ג'ננה בסוואנה מדובב.mkv[/COLOR]
+0.71 GB
+ג'ננה בסוואנה מספר על חבורה של חיות שמצפות כל שנה בסוואנה באפריקה להצפה השנתית של הנהר אבל השנה, ההצפה מאחרת לבוא ומקור המים היחידי שבאזור נשמר היטב על ידי עדרי באפולו אימתניים.  שני גיבורי הסרט, בילי הנמיה/הסוריקטה האמיצה וסוקרטס האריה הפחדן, יוצאים למסע שיבהיר להם מה עוצר את המים מלהגיע לאגם. במהלך מסעם הם נתקלים בצ'ארלס, תרנגול גאלי נחוש, שמנהיג קבוצת חיות משלו הכוללת דובת קוטב, קנגורו, שד טזמני ושני צבים מצחיקים.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ג_ננה בסוואנה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ג_ננה בסוואנה\ג_ננה בסוואנה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ג_ננה בסוואנה\ג_ננה בסוואנה.strm</basepath>
+    <uniqueid type="tmdb" default="true">50135</uniqueid>
+    
+    <genre></genre>
+    <year>2010</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//kTapwaYLFLs8skqnlTrfWZGoB3U.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//9bKg2Tft4P3AovKHzb7RTflcX3X.jpg">https://image.tmdb.org/t/p/original//9bKg2Tft4P3AovKHzb7RTflcX3X.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-08-01 22:19:59</dateadded>
+</movie>
+    

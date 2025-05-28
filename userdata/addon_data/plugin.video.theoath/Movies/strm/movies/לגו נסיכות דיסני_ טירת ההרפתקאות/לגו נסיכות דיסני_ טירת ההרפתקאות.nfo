@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>לגו נסיכות דיסני: טירת ההרפתקאות</title>
+    <originaltitle>LEGO Disney Princess: The Castle Quest</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2023-08-22 08:32:33[/COLOR]
+חמש נסיכות דיסני - טיאנה, מואנה, רפונזל, אריאל ושלגייה, יוצאות להרפתקה כאשר כל אחת מהם מועברת באופן בלתי צפוי לטירה מסתורית. זמן קצר לאחר שהן מגיעות, הן מגלות שגסטון רקם תוכנית מרושעת להשתלט על כל הממלכות שלהן.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לגו נסיכות דיסני_ טירת ההרפתקאות</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לגו נסיכות דיסני_ טירת ההרפתקאות\לגו נסיכות דיסני_ טירת ההרפתקאות.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לגו נסיכות דיסני_ טירת ההרפתקאות\לגו נסיכות דיסני_ טירת ההרפתקאות.strm</basepath>
+    <uniqueid type="tmdb" default="true">1153222</uniqueid>
+    
+    <genre>אנימציה</genre>
+    <year>2023</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=rpyZbfBn4So</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//q17tXNROOslj7uCGicKNlIf9Rx6.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//8fczVZOBw1wy43z4ukpHxYTFFm1.jpg">http://image.tmdb.org/t/p/original//8fczVZOBw1wy43z4ukpHxYTFFm1.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-08-22 08:32:33</dateadded>
+</movie>
+    

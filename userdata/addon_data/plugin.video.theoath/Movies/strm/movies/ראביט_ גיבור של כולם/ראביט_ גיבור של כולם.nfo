@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>ראביט: גיבור של כולם</title>
+    <originaltitle>Die Häschenschule - Der große Eierklau</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2023-07-17 06:53:56[/COLOR]
+מקס הגשים את שאיפת חייו הגדולה ביותר - להיות הארנב העירוני הראשון שנבחר לכיתת האמן היוקרתית באקדמיה לארנבים. הוא וחבריו מחפשים את כוח-העל היחודי שלהם, כדי להגן על ביצת הזהב הקסומה, שמשמשת מקור הכוח והחיבה לארנבים בכל העולם. יום אחד, הבלתי אפשרי קורה: ביצת הזהב הופכת לשחורה ומעמדם של הארנבים האהובים נמצא בסכנה. מאחורי המזימה עומד ליאו, מנהיג כנופיית השועלים, ומקס חייב להציל את המצב. ההזדמנות היחידה שלו היא לשתף פעולה עם פרדיננד, שועל צעיר, שמציע את עזרתו. אבל האם אפשר לסמוך על השועל, לכאורה אויב?</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ראביט_ גיבור של כולם</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ראביט_ גיבור של כולם\ראביט_ גיבור של כולם.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ראביט_ גיבור של כולם\ראביט_ גיבור של כולם.strm</basepath>
+    <uniqueid type="tmdb" default="true">888322</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>הרפתקאות</genre>
+<genre>קומדיה</genre>
+    <year>2022</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=3LlhDdMv-4k</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//dgyn4otLJphlWHbc29TfFwNFIpu.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//119K4ZG93YVSjX3RDNHJf3WyWVS.jpg">http://image.tmdb.org/t/p/original//119K4ZG93YVSjX3RDNHJf3WyWVS.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-07-17 06:53:56</dateadded>
+</movie>
+    

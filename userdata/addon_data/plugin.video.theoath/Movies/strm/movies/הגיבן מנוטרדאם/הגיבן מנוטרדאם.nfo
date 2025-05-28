@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הגיבן מנוטרדאם</title>
+    <originaltitle>The Hunchback of Notre Dame [1996] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7</value>
+            <votes>140,078</votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr
+[COLOR lightblue]2020-11-16 08:32:45[/COLOR]
+הדרמה הקלאסית על פי ספרו של ויקטור הוגו.  קוואזימודו, יצור מכוער שהושאר על מדרגות קתדרלת נוטרדאם בפריז כשהיה תינוק, חי בקתדרלה עם המציל שלו, הארכידיקון פרולו השמרן, שנאבק בהפצת הידע לעם. כשלחצר הקתדרלה נקלעת צוענייה יפהפייה בשם לה אזמרלדה, מתערערת אמונתו של הכומר ומתחילה שרשרת אירועים טראגית.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הגיבן מנוטרדאם</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הגיבן מנוטרדאם\הגיבן מנוטרדאם.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הגיבן מנוטרדאם\הגיבן מנוטרדאם.strm</basepath>
+    <uniqueid type="tmdb" default="true">10545</uniqueid>
+    
+    <genre>דרמה</genre>
+<genre>אנימציה</genre>
+<genre>משפחה</genre>
+    <year>1996</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=JUEofxUjbpM</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//wBiSckwKxGwPAUhKxZAejKjKITq.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//oslaee3VX9kJAjVezbjZKlEJDzn.jpg">http://image.tmdb.org/t/p/original//oslaee3VX9kJAjVezbjZKlEJDzn.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-11-16 08:32:45</dateadded>
+</movie>
+    

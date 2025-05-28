@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>על כלבים וגנבים</title>
+    <originaltitle>One Hundred and One Dalmatians</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.165</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,TE
+[COLOR lightblue]2021-07-22 02:01:24[/COLOR]
+[COLOR blue]101.Dalmatians.1961.720p.BluRay.x264.AC3.2CH.HebDub.mkv[/COLOR]
+0.69 GB
+רוג'ר ואניטה נדהמים לגלות שהגורים הקטנים שלהם נגנבו יחד עם קבוצה גדולה נוספת של דלמטים מאזור לונדון. חובבת כלבים המושבעת קרואולה דה-ויל היא החשודה העיקרית. יחד עם פונגו ופארדי וקבוצת המעריצים המושבעת של הכלבים הנ"ל מתחיל החיפוש המסורבל אחר הכלבלבים הנעדרים. הסרט נכנס להילוך גבוה מבחינת אקשן ומרדפים משעשעים המובילים לסוף מפתיע, משעשע וקלאסי.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\על כלבים וגנבים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\על כלבים וגנבים\על כלבים וגנבים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\על כלבים וגנבים\על כלבים וגנבים.strm</basepath>
+    <uniqueid type="tmdb" default="true">12230</uniqueid>
+    
+    <genre>הרפתקאות </genre>
+<genre> אנימציה </genre>
+<genre> קומדיה </genre>
+<genre> משפחה</genre>
+    <year>1961</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//a7K4Hq7cIL6YawG2vptlOFdrWGI.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//vlLW4BPPS6XL8mxAvoJSppJV3Sv.jpg">https://image.tmdb.org/t/p/original//vlLW4BPPS6XL8mxAvoJSppJV3Sv.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-07-22 02:01:24</dateadded>
+</movie>
+    

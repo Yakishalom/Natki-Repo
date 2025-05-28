@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>המיניונים</title>
+    <originaltitle>Minions [2015]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>171,797</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2017-12-3 15:30:09[/COLOR]
+סיפורם של המיניונים מתחיל הרחק בתחילתו של הזמן. תחילה הם היו אורגניזמים חד-תאיים צהובים והתפתחו במהלך העידנים, תוך שהם משרתים את המאסטר המרושע ביותר שהם מוצאים. אולם המיניונים מאבדים את המאסטרים שלהם, ומוצאים את עצמם בלי מישהו לשרת אותו ושוקעים בדיכאון. אך למיניון אחד בשם קווין יש תוכנית וביחד עם המתבגר המורד סטיוארט ובוב הקטן והחמוד, הוא יוצא אל העולם הגדול כדי למצוא בוס חדש ומרושע בשביל אחיו. השלושה יוצאים למסע מרתק שבסופו של דבר מוביל אותם למאסטרית הפוטנציאלית הבאה שלהם, סקארלט קטלנוביץ, הסופר-נבלית הראשונה בעולם. הם נוסעים מאנטרקטיקה הקפואה ועד לניו-יורק של שנות ה-60 במאה ה-20 ומגיעים עד ללונדון, שם עליהם להתמודד עם האתגר הגדול ביותר שלהם עד עתה: להציל את המיניונים כולם מכליה.</plot>
+    <runtime>91</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\המיניונים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\המיניונים\המיניונים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\המיניונים\המיניונים.strm</basepath>
+    <uniqueid type="tmdb" default="true">211672</uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Action</genre>
+<genre>Adventure</genre>
+<genre>משפחה</genre>
+<genre>אנימציה</genre>
+<genre>הרפתקאות</genre>
+<genre>קומדיה</genre>
+    <year>2015</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Wfql_DoHRKc</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//srnNdut32P7vPeHa904fFGaJe9m.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//qLmdjn2fv0FV2Mh4NBzMArdA0Uu.jpg">http://image.tmdb.org/t/p/original//qLmdjn2fv0FV2Mh4NBzMArdA0Uu.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2017-12-03 15:30:09</dateadded>
+</movie>
+    

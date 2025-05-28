@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>פלואי: גיבור קטן גדול</title>
+    <originaltitle>Ploey: You Never Fly Alone</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.184</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE
+[COLOR lightblue]2021-11-08 18:40:36[/COLOR]
+[COLOR blue]1080p HDTV 2018 נתי מדיה פלואי מדובב.mkv[/COLOR]
+1.44 GB
+פלואי הוא גוזל חופמאי צעיר, אשר חושש לעוף. הוא נשאר מאחור כאשר משפחתו יוצאת למסע הנדידה. כדי לעבור את החורף הקפוא בשלום הוא חייב למצוא את העמק האגדי בלב ההרים, לחמוק מעיניו החדות של הנץ וללמוד לעוף כדי שיוכל להתאחד עם משפחתו ולהיות החופמאי שאביו לימד אותו להיותTEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פלואי_ גיבור קטן גדול</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פלואי_ גיבור קטן גדול\פלואי_ גיבור קטן גדול.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פלואי_ גיבור קטן גדול\פלואי_ גיבור קטן גדול.strm</basepath>
+    <uniqueid type="tmdb" default="true">506596</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> משפחה</genre>
+    <year>2018</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//6ZnwozvnyUobbMS3f0I5Y8BlD3.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//akTll16NkiPoNrFyg0E7qrj98NC.jpg">https://image.tmdb.org/t/p/original//akTll16NkiPoNrFyg0E7qrj98NC.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-11-08 18:40:36</dateadded>
+</movie>
+    

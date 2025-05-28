@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הצילו! כיווצתי את המורה</title>
+    <originaltitle>Hilfe, ich hab meine Lehrerin geschrumpft</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.549</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>TE
+[COLOR lightblue]2023-04-30 15:21:34[/COLOR]
+[COLOR blue]1080p_2015_נ_מ_הצילו_כיווצתי_את_המורה_מדובב.mkv[/COLOR]
+1.41 GB
+סיפורו של פליקס, תלמיד חדש בבית הספר. בנוסף לכל הקשיים שיש לו, פליקס מתמודד גם עם מורה קשה ובדרך נס מצליח לכווץ אותה לגודל מיניאטורי. דווקא כשחשב שפתר את כל בעיותיו, הוא מתחבר למורה ויחד הם יוצאים למסע להצלת בית הספר מסגירה.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הצילו_ כיווצתי את המורה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הצילו_ כיווצתי את המורה\הצילו_ כיווצתי את המורה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הצילו_ כיווצתי את המורה\הצילו_ כיווצתי את המורה.strm</basepath>
+    <uniqueid type="tmdb" default="true">365961</uniqueid>
+    
+    <genre>קומדיה </genre>
+<genre> משפחה </genre>
+<genre> פנטזיה </genre>
+<genre> אקשן</genre>
+    <year>2015</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//n3PLe50cofQK7GwvnGPYzcTE8xw.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//iFvvG2ojlr34M7GtaW623eHpJPK.jpg">https://image.tmdb.org/t/p/original//iFvvG2ojlr34M7GtaW623eHpJPK.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-04-30 15:21:34</dateadded>
+</movie>
+    

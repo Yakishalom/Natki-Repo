@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מפלצות העל מצילות את חג המולד</title>
+    <originaltitle>Super Monsters Save Christmas</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.0</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>TE
+[COLOR lightblue]2019-12-18 16:37:07[/COLOR]
+[COLOR blue]מפלצות_העל_מצילות_את_חג_המולד_מדובב.mkv[/COLOR]
+0.35 GB
+ערב חג המולד כבר כאן, ומפלצות העל יוצאות למשימה חשובה מאין כמוה: למצוא את האייל של סנטה קלאוס ולהציל את החג!TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מפלצות העל מצילות את חג המולד</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מפלצות העל מצילות את חג המולד\מפלצות העל מצילות את חג המולד.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מפלצות העל מצילות את חג המולד\מפלצות העל מצילות את חג המולד.strm</basepath>
+    <uniqueid type="tmdb" default="true">643533</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> משפחה</genre>
+    <year>2019</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//7CzONvt6xjH4oyEsvhdvgepN44T.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//9PbQNBrQVd9gqGAak9wxNvfZZr9.jpg">https://image.tmdb.org/t/p/original//9PbQNBrQVd9gqGAak9wxNvfZZr9.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-12-18 16:37:07</dateadded>
+</movie>
+    

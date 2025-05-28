@@ -1,0 +1,1 @@
+["\u05d7\u05d98", ["jh8", "jh8969", "jh8883", "jh8882", "jh8190s", "jh8648", "jh8647", "jh8100", "jh 860", "880"], [], {"google:suggestsubtypes": [[512, 1], [512, 1], [512, 1], [512, 1], [512, 1], [512, 1], [512, 1], [512, 1], [512, 1, 10], [512, 1, 10]], "google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

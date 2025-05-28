@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>‏שון כבשון: הרפתקת חג המולד</title>
+    <originaltitle>Shaun the Sheep: The Flight Before Christmas</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.104</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>TE
+[COLOR lightblue]2020-11-17 19:03:08[/COLOR]
+[COLOR blue]אלי_ה סרטים שון כבשון מדובב BRRip.avi[/COLOR]
+0.87 GB
+‏שון מחפש גרב גדול יותר לחג המולד, וכל החיות בחווה יוצאות להרפתקה פרועה ומיוחדת לחג – עם מזחלת.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\‏שון כבשון_ הרפתקת חג המולד</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\‏שון כבשון_ הרפתקת חג המולד\‏שון כבשון_ הרפתקת חג המולד.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\‏שון כבשון_ הרפתקת חג המולד\‏שון כבשון_ הרפתקת חג המולד.strm</basepath>
+    <uniqueid type="tmdb" default="true">785545</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> קומדיה </genre>
+<genre> משפחה</genre>
+    <year>2019</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//1eh6Yv6bAU2ghHxP1zgUlMfaOR3.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//4JEx2BXhOzuN9pCQcnPSWwCiF0W.jpg">https://image.tmdb.org/t/p/original//4JEx2BXhOzuN9pCQcnPSWwCiF0W.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-11-17 19:03:08</dateadded>
+</movie>
+    

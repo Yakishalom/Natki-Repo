@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>דגים נגד תרנגולות</title>
+    <originaltitle>Sea Level [2011] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>4</value>
+            <votes>1,020</votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr
+[COLOR lightblue]2021-03-9 07:49:16[/COLOR]
+יוליוס הוא כריש רעב שאוהב דגים. לא כאוכל אלא כחברים. חבריו של יוליוס הכריש חוששים שכשהוא יהיה רעב הוא יטרוף אותם והם מביאים לו ספר שמצאו בקרקעית הים עם תמונות של תרנגולות. תוכנית מהפכנית הולכת ונרקמת: הדגים יבנו צוללת מיוחדת, מלאה במים, שתוכל להגיע ליבשה וכך יוכלו לטעום תרנגולות. מה שהם אינם יודעים הוא שביבשה ישנם גם בני אדם שנוהגים לאכול... דגים.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דגים נגד תרנגולות</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דגים נגד תרנגולות\דגים נגד תרנגולות.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דגים נגד תרנגולות\דגים נגד תרנגולות.strm</basepath>
+    <uniqueid type="tmdb" default="true">79842</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>קומדיה</genre>
+<genre>משפחה</genre>
+<genre>הרפתקאות</genre>
+    <year>2011</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=RtS67OMZq2g</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//agJxR6IYRfxGiVumRR3mdhVLXBz.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//6oyjS64EQmpYqK5AjxJCrAUn8cQ.jpg">http://image.tmdb.org/t/p/original//6oyjS64EQmpYqK5AjxJCrAUn8cQ.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-03-09 07:49:16</dateadded>
+</movie>
+    

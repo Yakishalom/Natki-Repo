@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>טוויטי מסביב לעולם</title>
+    <originaltitle>Tweety%27s High Flying Adventure</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.6</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>TE,TE
+[COLOR lightblue]2021-10-13 23:42:34[/COLOR]
+[COLOR blue]נתי_מדיה_טוויטי_מסביב_לעולם_מדובב.mp4[/COLOR]
+0.23 GB
+טוויטי יוצא למסע מסביב לעולם הנמשך שמונים יום, בעקבות התערבות שעשתה סבתא. במהלך המסע טוויטי עובר הרפתקאות שונות ופוגש חברים וותיקים וחדשים, תוך כדי שהוא מנסה להתחמק מהפעולות של סילבסטר החתול המעוניין לאכול אותו. כחלק מהמסע שלו, טוויטי מבקר בפריז, סן פרנסיסקו, אוסטרליה, מצרים ובמקומות נוספים.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טוויטי מסביב לעולם</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טוויטי מסביב לעולם\טוויטי מסביב לעולם.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טוויטי מסביב לעולם\טוויטי מסביב לעולם.strm</basepath>
+    <uniqueid type="tmdb" default="true">89473</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> משפחה</genre>
+    <year>2000</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//aZH3zVisuVAg6Krx3V1i4JVo9rN.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//4tZXHvTba5O8mwNMW5RbRKLO57X.jpg">https://image.tmdb.org/t/p/original//4tZXHvTba5O8mwNMW5RbRKLO57X.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-10-13 23:42:34</dateadded>
+</movie>
+    

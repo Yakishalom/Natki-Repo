@@ -1,0 +1,83 @@
+<shortcuts>
+	<shortcut>
+		<defaultID>settings</defaultID>
+		<label>13000</label>
+		<label2 />
+		<icon>special://skin/extras/icons/DefaultAddonService.png</icon>
+		<thumb />
+		<action>ActivateWindow(Settings)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>favourites</defaultID>
+		<label>1036</label>
+		<label2 />
+		<icon>special://skin/extras/icons/Favorites.png</icon>
+		<thumb />
+		<action>ActivateWindow(FavouritesBrowser)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>movies</defaultID>
+		<label>20342</label>
+		<label2>פריטים מותאמים אישית</label2>
+		<icon>special://skin/extras/icons/DefaultMovies.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.cobra/?name=32028&amp;iconImage=movies&amp;mode=navigator.main&amp;action=MovieList",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>tvshows</defaultID>
+		<label>20343</label>
+		<label2>פריטים מותאמים אישית</label2>
+		<icon>special://skin/extras/icons/DefaultTVShows.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.cobra/?name=32029&amp;iconImage=tv&amp;mode=navigator.main&amp;action=TVShowList",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>ערוצי טלויזיה</label>
+		<label2>פריטים מותאמים אישית</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>noop</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>תוכן ישראלי</label>
+		<label2>פריטים מותאמים אישית</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>noop</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>ילדים</label>
+		<label2>פריטים מותאמים אישית</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>noop</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>music</defaultID>
+		<label>2</label>
+		<label2>פריטים מותאמים אישית</label2>
+		<icon>special://skin/extras/icons/DefaultAudio.png</icon>
+		<thumb />
+		<action>noop</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>playdisc</defaultID>
+		<label>$SKIN[31958|skin.aeon.nox.silvo|None]</label>
+		<label2 />
+		<icon>special://skin/extras/icons/Disc.png</icon>
+		<thumb />
+		<action>PlayDisc</action>
+		<visible>System.HasMediaDVD</visible>
+		</shortcut>
+	<shortcut>
+		<defaultID>power</defaultID>
+		<label>יציאה</label>
+		<label2>פריטים מותאמים אישית</label2>
+		<icon>special://skin/extras/icons/power.png</icon>
+		<thumb />
+		<action>ActivateWindow(shutdownmenu)</action>
+		</shortcut>
+	</shortcuts>

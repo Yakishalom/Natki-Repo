@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>ויק ההורס</title>
+    <originaltitle>Vic the Viking and the Magic Sword</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.339</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>Dr,TE
+[COLOR lightblue]2020-10-28 18:15:18[/COLOR]
+[COLOR blue]1080p HDRip 2019 נ.מ ויק ההורס מדובב.mkv[/COLOR]
+1.31 GB
+ויק, ויקינגי צעיר וחכם, חולם להפליג עם אביו, מנהיג שבט הוויקינגים, וללוות אותו במסעותיו עמוק לתוך הים הצפוני הרחוק. אביו, שחושב שבנו צעיר מדי ועדין מדי, לא מאושר מהרעיון אך כאשר אמו של ויק, הופכת בטעות לפסל מזהב על ידי חרב הקסמים של לוקי, אביו ואנשיו חייבים להגיע עד לדלתות אסגרד, עיר האלים, כדי להרוס את החרב ולשחרר את אמו מהכישוף המוזהב שלה. ויק מצליח להמציא תוכנית חכמה כדי להצטרף למסע וטוב שכך! כי אודות לחוכמתו ולגישתו המעשית, ויק מציל את הוויקינגים מסכנות ויותר מפעם אחת, לאורך המסע המסוכן הוא יוכיח לכולם שהוא אחד מאנשי הצוות החשובים. ויק הוא באמת הוויקינגי הקטן הכי הגדול שיש!TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ויק ההורס</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ויק ההורס\ויק ההורס.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ויק ההורס\ויק ההורס.strm</basepath>
+    <uniqueid type="tmdb" default="true">648572</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> קומדיה </genre>
+<genre> הרפתקאות</genre>
+    <year>2019</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//s2zgIgCLEh0CQ5zF24iKy5VvAH9.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//2bt8Nl0xe18az5hpPU8alsLvvvj.jpg">https://image.tmdb.org/t/p/original//2bt8Nl0xe18az5hpPU8alsLvvvj.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-10-28 18:15:18</dateadded>
+</movie>
+    

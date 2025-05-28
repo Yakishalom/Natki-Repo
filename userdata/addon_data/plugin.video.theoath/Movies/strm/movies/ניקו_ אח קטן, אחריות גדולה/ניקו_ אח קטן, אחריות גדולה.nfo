@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>ניקו: אח קטן, אחריות גדולה</title>
+    <originaltitle>Niko 2: Lentäjäveljekset</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.028</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2022-11-23 21:00:05
+TE,TE,TE
+[COLOR lightblue]2021-12-13 15:22:49[/COLOR]
+[COLOR blue]נמ ניקו אח קטן אחריות גדולה מדובב.avi[/COLOR]
+0.45 GB
+אייל צעיר בשם ניקו, חי חיים שלווים, לבד עם אימו, וחולם על הרגע שבו היא ואביו יתאחדו לכדי משפחה כבעבר. יום אחד הוא מגלה, שחייו עומדים להשתנות: לאימו בן זוג חדש העומד לעבור לגור איתם, יחד עם בנו הצעיר והחמוד-בצורה-בלתי-רגילה, ג'וני. לניקו קשה לקבל את השינוי החדש, והוא מייחל שהבלתי הפיך יקרה, וג'וני פשוט ייעלם. יום אחד, במהלך משחק משותף ביער, כך אכן קורה. ג'וני הקטן נחטף על ידי קבוצת נשרים רשעים וחורשי מזימות. ניקו יוצא למסע הרפתקאות קצבי במרחבים המושלגים, במטרה למצוא ולהשיב את ג'וני. הוא מקבל עזרה ממקורות לא צפויים ועד האיחוד המרגש, הוא לומד את אחד השיעורים החשובים של חייו, על מהותה וחשיבותה של משפחה, מחויבות ודאגה לאחר.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ניקו_ אח קטן, אחריות גדולה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ניקו_ אח קטן, אחריות גדולה\ניקו_ אח קטן, אחריות גדולה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ניקו_ אח קטן, אחריות גדולה\ניקו_ אח קטן, אחריות גדולה.strm</basepath>
+    <uniqueid type="tmdb" default="true">141614</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> משפחה </genre>
+<genre> הרפתקאות </genre>
+<genre> קומדיה</genre>
+    <year>2012</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//2PV2XJG8ZD8E6iVlV9mRBh3Gb0t.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//zx5QeqApIujDDiwgO7rkXi8oRpe.jpg">https://image.tmdb.org/t/p/original//zx5QeqApIujDDiwgO7rkXi8oRpe.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-11-23 21:00:05</dateadded>
+</movie>
+    

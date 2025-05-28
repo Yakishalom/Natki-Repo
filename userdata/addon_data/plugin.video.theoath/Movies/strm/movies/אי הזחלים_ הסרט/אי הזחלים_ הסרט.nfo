@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>אי הזחלים: הסרט</title>
+    <originaltitle>The Larva Island Movie</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.188</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>Dr,TE
+[COLOR lightblue]2023-04-23 19:02:01[/COLOR]
+[COLOR blue]1080p WEB-DL 2020 נ.מ אי הזחלים מדובב.mkv[/COLOR]
+1.58 GB
+סרט ההמשך לסדרה המצליחה: צ'אק חוזר הביתה ומשוחח עם כתבת על החיים באי עם חבריו, הזחלים המטורללים אדום וצהוב.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אי הזחלים_ הסרט</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אי הזחלים_ הסרט\אי הזחלים_ הסרט.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אי הזחלים_ הסרט\אי הזחלים_ הסרט.strm</basepath>
+    <uniqueid type="tmdb" default="true">718867</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> משפחה</genre>
+    <year>2020</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//8JTBprtyB4NIEAc2gK99tgP1Xul.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//53aUwtolUZxgzMr2KbDpOnD8jo3.jpg">https://image.tmdb.org/t/p/original//53aUwtolUZxgzMr2KbDpOnD8jo3.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-04-23 19:02:01</dateadded>
+</movie>
+    

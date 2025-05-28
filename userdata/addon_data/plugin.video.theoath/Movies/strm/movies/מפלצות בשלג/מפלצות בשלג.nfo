@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מפלצות בשלג</title>
+    <originaltitle>Smallfoot</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.796</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2022-04-4 23:40:07
+ON,Dr,TE,TE,TE
+[COLOR lightblue]2018-12-27 21:17:30[/COLOR]
+[COLOR blue]מפלצות בשלג.2018.מדובב.גוזלן.720p.mp4[/COLOR]
+1.01 GB
+בקרב קהילת מפלצות השלג "ביגפוט" מסתובבת אגדה אורבנית המספרת אודות קיומם של יצורים קטנים ומופלאים בשם "סמולפוט" (בני אדם). שני ביגפוט סקרנים יוצאים להרפתקה מטורפת להוכיח את השמועה ולהביא בחזרה לכפר הוכחה חיה.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מפלצות בשלג</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מפלצות בשלג\מפלצות בשלג.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מפלצות בשלג\מפלצות בשלג.strm</basepath>
+    <uniqueid type="tmdb" default="true">446894</uniqueid>
+    
+    <genre>משפחה </genre>
+<genre> אנימציה </genre>
+<genre> הרפתקאות </genre>
+<genre> פנטזיה</genre>
+    <year>2018</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//e3pFagNdZwTRbVMVSaCgwaBpVYg.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//7t88SoT3Dd8DhGnQuVoSbMNUl3W.jpg">https://image.tmdb.org/t/p/original//7t88SoT3Dd8DhGnQuVoSbMNUl3W.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-04-04 23:40:07</dateadded>
+</movie>
+    

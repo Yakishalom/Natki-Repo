@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>קוקו</title>
+    <originaltitle>Coco</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>8.223</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2022-04-5 16:26:31
+ON,Dr,TE
+[COLOR lightblue]2021-06-23 17:21:16[/COLOR]
+[COLOR blue]720p BluRay נתי מדיה קוקו מדובב 2017.mkv[/COLOR]
+0.94 GB
+על אף האיסור התמוה לעסוק במוזיקה, אשר עובר במשפחתו במשך דורות, מיגל חולם להיות מוזיקאי מוכשר כמו האליל שלו, ארנסטו דה לה קרוז. בעקבות שרשרת אירועים מסתורית ונואש להוכיח את כשרונו, מיגל מוצא את עצמו בארץ המתים המדהימה והצבעונית. לאורך הדרך, הוא פוגש נוכל מקסים בשם הקטור, ויחד הם יוצאים למסע יוצא דופן כדי לפענח את הסיפור האמיתי שמאחורי ההיסטוריה המשפחתית של מיגל.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קוקו</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קוקו\קוקו.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קוקו\קוקו.strm</basepath>
+    <uniqueid type="tmdb" default="true">354912</uniqueid>
+    
+    <genre>משפחה </genre>
+<genre> אנימציה </genre>
+<genre> פנטזיה </genre>
+<genre> מוסיקה </genre>
+<genre> קומדיה </genre>
+<genre> הרפתקאות</genre>
+    <year>2017</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//awTRgLCo21uEw3C7OLK7luYcerm.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//askg3SMvhqEl4OL52YuvdtY40Yb.jpg">https://image.tmdb.org/t/p/original//askg3SMvhqEl4OL52YuvdtY40Yb.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-04-05 16:26:31</dateadded>
+</movie>
+    

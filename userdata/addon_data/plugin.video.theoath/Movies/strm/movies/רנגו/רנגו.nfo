@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>רנגו</title>
+    <originaltitle>Rango</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.82</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2023-02-16 15:46:19
+ON,TE,TE,TE
+[COLOR lightblue]2018-06-02 20:25:16[/COLOR]
+[COLOR blue]רנגו.מדובב.גוזלן.DVDRip.avi[/COLOR]
+0.85 GB
+הסיפור מתחיל כאשר רנגו, שבילה את כל חייו בתור חיית מחמד בתוך אקווריום זכוכית, מוצא את עצמו פתאום אבוד במדבר המוהבי. הוא מוצא מפלט בעיירה האחרונה ששרדה מימי המערב הפרוע – 'לכלוך'. רנגו מקווה שהוא יצליח להשתלב עם שאר התושבים אבל מהר מאוד הוא מבין שהוא יוצא דופן. אפילו בעיירה שבה ראש העיר הוא צב, ושאר התושבים כוללים – נחש אפעה חלקלק, כלבים גנבים, לטאות מסוכנות ולטאה נשית אחת. כאשר רנגו מוצא את עצמו (באופן מאוד טיפשי) זוכה לתואר השריף החדש של 'לכלוך' הוא הופך לתקווה הגדולה של כל תושבי העיירה, תקווה שבקרוב הם יזכו למצוא מקור מים והעיר תשוב ותשגשג - הוא פשוט יודע שהוא עומד למצוא את עצמו בקרוב בתסבוכת רצינית. הרי כולם יודעים שהבחורים הטובים לא שורדים יותר מדי זמן ב'לכלוך'. אבל זה סיכון שרנגו מוכן לקחת על עצמו ולהעמיד פנים שהוא הדבר היחיד שאפילו זיקית לא מסוגלת לזייף – גיבור אמיתי וקשוח.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\רנגו</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\רנגו\רנגו.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\רנגו\רנגו.strm</basepath>
+    <uniqueid type="tmdb" default="true">44896</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> קומדיה </genre>
+<genre> משפחה </genre>
+<genre> מערבון </genre>
+<genre> הרפתקאות</genre>
+    <year>2017</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//rHgBTHCFCfp4HqjIKFByfP5AyfD.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//6B2tOYhaIpv3kPKBkvdebX624Gw.jpg">https://image.tmdb.org/t/p/original//6B2tOYhaIpv3kPKBkvdebX624Gw.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-02-16 15:46:19</dateadded>
+</movie>
+    

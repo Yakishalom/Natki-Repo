@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מיקי דונלד וגופי: שלושת המוסקטרים</title>
+    <originaltitle>Mickey, Donald, Goofy: The Three Musketeers</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.647</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2021-07-31 11:49:55
+ON,Dr,TE
+[COLOR lightblue]2020-03-16 12:07:20[/COLOR]
+[COLOR blue]DVDRip 2004 נ.מ שלושת המוסקטרים מדובב.mkv[/COLOR]
+0.73 GB
+מיקי, דונלד וגופי חולמים להיות מוסקטרים והשמועה מגיעה שקפטן פיט ממנה אותם לשמור על הנסיכה מיני שפיט שונא והם רוצים להציל אותה ודרך חוש ההומור המפותח של השלישייה הם הורסים הכל ומצילים את מיני.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מיקי דונלד וגופי_ שלושת המוסקטרים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מיקי דונלד וגופי_ שלושת המוסקטרים\מיקי דונלד וגופי_ שלושת המוסקטרים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מיקי דונלד וגופי_ שלושת המוסקטרים\מיקי דונלד וגופי_ שלושת המוסקטרים.strm</basepath>
+    <uniqueid type="tmdb" default="true">21385</uniqueid>
+    
+    <genre>הרפתקאות </genre>
+<genre> אנימציה </genre>
+<genre> קומדיה </genre>
+<genre> משפחה</genre>
+    <year>2004</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//Avw9F0brls1DwUB09GGydcsq8Ik.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//5LGP9PDbcVriIe4cduRTzzfBUq2.jpg">https://image.tmdb.org/t/p/original//5LGP9PDbcVriIe4cduRTzzfBUq2.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-07-31 11:49:55</dateadded>
+</movie>
+    

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הדייט של קארל</title>
+    <originaltitle>Carl&apos;s Date</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2023-09-16 18:58:12[/COLOR]
+כשקארל מסכים לצאת לדייט, דוג נותן לו כמה טיפים איך להתיידד עם אנשים… אם אתה כלב, כמובן.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הדייט של קארל</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הדייט של קארל\הדייט של קארל.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הדייט של קארל\הדייט של קארל.strm</basepath>
+    <uniqueid type="tmdb" default="true">1076364</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>הרפתקאות</genre>
+<genre>משפחה</genre>
+    <year>2023</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=5emJgNiFbAA</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//hujmshFegORfTDuuHamyowD0eac.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//iOJX54nVAsnPawagFiWXKv1Y6sB.jpg">http://image.tmdb.org/t/p/original//iOJX54nVAsnPawagFiWXKv1Y6sB.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-09-16 18:58:12</dateadded>
+</movie>
+    

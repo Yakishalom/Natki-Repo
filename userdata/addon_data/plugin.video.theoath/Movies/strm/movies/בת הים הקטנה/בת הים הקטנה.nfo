@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>בת הים הקטנה</title>
+    <originaltitle>The Little Mermaid</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.353</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2023-08-26 18:12:43
+ON,Dr,TE,TE
+[COLOR lightblue]2019-11-10 18:08:29[/COLOR]
+[COLOR blue]בת הים הקטנה 1 מדובב - נתי מדיה.avi[/COLOR]
+0.63 GB
+אי-שם מתחת לפני הים, מעבר לגבולות הדמיון, משתרעת לה ממלכה שלמה של פנטזיה! בת-ים עקשנית בשם אריאל מתאהבת בנסיך אנושי יפה תואר ונכספת לעלות על פני היבשה. בעזרת ידידה פלאונדר הביישן ובעל לב הזהב וסבסטיאן, העקרב המזמר בסגנון רגאיי, מגיחה אריאל ממצולות הים כדי לנסות לשבות את לב אהובה. "בת הים הקטנה" הינו אחד הסרטים האהובים ביותר על המבקרים והקהל כאחד. הוא עשיר באנימציה מרהיבה, שירים עטורי פרסים (אוסקר על השיר בתוך הים) ודמויות חדשות ובלתי נשכחות.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בת הים הקטנה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בת הים הקטנה\בת הים הקטנה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בת הים הקטנה\בת הים הקטנה.strm</basepath>
+    <uniqueid type="tmdb" default="true">10144</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> משפחה </genre>
+<genre> פנטזיה</genre>
+    <year>1989</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//xh50bs53cEBvhpPBZa1DhF8J4M4.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//bZbBTrefbgTvVK8CN56zKIHNomI.jpg">https://image.tmdb.org/t/p/original//bZbBTrefbgTvVK8CN56zKIHNomI.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-08-26 18:12:43</dateadded>
+</movie>
+    

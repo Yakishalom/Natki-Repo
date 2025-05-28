@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>דרגון בול זי: נקמתו של קולר</title>
+    <originaltitle>Dragon Ball Z: Cooler's Revenge [1991] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7</value>
+            <votes>6,372</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2021-04-16 17:34:51[/COLOR]
+להציל את היקום יכול להיות עסק מעייף! אז אחרי הקרב הגדול שלהם על נאמק, גוקו, גוהאן, קרירין ואולונג החליטו להפסיק את המלחמות בשביל מנוחה ורגיעה כשהם חזרו לכדור הארץ. אבל שלוות סוף השבוע שלהם נקטעה מוקדם על ידי כוח מאיים. לפריז יש אח: קולר! הוא חזק ומצויד בגדוד, הוא חייב לבוא לכדור הארץ כדי להשיג נקמה. קולר לא ינוח עד שהאיש שהשמיד את אחיו ינוצח, אפילו אם הוא יצטרך להשמיד את כדור הארץ! לגוקו הייתה אפשרות לטעון את הכוחות המוסתרים ולהשתנות לסופר סאיין לפני זה. השאלה היא, עכשיו כשכדור הארץ מאויים על ידי האח הגדול [והחזק יותר] של פריז, הוא יכול לעשות זאת שוב?</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דרגון בול זי_ נקמתו של קולר</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דרגון בול זי_ נקמתו של קולר\דרגון בול זי_ נקמתו של קולר.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דרגון בול זי_ נקמתו של קולר\דרגון בול זי_ נקמתו של קולר.strm</basepath>
+    <uniqueid type="tmdb" default="true">24752</uniqueid>
+    
+    <genre>אקשן</genre>
+<genre>אנימציה</genre>
+<genre>מדע בדיוני</genre>
+    <year>1991</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Wk-9H-tNA8A</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//ywZWtNVTO7rGSFvOAPWpdmZlO6k.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//hph1RMsL4223xyqxfEx3OXodf5E.jpg">http://image.tmdb.org/t/p/original//hph1RMsL4223xyqxfEx3OXodf5E.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-04-16 17:34:51</dateadded>
+</movie>
+    

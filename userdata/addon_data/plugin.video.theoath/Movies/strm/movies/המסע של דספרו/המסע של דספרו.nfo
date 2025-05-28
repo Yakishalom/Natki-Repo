@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>המסע של דספרו</title>
+    <originaltitle>The Tale of Despereaux [2008] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>34,279</votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr
+[COLOR lightblue]2019-09-7 17:02:41[/COLOR]
+אגדה על עכבר קטנטן ואמיץ שהתברך באוזניים ענקיות והגיע למקומות בהם לא דרכה כף רגלם של בני מינו. הוא נולד בעולם העכברים עם התלהבות גדולה מדי, מתיידד עם עכברוש מגורש, מתאהב בנסיכה בודדה ומציל את ממלכת דור מהעריץ האפל ששלט בה.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\המסע של דספרו</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\המסע של דספרו\המסע של דספרו.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\המסע של דספרו\המסע של דספרו.strm</basepath>
+    <uniqueid type="tmdb" default="true">10199</uniqueid>
+    
+    <genre>הרפתקאות</genre>
+<genre>אנימציה</genre>
+<genre>משפחה</genre>
+    <year>2008</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=VhpN3obM5fc</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//yGjoySNrPJBU0Cp1awaXUbSDlcw.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//3ZmsKrY96jFXtpOIpYOsJD8pEXF.jpg">http://image.tmdb.org/t/p/original//3ZmsKrY96jFXtpOIpYOsJD8pEXF.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-09-07 17:02:41</dateadded>
+</movie>
+    

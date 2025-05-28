@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>קונג פו פנדה 3</title>
+    <originaltitle>Kung Fu Panda 3</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.873</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2018-10-29 22:01:23
+ON,Dr,TE,TE
+[COLOR lightblue]2016-12-11 22:04:52[/COLOR]
+[COLOR blue]יוסי סרטים קונג פו פנדה 3 מדובב.avi[/COLOR]
+0.94 GB
+כשאביו האבוד של הפנדה פו חוזר לפתע, האב ובנו נוסעים לגן עדן סודי לדובי פנדה, ופוגשים דמויות פנדה חדשות ומצחיקות. אבל כאשר הנבל העל טבעי, קאי, מתחיל לנצח את כל המאסטרים הגדולים של הקונג פו בסין, על פו להצליח לעשות את הבלתי אפשרי: לאמן כפר שלם של דובי פנדה מתוקים ומגושמים להילחם, ולהפוך אותם ללהקה של דובי קונג פו פנדה.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קונג פו פנדה 3</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קונג פו פנדה 3\קונג פו פנדה 3.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קונג פו פנדה 3\קונג פו פנדה 3.strm</basepath>
+    <uniqueid type="tmdb" default="true">140300</uniqueid>
+    
+    <genre>אקשן </genre>
+<genre> הרפתקאות </genre>
+<genre> אנימציה </genre>
+<genre> קומדיה </genre>
+<genre> משפחה</genre>
+    <year>2011</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//jGHsC9IsiCpgPZB4YM2VaiqLF9A.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//uT5G4fA7jKxlJNfwYPMm353f5AI.jpg">https://image.tmdb.org/t/p/original//uT5G4fA7jKxlJNfwYPMm353f5AI.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-10-29 22:01:23</dateadded>
+</movie>
+    

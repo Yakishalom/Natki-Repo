@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>קוסמים ליום אחד: הפרח המכושף</title>
+    <originaltitle>Mary and the Witch's Flower [2017] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7</value>
+            <votes>12,327</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2021-03-14 06:41:28[/COLOR]
+חשבתם שאתם יודעים הכול על קוסמים ועל מכשפות? בית ספר כזה עוד לא ראיתם! כאשר מרי, ילדה ג'ינג'ית שובבה וטובת-לב והשכן שלה פיטר, שתמיד מתנדב לעזור, מחפשים אחר חתול שהלך לאיבוד - הם מגלים לגמרי במקרה בית ספר לקוסמים מסתורי ומיוחד... השניים יוצאים להרפתקה מלאת אקשן, פנטזיה, צבע, הומור ודמיון.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קוסמים ליום אחד_ הפרח המכושף</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קוסמים ליום אחד_ הפרח המכושף\קוסמים ליום אחד_ הפרח המכושף.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קוסמים ליום אחד_ הפרח המכושף\קוסמים ליום אחד_ הפרח המכושף.strm</basepath>
+    <uniqueid type="tmdb" default="true">430447</uniqueid>
+    
+    <genre>פנטזיה</genre>
+<genre>הרפתקאות</genre>
+<genre>אנימציה</genre>
+    <year>2017</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Cm0YYNgNr7A</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//vk2UEv05JyfCw215cyCF2aIZpj8.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//izx7Dh8GwEVQIPxsHzr8imzM5HW.jpg">http://image.tmdb.org/t/p/original//izx7Dh8GwEVQIPxsHzr8imzM5HW.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-03-14 06:41:28</dateadded>
+</movie>
+    

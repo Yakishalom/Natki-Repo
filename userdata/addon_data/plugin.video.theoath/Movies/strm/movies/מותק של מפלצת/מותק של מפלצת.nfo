@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מותק של מפלצת</title>
+    <originaltitle>Buka. Moyo lyubimoe chudishche</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2023-03-10 05:36:05[/COLOR]
+הנסיכה ברברה מעולם לא הקשיבה לחוקים: עצמאית, מרדנית שמסרבת לקבל את גזירת החוק שקובע שעליה להינשא לנסיך אותו לא פגשה מעולם. אז היא בורחת מהארמון אל היער, שם היא פוגשת מפלץ מתוק ששומר על יערות הממלכה שיעזור לה להימלט.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מותק של מפלצת</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מותק של מפלצת\מותק של מפלצת.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מותק של מפלצת\מותק של מפלצת.strm</basepath>
+    <uniqueid type="tmdb" default="true">576925</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>הרפתקאות</genre>
+<genre>משפחה</genre>
+    <year>2021</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=hSCqtzcMeEg</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//xIbEHAqwK5N7PJJYmbwmxuvC7fL.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//nYla7faWqM3nLCY9arQH1DwXC84.jpg">http://image.tmdb.org/t/p/original//nYla7faWqM3nLCY9arQH1DwXC84.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-03-10 05:36:05</dateadded>
+</movie>
+    

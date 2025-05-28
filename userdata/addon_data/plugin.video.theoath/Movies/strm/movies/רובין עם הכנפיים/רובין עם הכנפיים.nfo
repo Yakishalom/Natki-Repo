@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>רובין עם הכנפיים</title>
+    <originaltitle>Robin Robin</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2022-01-12 09:00:31[/COLOR]
+אדומת-חזה אופטימית גדלה אצל משפחה של עכברים ומבקשת משאלה מהכוכב של עץ חג המולד. האם היא תגלה מי היא באמת – ותלמד לעוף?</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\רובין עם הכנפיים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\רובין עם הכנפיים\רובין עם הכנפיים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\רובין עם הכנפיים\רובין עם הכנפיים.strm</basepath>
+    <uniqueid type="tmdb" default="true">649928</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>הרפתקאות</genre>
+<genre>משפחה</genre>
+    <year>2021</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Khyk6VEvJ18</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//bKIdlJbd17rrIm4oZzhXTbmqpon.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//8MRDdTrh0O6iG60d4UoepxVI0lj.jpg">http://image.tmdb.org/t/p/original//8MRDdTrh0O6iG60d4UoepxVI0lj.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-01-12 09:00:31</dateadded>
+</movie>
+    

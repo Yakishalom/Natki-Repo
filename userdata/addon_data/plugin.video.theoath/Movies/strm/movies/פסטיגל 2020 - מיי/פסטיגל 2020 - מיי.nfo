@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>פסטיגל 2020 - מיי</title>
+    <originaltitle> פסטיגל 2020 - מיי</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes> </votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2021-01-11 11:12:36[/COLOR]
+ </plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פסטיגל 2020 - מיי</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פסטיגל 2020 - מיי\פסטיגל 2020 - מיי.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פסטיגל 2020 - מיי\פסטיגל 2020 - מיי.strm</basepath>
+    <uniqueid type="tmdb" default="true"> </uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Action</genre>
+<genre>Comedy</genre>
+<genre>Family</genre>
+    <year> </year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview=""> https://www.myfestigal.co.il/static/media/logoWithTag.c6b8140c.png</thumb>
+    <fanart>
+      <thumb colors="" preview=" https://www.myfestigal.co.il/static/media/logoWithTag.c6b8140c.png"> https://www.myfestigal.co.il/static/media/logoWithTag.c6b8140c.png</thumb>
+            
+    </fanart>
+    <dateadded>2021-01-11 11:12:36</dateadded>
+</movie>
+    

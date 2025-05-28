@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הזדמנות שנייה: מתחרות!</title>
+    <originaltitle>A Second Chance: Rivals!</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2021-09-27 19:09:41[/COLOR]
+מאדי קורנל היא כוכבת התעמלות המשחקת ברמות הגבוהות. רגע לפני השיא היא מועדת ומאבדת את סיכוייה להתחרות ברמה הארצית. מאמנה שמבחין במצבה, מציע לה להניח לבנתיים לחלומה האישי ולמצוא מחדש התשוקה לענף דרך אימון מתעמלות כפריות חסרות יומרות, כשהמטרה הבלתי אפשרית היא להכשירן לקראת תחרות רשמית מול מתעמלות עירוניות מקצועניות על אליפות המדינה. דרמת ספורט לכל המשפחה.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הזדמנות שנייה_ מתחרות_</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הזדמנות שנייה_ מתחרות_\הזדמנות שנייה_ מתחרות_.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הזדמנות שנייה_ מתחרות_\הזדמנות שנייה_ מתחרות_.strm</basepath>
+    <uniqueid type="tmdb" default="true">588730</uniqueid>
+    
+    <genre>דרמה</genre>
+<genre>משפחה</genre>
+    <year>2019</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=uwpjqYYOq1I</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//egTUn0oodsHa6gC9XXux40eSAhQ.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//9XgSUxQt3FNmVbX6YQEWJhbzU3w.jpg">http://image.tmdb.org/t/p/original//9XgSUxQt3FNmVbX6YQEWJhbzU3w.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-09-27 19:09:41</dateadded>
+</movie>
+    

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>אייבי ובין: מוכרחות לרקוד</title>
+    <originaltitle>Ivy + Bean: Doomed to Dance</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.5</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2023-04-07 12:36:26
+TE,TE
+[COLOR lightblue]2023-04-05 07:38:52[/COLOR]
+[COLOR blue]1080p 2022 זירה מדיה אייבי ובין מדובב.mkv[/COLOR]
+1.08 GB
+בִּין מגלה שלשכנה שלה אייבי יש כישרון לקסמים, והן משלבות כוחות כדי להטיל כישוף שיגרום לאחותה הגדולה של בִּין לרקוד… תמיד!TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אייבי ובין_ מוכרחות לרקוד</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אייבי ובין_ מוכרחות לרקוד\אייבי ובין_ מוכרחות לרקוד.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אייבי ובין_ מוכרחות לרקוד\אייבי ובין_ מוכרחות לרקוד.strm</basepath>
+    <uniqueid type="tmdb" default="true">1014530</uniqueid>
+    
+    <genre>משפחה </genre>
+<genre> קומדיה</genre>
+    <year>2022</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//zdWGcEpvfgsx07HlGUmmEzf51gt.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//bdcyhbtKCEKHze4jwZ6owzZurj0.jpg">https://image.tmdb.org/t/p/original//bdcyhbtKCEKHze4jwZ6owzZurj0.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-04-07 12:36:26</dateadded>
+</movie>
+    

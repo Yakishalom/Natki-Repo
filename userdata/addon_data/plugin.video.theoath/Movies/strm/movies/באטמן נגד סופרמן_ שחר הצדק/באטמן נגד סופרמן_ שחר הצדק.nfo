@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>באטמן נגד סופרמן: שחר הצדק</title>
+    <originaltitle>Batman v Superman: Dawn of Justice</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.949</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>TE
+[COLOR lightblue]2021-06-25 18:16:25[/COLOR]
+[COLOR blue]באטמן סופרמן מדובב עברית.avi.mp4[/COLOR]
+0.24 GB
+איש הפלדה נגד האביר בגלימה: באטמן מתחיל לחשוד בכוחו ההולך וגדל של סופרמן, ולקס לות'ר ממהר לנצל את המצב.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\באטמן נגד סופרמן_ שחר הצדק</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\באטמן נגד סופרמן_ שחר הצדק\באטמן נגד סופרמן_ שחר הצדק.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\באטמן נגד סופרמן_ שחר הצדק\באטמן נגד סופרמן_ שחר הצדק.strm</basepath>
+    <uniqueid type="tmdb" default="true">209112</uniqueid>
+    
+    <genre></genre>
+    <year>2016</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//14UlNvE0ur3mjWbCZ49nDvFOeYk.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//5fX1oSGuYdKgwWmUTAN5MNSQGzr.jpg">https://image.tmdb.org/t/p/original//5fX1oSGuYdKgwWmUTAN5MNSQGzr.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-06-25 18:16:25</dateadded>
+</movie>
+    

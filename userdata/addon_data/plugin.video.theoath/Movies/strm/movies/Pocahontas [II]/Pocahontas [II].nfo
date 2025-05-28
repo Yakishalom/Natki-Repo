@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Pocahontas [II]</title>
+    <originaltitle>Pocahontas [Video 1995]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>47</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2019-01-29 20:21:14[/COLOR]
+ </plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\Pocahontas [II]</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\Pocahontas [II]\Pocahontas [II].strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\Pocahontas [II]\Pocahontas [II].strm</basepath>
+    <uniqueid type="tmdb" default="true">333323</uniqueid>
+    
+    <genre> </genre>
+    <year>1995</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//st8C02pV49mgLOwU6xfp2YuUkyd.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//h4rY0agWLuc72JqXwqAvxp1Mnfq.jpg">http://image.tmdb.org/t/p/original//h4rY0agWLuc72JqXwqAvxp1Mnfq.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-01-29 20:21:14</dateadded>
+</movie>
+    

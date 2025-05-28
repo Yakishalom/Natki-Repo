@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>בלינקי ביל: הסרט</title>
+    <originaltitle>Blinky Bill: The Movie</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr
+[COLOR lightblue]2023-10-2 17:07:26[/COLOR]
+בלינקי ביל, קואלה בעל דמיון מפותח והרפתקן בנפשו. יום אחד הוא מחליט לעזוב את העיירה הקטנה שלו וללכת בעקבות אביו מגלה הארצות המפורסם. אך למרבה הצער, עקבותיו של האב אבדו לפני זמן רב ובלינקי היחיד שעדיין מאמין כי אביו עדיין נותר בחיים. כאשר בלינקי מגלה סימן מסתורי הרומז על מיקומו של האב, הוא יוצא למסע שיקח אותו מעבר לגבולות העיירה הקטנה בא הוא חי, היישר לתוך הערבה הפראית והמסוכנת.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בלינקי ביל_ הסרט</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בלינקי ביל_ הסרט\בלינקי ביל_ הסרט.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בלינקי ביל_ הסרט\בלינקי ביל_ הסרט.strm</basepath>
+    <uniqueid type="tmdb" default="true">339669</uniqueid>
+    
+    <genre>משפחה</genre>
+<genre>אנימציה</genre>
+<genre>הרפתקאות</genre>
+    <year>2015</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=5x9Fxv_2F0o</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//4HhIuYfEndWZ0CevV1B56MPaP5B.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//kD7oWBeUuyeqt7LNQbJ7JWzhxtk.jpg">http://image.tmdb.org/t/p/original//kD7oWBeUuyeqt7LNQbJ7JWzhxtk.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-10-02 17:07:26</dateadded>
+</movie>
+    

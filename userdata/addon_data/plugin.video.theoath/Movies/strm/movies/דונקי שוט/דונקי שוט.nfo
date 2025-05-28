@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>דונקי שוט</title>
+    <originaltitle>Donkey Xote</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.507</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,TE
+[COLOR lightblue]2020-05-01 14:16:45[/COLOR]
+[COLOR blue]דונקי שוט - מדובב.avi[/COLOR]
+0.68 GB
+לאחר עלילות אל סיד באנימציה הספרדית המצוינת מ-2003, מביא הבמאי חוזה פוזו דמות מיתולוגית נוספת מתרבות ארצו: דון קיחוטה מלה-מאנשה. הדון ההזוי יוצא לברצלונה מלווה במשרתו סנשו פנצ'ו, בסיפור שמתרחש לאחר תום ספרו של סרוונטס. קיחוטה הפך לאליל בספרד וכולם רוצים לחקות אותו, אבל סנשו ממורמר כי לא רק שהתעלמו מקיומו, הוא גם לא הרוויח שום דבר ממעללי אדונו. עכשיו הוא עומד על כך שישלמו לו את כל מה שמגיע לו, ועוד. אלא שהגיבור האמיתי של גרסת האנימציה הזו, היא דמות חמורו של סנשו – רוסיו, שכל חלומו עלי אדמות זה...להיות סוס!TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דונקי שוט</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דונקי שוט\דונקי שוט.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דונקי שוט\דונקי שוט.strm</basepath>
+    <uniqueid type="tmdb" default="true">14704</uniqueid>
+    
+    <genre>משפחה </genre>
+<genre> הרפתקאות </genre>
+<genre> אנימציה</genre>
+    <year>2007</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//2eh1Mouedkk6qGhbtEWkypyb2l1.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//9WafOaEr0mgtDgxBcSmFXnIz45u.jpg">https://image.tmdb.org/t/p/original//9WafOaEr0mgtDgxBcSmFXnIz45u.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-05-01 14:16:45</dateadded>
+</movie>
+    

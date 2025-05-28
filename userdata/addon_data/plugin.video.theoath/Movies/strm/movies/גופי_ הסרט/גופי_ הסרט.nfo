@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>גופי: הסרט</title>
+    <originaltitle>A Goofy Movie [1995] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7</value>
+            <votes>45,988</votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr
+[COLOR lightblue]2021-01-10 08:18:04[/COLOR]
+זה היום האחרון של הלימודים ומקס רוצה ל-'תפוס' את הנערה הכי מגניבה בבית הספר. אבל איך יוכל מקס לתפוס את הנערה כאשר אבא שלו הוא גופי שעושה לו 'פאדיחות'? . מקס מתבייש באביו אך במהרה יבין שאין כמו אבא.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\גופי_ הסרט</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\גופי_ הסרט\גופי_ הסרט.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\גופי_ הסרט\גופי_ הסרט.strm</basepath>
+    <uniqueid type="tmdb" default="true">15789</uniqueid>
+    
+    <genre>רומנטי</genre>
+<genre>אנימציה</genre>
+<genre>משפחה</genre>
+<genre>קומדיה</genre>
+<genre>הרפתקאות</genre>
+    <year>1995</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=whCssUaB0-A</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//u6eWhcd9XfDFSqSdnvpSDzPnVxN.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//hMS9zdDOB7jLocxVb9wsOHK3Psv.jpg">http://image.tmdb.org/t/p/original//hMS9zdDOB7jLocxVb9wsOHK3Psv.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-01-10 08:18:04</dateadded>
+</movie>
+    

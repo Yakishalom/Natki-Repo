@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>טום ליטל ומראת הקסמים</title>
+    <originaltitle>The Princess and the Magic Mirror [2014]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>82</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-04-5 10:36:43[/COLOR]
+החיים השלווים בממלכת קסמים רחוקה עומדים בפני סכנה, לאחר שמכשפה רשעית מטילה כישוף הפוגע בממלכה כולה. המלך מציע את ידה של ביתו הנסיכה לגיבור, שיציל אותם, וטום ליטל, המאוהב בסתר בנסיכה, לוקח על עצמו את האתגר, כנגד כל הסיכויים. בעזרת כלים קסומים ושותפה מסתורית שפגש, הוא נלחם ברשע, ומנסה להצליח היכן שכל השאר נכשלו. בדרך הוא למד על כוחם של הידע והאמונה העצמית, כמו גם על מורכבותם המתוקה של ענייני הלב.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טום ליטל ומראת הקסמים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טום ליטל ומראת הקסמים\טום ליטל ומראת הקסמים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טום ליטל ומראת הקסמים\טום ליטל ומראת הקסמים.strm</basepath>
+    <uniqueid type="tmdb" default="true">309002</uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Adventure</genre>
+<genre>פנטזיה</genre>
+<genre>אנימציה</genre>
+<genre>הרפתקאות</genre>
+    <year>2014</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//5l8Mxk2A8fuQGHcjAOSaEmS8vCb.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//maFJEGbaMYiKf2R5vciP8hocOSc.jpg">http://image.tmdb.org/t/p/original//maFJEGbaMYiKf2R5vciP8hocOSc.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-04-05 10:36:43</dateadded>
+</movie>
+    

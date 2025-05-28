@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>דרגון בול זי: ביו-ברולי</title>
+    <originaltitle>Dragon Ball Z: Bio-Broly [1994] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>4,581</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2021-04-16 18:26:28[/COLOR]
+שרידי ה-דנ'א של ברולי מנוצלים על ידי אנשים מרושעים המשתמשים בשכפול והנדסה גנטית כדי להקים צבא של יצורים לוחמניים. כפיל של ברולי נוצר ומאיים להרוס את המפעל, אך לפני שהוא מספיק לברוח נשפכת עליו תמיסה שהופכת אותו למוטציה.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דרגון בול זי_ ביו-ברולי</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דרגון בול זי_ ביו-ברולי\דרגון בול זי_ ביו-ברולי.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דרגון בול זי_ ביו-ברולי\דרגון בול זי_ ביו-ברולי.strm</basepath>
+    <uniqueid type="tmdb" default="true">39106</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>אקשן</genre>
+<genre>מדע בדיוני</genre>
+    <year>1994</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=QQS1n9VZuOg</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//zndqKR7TTDVWMgD0CSqARVugXoP.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//1I8QhrrHKaxGE3e0f2S75kqrxd9.jpg">http://image.tmdb.org/t/p/original//1I8QhrrHKaxGE3e0f2S75kqrxd9.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-04-16 18:26:28</dateadded>
+</movie>
+    

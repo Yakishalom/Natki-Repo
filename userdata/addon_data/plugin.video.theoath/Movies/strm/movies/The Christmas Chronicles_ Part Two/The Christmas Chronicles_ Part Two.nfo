@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>The Christmas Chronicles: Part Two</title>
+    <originaltitle>The Christmas Chronicles: Part Two [2020] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>11,832</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2020-12-16 11:49:31[/COLOR]
+Kate Pierce is reluctantly spending Christmas with her mom’s new boyfriend and his son Jack. But when the North Pole and Christmas are threatened to be destroyed, Kate and Jack are unexpectedly pulled into a new adventure with Santa Claus.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\The Christmas Chronicles_ Part Two</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\The Christmas Chronicles_ Part Two\The Christmas Chronicles_ Part Two.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\The Christmas Chronicles_ Part Two\The Christmas Chronicles_ Part Two.strm</basepath>
+    <uniqueid type="tmdb" default="true">654028</uniqueid>
+    
+    <genre>Family</genre>
+<genre>Fantasy</genre>
+<genre>Adventure</genre>
+    <year>2020</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=HVzBwSOcBaI</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//6sG0kbEvAi3RRLcGGU5h8l3qAPa.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//cq4h43quHugpsSoy5VCtJeihu64.jpg">http://image.tmdb.org/t/p/original//cq4h43quHugpsSoy5VCtJeihu64.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-12-16 11:49:31</dateadded>
+</movie>
+    

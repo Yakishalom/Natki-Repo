@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מרגלים לא רגילים</title>
+    <originaltitle>Spies in Disguise</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.646</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE,TE
+[COLOR lightblue]2023-05-10 20:08:26[/COLOR]
+[COLOR blue]1080p 2019 נ.מ מרגלים לא רגילים מדובב.mkv[/COLOR]
+1.43 GB
+מרגל העל לאנס סטרלינג והמדען וולטר בקט הם ממש כמו הפכים. לאנס רגוע, מנומס ונעים הליכות, ואילו וולטר… לא ממש. כפיצוי על חסרונותיו החברתיים ובאמצעות חכמתו והמצאותיו הטכנולוגיות, הוא יוצר גאד'טים מטורפים בהם לאנס עושה שימוש במשימותיו החשובות. אך כשהאירועים מקבלים תפנית לא צפויה, וולטר ולאנס לפתע חייבים לסמוך אחד על השני באופן חדש לגמרי. הזוג המוזר יהיה חייב ללמוד לעבוד כצוות, אחרת העולם כולו בסכנה.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מרגלים לא רגילים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מרגלים לא רגילים\מרגלים לא רגילים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מרגלים לא רגילים\מרגלים לא רגילים.strm</basepath>
+    <uniqueid type="tmdb" default="true">431693</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> אקשן </genre>
+<genre> הרפתקאות </genre>
+<genre> קומדיה </genre>
+<genre> משפחה</genre>
+    <year>2019</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//odWNgpiHryrK0MnpKOnX2bKk8Vd.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//uG1v9Hk1XKICd6IJChRR20mBh8i.jpg">https://image.tmdb.org/t/p/original//uG1v9Hk1XKICd6IJChRR20mBh8i.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-05-10 20:08:26</dateadded>
+</movie>
+    

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>קדחת הקרח</title>
+    <originaltitle>Frozen Fever</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.833</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2017-12-5 16:05:22
+ON,TE
+[COLOR lightblue]2017-08-09 10:09:45[/COLOR]
+[COLOR blue]קדחת הקרח מדובב.mkv[/COLOR]
+0.37 GB
+אנה חוגגת יום הולדת ואלזה וכריסטוף שואפים להעניק לה את החגיגה הכי גדולה אי פעם, אבל כוחות הקרח המקפיאים של אלזה עלולים לסכן יותר ממסיבת יום ההולדת.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קדחת הקרח</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קדחת הקרח\קדחת הקרח.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קדחת הקרח\קדחת הקרח.strm</basepath>
+    <uniqueid type="tmdb" default="true">326359</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> משפחה </genre>
+<genre> הרפתקאות </genre>
+<genre> קומדיה</genre>
+    <year>2015</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//dDUGl9H3A84c8VfEyxxWW78CJHX.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//ic16B2KUfEFicIB3eiBUAYqrwz7.jpg">https://image.tmdb.org/t/p/original//ic16B2KUfEFicIB3eiBUAYqrwz7.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2017-12-05 16:05:22</dateadded>
+</movie>
+    

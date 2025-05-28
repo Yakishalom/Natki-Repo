@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>אבא אווזה</title>
+    <originaltitle>Duck Duck Goose</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2022-03-28 22:34:07[/COLOR]
+אווז רווק ומפוזר חי את החיים הנינוחים, עד שיום אחד נפצע ונשאר מאחור, בזמן שהלהקה ממשיכה בדרכה. בדרך מקרה הוא מציל ברווזונים קטנים, שנצמדים אליו ומכריזים עליו כעל אבא ואמא. הוא נאלץ לצאת איתם להרפתקה של ממש, ומה שמתחיל בניסיון בלית ברירה להחזיר אותם להוריהם ולהצילם מהסכנות שאורבות בדרך, הופך למסע התבגרות משעשע במיוחד, על הדברים החשובים באמת בחיים.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אבא אווזה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אבא אווזה\אבא אווזה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אבא אווזה\אבא אווזה.strm</basepath>
+    <uniqueid type="tmdb" default="true">375107</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>משפחה</genre>
+<genre>הרפתקאות</genre>
+<genre>קומדיה</genre>
+    <year>2018</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=KdQEDZiBZ1c</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//qEB3ZcM2JVBamlJUohgC3BHAcSW.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//xgt7soczqOnzIiP93QOiu4FLUe4.jpg">http://image.tmdb.org/t/p/original//xgt7soczqOnzIiP93QOiu4FLUe4.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-03-28 22:34:07</dateadded>
+</movie>
+    

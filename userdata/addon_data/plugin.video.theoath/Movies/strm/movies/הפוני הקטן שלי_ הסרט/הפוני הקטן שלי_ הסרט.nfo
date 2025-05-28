@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הפוני הקטן שלי: הסרט</title>
+    <originaltitle>My Little Pony: The Movie</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.23</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,TE,TE
+[COLOR lightblue]2023-09-10 18:28:42[/COLOR]
+[COLOR blue]HDTV 2017 נ.מ הפוני הקטן שלי מדובב.mkv[/COLOR]
+0.92 GB
+כוח אפל מאיים על פוניוויל וששת סוסי הפוני האהובים יוצאים למסע בלתי נשכח אל מעבר לאקווסטריה, היכן שהם יפגשו חברים חדשים ומרגשים ויעמדו בשלל אתגרים, במשימתם - להשתמש בקסם החברות על מנת להציל את ביתם.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הפוני הקטן שלי_ הסרט</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הפוני הקטן שלי_ הסרט\הפוני הקטן שלי_ הסרט.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הפוני הקטן שלי_ הסרט\הפוני הקטן שלי_ הסרט.strm</basepath>
+    <uniqueid type="tmdb" default="true">335360</uniqueid>
+    
+    <genre>משפחה </genre>
+<genre> אנימציה </genre>
+<genre> הרפתקאות </genre>
+<genre> פנטזיה</genre>
+    <year>2017</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//eurSoRMn3itU4jCPG8fyhR28Lo2.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//t9QTd0V3rbv6W25QbHJuC6zbIo1.jpg">https://image.tmdb.org/t/p/original//t9QTd0V3rbv6W25QbHJuC6zbIo1.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-09-10 18:28:42</dateadded>
+</movie>
+    

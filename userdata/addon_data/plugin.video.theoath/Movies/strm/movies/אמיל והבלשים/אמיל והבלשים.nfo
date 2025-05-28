@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>אמיל והבלשים</title>
+    <originaltitle>Emil and the Detectives [2001]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>789</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2017-12-3 11:57:18[/COLOR]
+החיים לא האירו פנים לאמיל: אמו עזבה לקנדה, אביו פוטר מעבודתו, והמצב הכלכלי גרוע. כשסוף סוף מצא עבודה, נפגע האב בתאונת דרכים ואיבד את רשיון הנהיגה שלו, שבלעדיו לא יוכל לעבוד.</plot>
+    <runtime>111</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אמיל והבלשים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אמיל והבלשים\אמיל והבלשים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אמיל והבלשים\אמיל והבלשים.strm</basepath>
+    <uniqueid type="tmdb" default="true">10556</uniqueid>
+    
+    <genre>Family</genre>
+<genre>Adventure</genre>
+<genre>Comedy</genre>
+<genre>קומדיה</genre>
+    <year>2001</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//ySDVyeBsan8R8uQfnuMEqPmfqxZ.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//fxEJ9Hw2aCI0KAzehYTW1tiAg4D.jpg">http://image.tmdb.org/t/p/original//fxEJ9Hw2aCI0KAzehYTW1tiAg4D.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2017-12-03 11:57:18</dateadded>
+</movie>
+    

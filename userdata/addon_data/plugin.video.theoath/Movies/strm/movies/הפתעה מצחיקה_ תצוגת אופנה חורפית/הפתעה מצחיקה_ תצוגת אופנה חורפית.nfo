@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הפתעה מצחיקה! תצוגת אופנה חורפית</title>
+    <originaltitle>הפתעה מצחיקה! תצוגת אופנה חורפית </originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes> </votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2022-11-14 19:03:14[/COLOR]
+קולקציית האופנה הראשונה של ניאונלישס נעלמת באורח מסתורי. עכשיו עליה לרתום את כל היצירתיות שלה כדי ליצור עיצובים חדשים לתצוגה הגדולה.</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הפתעה מצחיקה_ תצוגת אופנה חורפית</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הפתעה מצחיקה_ תצוגת אופנה חורפית\הפתעה מצחיקה_ תצוגת אופנה חורפית.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הפתעה מצחיקה_ תצוגת אופנה חורפית\הפתעה מצחיקה_ תצוגת אופנה חורפית.strm</basepath>
+    <uniqueid type="tmdb" default="true"> </uniqueid>
+    
+    <genre>פשע</genre>
+<genre>אקשן והרפתקאות</genre>
+<genre>דרמה</genre>
+    <year> 2022</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://hebits.net/images/1aN1Iv/3776T8DeNsKbyUM3tsV0LBY_v_JgTREJUMw8XDarr0.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview=" https://hebits.net/images/1aN1Iv/3776T8DeNsKbyUM3tsV0LBY_v_JgTREJUMw8XDarr0.jpg"> https://hebits.net/images/1aN1Iv/3776T8DeNsKbyUM3tsV0LBY_v_JgTREJUMw8XDarr0.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-11-14 19:03:14</dateadded>
+</movie>
+    

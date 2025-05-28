@@ -1,0 +1,1 @@
+["054535", ["054 area code israel", "054 number", "054 phone number"], [], {"google:suggestsubtypes": [[512, 546], [512, 546], [512, 546]], "google:suggesttype": ["QUERY", "QUERY", "QUERY"]}]

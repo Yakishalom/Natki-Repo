@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>לילי המכשפה 2: המסע למנדולן</title>
+    <originaltitle>Lilly the Witch: The Journey to Mandolan [2011]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5</value>
+            <votes>172</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-07-16 14:53:19[/COLOR]
+המכשפה הצעירה לילי חוזרת בסרטה חדש רק שהפעם היא נוסעת להודו בתקווה לפתור תעלומה מסתורית.</plot>
+    <runtime>90</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לילי המכשפה 2_ המסע למנדולן</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לילי המכשפה 2_ המסע למנדולן\לילי המכשפה 2_ המסע למנדולן.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לילי המכשפה 2_ המסע למנדולן\לילי המכשפה 2_ המסע למנדולן.strm</basepath>
+    <uniqueid type="tmdb" default="true">54486</uniqueid>
+    
+    <genre>Comedy</genre>
+<genre>Family</genre>
+<genre>Fantasy</genre>
+<genre>משפחה</genre>
+<genre>פנטזיה</genre>
+<genre>קומדיה</genre>
+<genre>מסתורין</genre>
+    <year>2011</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=m9QnRrbOIw0</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//odstmHADo5Yvx9hlhWGt0gsDAes.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//9NBMxyRyqoBs0hnVkl64POECqgF.jpg">http://image.tmdb.org/t/p/original//9NBMxyRyqoBs0hnVkl64POECqgF.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-07-16 14:53:19</dateadded>
+</movie>
+    

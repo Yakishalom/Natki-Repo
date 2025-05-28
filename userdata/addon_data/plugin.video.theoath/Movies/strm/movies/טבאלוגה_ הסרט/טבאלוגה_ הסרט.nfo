@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>טבאלוגה: הסרט</title>
+    <originaltitle>Tabaluga</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.8</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2023-05-21 14:09:40
+ON,Dr,TE,TE,TE
+[COLOR lightblue]2020-06-05 14:58:28[/COLOR]
+[COLOR blue]טבאלוגה.2019.מדובב.גוזלן.1080p.avi[/COLOR]
+0.77 GB
+טבאלוגה הוא דרקון צעיר וחביב, שמתגורר עם אביו העורב המאמץ בגרינלנד הציורית והפורחת. הוא לא מצליח לירוק אש, ומחליט לצאת ולחפש דרקון בוגר, שילמד אותו, איך לעשות זאת. בדרך הוא פוגש את לילי, נסיכת הקרח, והשניים מתאהבים. בניסיון לעזור, היא מובילה אותו אל לורד ארטקוס, שליט אייסלנד. אולם ארטקוס מתגלה כרשע מרושע; הוא רוצה להשתלט על גרינלנד ולהקפיא אותה. הוא כולא את טבאלוגה, כדי למנוע ממנו להפשיר עם אש את המקום. לילי מתייצבת לצד חברה הדרקון, משחררת אותו מכבליו והשניים יוצאים להרפתקה סוחפת, כדי להציל את מולדתו.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טבאלוגה_ הסרט</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טבאלוגה_ הסרט\טבאלוגה_ הסרט.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טבאלוגה_ הסרט\טבאלוגה_ הסרט.strm</basepath>
+    <uniqueid type="tmdb" default="true">421920</uniqueid>
+    
+    <genre>משפחה </genre>
+<genre> אנימציה</genre>
+    <year>2018</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//4rgxE7jpllV97r8TKoRoCzznJRT.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//COpgFYPkUhXOFfRISotkjEithK.jpg">https://image.tmdb.org/t/p/original//COpgFYPkUhXOFfRISotkjEithK.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-05-21 14:09:40</dateadded>
+</movie>
+    

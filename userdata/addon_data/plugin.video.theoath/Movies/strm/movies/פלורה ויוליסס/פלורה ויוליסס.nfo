@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>פלורה ויוליסס</title>
+    <originaltitle>Flora & Ulysses</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2022-06-23 18:29:41[/COLOR]
+'פלורה ויוליסס', הסרט החדש של Disney+, מבוסס על ספר ילדים מאת קייט די-קמילו, זוכה פרס מדליית ניוברי. הסרט יתמקד בפלורה [מטילדה לולר], ילדה שמאמצת סנאי בשם יוליסס בעל כוחות על.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פלורה ויוליסס</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פלורה ויוליסס\פלורה ויוליסס.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פלורה ויוליסס\פלורה ויוליסס.strm</basepath>
+    <uniqueid type="tmdb" default="true">621876</uniqueid>
+    
+    <genre>משפחה</genre>
+<genre>הרפתקאות</genre>
+<genre>קומדיה</genre>
+<genre>פנטזיה</genre>
+    <year>2021</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=05F8MmsiLQs</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//syobJCxZcIJl0OpjNroZSQKa1kW.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//tHjoTxM4SMgazi3Y2X8mmAtONVL.jpg">http://image.tmdb.org/t/p/original//tHjoTxM4SMgazi3Y2X8mmAtONVL.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-06-23 18:29:41</dateadded>
+</movie>
+    

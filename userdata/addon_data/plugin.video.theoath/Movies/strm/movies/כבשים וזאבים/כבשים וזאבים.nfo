@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>כבשים וזאבים</title>
+    <originaltitle>Volki i ovtsy. Beeezumnoe prevrashchenie</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2022-10-20 17:12:29[/COLOR]
+את שלוות חייהם של עדר כבשים חסר דאגות, המתגורר באזור הציורי עלי תבל, מפרה להקת זאבים גדולה שהגיעה לאזור, במטרה לבחור מנהיג חדש. על הכתר מתמודד זאב אימפולסיבי מול המצחיקן של החבורה, זאב חביב בשם גריי, שרוצה להפוך את חיי הזאבים לרגועים יותר. הוא נעזר בכישוף אקראי להגדיל את סיכוייו, וכשזה משתבש, הוא הופך ללא אחר מאשר ל... אייל. כעת הוא חייב לצאת לדרך חדשה שתשיב את זהותו האמתית ואת אהבתו הגדולה. למרבה ההפתעה הוא מקבל עזרה דווקא מהכבשים, שעד לפני רגע היווה איום ממשי על קיומם.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\כבשים וזאבים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\כבשים וזאבים\כבשים וזאבים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\כבשים וזאבים\כבשים וזאבים.strm</basepath>
+    <uniqueid type="tmdb" default="true">394759</uniqueid>
+    
+    <genre>הרפתקאות</genre>
+<genre>אנימציה</genre>
+<genre>קומדיה</genre>
+<genre>משפחה</genre>
+<genre>פנטזיה</genre>
+<genre>רומנטי</genre>
+    <year>2016</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=vX5tltuCJMk</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//sgcBT9t0eQwgFqIYjjh0oN65ttI.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//yTL3cV6sLI0sdhaSS8796OkWCH7.jpg">http://image.tmdb.org/t/p/original//yTL3cV6sLI0sdhaSS8796OkWCH7.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-10-20 17:12:29</dateadded>
+</movie>
+    

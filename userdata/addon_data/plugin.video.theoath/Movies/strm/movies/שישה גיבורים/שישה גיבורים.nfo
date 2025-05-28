@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>שישה גיבורים</title>
+    <originaltitle>Big Hero 6 [2014] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>8</value>
+            <votes>366,141</votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr
+[COLOR lightblue]2019-04-13 16:29:43[/COLOR]
+גאון טכנולוגי בשם הירו המדה והרובוט שלו ביימאקס , המוצאים את עצמם בתוך השתלשלות עבריינית המאימת להרוס את העיר בעלת הקצב והטכנולוגיה המסחררים, סאן פרנסיוקיו. השניים משלבים כוחות עם צוות חסר מוטיבציה של לוחמי פשע בתחילת דרכם במשימה להציל את העיר. הסרט נכתב בהשראת הרומן הגרפי של מארוול ומציג קטעי פעולה בסגנון הקומיקס בשילוב הרבה חוש הומור ורגש על פי מיטב המסורת של סרטי וולט דיסני.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\שישה גיבורים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\שישה גיבורים\שישה גיבורים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\שישה גיבורים\שישה גיבורים.strm</basepath>
+    <uniqueid type="tmdb" default="true">177572</uniqueid>
+    
+    <genre>הרפתקאות</genre>
+<genre>משפחה</genre>
+<genre>אנימציה</genre>
+<genre>אקשן</genre>
+<genre>קומדיה</genre>
+    <year>2014</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=z3biFxZIJOQ</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//zC4Bn43E32LtCU8BWpmeTcN8wbN.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//4s2d3xdyqotiVNHTlTlJjrr3q0H.jpg">http://image.tmdb.org/t/p/original//4s2d3xdyqotiVNHTlTlJjrr3q0H.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-04-13 16:29:43</dateadded>
+</movie>
+    

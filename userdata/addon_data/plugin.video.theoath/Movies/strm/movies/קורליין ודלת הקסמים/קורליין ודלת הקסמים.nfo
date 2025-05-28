@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>קורליין ודלת הקסמים</title>
+    <originaltitle>Coraline [2009] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>8</value>
+            <votes>194,830</votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr
+[COLOR lightblue]2020-11-15 18:29:50[/COLOR]
+קורליין ג'ונס היא ילדה בת 11 סקרנית והרפתקנית הרבה מעבר לגילה. היא והוריה בדיוק עברו ממישיגן לאורגון. קורליין מתגעגעת לחבריה וכשהוריה עסוקים מדי בעבודתם היא מנסה למצוא ריגושים בסביבת מגוריה החדשה ומגלה דלת סודית בבית. כשהיא פותחת אותה ונכנסת היא נתקלת במעבר מסתורי ומגיעה דרכו אל גרסה אלטרנטיבית של חייה. היא מתחילה לחשוב שהעולם האחר הזה הוא בעצם המקום אליו היא שייכת, אבל כשהביקור הפנטסטי שלה הופך למסוכן והאם האחרת מנסה לגרום לה להישאר שם, קורליין אוספת את כל הנחישות, התושייה והאומץ שלה כדי לחזור הביתה ולהציל את משפחתה.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קורליין ודלת הקסמים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קורליין ודלת הקסמים\קורליין ודלת הקסמים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קורליין ודלת הקסמים\קורליין ודלת הקסמים.strm</basepath>
+    <uniqueid type="tmdb" default="true">14836</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>משפחה</genre>
+<genre>פנטזיה</genre>
+    <year>2009</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Js7wxoqeVK0</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//gPMh5rsVrDDAYMDbTcz6Up1DQ4z.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//8GHxjXlI5rqyTBuVNekGTPjG5T6.jpg">http://image.tmdb.org/t/p/original//8GHxjXlI5rqyTBuVNekGTPjG5T6.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-11-15 18:29:50</dateadded>
+</movie>
+    

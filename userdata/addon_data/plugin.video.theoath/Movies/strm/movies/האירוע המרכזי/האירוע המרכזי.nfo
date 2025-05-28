@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>האירוע המרכזי</title>
+    <originaltitle>The Main Event</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.735</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE
+[COLOR lightblue]2023-05-04 19:42:27[/COLOR]
+[COLOR blue]1080p WEB-DL 2020 האירוע המרכזי מדובב.mkv[/COLOR]
+1.35 GB
+ליאו הצעיר הוא מעריץ שרוף של WWE. כשהוא מוצא מסיכה קסומה שמעניקה לו כוחות מיוחדים, הוא נכנס לזירה ומתחרה ביריב מאיים – והכאוס לא מאחר להגיע.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\האירוע המרכזי</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\האירוע המרכזי\האירוע המרכזי.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\האירוע המרכזי\האירוע המרכזי.strm</basepath>
+    <uniqueid type="tmdb" default="true">637157</uniqueid>
+    
+    <genre>משפחה </genre>
+<genre> קומדיה</genre>
+    <year>2020</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//taWMqwiWJwEdNgzBVRxC9EPz9f9.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//c6JmDkXh0o9Fs2aJ8dF7AVLem0D.jpg">https://image.tmdb.org/t/p/original//c6JmDkXh0o9Fs2aJ8dF7AVLem0D.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-05-04 19:42:27</dateadded>
+</movie>
+    

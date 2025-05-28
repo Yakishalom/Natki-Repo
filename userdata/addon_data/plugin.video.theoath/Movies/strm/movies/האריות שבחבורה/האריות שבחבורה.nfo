@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>האריות שבחבורה</title>
+    <originaltitle>Seal Team</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.0</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>Dr,TE
+[COLOR lightblue]2023-08-10 16:04:16[/COLOR]
+[COLOR blue]1080p 2021 ז.מ האריות שבחבורה מדובב.mkv[/COLOR]
+1.35 GB
+אריה הים קווין מגייס צוות של כל מיני טיפוסים כדי להתייצב מול כרישים אימתניים בעלי שיניים חדות כתער ולתבוע בחזרה את חופש התנועה בים הפתוח.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\האריות שבחבורה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\האריות שבחבורה\האריות שבחבורה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\האריות שבחבורה\האריות שבחבורה.strm</basepath>
+    <uniqueid type="tmdb" default="true">823610</uniqueid>
+    
+    <genre></genre>
+    <year>2021</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//bAd6cdwUybrbKdGg8qbyG7cupRo.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//ezyFE2H7vdFoK3dXK4p4ZUaTukW.jpg">https://image.tmdb.org/t/p/original//ezyFE2H7vdFoK3dXK4p4ZUaTukW.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-08-10 16:04:16</dateadded>
+</movie>
+    

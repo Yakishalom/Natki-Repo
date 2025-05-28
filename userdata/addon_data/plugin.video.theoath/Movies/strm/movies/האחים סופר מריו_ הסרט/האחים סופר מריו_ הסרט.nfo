@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>האחים סופר מריו: הסרט</title>
+    <originaltitle>The Super Mario Bros. Movie</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2023-07-17 19:08:54[/COLOR]
+שיתוף פעולה מטורף ראשון בין אילומניישן, הסטודיו מאחורי סרטי 'המיניונים' וחברת משחקי הוידיאו הידועה ביותר נינטנדו: בסרט 'האחים סופר מריו' דמותו האהובה של השרבב הכי קופצני בעולם מגיעה הישר למסך הגדול בסרט אנימציה לכל המשפחה שלא נראה כמוהו.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\האחים סופר מריו_ הסרט</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\האחים סופר מריו_ הסרט\האחים סופר מריו_ הסרט.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\האחים סופר מריו_ הסרט\האחים סופר מריו_ הסרט.strm</basepath>
+    <uniqueid type="tmdb" default="true">502356</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>משפחה</genre>
+<genre>הרפתקאות</genre>
+<genre>פנטזיה</genre>
+<genre>קומדיה</genre>
+    <year>2023</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=KydqdKKyGEk</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//3AHKpNLVHow26JKNjUiOa8OOPw3.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//9n2tJBplPbgR2ca05hS5CKXwP2c.jpg">http://image.tmdb.org/t/p/original//9n2tJBplPbgR2ca05hS5CKXwP2c.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-07-17 19:08:54</dateadded>
+</movie>
+    

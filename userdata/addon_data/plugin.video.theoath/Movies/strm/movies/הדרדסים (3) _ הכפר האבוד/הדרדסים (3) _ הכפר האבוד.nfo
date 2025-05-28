@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הדרדסים (3) : הכפר האבוד</title>
+    <originaltitle>הדרדסים (3) : הכפר האבוד</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes> </votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-08-19 09:31:09[/COLOR]
+מפה מסתורית שולחת את דרדסית וחבריה הטובים: בר-מוח, בר-כוח וביש-גדא, למרוץ מסעיר ומותח לעמקי היער האסור אשר מלא ביצורים קסומים, על מנת למצוא את היער האבוד המסתורי לפני המכשף הרשע גרגמל. הם יוצאים למסע על מנת לגלות את הסוד הגדול ביותר בתולדות הדרדסים.</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הדרדסים (3) _ הכפר האבוד</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הדרדסים (3) _ הכפר האבוד\הדרדסים (3) _ הכפר האבוד.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הדרדסים (3) _ הכפר האבוד\הדרדסים (3) _ הכפר האבוד.strm</basepath>
+    <uniqueid type="tmdb" default="true"> </uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Adventure</genre>
+<genre>Comedy</genre>
+<genre>הרפתקאות</genre>
+<genre>אנימציה</genre>
+<genre>קומדיה</genre>
+<genre>משפחה</genre>
+    <year>2017</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//2MJsTikP8oHzUfhqesnprDS84kO.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//AeMtzbw7shxtLvwKKqeITabpTrD.jpg">http://image.tmdb.org/t/p/original//AeMtzbw7shxtLvwKKqeITabpTrD.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-08-19 09:31:09</dateadded>
+</movie>
+    

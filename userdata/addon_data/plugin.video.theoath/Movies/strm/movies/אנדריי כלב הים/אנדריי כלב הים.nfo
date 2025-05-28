@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>אנדריי כלב הים</title>
+    <originaltitle>Andre [1994]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>5,586</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2017-12-3 11:58:37[/COLOR]
+סרט מרגש לכל המשפחה על כלב ים שיוצר קשר מיוחד עם ילדה קטנה ומשפחתה.</plot>
+    <runtime>94</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אנדריי כלב הים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אנדריי כלב הים\אנדריי כלב הים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אנדריי כלב הים\אנדריי כלב הים.strm</basepath>
+    <uniqueid type="tmdb" default="true">21352</uniqueid>
+    
+    <genre>Adventure</genre>
+<genre>Drama</genre>
+<genre>Family</genre>
+<genre>דרמה</genre>
+<genre>משפחה</genre>
+<genre>הרפתקאות</genre>
+    <year>1994</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//7hqJXTi4XQwCcoRIfgUrjA79GW5.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//l0CO255nMbn0kv1e8rbrSUmerlk.jpg">http://image.tmdb.org/t/p/original//l0CO255nMbn0kv1e8rbrSUmerlk.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2017-12-03 11:58:37</dateadded>
+</movie>
+    

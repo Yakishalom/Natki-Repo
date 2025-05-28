@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>נומיאו ויוליה</title>
+    <originaltitle>Gnomeo & Juliet</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.859</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2023-05-28 20:32:58
+TE,TE
+[COLOR lightblue]2020-07-16 00:48:08[/COLOR]
+[COLOR blue]נומיאו ויוליה.מדובב.גוזלן.avi[/COLOR]
+0.68 GB
+הסיפור הידוע של שייקספיר חוזר בעיבוד מצחיק ופרוע. העלילה מתרחשת הפעם בשתי גינות של שכנים מסוכסכים, אלא שה-"שכנים" הם לא האנשים הגרים בבית, אלא אוסף של פסלי גינה אשר מנהלים חיים סודיים ומתעוררים בכל פעם שבני הבית לא רואים. נומיאו וג'ולייט, שני גמדי גינה השייכים כל אחד לצד אחר, מתאהבים למרות סכסוך הגינות, וצריכים למצוא דרכים יצירתיות כדי לממש את אהבתם.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\נומיאו ויוליה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\נומיאו ויוליה\נומיאו ויוליה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\נומיאו ויוליה\נומיאו ויוליה.strm</basepath>
+    <uniqueid type="tmdb" default="true">45772</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> משפחה</genre>
+    <year>2011</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//lbyoZfYLT4v9Mj01h8fnn48zNVf.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//w3LLngJIAA1R7Mp2S3G0HZl2R3H.jpg">https://image.tmdb.org/t/p/original//w3LLngJIAA1R7Mp2S3G0HZl2R3H.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-05-28 20:32:58</dateadded>
+</movie>
+    

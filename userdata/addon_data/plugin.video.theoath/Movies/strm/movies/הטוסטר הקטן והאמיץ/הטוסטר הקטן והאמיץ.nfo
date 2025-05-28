@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הטוסטר הקטן והאמיץ</title>
+    <originaltitle>The Brave Little Toaster [1987]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7</value>
+            <votes>21,031</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2017-12-3 15:17:41[/COLOR]
+הטוסטר הקטן והאמיץ הוא סרט הנפשה מ-1987, עיבוד לספר של תומאס דיש מ-1980 באותו השם. כשילד ומשפחתו לא מגיעים לבית הקיץ שלהם, שורה של מכשירי חשמל מתחילים לדאוג ויוצאים לחפש את בעליהם הנעדרים. מוביל את היוזמה החשמלית הזו הוא הטוסטר הקטן, שמגייס למשימה את שואב האבק, השמיכה החשמלית, מנורת הלילה והרדיו, כך מתחילה הרפתקה מסוכנת ומשעשעת כאחד. טיפ למבוגרים הסקרנים: חפשו את המחווה לאלפרד היצ'קוק. הסרט לא נחל הצלחה קולנועית רבה, אך היה פופולרי בהפצות וידאו וזכה לשני המשכים כעבור עשור.</plot>
+    <runtime>90</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הטוסטר הקטן והאמיץ</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הטוסטר הקטן והאמיץ\הטוסטר הקטן והאמיץ.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הטוסטר הקטן והאמיץ\הטוסטר הקטן והאמיץ.strm</basepath>
+    <uniqueid type="tmdb" default="true">19933</uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Adventure</genre>
+<genre>Comedy</genre>
+<genre>פנטזיה</genre>
+<genre>הרפתקאות</genre>
+<genre>אנימציה</genre>
+<genre>קומדיה</genre>
+<genre>משפחה</genre>
+<genre>מוסיקה</genre>
+    <year>1987</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=bpGLpD25dpU</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//7fXHlMCWiCOKNupjmMfjN3Eh8BL.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//vO62VmEhCxMGrWkEcsAe77KABkD.jpg">http://image.tmdb.org/t/p/original//vO62VmEhCxMGrWkEcsAe77KABkD.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2017-12-03 15:17:41</dateadded>
+</movie>
+    

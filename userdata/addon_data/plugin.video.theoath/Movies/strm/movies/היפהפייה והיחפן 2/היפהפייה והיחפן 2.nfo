@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>היפהפייה והיחפן 2</title>
+    <originaltitle>Lady and the Tramp II: Scamp%27s Adventure</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.393</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2023-07-04 18:04:52
+ON,Dr,TE,TE
+[COLOR lightblue]2021-03-08 16:53:35[/COLOR]
+[COLOR blue]היפהפייה והיחפן.מס2.מדובב.גוזלן.avi[/COLOR]
+0.68 GB
+סקאמפ, הגור הקטן של ליידי, כנראה ירש משהו מאופיו של אביו, וחולם על חיי חופש כנווד. על כן הוא מחליט לברוח מבית המשפחה החם ומצטרף לכנופיית כלבי רחוב, שם הוא הופך ליריבו של המנהיג. בו זמנית הוא פוגש כלבה חמודה שדווקא מעוניינת שסקאמפ יחזור לבית הבטוח, על מנת להצטרף אליו לחיי הנוחיות.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\היפהפייה והיחפן 2</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\היפהפייה והיחפן 2\היפהפייה והיחפן 2.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\היפהפייה והיחפן 2\היפהפייה והיחפן 2.strm</basepath>
+    <uniqueid type="tmdb" default="true">18269</uniqueid>
+    
+    <genre>משפחה </genre>
+<genre> אנימציה </genre>
+<genre> רומנטי </genre>
+<genre> הרפתקאות</genre>
+    <year>2001</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//7Xmn5MCuUmWx3wj7om6obD3wKez.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//p0RtfqoAOxiWhXRYTs8Kep3qND6.jpg">https://image.tmdb.org/t/p/original//p0RtfqoAOxiWhXRYTs8Kep3qND6.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-07-04 18:04:52</dateadded>
+</movie>
+    

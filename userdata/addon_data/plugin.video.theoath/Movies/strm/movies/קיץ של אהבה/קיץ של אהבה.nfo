@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>קיץ של אהבה</title>
+    <originaltitle>A Week Away [2021] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>996</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2021-03-29 18:49:22[/COLOR]
+סרט מוזיקלי אופטימי על נער מיוסר שמחליט לאזור אומץ ולנסוע למחנה קיץ, ומוצא בו את מה שחיפש כל חייו – אהבה, חברים ותחושת שייכות.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קיץ של אהבה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קיץ של אהבה\קיץ של אהבה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קיץ של אהבה\קיץ של אהבה.strm</basepath>
+    <uniqueid type="tmdb" default="true">699102</uniqueid>
+    
+    <genre>דרמה</genre>
+<genre>משפחה</genre>
+<genre>מוסיקה</genre>
+<genre>רומנטי</genre>
+    <year>2021</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=dpLaoYw8xug</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//7nHJe5rnZJV7f7rxD41R5DgouL0.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//sA07ynKTNXW2UMMOgPfLmFmmjgm.jpg">http://image.tmdb.org/t/p/original//sA07ynKTNXW2UMMOgPfLmFmmjgm.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-03-29 18:49:22</dateadded>
+</movie>
+    

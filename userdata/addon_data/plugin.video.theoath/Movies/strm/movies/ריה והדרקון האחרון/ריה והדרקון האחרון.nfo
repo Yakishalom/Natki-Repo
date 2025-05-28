@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>ריה והדרקון האחרון</title>
+    <originaltitle>Raya and the Last Dragon</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.897</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>Dr,TE
+[COLOR lightblue]2023-08-14 18:32:15[/COLOR]
+[COLOR blue]1080p 2021 ראיה והדרקון האחרון מדובב.mkv[/COLOR]
+1.66 GB
+בעולם דימיוני בשם קומנדרה, בו בני אדם ודרקונים חיו יחד בהרמוניה לפני זמן רב, הדרקונים הקריבו את עצמם למען הצלת האנושות כשכוח מרושע איים על העולם. כעת, 500 שנה לאחר מכן, אותו רשע חזר ועל ריה, הלוחמת הבודדת לאתר את הדרקון האגרי האחרון ולאחד את האדמה השבורה ואנשיה המפולגים. במהלך מסעה היא תגלה שצריך יותר מדרקון כדי להציל את העולם- צריך גם אמון ועבודת צוות.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ריה והדרקון האחרון</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ריה והדרקון האחרון\ריה והדרקון האחרון.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ריה והדרקון האחרון\ריה והדרקון האחרון.strm</basepath>
+    <uniqueid type="tmdb" default="true">527774</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> משפחה </genre>
+<genre> פנטזיה </genre>
+<genre> אקשן </genre>
+<genre> הרפתקאות</genre>
+    <year>2021</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//cG14haYDwiF6tPJf7x1ko0pjpQC.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//rcUcYzGGicDvhDs58uM44tJKB9F.jpg">https://image.tmdb.org/t/p/original//rcUcYzGGicDvhDs58uM44tJKB9F.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-08-14 18:32:15</dateadded>
+</movie>
+    

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>אלאדין ומלך הגנבים</title>
+    <originaltitle>Aladdin and the King of Thieves</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.263</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>Dr,TE
+[COLOR lightblue]2022-02-07 15:57:27[/COLOR]
+[COLOR blue]Aladdin.And.The.King.Of.Thieves.1996.720p.BluRay.x264.HebDub.mkv[/COLOR]
+0.82 GB
+אלדין ויסמין עומדים סוף סוף להתחתן. למרות העידוד מחבריו ג'יני, אפו הקוף והשטיח המעופף, אלדין עצבני ונרגש. הוא בעיקר מפוחד מלהיות אבא, כיוון שאף פעם לא פגש את אביו האמיתי. כשארבעים שודדים מגיעים לחתונה, מוצא עצמו אלדין שוב בהרפתקה מסוכנת, כאשר הוא חייב לסכל את משימתם, ולמצוא את אביו האבוד.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אלאדין ומלך הגנבים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אלאדין ומלך הגנבים\אלאדין ומלך הגנבים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אלאדין ומלך הגנבים\אלאדין ומלך הגנבים.strm</basepath>
+    <uniqueid type="tmdb" default="true">11238</uniqueid>
+    
+    <genre>הרפתקאות </genre>
+<genre> אנימציה </genre>
+<genre> משפחה</genre>
+    <year>1996</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//aeae14josZQoafzAfkSCsxWLded.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//ngYzIWyVgDor1TtGZ8fK7AFOdGr.jpg">https://image.tmdb.org/t/p/original//ngYzIWyVgDor1TtGZ8fK7AFOdGr.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-02-07 15:57:27</dateadded>
+</movie>
+    

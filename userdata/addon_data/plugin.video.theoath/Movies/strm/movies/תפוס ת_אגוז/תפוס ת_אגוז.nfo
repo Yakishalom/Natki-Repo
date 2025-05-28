@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>תפוס ת'אגוז</title>
+    <originaltitle>Get Squirrely</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.2</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2018-07-5 13:37:07
+ON,TE
+[COLOR lightblue]2017-08-21 09:51:28[/COLOR]
+[COLOR blue]תפוס ת'אגוז.מדובב.גוזלן.DVDRip.mp4[/COLOR]
+0.77 GB
+פרנקי, סנאי חלקלק בעל חוש אופנתי משובח, מגלה שבזמן שהותו בגן החיות, ביער שממנו הגיע, התבצע איסוף מאסיבי של אגוזים על ידי התאגיד א.ג.ו.ז. וזאת כדי לייצר ממנו חמאת אגוזים. פרנקי יודע שהוא היחיד שמסוגל להציל את היער, אך אם יעשה זאת הוא עלול לאבד את סנאית חלומותיו, לולה. קודי - חברו הטוב ושותפו לפשע מזכיר לו שאם הוא לא יגרום לחבורה לשתף פעולה ולעבוד ביחד כדי לפרוץ לתאגיד א.ג.ו.ז כדי להחזיר את האגוזים, כול היער עלול להיות בסכנה. מר בלווד, גירית הכסף ״הבנקאי״ תומך בהם בעוד שפרנקי וקודי מרכיבים נבחרת של מומחים מיוחדים מרחבי היער. פרנקי מגייס את פלייבוי –המפציץ, רייץ' הפצחן, אדסי הקפוא, ליאם הבלש, כמו גם שני פנגולינים - פנגו ולין. לפרנקי והצוות יש רק 3 ימים לתכנן ולבצע את השוד הנועז, שלא נראה כמותו מעולם וזאת כדי להציל את ביתם מרעב.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\תפוס ת_אגוז</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\תפוס ת_אגוז\תפוס ת_אגוז.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\תפוס ת_אגוז\תפוס ת_אגוז.strm</basepath>
+    <uniqueid type="tmdb" default="true">387892</uniqueid>
+    
+    <genre>משפחה </genre>
+<genre> אנימציה </genre>
+<genre> קומדיה</genre>
+    <year>2015</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//lf3sDJKPknEivxb4B4YV2KiuTzq.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//7wEdPYkefe8Jfdusdq07CNAKpl5.jpg">https://image.tmdb.org/t/p/original//7wEdPYkefe8Jfdusdq07CNAKpl5.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-07-05 13:37:07</dateadded>
+</movie>
+    

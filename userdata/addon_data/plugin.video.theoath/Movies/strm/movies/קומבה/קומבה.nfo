@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>קומבה</title>
+    <originaltitle>Khumba</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.002</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE
+[COLOR lightblue]2021-11-14 21:50:53[/COLOR]
+[COLOR blue]יוסי סרטים קומבה (מצוייר).avi[/COLOR]
+0.77 GB
+קומבה הוא סיפור על התבגרות, זברה צעיר שמחפש אחרי הפסים החסרים שלו כדרך להתקבל חזרה לעדר שלו, אך למעשה יוצא ל מסע גילוי עצמי. החיים הם לא רק שחור ולבן בשביל קומבה, זברה צעיר שנולד עם פסים רק על חצי מגופו. כשהעדר שלו, המאמין בהמון אמונות טפלות, מאשים אותו בבצורת הפתאומית שנפלה עליהם, יוצא קומבה למסע בו הוא חובר ל"מאמה וי" נקבת גנו חצופה ול"ברדלי" יען ראוותני, על מנת למצוא את בור המים האגדי בו קיבלה הזברה הראשונה את הפסים שלה. במסעו האמיץ דרך מדבר הקארו הגדול, קומבה פוגש חיות נפלאות ומוזרות ועומד פנים מול פנים עם הנמר העריץ, "פנגו", בקרב ענקים כדי לזכות בפסים שלו. "כמה פסים צריכה זברה כדי להיות שלמה?" שאלה זאת עומדת בלב ליבו של המסע. האם קומבה ימשיך להתמקד בשוני שלו? באיזה נקודה הוא ירגיש באמת שלם עם עצמו?TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קומבה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קומבה\קומבה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קומבה\קומבה.strm</basepath>
+    <uniqueid type="tmdb" default="true">172391</uniqueid>
+    
+    <genre></genre>
+    <year>2013</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//52zllIbN2q5RxKW4H6QcGBpNKRq.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//bBvVy858Xt03Lm4AWJCekslC92A.jpg">https://image.tmdb.org/t/p/original//bBvVy858Xt03Lm4AWJCekslC92A.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-11-14 21:50:53</dateadded>
+</movie>
+    

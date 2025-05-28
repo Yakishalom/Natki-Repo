@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>בראץ: תינוקות</title>
+    <originaltitle>Bratz: Babyz the Movie [Video 2006]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>3</value>
+            <votes>224</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-04-2 09:47:57[/COLOR]
+הבראטז הבובות הפופולאריות שהפכו לתוכנית טלוויזיה שעוקבת אחר חייהם של דמויות דוגמנים נערים שמפעילים מגזין לנוער.  החלק הזה בסיפור לוקח אותנו לימים בהם הבראטז היו תינוקות.</plot>
+    <runtime>66</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בראץ_ תינוקות</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בראץ_ תינוקות\בראץ_ תינוקות.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בראץ_ תינוקות\בראץ_ תינוקות.strm</basepath>
+    <uniqueid type="tmdb" default="true">35281</uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Action</genre>
+<genre>Adventure</genre>
+<genre>משפחה</genre>
+<genre>אנימציה</genre>
+    <year>2006</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//i2ldF3ZVAwevEt3ZEidrsqPwTVG.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//9XstMhofKWgiSwiKnBoWWh4e2ji.jpg">http://image.tmdb.org/t/p/original//9XstMhofKWgiSwiKnBoWWh4e2ji.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-04-02 09:47:57</dateadded>
+</movie>
+    

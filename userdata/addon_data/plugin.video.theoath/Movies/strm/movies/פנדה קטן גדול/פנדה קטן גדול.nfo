@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>פנדה קטן גדול</title>
+    <originaltitle>熊猫总动员</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>4.5</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2021-05-30 00:37:21
+ON,Dr,TE,TE
+[COLOR lightblue]2017-01-02 09:16:29[/COLOR]
+[COLOR blue]יוסי סרטים פנדה קטן גדול מדובב HDTV.avi[/COLOR]
+0.68 GB
+מנצ'ו, דב פנדה אמיץ ומיוחד, יוצא למסע עם חבריו יחד הם מצילים את משפחת הפנדות מסכנות שונות ומגלים עולם חדש. סיפור על חברות, אומץ לב וקבלת השונה.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פנדה קטן גדול</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פנדה קטן גדול\פנדה קטן גדול.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פנדה קטן גדול\פנדה קטן גדול.strm</basepath>
+    <uniqueid type="tmdb" default="true">65714</uniqueid>
+    
+    <genre>אנימציה</genre>
+    <year>2011</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//gPfZ254KCHU5m7xlkmnKjP8Ebtp.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//nUsBg3Y4MIx5Uks0BNjuL6E4By5.jpg">https://image.tmdb.org/t/p/original//nUsBg3Y4MIx5Uks0BNjuL6E4By5.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-05-30 00:37:21</dateadded>
+</movie>
+    

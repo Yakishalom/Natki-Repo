@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>גופי הולך לקולג'</title>
+    <originaltitle>An Extremely Goofy Movie</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2021-07-25 20:04:36[/COLOR]
+לגופי יש בן עכשיו ששמו מקס, שנמלט לקולג' ממעלליו המביכים של אביו. אבל גופי מאבד את עבודתו ומבין שבלי תואר ראשון לא ישיג עבודה חלופית. על כן הוא מצטרף לבנו, שראוצה לדפוק את הראש בקיר מרוב ייאוש. מקס מכיר לאביו את האחווה היריבה וגם את הספרנית שחולקת עם גופי את אהבתו הנוסטלגית לשנות ה-70. לא שזה עוזר במשהו... גופי נשאר גופי.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\גופי הולך לקולג_</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\גופי הולך לקולג_\גופי הולך לקולג_.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\גופי הולך לקולג_\גופי הולך לקולג_.strm</basepath>
+    <uniqueid type="tmdb" default="true">15653</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>משפחה</genre>
+<genre>קומדיה</genre>
+    <year>2000</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=1NtcAwY9HSw</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//s3g29US5jjKroVt2jaboEGwk3Z7.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//2XoHSRRhwSdv42suJMJBgEyWy5b.jpg">http://image.tmdb.org/t/p/original//2XoHSRRhwSdv42suJMJBgEyWy5b.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-07-25 20:04:36</dateadded>
+</movie>
+    

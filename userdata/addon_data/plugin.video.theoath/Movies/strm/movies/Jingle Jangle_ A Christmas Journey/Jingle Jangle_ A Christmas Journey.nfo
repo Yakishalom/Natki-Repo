@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Jingle Jangle: A Christmas Journey</title>
+    <originaltitle>Jingle Jangle: A Christmas Journey [2020] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>9,535</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2020-12-16 11:37:35[/COLOR]
+An imaginary world comes to life in a holiday tale of an eccentric toymaker, his adventurous granddaughter, and a magical invention that has the power to change their lives forever.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\Jingle Jangle_ A Christmas Journey</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\Jingle Jangle_ A Christmas Journey\Jingle Jangle_ A Christmas Journey.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\Jingle Jangle_ A Christmas Journey\Jingle Jangle_ A Christmas Journey.strm</basepath>
+    <uniqueid type="tmdb" default="true">622855</uniqueid>
+    
+    <genre>Family</genre>
+<genre>Fantasy</genre>
+<genre>Music</genre>
+    <year>2020</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=aYPUYVgwLWY</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//5RbyHIVydD3Krmec1LlUV7rRjet.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//6C7ZGYeR8QpT3X6C2RFEu6yiSKK.jpg">http://image.tmdb.org/t/p/original//6C7ZGYeR8QpT3X6C2RFEu6yiSKK.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-12-16 11:37:35</dateadded>
+</movie>
+    

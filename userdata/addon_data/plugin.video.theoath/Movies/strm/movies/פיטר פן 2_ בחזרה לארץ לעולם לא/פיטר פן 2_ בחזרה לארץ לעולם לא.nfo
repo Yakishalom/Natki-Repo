@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>פיטר פן 2: בחזרה לארץ לעולם לא</title>
+    <originaltitle>Return to Never Land</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.485</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,TE
+[COLOR lightblue]2018-06-04 11:57:11[/COLOR]
+[COLOR blue]פיטר פן.2002.מדובב.גוזלן.avi[/COLOR]
+1.17 GB
+הצטרפו אל טינקרבל, פיטר והילדים האבודים ובואו לפגוש את ג'יין, בתה של וונדי שאינה מאמינה בסיפורי האגדות של אמה אודות שודדי ים ופיות - עד שקפטן הוק חוטף אותה לארץ לעולם לא. שודדי הים הערמומיים זוממים ללכוד את פיטר וטינק שהילתם הולכת ודועכת עקב חוסר אמונתה של ג'יין בפיות. כעת, רק ג'יין יכולה להציל אותם, אך קודם עליה להצטייד באבק פיות ובהרבה אמונה.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פיטר פן 2_ בחזרה לארץ לעולם לא</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פיטר פן 2_ בחזרה לארץ לעולם לא\פיטר פן 2_ בחזרה לארץ לעולם לא.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פיטר פן 2_ בחזרה לארץ לעולם לא\פיטר פן 2_ בחזרה לארץ לעולם לא.strm</basepath>
+    <uniqueid type="tmdb" default="true">16690</uniqueid>
+    
+    <genre>הרפתקאות </genre>
+<genre> פנטזיה </genre>
+<genre> אנימציה </genre>
+<genre> משפחה</genre>
+    <year>2002</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//afPqMC9TDtLvCQ0aYCoSzxV4PsD.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//m6IJUn59uIJS2Jabl7thiYtKi8o.jpg">https://image.tmdb.org/t/p/original//m6IJUn59uIJS2Jabl7thiYtKi8o.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-06-04 11:57:11</dateadded>
+</movie>
+    

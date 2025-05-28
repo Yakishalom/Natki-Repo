@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>תעלול של טיול</title>
+    <originaltitle>Большое путешествие</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.017</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE
+[COLOR lightblue]2021-09-16 22:23:04[/COLOR]
+[COLOR blue]1080p 2019 נ.מדיה תעלול של טיול מדובב.mkv[/COLOR]
+1.39 GB
+הסיפור מתחיל כאשר חסידת הדואר המגושם, מביא בטעות גור פנדה לכתובת שגויה מכיוון שהתבלבל בין הכתובת של הפנדה ובין הכתובת של הדוב. כעת, הדוב שעושה תמיד את הדבר הנכון מחליט לארגן משלחת, כדי להשיב את גור הפנדה לביתו. שכנו הארנב חסר המנוחה, משכנע אותו לצרף אותו להרפתקה. בדרכם, הם פוגשים פליקן פטפטן, זאב מפוחד, נמר רומנטי ומתמודדים עם סכנות ואתגרים רבים, אך המשלוח יגיע ליעדו.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\תעלול של טיול</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\תעלול של טיול\תעלול של טיול.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\תעלול של טיול\תעלול של טיול.strm</basepath>
+    <uniqueid type="tmdb" default="true">533715</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> קומדיה </genre>
+<genre> הרפתקאות </genre>
+<genre> משפחה</genre>
+    <year>2019</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//vBCqhGKUCq71wiRBgre0zVZRaza.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//vFrcOINNiY1eBjmIDhG0rR25hDZ.jpg">https://image.tmdb.org/t/p/original//vFrcOINNiY1eBjmIDhG0rR25hDZ.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-09-16 22:23:04</dateadded>
+</movie>
+    

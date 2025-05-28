@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Alien Xmas</title>
+    <originaltitle>Alien Xmas [2020] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>595</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2020-12-16 11:31:29[/COLOR]
+A young elf mistakes a tiny alien for a Christmas gift, not knowing her new plaything has plans to destroy Earth's gravity — and steal all the presents.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\Alien Xmas</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\Alien Xmas\Alien Xmas.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\Alien Xmas\Alien Xmas.strm</basepath>
+    <uniqueid type="tmdb" default="true">656561</uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Family</genre>
+<genre>Fantasy</genre>
+    <year>2020</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//3UGrAX6D1AMVra80jmUMUOLq8Qr.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//x2lPPe2aH76uyYVhkVCtzTMYawC.jpg">http://image.tmdb.org/t/p/original//x2lPPe2aH76uyYVhkVCtzTMYawC.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-12-16 11:31:29</dateadded>
+</movie>
+    

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>טרזן 2</title>
+    <originaltitle>Tarzan II</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.053</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE
+[COLOR lightblue]2021-09-23 18:02:42[/COLOR]
+[COLOR blue]720p HDTV 2005 זירה מדיה טרזן 2 מדובב.mkv[/COLOR]
+0.96 GB
+טרזן הוא ילד שונה המנסה מאוד להשתלב בסביבה. כאשר אחד מתעלוליו חושף את משפחתו לסכנה, מחליט טרזן שמוטב להם להיות בלעדיו. הוא בורח ויוצא להרפתקה במהלכה יפגוש את זאגור המסתורי, הכוח החזק ביותר ביבשה. יחדיו מגלים טרזן וזאגור כי שוני הוא לא בהכרח חסרון וכי משפחה וחברים הם הכוח החזק מכולם.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טרזן 2</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טרזן 2\טרזן 2.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טרזן 2\טרזן 2.strm</basepath>
+    <uniqueid type="tmdb" default="true">15657</uniqueid>
+    
+    <genre>הרפתקאות </genre>
+<genre> אנימציה </genre>
+<genre> משפחה</genre>
+    <year>2005</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//v3MlS7pq8sLGY1UIBaQghvsmbZ8.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//A6kMrGNxDHtjoOiksUdwAv7FCY4.jpg">https://image.tmdb.org/t/p/original//A6kMrGNxDHtjoOiksUdwAv7FCY4.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-09-23 18:02:42</dateadded>
+</movie>
+    

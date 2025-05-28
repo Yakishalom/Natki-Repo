@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>כלב מי שמנגן 2: רוק מסביב לפארק</title>
+    <originaltitle>Rock Dog 2: Rock Around the Park</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.582</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2023-04-19 19:45:59
+TE,TE
+[COLOR lightblue]2018-09-21 01:05:09[/COLOR]
+[COLOR blue]כלב מי שמנגן.מדובב.גוזלן.mp4[/COLOR]
+0.7 GB
+בודי ולהקתו "כחול אמיתי", הפכו לסלבס בכפר שלהם בהרים המושלגים, וכן, יש להם אפילו מעריצים מושבעים! אך כאשר מפיק מוסיקה מקצועי נותן להם הזדמנות של פעם בחיים לצאת לסיבוב הופעות עם אלילת פופ, בודי וחבריו לומדים שיש מחיר לתהילה! ומגלים שרק אם אתה נאמן לעצמך את יכול לשחרר את הכוח שברוקנרול!TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\כלב מי שמנגן 2_ רוק מסביב לפארק</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\כלב מי שמנגן 2_ רוק מסביב לפארק\כלב מי שמנגן 2_ רוק מסביב לפארק.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\כלב מי שמנגן 2_ רוק מסביב לפארק\כלב מי שמנגן 2_ רוק מסביב לפארק.strm</basepath>
+    <uniqueid type="tmdb" default="true">812204</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> קומדיה </genre>
+<genre> מוסיקה </genre>
+<genre> משפחה</genre>
+    <year>2023</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//vRilTur8zvSzJj8ApkeQXMUwo4H.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//uljTV5en1IDNys7w7MLf5DAOTUD.jpg">https://image.tmdb.org/t/p/original//uljTV5en1IDNys7w7MLf5DAOTUD.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-04-19 19:45:59</dateadded>
+</movie>
+    

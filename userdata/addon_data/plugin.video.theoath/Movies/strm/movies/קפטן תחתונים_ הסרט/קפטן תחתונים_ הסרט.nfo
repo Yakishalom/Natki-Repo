@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>קפטן תחתונים: הסרט</title>
+    <originaltitle>Captain Underpants: The First Epic Movie</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.238</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2021-04-16 15:55:20
+ON,Dr,TE,TE,TE
+[COLOR lightblue]2018-06-02 20:32:27[/COLOR]
+[COLOR blue]קפטן תחתונים.מדובב.גוזלן.BDRip.avi[/COLOR]
+0.98 GB
+ג'ורג' בירד והרולד הצ'ינס הם שני ילדים שובבים בכיתה ג' הלומדים בבית הספר. הדבר היחיד שהם אוהבים יותר מתעלולים הוא לייצר חוברות קומיקס ויחד הם המציאו את גדול גיבורי העל בתולדות בית הספר היסודי – קפטן תחתונים. בהמשך הם מפיחים בו חיים כשהיפנטו את מנהל בית הספר שלהם, מר פיפיש, וגרמו לו לחשוב בטעות שהוא קפטן תחתוניםTEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קפטן תחתונים_ הסרט</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קפטן תחתונים_ הסרט\קפטן תחתונים_ הסרט.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קפטן תחתונים_ הסרט\קפטן תחתונים_ הסרט.strm</basepath>
+    <uniqueid type="tmdb" default="true">268531</uniqueid>
+    
+    <genre>אקשן </genre>
+<genre> אנימציה </genre>
+<genre> קומדיה </genre>
+<genre> משפחה</genre>
+    <year>2019</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//5WIqOODdtQ0KLjGfmsOMcvRq5UU.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//3MSrtN9M6V8te4XYWeaO2x8EesO.jpg">https://image.tmdb.org/t/p/original//3MSrtN9M6V8te4XYWeaO2x8EesO.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-04-16 15:55:20</dateadded>
+</movie>
+    

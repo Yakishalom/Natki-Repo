@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>עולמם הסודי של גמדי הגינה</title>
+    <originaltitle>Sherlock Gnomes</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.654</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE
+[COLOR lightblue]2023-05-08 19:34:41[/COLOR]
+[COLOR blue]720p 2018 נתי מדיה גמדי הגינה מדובב.mkv[/COLOR]
+1.43 GB
+גמדי הגינה נומיאו וג'ולייט מגייסים בלש ידוע, שרלוק נומס, לחקור את היעלמותם המסתורית של קישוטי גינה אחרים.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\עולמם הסודי של גמדי הגינה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\עולמם הסודי של גמדי הגינה\עולמם הסודי של גמדי הגינה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\עולמם הסודי של גמדי הגינה\עולמם הסודי של גמדי הגינה.strm</basepath>
+    <uniqueid type="tmdb" default="true">370567</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> משפחה </genre>
+<genre> פנטזיה </genre>
+<genre> קומדיה </genre>
+<genre> הרפתקאות </genre>
+<genre> מסתורין</genre>
+    <year>2018</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//qeUys5RcHdsjhH6G2DBavLevWHB.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//dmbD8FDr6DDdinGEs14HC2FmY2w.jpg">https://image.tmdb.org/t/p/original//dmbD8FDr6DDdinGEs14HC2FmY2w.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-05-08 19:34:41</dateadded>
+</movie>
+    

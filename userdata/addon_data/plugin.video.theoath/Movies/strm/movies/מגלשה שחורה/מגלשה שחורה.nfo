@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מגלשה שחורה</title>
+    <originaltitle>Black Slide</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2023-02-28 07:10:44[/COLOR]
+ </plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מגלשה שחורה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מגלשה שחורה\מגלשה שחורה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מגלשה שחורה\מגלשה שחורה.strm</basepath>
+    <uniqueid type="tmdb" default="true">885865</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>דרמה</genre>
+    <year>2021</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=7-rRl001rbs</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//n4Kma7oE9VOUDOlI4RUYehsf6eE.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//vmtuanupeFybEbJh6934RiV0924.jpg">http://image.tmdb.org/t/p/original//vmtuanupeFybEbJh6934RiV0924.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-02-28 07:10:44</dateadded>
+</movie>
+    

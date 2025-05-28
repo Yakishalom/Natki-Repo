@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>אטלנטיס 2: שובו של מילו</title>
+    <originaltitle>Atlantis: Milo's Return [Video 2003]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5</value>
+            <votes>6,829</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2019-02-6 11:28:43[/COLOR]
+סרט המשך לסרט ההפתקאות המצויר והמצליח של וולט דיסני. לאחר שמילו וחבריו הצליחו להציל את העיר התת-קרקעית וכל תושביה, הם נקלעים שוב לאקשן והרפתקאות נוספות. הקבוצה חייבת לעזוב את אטלנטיס ולחזור לפני השטח כדי להתמודד אל מול כוח מסתורי והרסני שמאיים על העיר האגדית.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אטלנטיס 2_ שובו של מילו</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אטלנטיס 2_ שובו של מילו\אטלנטיס 2_ שובו של מילו.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אטלנטיס 2_ שובו של מילו\אטלנטיס 2_ שובו של מילו.strm</basepath>
+    <uniqueid type="tmdb" default="true">8965</uniqueid>
+    
+    <genre>פנטזיה</genre>
+<genre>אנימציה</genre>
+<genre>מדע בדיוני</genre>
+<genre>משפחה</genre>
+<genre>אקשן</genre>
+    <year>2003</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=IXIQlVsTaYw</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//jnGcMr21vmgR82hjXOBLMgJx1hw.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//yPzmjdJnpG1Xy5V8GmJfqZHm0Cm.jpg">http://image.tmdb.org/t/p/original//yPzmjdJnpG1Xy5V8GmJfqZHm0Cm.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-02-06 11:28:43</dateadded>
+</movie>
+    

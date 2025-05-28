@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>דרגון בול זי: שובו של קולר</title>
+    <originaltitle>Dragon Ball Z: The Return of Cooler [1992] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7</value>
+            <votes>6,663</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2021-04-16 17:36:44[/COLOR]
+אחרי תבוסתו, השרידים של קולר משומשים על ידי חללית מחשב ענק כדי להחיות את קולר כאנדרואיד בשביל לעזור לו להשתלט על כוכבי לכת. לוחמי ה-זי יוצאים לכוכב נאמק החדש כאשר קולר מגיע לכבוש את הכוכב.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דרגון בול זי_ שובו של קולר</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דרגון בול זי_ שובו של קולר\דרגון בול זי_ שובו של קולר.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דרגון בול זי_ שובו של קולר\דרגון בול זי_ שובו של קולר.strm</basepath>
+    <uniqueid type="tmdb" default="true">39103</uniqueid>
+    
+    <genre>אקשן</genre>
+<genre>אנימציה</genre>
+<genre>מדע בדיוני</genre>
+    <year>1992</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=sGqAtYAkwDo</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//gZWXQjDLL6Fxqygbtq8LZaK8h1O.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//l1H7adqYhxBrBK45aKAzqm6nIVC.jpg">http://image.tmdb.org/t/p/original//l1H7adqYhxBrBK45aKAzqm6nIVC.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-04-16 17:36:44</dateadded>
+</movie>
+    

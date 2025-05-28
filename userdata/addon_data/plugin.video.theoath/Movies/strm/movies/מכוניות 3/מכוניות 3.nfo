@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מכוניות 3</title>
+    <originaltitle>Cars 3</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.854</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2021-07-15 20:17:20
+ON,TE,TE,TE
+[COLOR lightblue]2020-06-16 20:57:39[/COLOR]
+[COLOR blue]מכוניות 3.מדובב.גוזלן.DVDRip.avi[/COLOR]
+1.2 GB
+לאחר שנותר מאחורי מכוניות מהירות מהדור החדש, ספידי מקווין האגדי, לפתע מוצא את עצמו מחוץ לספורט שהוא כה אוהב. כדי לחזור חזרה למשחק, הוא יזדקק לעזרתה של טכנאית מרוצים צעירה ונלהבת בשם קרוז רמירז, אשר יש לה תכנית משלה איך לנצח את המרוץ. בנוסף, הוא מקבל השראה מהדסון הורנט המופלא ועוד כמה התפתחויות בלתי צפויות. על מנת להוכיח שכלום עוד לא נגמר, הוא יצטרך להוכיח את עצמו באליפות המרוצים הגדולה ביותר.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מכוניות 3</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מכוניות 3\מכוניות 3.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מכוניות 3\מכוניות 3.strm</basepath>
+    <uniqueid type="tmdb" default="true">260514</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> הרפתקאות </genre>
+<genre> קומדיה </genre>
+<genre> משפחה</genre>
+    <year>2017</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//jVdu1etc820WREA9UrqUSgTsvJQ.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//4mlS1MitcOqdPLhxEFyk9Qwf5rr.jpg">https://image.tmdb.org/t/p/original//4mlS1MitcOqdPLhxEFyk9Qwf5rr.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-07-15 20:17:20</dateadded>
+</movie>
+    

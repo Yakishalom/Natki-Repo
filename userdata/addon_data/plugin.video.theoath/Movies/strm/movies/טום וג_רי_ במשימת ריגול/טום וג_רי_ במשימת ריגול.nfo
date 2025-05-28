@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>טום וג'רי: במשימת ריגול</title>
+    <originaltitle>Tom and Jerry: Spy Quest [Video 2015]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-09-2 13:27:12[/COLOR]
+העכבר והחתול הכי מפורסמים ביקום בהרפתקאה חדשה ומטורפת יחד עם ג'וני קווסט וחבורתו במשימת ריגול משוגעת. כאשר ד'ר זן האויב המושבע של משפחת קווסט מגלה שאביו של ג'וני מחזיק במכשיר שיכול לפתור את בעיות האנרגיה העולמיות, הוא שולח את צבא החתולים המרושעים שלו.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טום וג_רי_ במשימת ריגול</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טום וג_רי_ במשימת ריגול\טום וג_רי_ במשימת ריגול.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טום וג_רי_ במשימת ריגול\טום וג_רי_ במשימת ריגול.strm</basepath>
+    <uniqueid type="tmdb" default="true">343977</uniqueid>
+    
+    <genre>קומדיה</genre>
+<genre>אנימציה</genre>
+<genre>משפחה</genre>
+    <year>2015</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=iu1jG_uiRdM</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//oNtT70s2hzuusjBzFYjV02jKOnR.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//2sW4XHnaKgxO0j000cHd4jAsg7n.jpg">http://image.tmdb.org/t/p/original//2sW4XHnaKgxO0j000cHd4jAsg7n.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-09-02 13:27:12</dateadded>
+</movie>
+    

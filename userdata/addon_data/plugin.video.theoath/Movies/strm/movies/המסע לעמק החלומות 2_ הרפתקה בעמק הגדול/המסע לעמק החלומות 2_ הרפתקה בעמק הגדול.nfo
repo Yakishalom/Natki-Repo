@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>המסע לעמק החלומות 2: הרפתקה בעמק הגדול</title>
+    <originaltitle>The Land Before Time II: The Great Valley Adventure</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2021-09-9 21:42:35[/COLOR]
+חמשת הדינוזאורים החביבים מחפשים הרפתקה בעמק החלומות שלהם. כשהם רואים שני גנבים מנסים לגנוב ביצה שטרם בקעה מאחד הקינים, הם רודפים אחרי הגנבים ומחזירים את הביצה ללא פגע ומבלי שההורים יגלו. אבל מבלי שהם שמים לב הם מניחים לשני יצורים מסוכנים לחדור אל עמק החלומות, עכשיו כולם צריכים להתאחד ולהלחם בהם יחד על מנת לשמור על העמק השקט.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\המסע לעמק החלומות 2_ הרפתקה בעמק הגדול</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\המסע לעמק החלומות 2_ הרפתקה בעמק הגדול\המסע לעמק החלומות 2_ הרפתקה בעמק הגדול.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\המסע לעמק החלומות 2_ הרפתקה בעמק הגדול\המסע לעמק החלומות 2_ הרפתקה בעמק הגדול.strm</basepath>
+    <uniqueid type="tmdb" default="true">15997</uniqueid>
+    
+    <genre>משפחה</genre>
+<genre>אנימציה</genre>
+<genre>הרפתקאות</genre>
+    <year>1994</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=H5g9yI7u9B4</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//1lIkU6gbqMx4oRDGegawLdQdLJD.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//8Db2ogq0e4UepMMxwqdv79YJMNq.jpg">http://image.tmdb.org/t/p/original//8Db2ogq0e4UepMMxwqdv79YJMNq.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-09-09 21:42:35</dateadded>
+</movie>
+    

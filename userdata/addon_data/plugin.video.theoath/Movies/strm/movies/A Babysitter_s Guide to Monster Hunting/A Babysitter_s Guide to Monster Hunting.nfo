@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>A Babysitter's Guide to Monster Hunting</title>
+    <originaltitle>A Babysitter's Guide to Monster Hunting [2020] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5</value>
+            <votes>2,545</votes>
+        </rating>
+    </ratings>
+    <plot>ON,ON
+[COLOR lightblue]2020-12-16 12:42:37[/COLOR]
+Recruited by a secret society of babysitters, a high schooler battles the Boogeyman and his monsters when they nab the boy she's watching on Halloween.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\A Babysitter_s Guide to Monster Hunting</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\A Babysitter_s Guide to Monster Hunting\A Babysitter_s Guide to Monster Hunting.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\A Babysitter_s Guide to Monster Hunting\A Babysitter_s Guide to Monster Hunting.strm</basepath>
+    <uniqueid type="tmdb" default="true">624963</uniqueid>
+    
+    <genre>Adventure</genre>
+<genre>Family</genre>
+<genre>Fantasy</genre>
+<genre>Comedy</genre>
+    <year>2020</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=MKR33fJ_yPw</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//bkld8Me0WiLWipLORRNfF1yIPHu.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//ezLKohe4HKsHQbwQwhv0ARo83NC.jpg">http://image.tmdb.org/t/p/original//ezLKohe4HKsHQbwQwhv0ARo83NC.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-12-16 12:42:37</dateadded>
+</movie>
+    

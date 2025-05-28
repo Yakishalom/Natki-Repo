@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>לילו וסטיץ' 2: הגליץ' של סטיץ'</title>
+    <originaltitle>Lilo & Stitch 2: Stitch Has a Glitch</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.618</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,TE,TE
+[COLOR lightblue]2023-05-21 14:09:02[/COLOR]
+[COLOR blue]1080p BluRay 2005 לילו וסטיץ' 2 מדובב.mkv[/COLOR]
+1.43 GB
+הסרט מתרחש בתקופה שבין הסרטים "לילו וסטיץ'" ו-"סטיץ'! הסרט". העלילה מוצאת את הפרחח החייזרי מתרגל לחיים עם המשפחה החדשה שלו. אבל, מהר מאוד מתגלה שלסטיץ', היצירה האולטימטיבית של דוקטור ג'מבה, יש תקלה בסופו של דבר, מה שמחזיר את היצר ההרסני שלו. עכשיו זה תלוי בלילו ובשאר החבורה לסדר את הדברים, ולהציל את סטיץ' מעצמו.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לילו וסטיץ_ 2_ הגליץ_ של סטיץ_</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לילו וסטיץ_ 2_ הגליץ_ של סטיץ_\לילו וסטיץ_ 2_ הגליץ_ של סטיץ_.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לילו וסטיץ_ 2_ הגליץ_ של סטיץ_\לילו וסטיץ_ 2_ הגליץ_ של סטיץ_.strm</basepath>
+    <uniqueid type="tmdb" default="true">20760</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> משפחה </genre>
+<genre> קומדיה </genre>
+<genre> מדע בדיוני</genre>
+    <year>2005</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//xy7GCgkqDRz1AbWKQDyVeebiIw.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//5blbwmFZekM3ffqxDoveupJck5C.jpg">https://image.tmdb.org/t/p/original//5blbwmFZekM3ffqxDoveupJck5C.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-05-21 14:09:02</dateadded>
+</movie>
+    

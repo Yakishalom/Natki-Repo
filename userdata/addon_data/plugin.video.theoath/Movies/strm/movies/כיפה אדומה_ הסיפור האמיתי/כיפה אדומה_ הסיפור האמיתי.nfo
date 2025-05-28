@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>כיפה אדומה: הסיפור האמיתי</title>
+    <originaltitle>Hoodwinked!</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.218</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE
+[COLOR lightblue]2021-11-14 20:49:43[/COLOR]
+[COLOR blue]2005_כיפה_אדומה_הסיפור_האמיתי_מדובב.mkv[/COLOR]
+1.39 GB
+אגדת כיפה אדומה עוברת עיבוד לכיוון הרשומוני. הכל מתחיל מהסוף בו כיפל'ה עומדת מול הזאב בבית של סבתה ואז קופצת הזקנה עם גרזן מתוך הארון והמסך הופך לשחור. או אז מתחילים הפלאשבקים והסיפור בונה את עצמו מתוך חקירתם של ארבעת המשתתפים על ידי המשטרה. "חוק וסדר" ביער האפל מאת הבמאי קורי אדווארדס.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\כיפה אדומה_ הסיפור האמיתי</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\כיפה אדומה_ הסיפור האמיתי\כיפה אדומה_ הסיפור האמיתי.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\כיפה אדומה_ הסיפור האמיתי\כיפה אדומה_ הסיפור האמיתי.strm</basepath>
+    <uniqueid type="tmdb" default="true">10982</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> קומדיה </genre>
+<genre> משפחה </genre>
+<genre> פשע</genre>
+    <year>2005</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//oLY6qI0gn7Xmu1Q6Y22LbvUjFvq.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//97i5zrV5Kmhi3NYJ7PzcfHmMNx8.jpg">https://image.tmdb.org/t/p/original//97i5zrV5Kmhi3NYJ7PzcfHmMNx8.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-11-14 20:49:43</dateadded>
+</movie>
+    

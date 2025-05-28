@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הקרודים 2: עידן חדש</title>
+    <originaltitle>The Croods: A New Age</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.521</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2021-11-21 22:43:40
+Dr,TE
+[COLOR lightblue]2017-04-21 16:39:30[/COLOR]
+[COLOR blue]לולו_סרטים_הקרודים_BDRip_מדובב.avi[/COLOR]
+0.68 GB
+הקרודים צריכים מקום חדש לגור בו. המשפחה הפרהיסטורית, ששרדה אסון גלובאלי ובריחה ממפלצות, יוצאת לעולם בחיפוש אחר מקום בטוח יותר לקרוא לו בית. כאשר הם מגלים גן עדן עלי אדמות מוקף חומה טבעית העונה על כל צרכיהם, הם חושבים שכל הבעיות שלהם נפתרו… למעט דבר אחד. משפחה אחרת כבר גרה שם.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הקרודים 2_ עידן חדש</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הקרודים 2_ עידן חדש\הקרודים 2_ עידן חדש.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הקרודים 2_ עידן חדש\הקרודים 2_ עידן חדש.strm</basepath>
+    <uniqueid type="tmdb" default="true">529203</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> משפחה </genre>
+<genre> הרפתקאות </genre>
+<genre> פנטזיה </genre>
+<genre> קומדיה</genre>
+    <year>2013</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//yttmY6acjZn9ArQv2qilJLA616I.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//ytTQoYkdpsgtfDWrNFCei8Mfbxu.jpg">https://image.tmdb.org/t/p/original//ytTQoYkdpsgtfDWrNFCei8Mfbxu.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-11-21 22:43:40</dateadded>
+</movie>
+    

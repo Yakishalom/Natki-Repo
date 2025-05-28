@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>פשוט לשיר</title>
+    <originaltitle>פשוט לשיר</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>10.0</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>TE
+[COLOR lightblue]2018-07-11 23:40:05[/COLOR]
+[COLOR blue]לשיר.מדובב.גוזלן.BDRip.avi[/COLOR]
+0.88 GB
+A detailed account of the Zini-Malkov story, being told by no other than themselves. A mockumentary that focuses on their relationship, success and creativity.  Underground Ben Zini teams up with the rising pop-star Taylor Malkov in order to perform the show of their lives.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פשוט לשיר</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פשוט לשיר\פשוט לשיר.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פשוט לשיר\פשוט לשיר.strm</basepath>
+    <uniqueid type="tmdb" default="true">679711</uniqueid>
+    
+    <genre>קומדיה </genre>
+<genre> מוסיקה </genre>
+<genre> משפחה </genre>
+<genre> רומנטי</genre>
+    <year>2019</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//k2lJmd7H8WZ5sb1qawPfSsl6yRh.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview=" "> </thumb>
+            
+    </fanart>
+    <dateadded>2018-07-11 23:40:05</dateadded>
+</movie>
+    

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>אחי הדוב 2</title>
+    <originaltitle>Brother Bear 2</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.647</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE
+[COLOR lightblue]2022-02-01 16:09:37[/COLOR]
+[COLOR blue]DVDRip 2006 נתי מדיה אחי הדוב 2.avi[/COLOR]
+0.69 GB
+סרט ההמשך של הלהיט אחי הדוב. הסרט מתמקד בקינאי הילד האינדיאני שהפך לדוב, כאשר הוא מטייל לאורך האוקיינוס השקט בסוף עידן הקרח. בזמן הרפתקאותיו, הוא חולם על חייו הקודמים, כשהיה אנושי והתחבר עם ילדה בשם ניטה, הבת של זקן שבט, חברות שנקטעה כאשר קינאי הפך לדוב.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אחי הדוב 2</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אחי הדוב 2\אחי הדוב 2.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אחי הדוב 2\אחי הדוב 2.strm</basepath>
+    <uniqueid type="tmdb" default="true">10010</uniqueid>
+    
+    <genre>הרפתקאות </genre>
+<genre> אנימציה </genre>
+<genre> משפחה</genre>
+    <year>2006</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//yaA8q2zHHUgFWdJNxXyAdU71SzM.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//dMqbyB5GQvDujXiKdKPhWT0VTRw.jpg">https://image.tmdb.org/t/p/original//dMqbyB5GQvDujXiKdKPhWT0VTRw.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-02-01 16:09:37</dateadded>
+</movie>
+    

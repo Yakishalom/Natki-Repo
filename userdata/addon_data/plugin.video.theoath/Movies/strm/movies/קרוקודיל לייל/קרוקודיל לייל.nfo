@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>קרוקודיל לייל</title>
+    <originaltitle>Lyle, Lyle, Crocodile</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2023-11-19 01:18:23[/COLOR]
+כאשר משפחת פרים עוברת לעיר ניו יורק, בנם הצעיר ג'וש מתקשה להסתגל לבית הספר החדש ולחבריו החדשים לספסל הלימודים. כל זה משתנה כאשר הוא מגלה בעליית הגג של ביתו החדש את לייל - תנין מזמר שאוהב אמבטיות, קוויאר ומוזיקה טובה. השניים נעשים במהרה חברים טובים, אך כאשר הקיום של לייל מאוים על ידי השכן מר גראמפס, משפחת פרים מתאחדת עם בעליו הכריזמטי של לייל, הקטור פ' ולנטי, כדי להוכיח לעולם שמשפחה יכולה להגיע מהמקומות הכי בלתי צפויים ושאין שום דבר רע בתנין מזמר גדול עם אישיות עוד יותר גדולה.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קרוקודיל לייל</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קרוקודיל לייל\קרוקודיל לייל.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קרוקודיל לייל\קרוקודיל לייל.strm</basepath>
+    <uniqueid type="tmdb" default="true">830784</uniqueid>
+    
+    <genre>קומדיה</genre>
+<genre>משפחה</genre>
+<genre>מוסיקה</genre>
+    <year>2022</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=kSHecHtkXAc</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//yGow5Uc7pqOulvxooppoUnqnqhU.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//eIeCUHk8q7smdd2KAiPBmceN7QS.jpg">http://image.tmdb.org/t/p/original//eIeCUHk8q7smdd2KAiPBmceN7QS.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-11-19 01:18:23</dateadded>
+</movie>
+    

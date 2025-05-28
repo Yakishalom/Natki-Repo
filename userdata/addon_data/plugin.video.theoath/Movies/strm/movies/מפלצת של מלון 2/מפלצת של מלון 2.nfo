@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מפלצת של מלון 2</title>
+    <originaltitle>Hotel Transylvania 2</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.79</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE
+[COLOR lightblue]2022-01-16 01:23:37[/COLOR]
+[COLOR blue]720p BluRay נ.מ מפלצת של מלון 2 מדובב.mkv[/COLOR]
+1.31 GB
+נראה שהכול השתנה לטובה במלון המפלצות-המדיניות הנוקשה של דרקולה, בנוגע לכניסה למפלצות בלבד למלון שלו, נרגעה סוף סוף והמלון פתח דלתות לאורחים אנושיים. אולם דרקולה מודאג מכך שנכדו המקסים חצי ערפד וחצי אנושי אינו מראה סימנים לכך שהוא יגדל להיות ערפד. בזמן שמייביס, בתו של דרקולה, עסוקה בלבקר את חמה וחמותה האנושיים ולהיכנס להלם תרבותי בעצמה, דרקולה מגייס את חבריו המפלצות על מנת להוציא מנכדו הצעיר את המפלצת שבו.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מפלצת של מלון 2</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מפלצת של מלון 2\מפלצת של מלון 2.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מפלצת של מלון 2\מפלצת של מלון 2.strm</basepath>
+    <uniqueid type="tmdb" default="true">159824</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> קומדיה </genre>
+<genre> משפחה </genre>
+<genre> פנטזיה</genre>
+    <year>2015</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//lBqktG7ZgWfV9NKYbG9zLtIi5sZ.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//ymHTXJabZagpXvXIR0litdXC8BT.jpg">https://image.tmdb.org/t/p/original//ymHTXJabZagpXvXIR0litdXC8BT.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-01-16 01:23:37</dateadded>
+</movie>
+    

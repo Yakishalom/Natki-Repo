@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מפרץ ההרפתקאות: גורי העל</title>
+    <originaltitle>PAW Patrol: Mighty Pups</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.53</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>Dr,TE
+[COLOR lightblue]2021-06-14 14:12:26[/COLOR]
+[COLOR blue]1080p WEB-DL 2018 ז.מ גורי העל מדובב.mkv[/COLOR]
+0.84 GB
+יחידת החילוץ מקבלת כוחות אדירים לאחר שמטאור מסתורי נוחת במפרץ ההרפתקאות. כשראש העיר המדינגר והאחיין שלו לוכדים את ריידר וגונבים את המטאור כדי להשתלט על העיר, הגורים חייבים לשתף פעולה ולהשתמש בכוחות החדשים שלהם כדי להציל את המצב.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מפרץ ההרפתקאות_ גורי העל</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מפרץ ההרפתקאות_ גורי העל\מפרץ ההרפתקאות_ גורי העל.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מפרץ ההרפתקאות_ גורי העל\מפרץ ההרפתקאות_ גורי העל.strm</basepath>
+    <uniqueid type="tmdb" default="true">552095</uniqueid>
+    
+    <genre></genre>
+    <year>2018</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//h09VT8gNfRBlr7S8l1lm27m4rus.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//AseABzwquvPFMpVQUDeDifYjLkF.jpg">https://image.tmdb.org/t/p/original//AseABzwquvPFMpVQUDeDifYjLkF.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-06-14 14:12:26</dateadded>
+</movie>
+    

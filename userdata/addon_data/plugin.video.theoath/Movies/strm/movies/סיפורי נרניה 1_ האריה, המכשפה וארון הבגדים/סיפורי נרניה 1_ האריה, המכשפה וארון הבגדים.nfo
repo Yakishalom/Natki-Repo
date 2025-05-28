@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>סיפורי נרניה 1: האריה, המכשפה וארון הבגדים</title>
+    <originaltitle>סיפורי נרניה 1: האריה, המכשפה וארון הבגדים</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes> </votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-09-3 06:50:16[/COLOR]
+ארבעת ילדי משפחת פבנסי מפונים מלונדון בימי הבליץ הגרמני על העיר. במהלך משחק מחבואים בביתו של פרופסור קירק מגלה לוסי, הצעירה שבהם, כי מאחורי ארון הבגדים ממתינה ממלכת נרניה השרויה בהקפאה עמוקה בעקבות קללתה של המכשפה הלבנה. ארבעת הילדים מסתקרנים לטייל בממלכה וללמוד על תושביה המופלאים. כאשר אדמונד מתפתה להבטחות המכשפה ונופל בשביה, רק האריה האמיץ אסלאן יוכל להצילו.</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סיפורי נרניה 1_ האריה, המכשפה וארון הבגדים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סיפורי נרניה 1_ האריה, המכשפה וארון הבגדים\סיפורי נרניה 1_ האריה, המכשפה וארון הבגדים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סיפורי נרניה 1_ האריה, המכשפה וארון הבגדים\סיפורי נרניה 1_ האריה, המכשפה וארון הבגדים.strm</basepath>
+    <uniqueid type="tmdb" default="true"> </uniqueid>
+    
+    <genre>Adventure</genre>
+<genre>Family</genre>
+<genre>Fantasy</genre>
+<genre>הרפתקאות</genre>
+<genre>משפחה</genre>
+<genre>פנטזיה</genre>
+    <year>2005</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//BmJv8PHR1FPCJWya6RbYXnoUSS.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//4ZwXJcUT3KdE8Kan9TJ7l0Rg5LG.jpg">http://image.tmdb.org/t/p/original//4ZwXJcUT3KdE8Kan9TJ7l0Rg5LG.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-09-03 06:50:16</dateadded>
+</movie>
+    

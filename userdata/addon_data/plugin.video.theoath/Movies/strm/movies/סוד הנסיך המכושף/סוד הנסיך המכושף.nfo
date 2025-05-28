@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>סוד הנסיך המכושף</title>
+    <originaltitle>Shchelkunchik i volshebnaya fleyta</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2023-11-19 08:31:30[/COLOR]
+לאחר שמשפחתה נקלעת לקשיים, מביעה מארי משאלה: לחזור להיות קטנה וחסרת דאגות. בדרך קסם, תקוותה מתגשמת! היא מתכווצת לגודלם של הצעצועים שבחדרה, בזמן שהם מתעוררים לחיים. המשאלה תפוג כעבור יממה, בתנאי שיישארו כולם יחד. אולם מסתבר, שחייל צעצוע, שקיבלה באותו הערב, איננו אלא נסיך בשם ג'ורג'. הוא וממלכתו כושפו, וכעת הוא נחוש לצאת לדרך, כדי להציל את עולמו ולהתאחד עם אביו המלך. כדי למנוע את התקבעות הכישוף, מארי מצטרפת אליו עם חבריה, הצעצועים הוותיקים, בובותיה לשעבר: יען אדום-מקור וראם בשם קארלי. החבורה מאחדת כוחות ויוצאת למסע הרפתקאות אל ארץ הפרחים הקסומה, כדי למצוא חליל קסום, בעזרתו יוכלו להציל את העולם משליטת הכישוף האפל. האם יתגברו על הפערים ביניהם וימצאו בתוכם את האומץ והכוח לעמוד על שלהם? מה עוד יופתעו למצוא בדרך, ואיך ישתנו חייהם לנצח?</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סוד הנסיך המכושף</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סוד הנסיך המכושף\סוד הנסיך המכושף.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סוד הנסיך המכושף\סוד הנסיך המכושף.strm</basepath>
+    <uniqueid type="tmdb" default="true">589759</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>משפחה</genre>
+<genre>פנטזיה</genre>
+    <year>2022</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=mo3t4aWZwPk</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//myW8WhgQrl2ZhLlNama5JeCuptB.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//cbA7F54R3CtgI3qUdbu1uB1rPEL.jpg">http://image.tmdb.org/t/p/original//cbA7F54R3CtgI3qUdbu1uB1rPEL.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-11-19 08:31:30</dateadded>
+</movie>
+    

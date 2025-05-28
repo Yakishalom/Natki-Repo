@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>איינבו ושומרי הג'ונגל</title>
+    <originaltitle>AINBO: Spirit of the Amazon</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.043</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>Dr,TE
+[COLOR lightblue]2023-04-17 21:45:14[/COLOR]
+[COLOR blue]720p HDTV 2021 זירה מדיה איינבו מדובב.mkv[/COLOR]
+1.48 GB
+איינבו נולדה וגדלה עמוק בתוך הג'ונגלים של האמזונס, יום אחד היא מגלה שביתה והג׳ונגל סביבו בסכנה. היא לא ילדה רגילה, יש לה יכולת לתקשר עם חיות הג'ונגל. יחד עם חבריה, "דילו" ארמדילו חמוד ומצחיק ו-"ואקה" טפיר נמרץ ומלא אהבה, היא יוצאת למסע הרפתקאות משעשע כדי להציל את האמזונס. בעזרת אימה וחבריה החיות, איינבו נחושה להציל את המצב ונאבקת כדי למנוע את ההרס ולהרחיק את בני האדם מהג'ונגלים בהם היא חיה, לפני שיהיה מאוחר מדי.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\איינבו ושומרי הג_ונגל</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\איינבו ושומרי הג_ונגל\איינבו ושומרי הג_ונגל.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\איינבו ושומרי הג_ונגל\איינבו ושומרי הג_ונגל.strm</basepath>
+    <uniqueid type="tmdb" default="true">588921</uniqueid>
+    
+    <genre>הרפתקאות </genre>
+<genre> אנימציה </genre>
+<genre> משפחה </genre>
+<genre> פנטזיה</genre>
+    <year>2021</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//iHJm2UCOzAGSWlozfZZSzIOiJuc.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//4y17GeEODYoOwWpgfTYNgm5tgPl.jpg">https://image.tmdb.org/t/p/original//4y17GeEODYoOwWpgfTYNgm5tgPl.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-04-17 21:45:14</dateadded>
+</movie>
+    

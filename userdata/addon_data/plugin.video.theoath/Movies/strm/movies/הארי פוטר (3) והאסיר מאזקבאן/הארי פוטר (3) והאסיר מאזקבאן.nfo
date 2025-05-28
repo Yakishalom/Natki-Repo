@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הארי פוטר (3) והאסיר מאזקבאן</title>
+    <originaltitle>הארי פוטר (3) והאסיר מאזקבאן </originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes> </votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-08-19 09:19:17[/COLOR]
+הארי פוטר [דניאל רדקליף] וחבריו רון [רופרט גרינט] והרמיוני [אמה ווטסון] חוזרים לשנה שלישית בהוגוורטס, בית הספר לכישוף ולקוסמות, שם הם נאלצים להתעמת עם הפחדים הכי אפלים שלהם, כשהם נתקלים באסיר שברח ובכוחות אסורים הנשלחים להגן עליהם. בתחילת הסרט, אנו מוצאים את הארי בן ה-13 מעביר באי רצון קיץ נוסף בחברת הדרסלי'ס, קרובי משפחתו המדכאים, ולדאבונו הרב 'מתנהג יפה' ונמנע מלעשות קסמים. כל זה נכון עד שמגיעה לביקור אחותו המפחידה של דוד ורנון, דודה מארג'. מאז ומתמיד לא היתה דודה מארג' חביבה במיוחד כלפי הארי והפעם היא דוחקת אותו לפינה כל כך חזק, עד שב'טעות' הוא גורם לה להתנפח כבלון מפלצתי ולהתעופף. מחשש לעונש מדודו ומדודתו [ומההשלכות של המעשה בהוגוורטס ובמשרד הקסמים, האוסרים להשתמש בכישופים בעולם 'הרגיל'], נמלט הארי אל תוך הלילה. כלי רכב סגול בעל שלושת המפלסים אוסף אותו במהירות ומביאו לפאב 'הקלחת הרותחת', שם הוא פוגש בשר הקסמים, קורניליוס פאדג', שבאורח מוזר אינו מעניש אותו על מעשה הכשפים שביצע ותחת זאת עומד על כך שיבלה את הלילה במקום לפני שהוא שם פעמיו חזרה להוגוורטס.</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הארי פוטר (3) והאסיר מאזקבאן</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הארי פוטר (3) והאסיר מאזקבאן\הארי פוטר (3) והאסיר מאזקבאן.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הארי פוטר (3) והאסיר מאזקבאן\הארי פוטר (3) והאסיר מאזקבאן.strm</basepath>
+    <uniqueid type="tmdb" default="true"> </uniqueid>
+    
+    <genre>Adventure</genre>
+<genre>Family</genre>
+<genre>Fantasy</genre>
+<genre>הרפתקאות</genre>
+<genre>פנטזיה</genre>
+<genre>משפחה</genre>
+    <year>2004</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//62Z5CCMISMs2OrcV5Z6dcCwzpDs.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//wWdlIBxn9xCmySxnSWtI2BjZZkF.jpg">http://image.tmdb.org/t/p/original//wWdlIBxn9xCmySxnSWtI2BjZZkF.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-08-19 09:19:17</dateadded>
+</movie>
+    

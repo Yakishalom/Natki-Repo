@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>להציל את חג המולד: חלק שני</title>
+    <originaltitle>The Christmas Chronicles: Part Two</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.484</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>TE
+[COLOR lightblue]2018-11-26 14:17:35[/COLOR]
+[COLOR blue]להציל את חג המולד.מדובב.גוזלן.720p.avi[/COLOR]
+0.76 GB
+קייט הפכה לנערה מתבגרת, והיא לא מרוצה ממערכת היחסים החדשה של אימה. היא מחליטה לברוח מהבית, נקלעת לקוטב הצפוני ופוגשת שדון מרושע שזומם לבטל את חג המולד.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\להציל את חג המולד_ חלק שני</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\להציל את חג המולד_ חלק שני\להציל את חג המולד_ חלק שני.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\להציל את חג המולד_ חלק שני\להציל את חג המולד_ חלק שני.strm</basepath>
+    <uniqueid type="tmdb" default="true">654028</uniqueid>
+    
+    <genre>משפחה </genre>
+<genre> פנטזיה </genre>
+<genre> הרפתקאות </genre>
+<genre> קומדיה</genre>
+    <year>2018</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//tr8t5wLPch2kRyFxzpzzlIZXcZ.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//mxVpkHclXPgWxo62SJ0a0YcUzgC.jpg">https://image.tmdb.org/t/p/original//mxVpkHclXPgWxo62SJ0a0YcUzgC.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-11-26 14:17:35</dateadded>
+</movie>
+    

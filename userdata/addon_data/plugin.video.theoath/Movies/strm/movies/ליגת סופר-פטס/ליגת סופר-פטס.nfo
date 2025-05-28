@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>ליגת סופר-פטס</title>
+    <originaltitle>DC League of Super-Pets</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2023-06-2 22:05:16[/COLOR]
+הכלב של סופרמן בעל כוחות העל, קריפטו, חובר לחבורה של חיות מחמד שקיבלו כוחות-על בטעות ועכשיו נדרשים להציל את העולם ואת חברי ליגת הצדק שנשבו בידי שרקנית המנסה להשליט סדר עולמי חדש.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ליגת סופר-פטס</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ליגת סופר-פטס\ליגת סופר-פטס.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ליגת סופר-פטס\ליגת סופר-פטס.strm</basepath>
+    <uniqueid type="tmdb" default="true">539681</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>אקשן</genre>
+<genre>משפחה</genre>
+<genre>קומדיה</genre>
+<genre>מדע בדיוני</genre>
+    <year>2022</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=1jkw2JPCl18</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//hyKNfD2CLBKtCyjhjeLj3oFMdBQ.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//mzFlwK2WN5KGCgEc4ExJmooJy97.jpg">http://image.tmdb.org/t/p/original//mzFlwK2WN5KGCgEc4ExJmooJy97.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-06-02 22:05:16</dateadded>
+</movie>
+    

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>דיג'ימון: הסרט</title>
+    <originaltitle>Digimon: The Movie</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.6</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,TE
+[COLOR lightblue]2020-12-23 20:45:18[/COLOR]
+[COLOR blue]HDTV נתי מדיה דיג'ימון הסרט מדובב.avi[/COLOR]
+0.36 GB
+וויליס ששמח לאחר תבוסתו של דיאבורמון נאלץ להתמודד מול אוייב ישן-חדש. דיאבורמון ברח ונכנס לתוך קוקמון, אחד מהדיג'ימונים שווילס קיבל לפני 13 שנים, הדיג'גורלים קארי וטיקיי נמצאים בחופשה בארה"ב, תוך כדי הם מוצאים את וויליס ורואים את וונדגימון ועוקבים אחי וויליס, הם מזמנים את דיוויס, קודי ויולי לקולורדו, בסופו של דבר הוירוס מחזיר את הזמן לאחור, 4 שנים אחורה, לזמן שבו הוירוס תקף את קוקומון, דיוויס ו-וויליס נשארו לבד עם הדיג'ימונים שלהם מול צ'רובימון, מחכים לישועה שתגיע מטי-קיי וקארי.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דיג_ימון_ הסרט</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דיג_ימון_ הסרט\דיג_ימון_ הסרט.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דיג_ימון_ הסרט\דיג_ימון_ הסרט.strm</basepath>
+    <uniqueid type="tmdb" default="true">20455</uniqueid>
+    
+    <genre>פנטזיה </genre>
+<genre> אנימציה </genre>
+<genre> מדע בדיוני </genre>
+<genre> משפחה</genre>
+    <year>2006</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//bNllTuIGSssLvu9NBWqBNw9k38P.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//1ZFUt0LtYkF568iCkRXCScgBP5g.jpg">https://image.tmdb.org/t/p/original//1ZFUt0LtYkF568iCkRXCScgBP5g.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-12-23 20:45:18</dateadded>
+</movie>
+    

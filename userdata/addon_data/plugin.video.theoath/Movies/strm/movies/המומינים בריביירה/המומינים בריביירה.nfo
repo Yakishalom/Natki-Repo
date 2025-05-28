@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>המומינים בריביירה</title>
+    <originaltitle>Moomins on the Riviera [2014] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>1,132</votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr
+[COLOR lightblue]2020-11-13 15:33:48[/COLOR]
+הדמויות האהובות שהתחילו את חייהן ברצועות קומיקס של המאיירת-סופרת השוודית-פינית - טובה ינסון, המשיכו כספרים שתורגמו ל-43 שפות, עברו דרך סדרות טלויזיה ומספר סרטים בעולם, ומוזיאון ופארק שעשועים בפינלנד, מגיעות סוף סוף לריביירה הצרפתית! אחרי מסע מפרך בים וביבשה, חבורת הטרולים האהובה מגיעה לחוף ימה של צרפת - לנופש בריביירה - בשלל בתי המלון, המסעדות, חופי הים והחיים הטובים שיש לה להציע. אך לא הכל ורוד על חוף הים - כל אחד מבני המשפחה סופג אחרת את השהות בנופש האקסקלוסיבי ואחדותם מופרת לראשונה. מה חשוב יותר - חוג הסילון או חיי המשפחה?</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\המומינים בריביירה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\המומינים בריביירה\המומינים בריביירה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\המומינים בריביירה\המומינים בריביירה.strm</basepath>
+    <uniqueid type="tmdb" default="true">293271</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>קומדיה</genre>
+<genre>משפחה</genre>
+    <year>2014</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=KXv8YdvgZ50</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//9PLDG5Y1XdQeFNVehFkkcWrFnYQ.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//cpr2UpGxwm7utpD2kqblqrLcWDo.jpg">http://image.tmdb.org/t/p/original//cpr2UpGxwm7utpD2kqblqrLcWDo.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-11-13 15:33:48</dateadded>
+</movie>
+    

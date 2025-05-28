@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>סטארגירל</title>
+    <originaltitle>Stargirl</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2022-06-23 18:25:21[/COLOR]
+סרט נוער מבית דיסני. נער מתעניין בסטודנטית מסתורית ומוזרה שמכנה את עצמה סטארגירל ומבלה את רוב זמנו בניסיון לדעת עליה כמה שיותר.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סטארגירל</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סטארגירל\סטארגירל.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סטארגירל\סטארגירל.strm</basepath>
+    <uniqueid type="tmdb" default="true">382748</uniqueid>
+    
+    <genre>קומדיה</genre>
+<genre>דרמה</genre>
+<genre>רומנטי</genre>
+<genre>משפחה</genre>
+    <year>2020</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=fE-e7v4bvxw</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//gwsrtzSrr7G6xjxsa7IwaAMHpEF.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//92pNwvXD2G4k9zSsquoM6vbKrHx.jpg">http://image.tmdb.org/t/p/original//92pNwvXD2G4k9zSsquoM6vbKrHx.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-06-23 18:25:21</dateadded>
+</movie>
+    

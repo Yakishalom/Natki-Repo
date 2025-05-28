@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>ברבי והנעליים הורודות</title>
+    <originaltitle>ברבי והנעליים הורודות</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes> </votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-08-30 07:15:32[/COLOR]
+ דרך 'ברבי והנעליים הורודות' אתם תוכלו לרקוד כל הדרך להרפתקה קסומה עם ברבי בשם קריסטין שהיא בלרינה עם חלומות גדולים! כשהיא מנסה זוג נעליים ורודות נוצצות, היא וחברתה הטובה ביותר, היילי, עוברות אל עולם בלט דמיוני. שם, קריסטין מגלה שהיא חייבת לרקוד בבלטים האהובים עליה כדי להביס את המלכה השלג הרעה.</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ברבי והנעליים הורודות</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ברבי והנעליים הורודות\ברבי והנעליים הורודות.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ברבי והנעליים הורודות\ברבי והנעליים הורודות.strm</basepath>
+    <uniqueid type="tmdb" default="true"> </uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Family</genre>
+<genre>אנימציה</genre>
+<genre>משפחה</genre>
+    <year>2013</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//c7R3O37hXg22auBnRGbYBTWc9RJ.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//eMcya0Hi6O8bDROyX2Kd4Ut394k.jpg">http://image.tmdb.org/t/p/original//eMcya0Hi6O8bDROyX2Kd4Ut394k.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-08-30 07:15:32</dateadded>
+</movie>
+    

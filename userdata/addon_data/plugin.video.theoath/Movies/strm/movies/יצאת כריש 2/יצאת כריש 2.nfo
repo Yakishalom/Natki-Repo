@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>יצאת כריש 2</title>
+    <originaltitle>The Reef 2: High Tide [2012]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>4</value>
+            <votes>717</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-04-5 11:32:37[/COLOR]
+פיי הדג יכול להילחם בכרישים, להטביע דיונונים או למעוך כל טורף אקראי שאי פעם יאיים או מאיים על חבריו ושכניו בשונית. למרבה הצער, להיות הגיבור היחידי בשונית יכול לגבות מחיר כבד, במיוחד כאשר קבוצת כרישים מצהירה שסופה של השונית קרב ובא....</plot>
+    <runtime>80</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\יצאת כריש 2</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\יצאת כריש 2\יצאת כריש 2.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\יצאת כריש 2\יצאת כריש 2.strm</basepath>
+    <uniqueid type="tmdb" default="true">132601</uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Family</genre>
+<genre>Musical</genre>
+<genre>אנימציה</genre>
+<genre>משפחה</genre>
+    <year>2012</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=M5-50unOy9Q</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//gJmDfwdoxLIG1kKfZ7EZRsAliIy.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//88FuAYyGsgBPdlzf6MuVPH6CaGs.jpg">http://image.tmdb.org/t/p/original//88FuAYyGsgBPdlzf6MuVPH6CaGs.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-04-05 11:32:37</dateadded>
+</movie>
+    

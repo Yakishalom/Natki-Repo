@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>קדימה</title>
+    <originaltitle>Onward</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.729</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE
+[COLOR lightblue]2020-10-20 17:05:54[/COLOR]
+[COLOR blue]1080p BluRay 2020 נתי מדיה קדימה מדובב.mkv[/COLOR]
+1.43 GB
+איאן הוא בן למשפחת אלפים, שמפחד להגשים את חלומותיו ולעמוד על שלו ונאלץ להתמודד עם אחיו הגדול והמביך חובב הקסמים ועם החיים ללא אביו שמת עוד לפני שהספיק באמת להכירו. ביום הולדתו ה-16 האחים מקבלים מאמם מתנה שאביהם הותיר להם – מטה קסמים עם יהלום בקצהו שמאפשר להם לבצע כישוף שיחזיר את אביהם ליום אחד. אך הקסם משתבש, היהלום נשבר, האב חוזר רק בחלקו התחתון והאחים יוצאים למסע להשלים את הכישוף ולבלות עם אביהם יום אחד אחרוןTEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קדימה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קדימה\קדימה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קדימה\קדימה.strm</basepath>
+    <uniqueid type="tmdb" default="true">508439</uniqueid>
+    
+    <genre>משפחה </genre>
+<genre> אנימציה </genre>
+<genre> הרפתקאות </genre>
+<genre> קומדיה </genre>
+<genre> פנטזיה</genre>
+    <year>2020</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//aNResXrvDx2tiX6rXQlSPjj8fFf.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//xFxk4vnirOtUxpOEWgA1MCRfy6J.jpg">https://image.tmdb.org/t/p/original//xFxk4vnirOtUxpOEWgA1MCRfy6J.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-10-20 17:05:54</dateadded>
+</movie>
+    

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>ניקולס</title>
+    <originaltitle>A Boy Called Christmas</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2022-01-12 08:54:12[/COLOR]
+ניקולס הנחוש יוצא למסע בעקבות אביו בארץ קסומה שמאוכלסת בשדונים, וזוכה להגשים את ייעודו – ולהביא את מתנת התקווה הביתה.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ניקולס</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ניקולס\ניקולס.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ניקולס\ניקולס.strm</basepath>
+    <uniqueid type="tmdb" default="true">615666</uniqueid>
+    
+    <genre>משפחה</genre>
+<genre>הרפתקאות</genre>
+<genre>פנטזיה</genre>
+    <year>2021</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=1EuLrGUk6pE</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//rBNOifFIT4IvUEJxRyIn4qEp60.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//odKqOY6VE6C59YAdGHB0b5Havye.jpg">http://image.tmdb.org/t/p/original//odKqOY6VE6C59YAdGHB0b5Havye.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-01-12 08:54:12</dateadded>
+</movie>
+    

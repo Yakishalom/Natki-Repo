@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>אליס בארץ הפלאות</title>
+    <originaltitle>Alice in Wonderland</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.187</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2023-12-23 19:56:55
+ON,Dr,TE,TE,TE,TE
+[COLOR lightblue]2021-02-08 19:19:13[/COLOR]
+[COLOR blue]אליס בארץ הפלאות.מדובב.גוזלן.720p.mp4[/COLOR]
+1.42 GB
+מבוסס על ספרו הקלאסי של לואיס קרול ומביא את מסעה הקסום של עליסה הקטנה, המטיילת בארץ הפלאות ועוברת חוויות מופלאות ביניהן מסיבת תה מוזרה, משחק קלפים מרתק, שדה של פרחים מדברים, שפן שממהר כל הזמן, משקה שמקטין ומגדיל אותה ועוד ועוד.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אליס בארץ הפלאות</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אליס בארץ הפלאות\אליס בארץ הפלאות.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אליס בארץ הפלאות\אליס בארץ הפלאות.strm</basepath>
+    <uniqueid type="tmdb" default="true">12092</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> משפחה </genre>
+<genre> פנטזיה </genre>
+<genre> הרפתקאות</genre>
+    <year>1972</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//ss9QANTEOIRNGWRCtCV0Uk1CJDX.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//hWbNlp9Qq9DdnHNxn2WlVpGbSfI.jpg">https://image.tmdb.org/t/p/original//hWbNlp9Qq9DdnHNxn2WlVpGbSfI.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-12-23 19:56:55</dateadded>
+</movie>
+    

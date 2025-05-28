@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>בייבי בוס</title>
+    <originaltitle>The Boss Baby [2017]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>64,346</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2017-12-25 07:08:52[/COLOR]
+אולפני דרימוורקס והבמאי של מדגסקר מזמינים אתכם לפגוש את התינוק הכי לא רגיל בעולם. הוא לובש חליפה, מדבר בקולו של אלק בולדווין ומככב בקומדיית האנימציה של דרימוורקס, בייבי בוס. בייבי בוס הוא סיפור קורע מצחוק המתאר איך משפיעה הגעתו של תינוק חדש על המשפחה, כשהוא מסופר מנקודת מבטו של מספר עם דמיון עשיר בן 7. בייבי בוס היא קומדיה לכל המשפחה עם מסר מחמם לב על חשיבותה של המשפחה.</plot>
+    <runtime>97</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בייבי בוס</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בייבי בוס\בייבי בוס.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בייבי בוס\בייבי בוס.strm</basepath>
+    <uniqueid type="tmdb" default="true">295693</uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Comedy</genre>
+<genre>Family</genre>
+<genre>אנימציה</genre>
+<genre>קומדיה</genre>
+<genre>משפחה</genre>
+    <year>2017</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=tquIfapGVqs</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//34mFQQCFfK6kneSuqfh6iOnKQ7v.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//8keMlLuzB9XIUBnbdEq5DCqZdHQ.jpg">http://image.tmdb.org/t/p/original//8keMlLuzB9XIUBnbdEq5DCqZdHQ.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2017-12-25 07:08:52</dateadded>
+</movie>
+    

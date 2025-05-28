@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הגרינץ'</title>
+    <originaltitle>The Grinch</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.83</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE
+[COLOR lightblue]2023-07-04 18:09:49[/COLOR]
+[COLOR blue]1080p 2018 נתי מדיה הגרינץ' מדובב.mkv[/COLOR]
+1.44 GB
+בעיירה הדמיונית מישהוויל, כל התושבים מתכוננים בהתרגשות לחג המולד. רק מר גרינץ' הידוע לשמצה, אשר מתגורר בבדידות באחוזתו שבקצה הכפר עם כלבו הנאמן מקס, זומם להרוס לכולם את החג ומחליט לגנוב לתושבים את החג! לרע מזלו, בעוד הגרינץ' עובר בבתי העיירה וגונב את מתנות התושבים והקישוטים הוא נתקל בילדה הקטנה סינדי-לו, אשר מרחיבה את ליבו בתמימותה ומזכירה לו כי ניתן לחגוג את החג גם ללא הקישוטים והמתנות ומה שחשוב הם האנשים סביבנו.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הגרינץ_</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הגרינץ_\הגרינץ_.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הגרינץ_\הגרינץ_.strm</basepath>
+    <uniqueid type="tmdb" default="true">360920</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> משפחה </genre>
+<genre> קומדיה </genre>
+<genre> פנטזיה</genre>
+    <year>2018</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//xhDSNTsMhGg0rZUdY8n96A2FTFi.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//5lWIYxYEqWi8j3ZloxXntw3ImBo.jpg">https://image.tmdb.org/t/p/original//5lWIYxYEqWi8j3ZloxXntw3ImBo.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-07-04 18:09:49</dateadded>
+</movie>
+    

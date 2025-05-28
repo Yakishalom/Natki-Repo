@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>לגו: ליגת הצדק משתלטת על גות'אם</title>
+    <originaltitle>Lego DC Comics Superheroes: Justice League - Gotham City Breakout [Video 2016]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>846</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2017-12-4 10:24:04[/COLOR]
+לחימה בפשע זו עבודה במשרה מלאה ובאטמן לעולם לא לוקח חופשה. בפעם האחת שהוא בכל זאת עושה את זה, הבלאגן חוגג. בגות'האם סיטי, ליגת הצדק נאלצת להיכנס לנעליים הגדולות של העטלף ומחוצה לה, באטמן מצטרף אל באטגירל ונייטווינג, למפגש עם כמה אויבים ישנים שהוא כמעט והתגעגע אליהם.</plot>
+    <runtime>78</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לגו_ ליגת הצדק משתלטת על גות_אם</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לגו_ ליגת הצדק משתלטת על גות_אם\לגו_ ליגת הצדק משתלטת על גות_אם.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לגו_ ליגת הצדק משתלטת על גות_אם\לגו_ ליגת הצדק משתלטת על גות_אם.strm</basepath>
+    <uniqueid type="tmdb" default="true">396330</uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Action</genre>
+<genre>Adventure</genre>
+<genre>משפחה</genre>
+<genre>הרפתקאות</genre>
+<genre>אנימציה</genre>
+<genre>אקשן</genre>
+    <year>2016</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=LyNSn4aUgjg</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//rsONvWVId7reQKbAtPtoPukAUF2.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//uYGYJZhMuElZiQSdo94QNtcJ2AP.jpg">http://image.tmdb.org/t/p/original//uYGYJZhMuElZiQSdo94QNtcJ2AP.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2017-12-04 10:24:04</dateadded>
+</movie>
+    

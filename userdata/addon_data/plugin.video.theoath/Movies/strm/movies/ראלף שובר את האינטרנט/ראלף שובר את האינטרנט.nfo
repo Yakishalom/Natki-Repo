@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>ראלף שובר את האינטרנט</title>
+    <originaltitle>Ralph Breaks the Internet</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.211</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>TE
+[COLOR lightblue]2022-02-01 15:39:21[/COLOR]
+[COLOR blue]1080p_ראלף_שובר_את_האינטרנט_מדובב.mkv[/COLOR]
+1.45 GB
+הפעם ראלף משאיר מאחור את מתחם משחקי המחשב של ליטבק ויוצא אל העולם הבלתי ידוע והמרתק של האינטרנט. ראלף- הנבל של משחק המחשב וחברתו התקולה ונלופי וון שוויץ חייבים לסכן את הכל על מנת לסייר במרחב הגדול של האינטרנט, בחיפוש אחר חלקי חילוף להצלת משחק המחשב של ונלופי, שוגר ראש. כשהם שקועים בצרות מעל הראש, ראלף וונלופי נשענים על אזרחי האינטרנט על מנת לנווט את דרכם ונעזרים בין היתר ב-"יססס", יזם האתרים ובעל האלגוריתם של האתר מכתיב הטרנדים- "באז- טיוב".TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ראלף שובר את האינטרנט</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ראלף שובר את האינטרנט\ראלף שובר את האינטרנט.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ראלף שובר את האינטרנט\ראלף שובר את האינטרנט.strm</basepath>
+    <uniqueid type="tmdb" default="true">404368</uniqueid>
+    
+    <genre>משפחה </genre>
+<genre> אנימציה </genre>
+<genre> קומדיה </genre>
+<genre> הרפתקאות</genre>
+    <year>2018</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//y9AzWhyvVxhGvL3GAqJ8z23THaV.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//qDQEQbgP3v7B9IYLAUcYexNrVYP.jpg">https://image.tmdb.org/t/p/original//qDQEQbgP3v7B9IYLAUcYexNrVYP.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-02-01 15:39:21</dateadded>
+</movie>
+    

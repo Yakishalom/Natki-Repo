@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>סרט לגו נינג'גו</title>
+    <originaltitle>The Lego Ninjago Movie</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.503</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2021-06-22 12:40:31
+ON,Dr,TE,TE,TE
+[COLOR lightblue]2018-08-01 09:08:38[/COLOR]
+[COLOR blue]לגו נינג'גו.מדובב.גוזלן.BDRip.avi[/COLOR]
+0.95 GB
+לויד וחבריו הם לוחמי נינג'ה חשאיים שנעזרים ברובוטים כדי להגן על עירם מפני לורד גארמדון המרושע – שבמקרה הוא גם אבא של לויד.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סרט לגו נינג_גו</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סרט לגו נינג_גו\סרט לגו נינג_גו.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סרט לגו נינג_גו\סרט לגו נינג_גו.strm</basepath>
+    <uniqueid type="tmdb" default="true">274862</uniqueid>
+    
+    <genre>משפחה </genre>
+<genre> אנימציה </genre>
+<genre> אקשן </genre>
+<genre> הרפתקאות </genre>
+<genre> קומדיה</genre>
+    <year>2016</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//m0joirqxB5HyC0LyDVSkUfgJv3N.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//3DPuzZmkBD9vbMpLvQcrymYoDBk.jpg">https://image.tmdb.org/t/p/original//3DPuzZmkBD9vbMpLvQcrymYoDBk.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-06-22 12:40:31</dateadded>
+</movie>
+    

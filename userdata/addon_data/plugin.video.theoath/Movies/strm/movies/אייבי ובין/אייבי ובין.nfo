@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>אייבי ובין</title>
+    <originaltitle>Ivy & Bean</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2022-10-13 18:03:37[/COLOR]
+בִּין מגלה שלשכנה שלה אייבי יש כישרון לקסמים, והן משלבות כוחות כדי להטיל כישוף שיגרום לאחותה הגדולה של בִּין לרקוד… תמיד!</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אייבי ובין</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אייבי ובין\אייבי ובין.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אייבי ובין\אייבי ובין.strm</basepath>
+    <uniqueid type="tmdb" default="true">862558</uniqueid>
+    
+    <genre>משפחה</genre>
+<genre>הרפתקאות</genre>
+<genre>קומדיה</genre>
+    <year>2022</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=E_k8wPa7lYk</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//gBN1mOd1tqmWGbj1O0QiS2e3CGt.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//wkDj5vVbMDgVqtLrv1FH8zQJQro.jpg">http://image.tmdb.org/t/p/original//wkDj5vVbMDgVqtLrv1FH8zQJQro.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-10-13 18:03:37</dateadded>
+</movie>
+    

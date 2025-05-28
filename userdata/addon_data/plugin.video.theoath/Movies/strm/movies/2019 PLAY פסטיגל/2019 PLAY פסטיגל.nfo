@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>2019 PLAY פסטיגל</title>
+    <originaltitle> 2019 PLAY פסטיגל</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes> </votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2019-09-21 12:43:13[/COLOR]
+ </plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\2019 PLAY פסטיגל</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\2019 PLAY פסטיגל\2019 PLAY פסטיגל.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\2019 PLAY פסטיגל\2019 PLAY פסטיגל.strm</basepath>
+    <uniqueid type="tmdb" default="true"> </uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>אקשן</genre>
+<genre>קומדיה</genre>
+<genre>משפחה</genre>
+    <year> </year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview=""> https://www.ligdol.co.il/Upload/pestigal19poster400.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://www.ligdol.co.il/Upload/pestigal19poster400.jpg">https://www.ligdol.co.il/Upload/pestigal19poster400.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-09-21 12:43:13</dateadded>
+</movie>
+    

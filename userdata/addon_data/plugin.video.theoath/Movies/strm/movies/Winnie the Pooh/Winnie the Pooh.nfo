@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Winnie the Pooh</title>
+    <originaltitle>Winnie the Pooh [2011] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7</value>
+            <votes>21,665</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2020-12-16 11:08:34[/COLOR]
+During an ordinary day in Hundred Acre Wood, Winnie the Pooh sets out to find some honey. Misinterpreting a note from Christopher Robin, Owl convinces Pooh, Tigger, Rabbit, Piglet, Kanga, Roo, and Eeyore that their young friend has been captured by a creature named 'Backson' and they set out to rescue him.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\Winnie the Pooh</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\Winnie the Pooh\Winnie the Pooh.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\Winnie the Pooh\Winnie the Pooh.strm</basepath>
+    <uniqueid type="tmdb" default="true">51162</uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Family</genre>
+    <year>2011</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=hRT86ZggCEk</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//wMZU69sPEP8dSNU0nMWVt7b54EQ.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//5lTe0toKgE7wfpCP6YuyWrXtKqU.jpg">http://image.tmdb.org/t/p/original//5lTe0toKgE7wfpCP6YuyWrXtKqU.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-12-16 11:08:34</dateadded>
+</movie>
+    

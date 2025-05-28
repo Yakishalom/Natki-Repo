@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>סיפורי שפת הנחל</title>
+    <originaltitle>Tales of the Riverbank</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.1</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>TE
+[COLOR lightblue]2018-12-10 12:20:07[/COLOR]
+[COLOR blue]סיפורי שפת הנחל.מדובב.גוזלן.avi[/COLOR]
+0.68 GB
+הסיפור הוא על שלושה חברים: האמי האוגר, רודריק העכברוש וג'י.פי גואינה השרקן, אשר ניסחפו במורד הנהר בסופה סוערת, מתחיל במסע גבורה בחיפוש אחר בתיהם האבודים. מסעם, המלא בתקריות קומיות וסכנה דרמטית, מעשה למסוכן אפילו יותר כשהם מגלים שכל גדת הנחל מאויימת על ידי מפעל לואפלים, מרמלדות וסופגניות, השייך לחתולים השמנים הרשעים, המזהם את אזורי הכפר בפליטה הולכת וגוברת.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סיפורי שפת הנחל</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סיפורי שפת הנחל\סיפורי שפת הנחל.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סיפורי שפת הנחל\סיפורי שפת הנחל.strm</basepath>
+    <uniqueid type="tmdb" default="true">38401</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> משפחה</genre>
+    <year>2008</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//uRiklV9G0S0p94vlvvQfoBUjcq8.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview=" "> </thumb>
+            
+    </fanart>
+    <dateadded>2018-12-10 12:20:07</dateadded>
+</movie>
+    

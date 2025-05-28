@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>ארטמיס פאול</title>
+    <originaltitle>Artemis Fowl</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2022-09-2 15:36:55[/COLOR]
+ארטמיס פאול, גאון בן 12 ונצר לשושלת מפוארת של פושעים מתוחכים נמצא במסע חיפושיו אחר אביו שנעלם במפתיע. בעזרת השומר הנאמן שלו, באטלר, ארטמיס יוצא למסע למציאת אביו אשר במהלכו מגלה ציוויליזציה תת קרקעית עתיקה - עולמן המתקדם של הפיות. ארטמיס מניח שהיעלמות אביו קשורה איכשהו בעולם הסודי והנסתר של הפיות והוגה תכנית מסוכנת. כה מסוכנת עד שהוא מוצא את עצמו במלחמת מוחות עם הפיות רבות העוצמה.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ארטמיס פאול</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ארטמיס פאול\ארטמיס פאול.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ארטמיס פאול\ארטמיס פאול.strm</basepath>
+    <uniqueid type="tmdb" default="true">475430</uniqueid>
+    
+    <genre>הרפתקאות</genre>
+<genre>פנטזיה</genre>
+<genre>מדע בדיוני</genre>
+<genre>משפחה</genre>
+<genre>אקשן</genre>
+    <year>2020</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=fl2r3Fwxz_o</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//9EJm1T4AUI6DgYTN07pgb9UnoXw.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//o0F8xAt8YuEm5mEZviX5pEFC12y.jpg">http://image.tmdb.org/t/p/original//o0F8xAt8YuEm5mEZviX5pEFC12y.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-09-02 15:36:55</dateadded>
+</movie>
+    

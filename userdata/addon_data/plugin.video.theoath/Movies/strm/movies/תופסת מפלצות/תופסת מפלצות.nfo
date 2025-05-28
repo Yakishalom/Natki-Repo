@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>תופסת מפלצות</title>
+    <originaltitle>A Yeti Adventure [2017] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5</value>
+            <votes>177</votes>
+        </rating>
+    </ratings>
+    <plot>2020-07-16 23:12:52
+ON,Dr
+[COLOR lightblue]2019-03-24 14:07:19[/COLOR]
+קוויבק, 1956. הגורל של נלי מלאוי, בלשית פרטית מתחילה, וסיימון פיקרד, מדען חוקר מצטלב כשהם נפגשים במקרה ויוצאים למסע מפוקפק כדי להוכיח את קיומו של היטי. יחד עם טנסינג, המדריך הצעיר שלהם, וג'סמין, ציפור מיינה דברנית, הגיבורים שלנו מתמודדים פנים מול פנים עם סכנות רבות לאורך המסע שלהם דרך רכס ההימליה.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\תופסת מפלצות</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\תופסת מפלצות\תופסת מפלצות.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\תופסת מפלצות\תופסת מפלצות.strm</basepath>
+    <uniqueid type="tmdb" default="true">490694</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>משפחה</genre>
+<genre>הרפתקאות</genre>
+    <year>2017</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//AjRGIy59ZGbWN2PxVRBkNgVvTYx.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//aPb1xCG2leRKwaEyeBaSD6RNdQV.jpg">http://image.tmdb.org/t/p/original//aPb1xCG2leRKwaEyeBaSD6RNdQV.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-07-16 23:12:52</dateadded>
+</movie>
+    

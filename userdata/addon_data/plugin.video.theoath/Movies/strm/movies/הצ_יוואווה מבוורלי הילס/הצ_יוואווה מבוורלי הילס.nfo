@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הצ'יוואווה מבוורלי הילס</title>
+    <originaltitle>Beverly Hills Chihuahua [2008]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>4</value>
+            <votes>19,231</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-04-4 17:37:37[/COLOR]
+כלבת צ'יוואווה מפונקת מבוורלי הילס, שהולכת לאיבוד, מוצאת את עצמה אבודה ברחובות מקסיקו, ללא הבוטיקים היוקרתיים ומועדוני הספא אליהם היא רגילה... לראשונה בחייה, היא צריכה לסמוך על כמה חברים חדשים ובלתי צפויים [ביניהם רועה גרמני קשוח בשם דלגדו, וכלבלב מאוהב בשם פאפי], שיעזרו לה למצוא את הכוח הפנימי שחבוי בה, במסע המדהים שלהם חזרה הביתה.</plot>
+    <runtime>91</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הצ_יוואווה מבוורלי הילס</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הצ_יוואווה מבוורלי הילס\הצ_יוואווה מבוורלי הילס.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הצ_יוואווה מבוורלי הילס\הצ_יוואווה מבוורלי הילס.strm</basepath>
+    <uniqueid type="tmdb" default="true">14405</uniqueid>
+    
+    <genre>Adventure</genre>
+<genre>Comedy</genre>
+<genre>Drama</genre>
+<genre>הרפתקאות</genre>
+<genre>קומדיה</genre>
+<genre>משפחה</genre>
+<genre>רומנטי</genre>
+    <year>2008</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=sXvSEVO1Heo</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//AobUflZnhTBpXGDUobxwBd9fnon.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//jHVdqAUCK9T1HHSKm6qXTAQGwXq.jpg">http://image.tmdb.org/t/p/original//jHVdqAUCK9T1HHSKm6qXTAQGwXq.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-04-04 17:37:37</dateadded>
+</movie>
+    

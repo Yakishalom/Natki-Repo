@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>עידן הקרח 3: עלייתם של הדינוזאורים</title>
+    <originaltitle>Ice Age: Dawn of the Dinosaurs</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.73</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2021-06-13 21:55:48
+ON,Dr,TE,TE,TE
+[COLOR lightblue]2018-07-05 00:52:20[/COLOR]
+[COLOR blue]NF נתי מדיה עידן הקרח 3 מדובב.avi[/COLOR]
+0.67 GB
+החיים מתחילים לחזור לשגרה אחרי הסופה האחרונה שפקדה את העמק. מני ואלי עומדים להפוך בקרוב להורים. מני מחליט שהגיע הזמן להתבגר ולדאוג למשפחה החדשה שלו. סיד מקנא במני ומחליט שהגיע הזמן שגם הוא יהיה אבא. הוא מאמץ ביצה נשוטה שמתגלה כלא אחרת מאשר ביצת דינוזאור ונשאב יחד עם הביצה אל תוך העולם האפל של היצורים המפחידים. למזלו החברים שלו לא יוותרו עליו כל כך מהר. הם יוצאים להרפתקה בתקווה שיכלו למצוא את סיד ולהחזירו הביתה בשלום.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\עידן הקרח 3_ עלייתם של הדינוזאורים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\עידן הקרח 3_ עלייתם של הדינוזאורים\עידן הקרח 3_ עלייתם של הדינוזאורים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\עידן הקרח 3_ עלייתם של הדינוזאורים\עידן הקרח 3_ עלייתם של הדינוזאורים.strm</basepath>
+    <uniqueid type="tmdb" default="true">8355</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> קומדיה </genre>
+<genre> משפחה </genre>
+<genre> הרפתקאות</genre>
+    <year>2009</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//y6y9DYiOCTzjpWofpbbKifkSgGZ.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//gkxSIlZPEwGPimQ8TEE8C52cOSO.jpg">https://image.tmdb.org/t/p/original//gkxSIlZPEwGPimQ8TEE8C52cOSO.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-06-13 21:55:48</dateadded>
+</movie>
+    

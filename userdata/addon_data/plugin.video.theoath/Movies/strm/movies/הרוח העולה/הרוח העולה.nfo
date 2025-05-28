@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הרוח העולה</title>
+    <originaltitle>Kaze tachinu</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr
+[COLOR lightblue]2021-09-11 05:59:24[/COLOR]
+לג'ירו הוריקושי הילד יש חלום להיות טייס, הוא לומד בשקדנות ממגזין באנגלית עם מילון צמוד, עד שבחלומו הוא נתקל בקפרוני, מעצב מטוסים איטלקי המופתע למצוא את ג'ירו בחלום שלו עצמו. בילדותו התגלה קוצר הראייה שלו ולכן לא היה יכול להפוך לטייס. הוא מצטרף בשנת 1927 לחברת אנימציה יפנית גדולה ומהר מאד מתגלית גאונותו והוא הופך לאחד ממתכנני המטוסים הבולטים ביותר בעולם. הסרט עוקב אחר חייו של גי'רו ומתייחס לאירועים היסטוריים שהייתה להם השפעה על מהלך חייו. רעידת האדמה הגדולה בקנטו בשנת 1923, שנות השפל הכלכלי הגדול, מגפת השחפת וההצטרפות של יפן למלחמה. הוא פוגש ומתאהב בנהוקו, מפתח ידידות עמוקה וחשובה עם חבור הונגו ומפתח מטוסים מיוחדים המצעידים את עולם התעופה אל העתיד.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הרוח העולה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הרוח העולה\הרוח העולה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הרוח העולה\הרוח העולה.strm</basepath>
+    <uniqueid type="tmdb" default="true">149870</uniqueid>
+    
+    <genre>משפחה</genre>
+<genre>דרמה</genre>
+<genre>אנימציה</genre>
+<genre>מלחמה</genre>
+<genre>הסטוריה</genre>
+<genre>רומנטי</genre>
+    <year>2013</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=PhHoCnRg1Yw</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//RyosyYVvQL2fYBPl7hCLL6XyMC.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//xAEg9S4RcLknP5deUwOSpciTUbm.jpg">http://image.tmdb.org/t/p/original//xAEg9S4RcLknP5deUwOSpciTUbm.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-09-11 05:59:24</dateadded>
+</movie>
+    

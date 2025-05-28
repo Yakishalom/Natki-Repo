@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>100% זאב</title>
+    <originaltitle>100% Wolf</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.962</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>Dr,TE
+[COLOR lightblue]2023-03-27 00:01:01[/COLOR]
+[COLOR blue]1080p BluRay 2020 ז.מ 100% זאב מדובב.mkv[/COLOR]
+1.36 GB
+סיפורו של פרדי לופין, יורש העצר למשפחת אנשי זאב גאים.  נואש להפוך להיות איש זאב בעצמו, פרדי מופתע כאשר ליום הולדתו ה-13 במה שאמור להיות הטרנספורמציה הראשונה שלו הכול מסתבך, במקום מהפך לזאב אכזרי הוא הופך ל... כלב פודל. בדיוק שפרדי חושב שהמצב לא יכול להיות גרוע יותר הוא עובר נגד רצונו טיפול יופי, נזרק לרחוב ומושלך לכלא כלבים. האם פרדי וחברתו החדשה בטי, שיודעת ומכירה את החיים ברחוב, יצליחו להימלט? מי הוא האיש המרושע אשר עוקב אחריו? למרות החיצוניות הורודה, המפונפנת והחמודה שלו, האם פרדי יוכל להוכיח לכולם שהוא 100% זאב?TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\100% זאב</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\100% זאב\100% זאב.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\100% זאב\100% זאב.strm</basepath>
+    <uniqueid type="tmdb" default="true">520946</uniqueid>
+    
+    <genre></genre>
+    <year>2020</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//t1EdJdPPRNR7NZP2nOWn8sAvALy.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//7TxeZVg2evMG42p0uSbMJpWNQ8A.jpg">https://image.tmdb.org/t/p/original//7TxeZVg2evMG42p0uSbMJpWNQ8A.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-03-27 00:01:01</dateadded>
+</movie>
+    

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>סיפורי נרניה: המסע בדורך השחר</title>
+    <originaltitle>The Chronicles of Narnia: The Voyage of the Dawn Treader</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.427</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>TE
+[COLOR lightblue]2020-06-16 21:00:44[/COLOR]
+[COLOR blue]סיפורי נרניה 3.מדובב.גוזלן.avi[/COLOR]
+1.4 GB
+הדמויות שבתמונה החלו לנוע לפתע. הגלים געשו, חרטום האונייה עלה וירד, והקצף הכה בפניהם של אדמונד, לוסי ויוסטס. לא עבר רגע והשלושה מצאו את עצמם על סיפונה של האונייה המלכותית "דורך השחר", שם הם פגשו את כספיאן, מלכה הצעיר של נרניה, ואת האביר הנועז, העכבר ריפיצ'יפ. יחד הם יוצאים למסע בעקבות שבעת הלורדים שגורשו מנרניה על ידי המלך מירז האכזר. הרפתקאות מופלאות מחכות להם בלב ים, שעה שהם מפליגים הרחק אל האיים הנידחים שבמזרח, ומעבר להם אל המקום שבו לא ביקר איש לפניהם, אל ממלכתו של האריה האגדי אסלן, שבסוף העולם.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סיפורי נרניה_ המסע בדורך השחר</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סיפורי נרניה_ המסע בדורך השחר\סיפורי נרניה_ המסע בדורך השחר.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סיפורי נרניה_ המסע בדורך השחר\סיפורי נרניה_ המסע בדורך השחר.strm</basepath>
+    <uniqueid type="tmdb" default="true">10140</uniqueid>
+    
+    <genre>הרפתקאות </genre>
+<genre> משפחה </genre>
+<genre> פנטזיה</genre>
+    <year>2010</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//kGk15tSK3nPruITQZhoU451g9WN.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//8LSl2BPsRmookhO0UITB6PStZJX.jpg">https://image.tmdb.org/t/p/original//8LSl2BPsRmookhO0UITB6PStZJX.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-06-16 21:00:44</dateadded>
+</movie>
+    

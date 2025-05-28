@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הדבורה מאיה הסרט</title>
+    <originaltitle>Maya the Bee Movie [2014]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>1,367</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2017-12-25 09:02:07[/COLOR]
+הדבורה מאיה, שזה עתה בקעה מהביצה, לא רוצה למלא אחרי חוקי הכוורת. במיוחד אחר החוק שאוסר להתרועע עם הצרעות אשר גרות מעבר לאחו. כאשר נגנב הדבש המלכותי, החשודים המידיים הן הצרעות ומאיה, שמואשמת בעזרה להן. אף אחד לא מאמין שהיא קורבן חף מפשע ואף דבורה לא עומדת לצידה, למעט חברה טוב הלב והנאמן ווילי. אחרי מסע ארוך ומלא הרפתקאות לכוורת הצרעות, מאיה וווילי מגלים מיהו האשם האמיתי.</plot>
+    <runtime>89</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הדבורה מאיה הסרט</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הדבורה מאיה הסרט\הדבורה מאיה הסרט.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הדבורה מאיה הסרט\הדבורה מאיה הסרט.strm</basepath>
+    <uniqueid type="tmdb" default="true">261103</uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Adventure</genre>
+<genre>Comedy</genre>
+<genre>משפחה</genre>
+<genre>אנימציה</genre>
+    <year>2014</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=mSNrUGsxRYM</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//4rKVLiTNDhUA9EIeFryIuYo6oNy.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//gTHuNNqF3r2GLm34Ojd3ZXpq2IW.jpg">http://image.tmdb.org/t/p/original//gTHuNNqF3r2GLm34Ojd3ZXpq2IW.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2017-12-25 09:02:07</dateadded>
+</movie>
+    

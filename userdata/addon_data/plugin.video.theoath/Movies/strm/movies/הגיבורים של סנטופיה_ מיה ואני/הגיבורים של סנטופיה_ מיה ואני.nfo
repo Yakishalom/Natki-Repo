@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הגיבורים של סנטופיה: מיה ואני</title>
+    <originaltitle>Mia and Me: The Hero of Centopia</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2024-01-8 20:09:22[/COLOR]
+ספר אגדות עתיק אודות ממלכת סנטופיה הקסומה, בה שדונים, גמדים, חדי קרן ודרקונים, הוא האהוב על מיה, נערה צעירה, המתמודדת עם קשיי הסתגלות ובדידות. חייה משתנים, כאשר היא מגלה, שבזכות פיתוח טכנולוגי של אביה, היא יכולה להיכנס אל תוך הספר, כאחת הדמויות הראשיות בו! בממלכת סנטופיה היא לא ילדה רגילה אלא פיה קסומה ואהודה בעלת יכולות ייחודיות. בזמן שהיא לומדת את מלוא יכולותיה בדמותה החדשה ונהנית מפלאי העולם הצבעוני, מתגלה מזימה מרושעת של נבל מקומי, הרוצה לשעבד את היצורים הקסומים ולשלוט על המקום. הדרך היחידה לעצור אותו היא באמצעות חד קרן מחולל סופות, שנמצא באיים הרחוקים ביותר של הממלכה. מיה יוצאת למסע אמיץ עם חבריה, הנסיך מו והלוחם הנחוש יוקו, כדי למצוא אותו, ולהציל את העולם הקסום ואת חבריה החדשים. בדרך היא מגלה את הכוחות החבויים בה, בזמן שחוכמתה וכישוריה יבואו לידי ביטוי.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הגיבורים של סנטופיה_ מיה ואני</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הגיבורים של סנטופיה_ מיה ואני\הגיבורים של סנטופיה_ מיה ואני.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הגיבורים של סנטופיה_ מיה ואני\הגיבורים של סנטופיה_ מיה ואני.strm</basepath>
+    <uniqueid type="tmdb" default="true">955644</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>פנטזיה</genre>
+<genre>הרפתקאות</genre>
+    <year>2022</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=2-reTVlqsJo</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//mL1IARn9G9GKMXG45emwYJVUnIp.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//4R9V7ez1g8zlWr1zyL06Evf32hY.jpg">http://image.tmdb.org/t/p/original//4R9V7ez1g8zlWr1zyL06Evf32hY.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2024-01-08 20:09:22</dateadded>
+</movie>
+    

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>היפה והחיה 2: חורף קסום</title>
+    <originaltitle>Beauty and the Beast: The Enchanted Christmas [Video 1997]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>7,430</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-04-4 16:43:23[/COLOR]
+בואו לחגוג את הזמן הקסום ביותר בשנה עם קלאסיקת חג מולד שלא ניתן לעמוד בפניה, בהשראת יצירת המופת זוכת האוסקר של דיסני, היפה והחיה. חוו יחד את הפלא, כאשר גב' פוטס מספרת עוד 'סיפור ישן נושן' אודות מעשה שהיה בחג המולד - הודות לפורטה, מלחין החצר לשעבר, כיום אורגן צינורות עגמומי, שונא חגים, הנחוש בדעתו להפריד בין בל לחיה לנצח. רק נס אמיתי של חג המולד יוכל לסכל את תכניותיו המרושעות.</plot>
+    <runtime>72</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\היפה והחיה 2_ חורף קסום</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\היפה והחיה 2_ חורף קסום\היפה והחיה 2_ חורף קסום.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\היפה והחיה 2_ חורף קסום\היפה והחיה 2_ חורף קסום.strm</basepath>
+    <uniqueid type="tmdb" default="true">13313</uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Family</genre>
+<genre>Fantasy</genre>
+<genre>אנימציה</genre>
+<genre>משפחה</genre>
+    <year>1997</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ZnPzWNLJ_n0</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//kxLcqby8HOHiw1sD3zBbyaPkwPr.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//qFTBlXymnRQTwL1fpL1Svdictx9.jpg">http://image.tmdb.org/t/p/original//qFTBlXymnRQTwL1fpL1Svdictx9.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-04-04 16:43:23</dateadded>
+</movie>
+    

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>ראמבל</title>
+    <originaltitle>Rumble</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.9</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>Dr,TE
+[COLOR lightblue]2023-07-11 14:43:45[/COLOR]
+[COLOR blue]1080p WEB-DL 2021 זירה מדיה ראמבל מדובב.mkv[/COLOR]
+1.48 GB
+בעולם בו היאבקות מפלצות הוא ספורט בינלאומי ומפלצות הן במעמד של ספורטאי על, וויני הצעירה חולמת ללכת בעקבות אביה ולאמן מפלצת חביבה בתקווה להפוך אותה מחסרת סיכוי לאלופה.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ראמבל</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ראמבל\ראמבל.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ראמבל\ראמבל.strm</basepath>
+    <uniqueid type="tmdb" default="true">598331</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> משפחה</genre>
+    <year>2021</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//r1lAKQGPDZym1gpQ7VRp5v9Q0B0.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//7tRjWRiXUXwKUgDYHnRVPKvdK60.jpg">https://image.tmdb.org/t/p/original//7tRjWRiXUXwKUgDYHnRVPKvdK60.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-07-11 14:43:45</dateadded>
+</movie>
+    

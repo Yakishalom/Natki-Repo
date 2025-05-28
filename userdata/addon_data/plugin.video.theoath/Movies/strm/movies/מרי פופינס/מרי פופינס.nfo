@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מרי פופינס</title>
+    <originaltitle>Mary Poppins</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.567</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>TE
+[COLOR lightblue]2018-12-02 16:56:13[/COLOR]
+[COLOR blue]מרי פופינס.1964.מדובב.גוזלן.mp4[/COLOR]
+0.7 GB
+הצטרפו להרפתקה שריתקה מליוני צופים ברחבי העולם יחד עם מרי, ברט וילדי משפחת בנקס. להורים של ג'ין ומייקל נמאס מהאומנת של הילדים, וכשהם מחליטים למצוא אומנת חדשה, מרי פופינס מגיעה, כמו חלום משמיים, ומביאה איתה קסם, הרפתקאות וכיף שניתן לתארו במילה אחת: סופרקליפרייג'ליסטיקאספיאלידושס!TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מרי פופינס</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מרי פופינס\מרי פופינס.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מרי פופינס\מרי פופינס.strm</basepath>
+    <uniqueid type="tmdb" default="true">433</uniqueid>
+    
+    <genre>קומדיה </genre>
+<genre> משפחה </genre>
+<genre> פנטזיה</genre>
+    <year>1964</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//3WVWhlDdWdIAy9ZQGwIJlUjTKB.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//prVH6SyQ6yDmzVxxkcr57zhLM5C.jpg">https://image.tmdb.org/t/p/original//prVH6SyQ6yDmzVxxkcr57zhLM5C.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-12-02 16:56:13</dateadded>
+</movie>
+    

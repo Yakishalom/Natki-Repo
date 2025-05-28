@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>חתולים בצמרת</title>
+    <originaltitle>The Aristocats</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.291</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>TE
+[COLOR lightblue]2017-06-18 18:35:04[/COLOR]
+[COLOR blue]חתולים בצמרת - מדובב.avi[/COLOR]
+0.67 GB
+משפחת חתולים, האם דוכסית ושלושת גוריה ברליוז, טולוז, ומרי אומצה וגדלה בביתה של גברת פריזאית עשירה. הם מתפנקים בבית מפואר ונהנים מכל טוב. הם אפילו מיועדים להיות יורשיה החוקיים של גבירתם, אך כאן מתחילות הצרות. כאשר נודע לאדגר, משרתה האישי של הגברת, כי הירושה עומדת לעבור לחתולים, הוא מתמלא זעם וקנאה ומחליט לחסל אותם. הוא מצליח להשליכם מהבית ומכאן מתחילות הרפתקאות חדשות. החתולים לומדים על מלחמת הקיום, על העולם שמחוץ לבית, מתיידדים עם חתולי רחוב ועוברים הרפתקאות שונות עד לסוף הטוב!TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\חתולים בצמרת</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\חתולים בצמרת\חתולים בצמרת.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\חתולים בצמרת\חתולים בצמרת.strm</basepath>
+    <uniqueid type="tmdb" default="true">10112</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> קומדיה </genre>
+<genre> משפחה </genre>
+<genre> הרפתקאות</genre>
+    <year>1970</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//hnt1vjQDkE5TJj1QYPUQFgAShYt.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//dH0bFzcpDcmCeGvSOGerolxHIkF.jpg">https://image.tmdb.org/t/p/original//dH0bFzcpDcmCeGvSOGerolxHIkF.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2017-06-18 18:35:04</dateadded>
+</movie>
+    

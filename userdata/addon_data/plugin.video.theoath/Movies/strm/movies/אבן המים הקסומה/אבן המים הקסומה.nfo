@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>אבן המים הקסומה</title>
+    <originaltitle>Latte Igel und der magische Wasserstein</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.693</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>Dr,TE
+[COLOR lightblue]2023-04-17 21:45:04[/COLOR]
+[COLOR blue]720p HDTV 2019  אבן המים הקסומה מדובב.mkv[/COLOR]
+1.47 GB
+לאטה היא קיפודה צעירה ואנרגטית, בעלת דמיון מפותח מאוד ובטחון עצמי מופרז – בעיקר בסיפורים, שהיא מספרת לעצמה ולאחרים. יום אחד נפוצה השמועה, שאבן המים הקסומה של היער נגנבה על ידי מלך הדובים המרושע, ובלעדיה תתייבש הבאר של היער. לאטה מתנדבת מייד לצאת למסע מאתגר להשיב את האבן, ויחד עם חברה הסנאי, הם יוצאים לראשונה מביתם אל הלא נודע.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אבן המים הקסומה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אבן המים הקסומה\אבן המים הקסומה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אבן המים הקסומה\אבן המים הקסומה.strm</basepath>
+    <uniqueid type="tmdb" default="true">586954</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> הרפתקאות </genre>
+<genre> משפחה </genre>
+<genre> קומדיה</genre>
+    <year>2019</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//lQKdX1EQlrYljY8IwXwCvXnN5rd.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//poKtpiQ0akacXzXohWmtb0Z7nFD.jpg">https://image.tmdb.org/t/p/original//poKtpiQ0akacXzXohWmtb0Z7nFD.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-04-17 21:45:04</dateadded>
+</movie>
+    

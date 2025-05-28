@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>לשבור את הקסם: מלכת השלג</title>
+    <originaltitle>Снежная Королева: Зазеркалье</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.8</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2019-12-8 07:09:20
+Dr,TE
+[COLOR lightblue]2019-10-30 18:50:55[/COLOR]
+[COLOR blue]מלכת השלג 4 מדובב מצוירים.mp4[/COLOR]
+1.2 GB
+מלך אשר כמעט ואיבד את משפחתו בגלל מעשיה של מלכת השלג מוצא דרך להעלים את כל הקסם מהעולם - כל בעלי כוחות הקסם נשלחים לארצות המראה. היחידה שיכולה לעצור אותו ולהשאיר את הקסם והאגדות בעולמנו היא גרדה - שכן כוחה הגדול ביותר נמצא במעשיה הטובים ובחברות ולא בקסמים. בהרפתקה החדשה של גרדה, יעזרו לה טרולים, שודדי ים ואפילו מלכת השלג עצמה... האם יחד הם יצליחו להציל את עולם הקסם והאגדות?TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לשבור את הקסם_ מלכת השלג</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לשבור את הקסם_ מלכת השלג\לשבור את הקסם_ מלכת השלג.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לשבור את הקסם_ מלכת השלג\לשבור את הקסם_ מלכת השלג.strm</basepath>
+    <uniqueid type="tmdb" default="true">564145</uniqueid>
+    
+    <genre>משפחה </genre>
+<genre> אנימציה </genre>
+<genre> הרפתקאות </genre>
+<genre> קומדיה </genre>
+<genre> פנטזיה</genre>
+    <year>2018</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//qb9nPw0UPzj6J22yDFKFR1j0xFw.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//tVVnTrEnFpMHO2B94KSJK5rQDhm.jpg">https://image.tmdb.org/t/p/original//tVVnTrEnFpMHO2B94KSJK5rQDhm.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-12-08 07:09:20</dateadded>
+</movie>
+    

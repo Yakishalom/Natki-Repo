@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הבית עם השעון המסתורי</title>
+    <originaltitle>The House with a Clock in Its Walls</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.244</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,TE
+[COLOR lightblue]2023-04-05 07:38:17[/COLOR]
+[COLOR blue]720p 2018 הבית עם השעון המסתורי מדובב.mkv[/COLOR]
+1.05 GB
+לואיס, ילד סקרן ונבון, עובר לגור עם דודו במה שמתגלה כטירה מכושפת. הוא עוזר לו למצוא שעון מסתורי בעל יכולת להביא את סוף העולם, שמסתתר בין כתלי הבית. עם ג'ק בלאק, וקייט בלאנשט.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הבית עם השעון המסתורי</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הבית עם השעון המסתורי\הבית עם השעון המסתורי.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הבית עם השעון המסתורי\הבית עם השעון המסתורי.strm</basepath>
+    <uniqueid type="tmdb" default="true">463821</uniqueid>
+    
+    <genre>פנטזיה </genre>
+<genre> משפחה </genre>
+<genre> קומדיה</genre>
+    <year>2018</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//fEw6pBNPxgwW5OYFn72lgweOED5.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//dIufisifucT5lodcV5wRiN92x09.jpg">https://image.tmdb.org/t/p/original//dIufisifucT5lodcV5wRiN92x09.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-04-05 07:38:17</dateadded>
+</movie>
+    

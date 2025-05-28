@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>ראצ'ט וקלאנק</title>
+    <originaltitle>Ratchet & Clank [2016]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>8,429</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-07-5 16:05:24[/COLOR]
+ראצ'ט וקלאנק, כוכבי משחקי הוידאו המצליחים, זוכים לככב בסרט קולנוע ראשון בו הם מתגייסים להציל את כוכב סולאנה משלטונו של דרק המרושע.  ראצ'ט הוא האחרון לגזע שלו, ואילו קלאנק הוא רובוט קטנטן, וכשהם מגלים נשק קטלני שיכול להשמיד כוכבי לכת שלמים, הם מאחדים כוחות במטרה להגן על הגלקסיה מפני החייזר 'יושב הראש דרק'.</plot>
+    <runtime>94</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ראצ_ט וקלאנק</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ראצ_ט וקלאנק\ראצ_ט וקלאנק.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ראצ_ט וקלאנק\ראצ_ט וקלאנק.strm</basepath>
+    <uniqueid type="tmdb" default="true">234004</uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Action</genre>
+<genre>Adventure</genre>
+<genre>אקשן</genre>
+<genre>הרפתקאות</genre>
+<genre>אנימציה</genre>
+<genre>משפחה</genre>
+    <year>2016</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=SNTaFzXlP8E</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//ju0uzmtUhwQ1bz7uJFqvBskCdLn.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//5njm5VesoJHD9ZVqfW4EVnX5yDq.jpg">http://image.tmdb.org/t/p/original//5njm5VesoJHD9ZVqfW4EVnX5yDq.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-07-05 16:05:24</dateadded>
+</movie>
+    

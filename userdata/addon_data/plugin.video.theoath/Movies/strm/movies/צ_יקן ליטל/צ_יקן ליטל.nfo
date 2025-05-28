@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>צ'יקן ליטל</title>
+    <originaltitle>Chicken Little</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.883</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2018-07-8 08:41:55
+ON,TE
+[COLOR lightblue]2018-06-02 20:25:15[/COLOR]
+[COLOR blue]צ'יקן ליטל.מדובב.גוזלן.avi[/COLOR]
+0.67 GB
+העלילה מתרחשת בעיר המאוכלסת בחיות מדברות, ועוסקת בתרנגול קטן עם דמיון מפותח במיוחד, שחושב שבלוט שנחת על כרבולתו הוא סימן לכך שהשמיים מתחילים ליפול. התרנגול הקטן מזהיר את העיר על הסכנה והיסטריה המונית מתחילה. כשהעיר נרגעת מהבלגן היא מגרשת את התרנגול הקטן למחנה לחינוך מיוחד שמאוכלס בחיות המתקשות להשתלב כמוהו. אבל אז באמת נופלת חתיכה מהשמיים. כאשר התרנגול הקטן חושף את המזימה המרושעת של החייזרים להשתלט על אף אחד אינו מסכים להאמין לו בעקבות ההיסטריה שהוא יצר בעבר ורק חבריו הלוזרים מוכנים לעזור לו למנוע את האסון הקרב ובא.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\צ_יקן ליטל</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\צ_יקן ליטל\צ_יקן ליטל.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\צ_יקן ליטל\צ_יקן ליטל.strm</basepath>
+    <uniqueid type="tmdb" default="true">9982</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> משפחה </genre>
+<genre> קומדיה</genre>
+    <year>2005</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//aGNS3NiuG8w7FpC7kcoLHC0YO71.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//h37N1O8LUyGW1o2dIWufm9jzpk7.jpg">https://image.tmdb.org/t/p/original//h37N1O8LUyGW1o2dIWufm9jzpk7.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-07-08 08:41:55</dateadded>
+</movie>
+    

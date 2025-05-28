@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>ריצ'ארד וסוד הספרים האבודים</title>
+    <originaltitle>The Pagemaster [1994] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>20,729</votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr
+[COLOR lightblue]2020-09-20 16:36:16[/COLOR]
+ריצ'ארד הוא ילד צעיר המפחד מכמעט כל דבר. כך, לדוגמה, הוא מעדיף לבלות אחר הצהריים גשום בספרייה, כדי לא להירטב מהגשם השוטף בחוץ. שם, בין הספרים, מתרחשת עיקר עלילת הסרט. הספרים דוחפים את ריצ'ארד לתוך עולמם המופלא, שם הוא פוגש בשלל דמויות בדיוניות מרהיבות.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ריצ_ארד וסוד הספרים האבודים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ריצ_ארד וסוד הספרים האבודים\ריצ_ארד וסוד הספרים האבודים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ריצ_ארד וסוד הספרים האבודים\ריצ_ארד וסוד הספרים האבודים.strm</basepath>
+    <uniqueid type="tmdb" default="true">15139</uniqueid>
+    
+    <genre>פנטזיה</genre>
+<genre>מדע בדיוני</genre>
+<genre>משפחה</genre>
+<genre>אנימציה</genre>
+    <year>1994</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=wEiJecKrFBw</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//eH1elSNGetooPtK2aXHGuJblzkS.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//qDU4yrsJ8JtAjknwSzD9DJCDMy2.jpg">http://image.tmdb.org/t/p/original//qDU4yrsJ8JtAjknwSzD9DJCDMy2.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-09-20 16:36:16</dateadded>
+</movie>
+    

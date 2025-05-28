@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>חלום ליל קיץ</title>
+    <originaltitle>El sueño de una noche de San Juan</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>4.4</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>TE
+[COLOR lightblue]2021-08-01 20:26:15[/COLOR]
+[COLOR blue]Midsummer.Dream.2005.DVDRip.Xvid.MP3.HebDub.mkv[/COLOR]
+0.65 GB
+זוכה פרס האוסקר הספרדי לסרט האנימציה הטוב ביותר. מבוסס על יצירתו של שייקספיר. פעם בשנה באמצע הקיץ, יכולים בני האדם לעבור לעולם קסום, שבו מתגשמים חלומות, אם הם יודעים היכן לחפש אותם. הלנה היא בתו הצינית, המעשית, ואוהבת המדע של ת'יסיוס הדוכס. אך כשאביה גוסס, ובהזיותיו קורא שוב ושוב בשם אחד, "טיטאניה", הלן חייבת לשים בצד את האמונות הטפלות, וללכת למעבה היער כדי לחפש את הפיה שאותה ראתה רק בחלומותיה. עוקבים אחריה דמיטריוס חלק-הלשון, שרוצה לשאת אותה לאישה וכך לרשת את הונו של אביה; וגם לייסנדר המגושם, שבאהבתו האמיתית היא אינה מבחינה. דמיונה לא הכין אותה למה שהיא מוצאת בארץ המכושפת, אותה הספיק המין האנושי לשכוח מזמן: מלך עצלן ושמן, מוכר כישופים מפוקפקים בעזרתו השובבית של עוזר בשם פוק, נופים קסומים, פיות חטטניות, מכשפות מקרקרות, גובלינים גסים... אבל איפה טיטאניה, מלכת הפיות?TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\חלום ליל קיץ</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\חלום ליל קיץ\חלום ליל קיץ.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\חלום ליל קיץ\חלום ליל קיץ.strm</basepath>
+    <uniqueid type="tmdb" default="true">46031</uniqueid>
+    
+    <genre></genre>
+    <year>2005</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//4QQu1AEy9wZnXRKGDGEBpzwQfeh.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//o3McamIJOJEGjAoJv0J8VgK8bKC.jpg">https://image.tmdb.org/t/p/original//o3McamIJOJEGjAoJv0J8VgK8bKC.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-08-01 20:26:15</dateadded>
+</movie>
+    

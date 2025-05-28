@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>כוח הטיטאנים! חיים בסרט</title>
+    <originaltitle>Teen Titans Go! To the Movies [2018]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7</value>
+            <votes>10,437</votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr
+[COLOR lightblue]2019-01-28 07:52:44[/COLOR]
+חבורת כוח הטיטאנים מגלים כי כמעט על כל גיבור ביקום הקומיקס עשו סרט משלו. עכשיו הם יוצאים למשימת חייהם: למצוא במאי לסרט שיהיה עליהם. אך בשביל שמישהו יסכים לקחת אותם ברצינות, הטיטאנים צריכים להתמודד קודם עם נבל על משלהם: סלייד, אשר מתכנן להשתלט על כל ליגת הצדק והעולם באמצעות מזימה זדונית.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\כוח הטיטאנים_ חיים בסרט</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\כוח הטיטאנים_ חיים בסרט\כוח הטיטאנים_ חיים בסרט.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\כוח הטיטאנים_ חיים בסרט\כוח הטיטאנים_ חיים בסרט.strm</basepath>
+    <uniqueid type="tmdb" default="true">474395</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>אקשן</genre>
+<genre>הרפתקאות</genre>
+<genre>קומדיה</genre>
+<genre>מוסיקה</genre>
+<genre>מדע בדיוני</genre>
+    <year>2018</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=vLM8ZgxuxsM</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//ksBlQ9ndu62TIWBSGUtU0RblElO.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//1SjsVcGO2T2cCrhlhXi8gxQl7jx.jpg">http://image.tmdb.org/t/p/original//1SjsVcGO2T2cCrhlhXi8gxQl7jx.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-01-28 07:52:44</dateadded>
+</movie>
+    

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>סקובי-דו: פיראטים אהוי!</title>
+    <originaltitle>Scooby-Doo! Pirates Ahoy!</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.571</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>TE
+[COLOR lightblue]2017-10-11 11:59:22[/COLOR]
+[COLOR blue]פיראטים - מדובב .avi[/COLOR]
+1.21 GB
+כאשר סקובי דו וחבריו יוצאים לים הפתוח למסע דרך משולש ברמודה, דברים מוזרים מתחילים לקרות מסביבם. ובמרכזם רוח של ספינת פיראטים המופעלת ע"י שלדים שמנסים לחסל את סקובי וחבריו. האם החבורה תצליח לפתור את התעלומה לפני שהם יפגעו?TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סקובי-דו_ פיראטים אהוי_</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סקובי-דו_ פיראטים אהוי_\סקובי-דו_ פיראטים אהוי_.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סקובי-דו_ פיראטים אהוי_\סקובי-דו_ פיראטים אהוי_.strm</basepath>
+    <uniqueid type="tmdb" default="true">13355</uniqueid>
+    
+    <genre>פנטזיה </genre>
+<genre> אנימציה </genre>
+<genre> קומדיה </genre>
+<genre> משפחה </genre>
+<genre> מסתורין </genre>
+<genre> הרפתקאות</genre>
+    <year>1998</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//6XWQK6mmDbKyrtzr4wJxa6rBfuM.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//iHnmStxGvGNzOKKMOZIpYxosS5t.jpg">https://image.tmdb.org/t/p/original//iHnmStxGvGNzOKKMOZIpYxosS5t.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2017-10-11 11:59:22</dateadded>
+</movie>
+    

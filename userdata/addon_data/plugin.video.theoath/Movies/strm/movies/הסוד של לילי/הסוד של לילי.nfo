@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הסוד של לילי</title>
+    <originaltitle>Liliane Susewind - Ein tierisches Abenteuer</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.4</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>TE
+[COLOR lightblue]2021-09-16 22:23:48[/COLOR]
+[COLOR blue]1080p HDTV 2018 נ.מ הסוד של לילי מדובב.mkv[/COLOR]
+1.45 GB
+ללילי בת העשר יש סוד כמוס, שהיא מספרת רק לפרה ולסוס. כן, לילי יודעת לדבר עם חיות. רק שהכישרון הזה מסבך אותה כל פעם בצרות חדשות. כשהמשפחה עוברת דירה, לילי מצטרפת לשבוע לימודים מיוחד בגן החיות המקומי וההרפתקה רק מתחילה. שבוע לפני פתיחת הגן, חיות מתחילות להעלם ממנו באורח מסתורי. האם הכישרון של לילי יציל את עתידו של גן החיות בזמן?TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הסוד של לילי</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הסוד של לילי\הסוד של לילי.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הסוד של לילי\הסוד של לילי.strm</basepath>
+    <uniqueid type="tmdb" default="true">505204</uniqueid>
+    
+    <genre>קומדיה </genre>
+<genre> משפחה </genre>
+<genre> פנטזיה </genre>
+<genre> פשע</genre>
+    <year>2018</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//1nmapT3kjL67FJUuKwMVMVWxJyv.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//1WXtjBR5HhDSXpUy0axh6M9hB71.jpg">https://image.tmdb.org/t/p/original//1WXtjBR5HhDSXpUy0axh6M9hB71.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-09-16 22:23:48</dateadded>
+</movie>
+    

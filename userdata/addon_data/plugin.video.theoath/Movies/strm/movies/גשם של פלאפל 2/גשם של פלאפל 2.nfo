@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>גשם של פלאפל 2</title>
+    <originaltitle>Cloudy with a Chance of Meatballs 2</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.439</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2021-06-11 18:28:04
+ON,Dr,TE,TE
+[COLOR lightblue]2019-11-10 16:17:43[/COLOR]
+[COLOR blue]נתי מדיה גשם של פלאפל 2 מדובב.avi[/COLOR]
+1.04 GB
+הגאונות של הממציא פלינט לוקווד סוף סוף זוכה להכרה והוא מוזמן על ידי האליל שלו צ'סטר-5 לעבוד בחברת "לייב קורפ", היכן שהממציאים המבריקים ביותר בעולם יוצרים טכנולוגיות לטובת האנושות. יד ימינו של צ׳סטר – ואחד מהממציאים הטובים ביותר – הוא בארב, אורנגאוטן בעל מוח אנושי ומניפולטיבי וחיבה יוצאת מן הכלל לליפסטיק. מאז ומתמיד חלומו של פלינט היה להיות ממציא דגול, אבל הכול משתנה כשהוא מגלה שהמכונה הנודעת לשמצה שלו עדיין מתפקדת ועכשיו יוצרת יצורי תערובת של חיות-אוכל - "חיותוכל". כשעתיד האנושות מונח בכף ידו, צ'סטר שולח את פלינק וחבריו למשימה מסוכנת וטעימה במיוחד – למגר את חיות האוכל המוזרות ולהציל את העולם בשנית!TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\גשם של פלאפל 2</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\גשם של פלאפל 2\גשם של פלאפל 2.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\גשם של פלאפל 2\גשם של פלאפל 2.strm</basepath>
+    <uniqueid type="tmdb" default="true">109451</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> משפחה </genre>
+<genre> קומדיה</genre>
+    <year>2013</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//p1jlJrpuz9g09fgIxj1xgqd2T26.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//vWriOBVlgW0XWdgbOiijhyLW7B8.jpg">https://image.tmdb.org/t/p/original//vWriOBVlgW0XWdgbOiijhyLW7B8.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-06-11 18:28:04</dateadded>
+</movie>
+    

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>101 כלבים וגנבים 2</title>
+    <originaltitle>102 Dalmatians</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.5</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>Dr,TE
+[COLOR lightblue]2022-07-13 20:06:21[/COLOR]
+[COLOR blue]1080p WEB-DL 2000 102 כלבים וגנבים מדובב.mkv[/COLOR]
+1.58 GB
+קראולה דה ויל משתחררת מהכלא ומנסה להשיג את הכלבלבים פעם נוספת. קראולה היא כעת אשה חדשה, כשהיא מקדישה את כל זמנה לכלבלבים ומעשים טובים, היא שמחה לגלות שלקצינת המבחן שלה, קלואי, יש משפחה של דלמטיים. עכשיו זה רק עניין של זמן לפני שקראולה דה וויל תחזור לדרכיה הנלוזות.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\101 כלבים וגנבים 2</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\101 כלבים וגנבים 2\101 כלבים וגנבים 2.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\101 כלבים וגנבים 2\101 כלבים וגנבים 2.strm</basepath>
+    <uniqueid type="tmdb" default="true">10481</uniqueid>
+    
+    <genre>משפחה </genre>
+<genre> קומדיה</genre>
+    <year>2000</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//3j9SF5YZ1oBd62d2XZB2t9b3u4m.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//eqZ5t82asfprFcNS56eVruNT5G5.jpg">https://image.tmdb.org/t/p/original//eqZ5t82asfprFcNS56eVruNT5G5.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-07-13 20:06:21</dateadded>
+</movie>
+    

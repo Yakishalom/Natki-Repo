@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>ז מ ספייס ג'אם 1</title>
+    <originaltitle> ז מ ספייס ג%27אם 1</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>TE
+[COLOR lightblue]2021-11-30 23:08:22[/COLOR]
+[COLOR blue]1080p BluRay 1996 ז.מ ספייס ג'אם 1 מדובב.mkv[/COLOR]
+1.04 GB
+TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ז מ ספייס ג_אם 1</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ז מ ספייס ג_אם 1\ז מ ספייס ג_אם 1.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ז מ ספייס ג_אם 1\ז מ ספייס ג_אם 1.strm</basepath>
+    <uniqueid type="tmdb" default="true"></uniqueid>
+    
+    <genre></genre>
+    <year>1996</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLd1qz7vDQz79zTTgddDCanmev34lU4E246XoMPYIwJ0q-m5ud&s</thumb>
+    <fanart>
+      <thumb colors="" preview="https://blog.pearachutekids.com/wp-content/uploads/2019/06/netflix-Cover.jpg">https://blog.pearachutekids.com/wp-content/uploads/2019/06/netflix-Cover.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-11-30 23:08:22</dateadded>
+</movie>
+    

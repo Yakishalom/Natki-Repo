@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Messima Khatoulit Be'hekhlet</title>
+    <originaltitle>Messima Khatoulit Be'hekhlet</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes> </votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2019-09-6 13:53:24[/COLOR]
+מארני היא חתולת בית מנומנמת, המבלה את זמנה מול סדרות אקשן בטלוויזיה, וחולמת על הרפתקאות חוץ. שגרת חייה מופרת, כשהיא מקבלת הצעה מפתה, להיות סוכנת חשאית במשימה סודית. מרוגשת מההזדמנות הנדירה, יוצאת מארני למסע אל הלא נודע, רק כדי למצוא את עצמה אבודה באמצע שום מקום. חבריה החיות מנסים לעזור למארני לחזור הביתה, אבל בדרך הכל משתבש, כשהמשטרה חושבת שהם כנופיית גנבים ומנהלת אחריהם מצוד. במירוץ נגד הזמן מנסים החברים לאתר את הגנבים האמיתיים, ומוצאים בדרך את עצמם, אהבה וחברות אמת</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\Messima Khatoulit Be_hekhlet</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\Messima Khatoulit Be_hekhlet\Messima Khatoulit Be_hekhlet.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\Messima Khatoulit Be_hekhlet\Messima Khatoulit Be_hekhlet.strm</basepath>
+    <uniqueid type="tmdb" default="true"> </uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>הרפתקאות</genre>
+<genre>קומדיה</genre>
+<genre>משפחה</genre>
+    <year>2019</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//yiGQBY8J5dQBbNk82yLVrcYnz9Q.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//orjo9md2L2jQjsJMv9QkPCzZbEx.jpg">http://image.tmdb.org/t/p/original//orjo9md2L2jQjsJMv9QkPCzZbEx.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-09-06 13:53:24</dateadded>
+</movie>
+    

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הארי פוטר ואוצרות המוות, חלק א'(ת.מובנה)</title>
+    <originaltitle>הארי פוטר ואוצרות המוות, חלק א'(ת.מובנה)</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes> </votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-07-15 16:15:21[/COLOR]
+המלחמה שכולם חששו מפניה החלה ואוכלי המוות של וולדמורט השתלטו על משרד הקסמים ואף על הוגוורטס, כשהם מטילים אימה וכולאים כל מי שרק מעז להתנגד להם. אבל את הפרס היקר מפז עבור וולדמורט הם עדיין מחפשים: הארי פוטר. הנבחר הפך להיות הנרדף בעוד שנתיניו של וולדמורט קיבלו הוראה להביאו. תקוותו היחידה של הארי היא למצוא את ההורקרוקס לפני וולדמורט. אך בעוד הוא מחפש אחר רמזים, הוא חושף אגדה עתיקה – אגדת אוצרות המוות. ואם האגדה תתברר כנכונה, היא יכולה להעניק לוולדמורט את הכוח המוחלט אותו הוא מחפש. הארי לא יודע שהעתיד שלו בעצם נקבע כבר על ידי עברו, כשבאותו יום גורלי הוא הפך להיות 'הילד שחי'. כבר לא סתם עוד ילד, הארי פוטר נמשך יותר ויותר אל המשימה אליה הוא התכונן מהיום הראשון בו פסע אל הוגוורטס: הקרב הסופי מול וולדמורט.</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הארי פוטר ואוצרות המוות, חלק א_(ת_מובנה)</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הארי פוטר ואוצרות המוות, חלק א_(ת_מובנה)\הארי פוטר ואוצרות המוות, חלק א_(ת_מובנה).strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הארי פוטר ואוצרות המוות, חלק א_(ת_מובנה)\הארי פוטר ואוצרות המוות, חלק א_(ת_מובנה).strm</basepath>
+    <uniqueid type="tmdb" default="true"> </uniqueid>
+    
+    <genre>Adventure</genre>
+<genre>Family</genre>
+<genre>Fantasy</genre>
+<genre>הרפתקאות</genre>
+<genre>פנטזיה</genre>
+<genre>משפחה</genre>
+    <year>2010</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//d9txzOAugXQcsdfRfrainByPnQk.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//8YA36faYlkpfp6aozcGsqq68pZ9.jpg">http://image.tmdb.org/t/p/original//8YA36faYlkpfp6aozcGsqq68pZ9.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-07-15 16:15:21</dateadded>
+</movie>
+    

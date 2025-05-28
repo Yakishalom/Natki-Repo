@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>משפחה לא מחליפים</title>
+    <originaltitle>Family Switch</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2023-12-5 21:15:34[/COLOR]
+בעקבות אירוע קוסמי נדיר שמתרחש ממש לפני חג המולד, זוג הורים מחליפים זהות עם ילדיהם המתבגרים – והבלגן חוגג.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\משפחה לא מחליפים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\משפחה לא מחליפים\משפחה לא מחליפים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\משפחה לא מחליפים\משפחה לא מחליפים.strm</basepath>
+    <uniqueid type="tmdb" default="true">798021</uniqueid>
+    
+    <genre>קומדיה</genre>
+<genre>פנטזיה</genre>
+<genre>משפחה</genre>
+<genre>פשע</genre>
+    <year>2023</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=SWh4c9EVqGM</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//fnRUCA0fjEb3kuIaTGogL7425IC.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//8WBh82iOYRykS3C05RipWTX70xh.jpg">http://image.tmdb.org/t/p/original//8WBh82iOYRykS3C05RipWTX70xh.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-12-05 21:15:34</dateadded>
+</movie>
+    

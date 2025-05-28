@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>פוקימון, אני בוחר בך!</title>
+    <originaltitle>Pokémon the Movie: I Choose You! [2017] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>3,874</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2019-03-27 21:59:43[/COLOR]
+אש הוא מאמן פוקימונים צעיר מהעיר פאלט, וכשהוא מגיע לגיל 10, הוא מקבל את הפוקימון הראשון שלו – פיקאצ'ו ויחד הם פוגשים את הפוקימון האגדי הו-הו, שמוסר לאש את נוצת הקשת בענן. בהמשך המסע שלו, אש פוגש את וריטי וסורל, שני מאמני פוקימונים צעירים, אשר מנסים ללכוד את הפוקימון האגדי אנטיי. הם מתחברים יחד ויוצאים למסע משותף אל עבר קצה הקשת בענן. במהלך הדרך הם פוגשים את שאר הכלבים האגדיים סוויקון וראיקו.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פוקימון, אני בוחר בך_</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פוקימון, אני בוחר בך_\פוקימון, אני בוחר בך_.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פוקימון, אני בוחר בך_\פוקימון, אני בוחר בך_.strm</basepath>
+    <uniqueid type="tmdb" default="true">436931</uniqueid>
+    
+    <genre>משפחה</genre>
+<genre>אנימציה</genre>
+    <year>2017</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//qL9CWspCl2dVK3rcz5Qbk9AWztZ.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//k6KlehTEOAlC5nJUeIbbgim7GrV.jpg">http://image.tmdb.org/t/p/original//k6KlehTEOAlC5nJUeIbbgim7GrV.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-03-27 21:59:43</dateadded>
+</movie>
+    

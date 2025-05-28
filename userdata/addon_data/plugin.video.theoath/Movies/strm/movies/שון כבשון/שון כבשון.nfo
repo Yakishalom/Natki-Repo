@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>שון כבשון</title>
+    <originaltitle>Shaun the Sheep Movie [2015]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7</value>
+            <votes>30,517</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-07-5 13:57:38[/COLOR]
+מבוסס על סדרת הטלויזיה המפורסמת, מהיוצרים של וואלאס וגרומיט. כאשר מעשה קונדס גורם לכך שפארמר צריך לעזוב את חוות מוסיבוטום, שון כבשון ושאר העדר יוצאים לעיר הגדולה על מנת להציל אותו.</plot>
+    <runtime>85</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\שון כבשון</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\שון כבשון\שון כבשון.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\שון כבשון\שון כבשון.strm</basepath>
+    <uniqueid type="tmdb" default="true">263109</uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Adventure</genre>
+<genre>Comedy</genre>
+<genre>משפחה</genre>
+<genre>אנימציה</genre>
+<genre>קומדיה</genre>
+<genre>הרפתקאות</genre>
+    <year>2015</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=E6qLSo9RsaE</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//qUBJvmXyesdtvkWqnNLDT8uJBKY.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//jdGHRopcOEPDRQVfvuIv4BkxUgw.jpg">http://image.tmdb.org/t/p/original//jdGHRopcOEPDRQVfvuIv4BkxUgw.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-07-05 13:57:38</dateadded>
+</movie>
+    

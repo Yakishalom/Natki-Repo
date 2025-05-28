@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>גיבור של כולם</title>
+    <originaltitle>Everyone%27s Hero</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.865</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2021-02-08 19:16:55
+ON,TE,TE,TE
+[COLOR lightblue]2017-10-03 20:26:37[/COLOR]
+[COLOR blue]גיבור של כולם - מדובב .avi[/COLOR]
+1.05 GB
+ילד בשם ינקי מגלה יום אחד מגלה שאביו פוטר מעבודתו לאחר שגנבים הצליחו להיכנס לחדר הלבשה של קבוצת הבייסבול - 'ינקייס' וגנבו את מחבט הבייסבול היוקרתי - והמדבר - של הקבוצה. יינקי משוכנע שאביו לא אשם, אוזר אומץ ומחליט לצאת למסע על מנת למצוא את הגנבים האמיתיים. הוא נתקל בכדור קפיצי בשם סקרווי שמתחבב עליו ויחדיו הם מנסים לרתום מספר חברים למסע. חבריו של ינקי מפקפקים ביכולותיו רואים בו לוזר, לועגים ומקניטים אותו. במסע הארוך על מנת למצוא את המחבט היוקרתי , להחזירו לקבוצה ולהוכיח את חפותו של אביו, ינקי וחבריו מגלים על עצמם את ערך החברות האמיתי, וערך המשפחה, תוך שהם עוברים מכשולים והרפתקאות שונות ומשונות.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\גיבור של כולם</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\גיבור של כולם\גיבור של כולם.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\גיבור של כולם\גיבור של כולם.strm</basepath>
+    <uniqueid type="tmdb" default="true">15213</uniqueid>
+    
+    <genre>הרפתקאות </genre>
+<genre> אנימציה </genre>
+<genre> קומדיה </genre>
+<genre> משפחה</genre>
+    <year>2022</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//uscNIeN8geFYSYNVgmOgyAE1UHc.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//gDbEMOb8CwzWg6MsxVsHNgc0PIG.jpg">https://image.tmdb.org/t/p/original//gDbEMOb8CwzWg6MsxVsHNgc0PIG.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-02-08 19:16:55</dateadded>
+</movie>
+    

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>סביב העולם עם טימון ופומבה</title>
+    <originaltitle>Around the World With Timon & Pumbaa</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.382</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>TE
+[COLOR lightblue]2017-07-16 18:28:07[/COLOR]
+[COLOR blue]מסביב לעולם עם טימון ופומבה.avi[/COLOR]
+0.68 GB
+הצטרפו אל טימון ופומבה, החברים האהובים ממלך האריות, והכינו עצמכם ליהנות ולצחוק בהרפתקה חובקת בעולם זו. תחנה ראשונה... "בורה בורה". פומבה מתקבל בכבוד  של מלכים אצל ילידי האיים, אשר רואים בו כמלך האבוד שלהם! בפרק "העוקץ מיוקון" פומבה מתעשר והנבל הקרימינלי קווינט מצליח לגנוב ממנו את הזהב. מכאן אנו למדים לקח על "חברות". לאחר מכן בפרק "השידוך מסאסקאצ'ואן" טימון ופומבה משתעשעים בלהיות שדכנים לזוג סנאים מעופפים שמאוהבים אחד בשני. בפרק "אגוזי ברזיל" אנו עדים ללא מעט רעש והמולה, כאשר טימון ופומבה חייבים להתגבר על זוג נחשים שרוצים להפוך אותם לארוחת הערב שלהם.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סביב העולם עם טימון ופומבה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סביב העולם עם טימון ופומבה\סביב העולם עם טימון ופומבה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סביב העולם עם טימון ופומבה\סביב העולם עם טימון ופומבה.strm</basepath>
+    <uniqueid type="tmdb" default="true">40647</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> משפחה </genre>
+<genre> קומדיה</genre>
+    <year>1996</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//DjyxSLLu5h7u4TArYegRcjy1b7.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//qzqaDhddJyeZfm7HqYibvFiQyFj.jpg">https://image.tmdb.org/t/p/original//qzqaDhddJyeZfm7HqYibvFiQyFj.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2017-07-16 18:28:07</dateadded>
+</movie>
+    

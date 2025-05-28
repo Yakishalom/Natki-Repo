@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>לשיר</title>
+    <originaltitle>Sing</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr
+[COLOR lightblue]2022-01-9 02:36:38[/COLOR]
+בעולם של חיות אנושיות, באסטר מון, דב קואלה אמביציוזי עומד לאבד את התיאטרון שבבעלותו בשל קשיים כלכליים, ומחליט לקיים את תחרות השירה הטובה ביותר שהייתה עד כה במטרה להצילו.  'לשיר' מפגיש את הצופים עם 5 דמויות משעשעות שיכנסו לכולנו ללב. כל אחד מהם מגיע לתחרות באמונה שזו ההזדמנות שלו לשנות את חייו לתמיד.  בזמן שבאסטר מון מאמן את כל המתמודדים לגמר הגדול הוא מתחיל להבין שאולי התיאטרון הוא לא הדבר היחיד עליו הוא צריך לשמור.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לשיר</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לשיר\לשיר.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לשיר\לשיר.strm</basepath>
+    <uniqueid type="tmdb" default="true">335797</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>קומדיה</genre>
+<genre>משפחה</genre>
+<genre>מוסיקה</genre>
+    <year>2016</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Zvjmt4pwtdg</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//1Mc64ZpzcOAtHRVbg36GJvgYR0D.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//z9ft5HYHzWcasR6SGcgeluxTznB.jpg">http://image.tmdb.org/t/p/original//z9ft5HYHzWcasR6SGcgeluxTznB.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-01-09 02:36:38</dateadded>
+</movie>
+    

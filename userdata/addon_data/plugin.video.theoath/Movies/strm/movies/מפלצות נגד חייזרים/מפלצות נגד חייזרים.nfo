@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מפלצות נגד חייזרים</title>
+    <originaltitle>Monsters vs. Aliens [2009] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>145,433</votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr
+[COLOR lightblue]2020-11-16 07:10:33[/COLOR]
+כאשר מטאור מהחלל פוגע בילדה בשם סוזן מרפי, היא נהפכת לענקית והממשלה מחליטה שהיא מפלצת ויש לכלוא אותה יחד עם שאר המפלצות אשר נמצאו במשך השנים. בתור מוצא אחרון, קבוצת המפלצות נאלצות להרכיב צוות אשר ייגן על כדור הארץ מהשתלטות עוינת של חייזרים.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מפלצות נגד חייזרים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מפלצות נגד חייזרים\מפלצות נגד חייזרים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מפלצות נגד חייזרים\מפלצות נגד חייזרים.strm</basepath>
+    <uniqueid type="tmdb" default="true">15512</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>משפחה</genre>
+<genre>הרפתקאות</genre>
+<genre>מדע בדיוני</genre>
+    <year>2009</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=KrGiuIY-gDc</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//phGbxCz7JIQY2DR2aJYq21Y2ePL.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//gUIyXIjQIFlmeXVcmVDAaKhhk04.jpg">http://image.tmdb.org/t/p/original//gUIyXIjQIFlmeXVcmVDAaKhhk04.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-11-16 07:10:33</dateadded>
+</movie>
+    

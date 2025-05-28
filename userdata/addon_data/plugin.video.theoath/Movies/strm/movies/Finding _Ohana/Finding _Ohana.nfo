@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Finding 'Ohana</title>
+    <originaltitle>Finding 'Ohana [2021] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>4,678</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2021-02-18 17:24:08[/COLOR]
+Two Brooklyn siblings' summer in a rural Oahu town takes an exciting turn when a journal pointing to long-lost treasure sets them on an adventure, leading them to reconnect with their Hawaiian heritage.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\Finding _Ohana</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\Finding _Ohana\Finding _Ohana.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\Finding _Ohana\Finding _Ohana.strm</basepath>
+    <uniqueid type="tmdb" default="true">644092</uniqueid>
+    
+    <genre>Action</genre>
+<genre>Adventure</genre>
+<genre>Comedy</genre>
+<genre>Family</genre>
+    <year>2021</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=FTqLUEpWqEc</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//tTWl37oAYRXS3D5mEHmjveXXyrN.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//yImmxRokQ48PD49ughXdpKTAsAU.jpg">http://image.tmdb.org/t/p/original//yImmxRokQ48PD49ughXdpKTAsAU.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-02-18 17:24:08</dateadded>
+</movie>
+    

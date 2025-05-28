@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>השועל והכלבלב 2</title>
+    <originaltitle>The Fox and the Hound 2</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.029</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>TE
+[COLOR lightblue]2021-10-13 23:45:35[/COLOR]
+[COLOR blue]נתי מדיה השועל והכלבלב מדובב.avi[/COLOR]
+0.68 GB
+המשך מאוחר לסרט הילדים/אנימציה הקלאסי של "דיסני" מ-1981. קופר הכלבלב וטוד השועל מסתבכים בהרפתקה חדשה והפעם חברותם עומדת למבחן. ג'ף פוקסוורתי, פטריק סווייזי וריבה מקינטייר נותנים את קולותיהם עם המוזיקה המקורית והמוצלחת מהסרט המקורי.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\השועל והכלבלב 2</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\השועל והכלבלב 2\השועל והכלבלב 2.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\השועל והכלבלב 2\השועל והכלבלב 2.strm</basepath>
+    <uniqueid type="tmdb" default="true">9948</uniqueid>
+    
+    <genre>הרפתקאות </genre>
+<genre> אנימציה </genre>
+<genre> קומדיה </genre>
+<genre> משפחה</genre>
+    <year>1981</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//uTrVvEtN4Gq7l0Zxd8KRYyiTvm3.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//tMkLwH4mM6v751wG67iSSRtYxm7.jpg">https://image.tmdb.org/t/p/original//tMkLwH4mM6v751wG67iSSRtYxm7.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-10-13 23:45:35</dateadded>
+</movie>
+    

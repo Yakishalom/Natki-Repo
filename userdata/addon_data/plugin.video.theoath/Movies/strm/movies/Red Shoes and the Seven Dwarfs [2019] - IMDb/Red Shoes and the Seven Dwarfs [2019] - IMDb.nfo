@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Red Shoes and the Seven Dwarfs [2019] - IMDb</title>
+    <originaltitle>Red Shoes and the Seven Dwarfs [2019] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>492</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2020-04-12 19:41:51[/COLOR]
+ </plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\Red Shoes and the Seven Dwarfs [2019] - IMDb</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\Red Shoes and the Seven Dwarfs [2019] - IMDb\Red Shoes and the Seven Dwarfs [2019] - IMDb.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\Red Shoes and the Seven Dwarfs [2019] - IMDb\Red Shoes and the Seven Dwarfs [2019] - IMDb.strm</basepath>
+    <uniqueid type="tmdb" default="true">None</uniqueid>
+    
+    <genre> </genre>
+    <year>2019</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://m.media-amazon.com/images/M/MV5BZjVlM2E5MzAtMjcyZi00NmViLTkyOGYtODliYzM4ZDNiZjJhXkEyXkFqcGdeQXVyNjQxMDIzMjY@._V1_UY268_CR4,0,182,268_AL_.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://m.media-amazon.com/images/M/MV5BZjVlM2E5MzAtMjcyZi00NmViLTkyOGYtODliYzM4ZDNiZjJhXkEyXkFqcGdeQXVyNjQxMDIzMjY@._V1_UY268_CR4,0,182,268_AL_.jpg">https://m.media-amazon.com/images/M/MV5BZjVlM2E5MzAtMjcyZi00NmViLTkyOGYtODliYzM4ZDNiZjJhXkEyXkFqcGdeQXVyNjQxMDIzMjY@._V1_UY268_CR4,0,182,268_AL_.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-04-12 19:41:51</dateadded>
+</movie>
+    

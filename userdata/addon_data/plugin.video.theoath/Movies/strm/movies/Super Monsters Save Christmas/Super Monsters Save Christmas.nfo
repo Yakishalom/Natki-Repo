@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Super Monsters Save Christmas</title>
+    <originaltitle>Super Monsters Save Christmas [TV Short 2019] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5</value>
+            <votes>55</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2020-12-16 11:04:17[/COLOR]
+הסרט מפלצות העל מצילות את חג המולד לצפייה ישירה: סרט מונפש לילדים. ערב חג המולד כבר כאן, ומפלצות העל יוצאות למשימה חשובה מאין כמוה: למצוא את האייל של סנטה קלאוס ולהציל את החג.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\Super Monsters Save Christmas</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\Super Monsters Save Christmas\Super Monsters Save Christmas.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\Super Monsters Save Christmas\Super Monsters Save Christmas.strm</basepath>
+    <uniqueid type="tmdb" default="true">643533</uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Family</genre>
+    <year>2019</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//d96SFX22o3dIuZ0qzOLNJ7ErfGP.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//9PbQNBrQVd9gqGAak9wxNvfZZr9.jpg">http://image.tmdb.org/t/p/original//9PbQNBrQVd9gqGAak9wxNvfZZr9.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-12-16 11:04:17</dateadded>
+</movie>
+    

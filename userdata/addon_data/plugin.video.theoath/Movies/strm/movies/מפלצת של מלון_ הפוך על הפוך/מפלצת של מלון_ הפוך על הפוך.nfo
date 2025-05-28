@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מפלצת של מלון: הפוך על הפוך</title>
+    <originaltitle>Hotel Transylvania: Transformania</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.008</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2022-01-21 17:46:18
+Dr,TE
+[COLOR lightblue]2022-01-16 13:40:15[/COLOR]
+[COLOR blue]קינג_סרט_מפלצת_של_מלון_4_2022_מדובב_1080p_WEB_DL.mp4[/COLOR]
+1.61 GB
+דראק והחבורה חוזרים בהפוך על הפוך בסרט החדש, ולצידם כמובן כל המשפחה המורחבת של בעלי המלון טראנסילבניה. והצרות לא איחרו להגיע… כאשר המצאתו המסתורית של ואן הלסינג יוצאת משליטה, משהו מוזר קורה: כל המפלצות הופכות לבני אנוש, ורק ג’וני החתן-אדם, הופך למפלצת. כעת על ג’וני ודראק לאחד כוחות ולצאת למירוץ אחר תרופה, לפני שיהיה מאוחר מדי ולפני שישגעו זה את זה לגמרי.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מפלצת של מלון_ הפוך על הפוך</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מפלצת של מלון_ הפוך על הפוך\מפלצת של מלון_ הפוך על הפוך.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מפלצת של מלון_ הפוך על הפוך\מפלצת של מלון_ הפוך על הפוך.strm</basepath>
+    <uniqueid type="tmdb" default="true">585083</uniqueid>
+    
+    <genre></genre>
+    <year>2022</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//1IXpTEiRoKwzjrK3By2PcerDuUM.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//7QabKu8tizoqy8qCZJXljdSpP4A.jpg">https://image.tmdb.org/t/p/original//7QabKu8tizoqy8qCZJXljdSpP4A.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-01-21 17:46:18</dateadded>
+</movie>
+    

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הרפתקאות מקס</title>
+    <originaltitle>הרפתקאות מקס</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes> </votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-04-5 10:28:05[/COLOR]
+מקס האריה שולט בשלווה ובנחת בממלכה בעזרתה של ליאונה חברתו הטובה. אך השלווה מתערערת כאשר מאסטר הצללים חוזר מעולמות האופל עם כוחות חדשים והתמחות באמנויות הלחימה השחורה, וגם עם שותפים עוצמתיים חדשים: קינג קוברה וטייגר חאן!</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הרפתקאות מקס</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הרפתקאות מקס\הרפתקאות מקס.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הרפתקאות מקס\הרפתקאות מקס.strm</basepath>
+    <uniqueid type="tmdb" default="true"> </uniqueid>
+    
+    <genre> </genre>
+    <year>2011</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//zxU8hfpMcikLqPUxfPH4uvXjNym.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview=" http://image.tmdb.org/t/p/original//zxU8hfpMcikLqPUxfPH4uvXjNym.jpg"> http://image.tmdb.org/t/p/original//zxU8hfpMcikLqPUxfPH4uvXjNym.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-04-05 10:28:05</dateadded>
+</movie>
+    

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הקיסר נפל על הראש</title>
+    <originaltitle>The Emperor%27s New Groove</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.547</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,TE
+[COLOR lightblue]2021-04-16 15:55:31[/COLOR]
+[COLOR blue]הקיסר נפל על הראש.מדובב.גוזלן.DVDRip.avi[/COLOR]
+0.68 GB
+קומדיה המתרחשת בממלכת הרים מסתורית כשהקיסר הצעיר והשחצן קוזקו נהפך ללמה בידי יועצתו התככנית דיוה יאזמה. סיכוייו היחידים לתפוס חזרה את השלטון הם בעזרת פאצה - איכר טוב לב. קוזקו והאיכר עוברים הרפתקה בה הם ניתקלים בסכנות, מצבים קומיים ומשעשים במרוץ להשיב את קוזקו לכס המלוכה. הידידות של קוזקו עם פאצה מלמדת אותו לראות את העולם מזווית אחרת.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הקיסר נפל על הראש</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הקיסר נפל על הראש\הקיסר נפל על הראש.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הקיסר נפל על הראש\הקיסר נפל על הראש.strm</basepath>
+    <uniqueid type="tmdb" default="true">11688</uniqueid>
+    
+    <genre>הרפתקאות </genre>
+<genre> אנימציה </genre>
+<genre> קומדיה </genre>
+<genre> משפחה </genre>
+<genre> פנטזיה</genre>
+    <year>2005</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//Amha0noUnsSBaMnpCWinYg3Fy2e.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//mZj8EUr6F1x2PWZjKPxaeYd5WRw.jpg">https://image.tmdb.org/t/p/original//mZj8EUr6F1x2PWZjKPxaeYd5WRw.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-04-16 15:55:31</dateadded>
+</movie>
+    

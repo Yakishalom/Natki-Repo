@@ -1,0 +1,16 @@
+<settings version="2">
+    <setting id="unfilter_test" default="true" />
+    <setting id="dns" default="true">1.1.1.1</setting>
+    <setting id="kids_dp">true</setting>
+    <setting id="update_kids">3</setting>
+    <setting id="username" default="true" />
+    <setting id="Password_sdr" default="true" />
+    <setting id="max_quality" default="true">1080</setting>
+    <setting id="firebase" default="true" />
+    <setting id="debug" default="true">false</setting>
+    <setting id="number_of_pages">3</setting>
+    <setting id="alt_video_player">true</setting>
+    <setting id="show_debug" default="true">false</setting>
+    <setting id="port">63626</setting>
+    <setting id="library.movie" default="true">special://userdata/addon_data/plugin.video.theoath/Movies</setting>
+</settings>

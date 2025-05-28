@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>אי.טי. - חבר מכוכב אחר</title>
+    <originaltitle>E.T. the Extra-Terrestrial</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.509</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>TE
+[COLOR lightblue]2019-12-25 21:18:35[/COLOR]
+[COLOR blue]אי_טי_חבר_מכוכב_אחר_מדובב_גוזלן.mp4[/COLOR]
+0.52 GB
+אחד הסרטים החשובים והאהובים ביותר של סטיבן שפילברג. קבוצה של חייזרים שנחתה על כדור הארץ מתגלה על ידי הרשויות ובבריחתם המהירה הם משאירים אחד מהם מאחור. היצור החמוד מאומץ על ידי אליוט, ילד בן 10 שקורא לו אי.טי (יצור מכוכב אחר באנגלית) ומנסה לשמור עליו בסוד. תוך כדי הניסיון להסתיר את החייזר מהוריו וממבוגרים בכלל, מתפתח בין אליוט לאי.טי קשר טלפתי. הרשויות מצידן מנסות לתפוס את החייזר ויהי מה. הסרט היה מועמד לתשעה פרסי אוסקר בשנת 1983 מתוכם זכה בארבעה.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אי_טי_ - חבר מכוכב אחר</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אי_טי_ - חבר מכוכב אחר\אי_טי_ - חבר מכוכב אחר.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אי_טי_ - חבר מכוכב אחר\אי_טי_ - חבר מכוכב אחר.strm</basepath>
+    <uniqueid type="tmdb" default="true">601</uniqueid>
+    
+    <genre>מדע בדיוני </genre>
+<genre> הרפתקאות </genre>
+<genre> משפחה </genre>
+<genre> פנטזיה</genre>
+    <year>1982</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//an0nD6uq6byfxXCfk6lQBzdL2J1.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//9Kg322bGsEbmp94LjCCVGz3cpNw.jpg">https://image.tmdb.org/t/p/original//9Kg322bGsEbmp94LjCCVGz3cpNw.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-12-25 21:18:35</dateadded>
+</movie>
+    

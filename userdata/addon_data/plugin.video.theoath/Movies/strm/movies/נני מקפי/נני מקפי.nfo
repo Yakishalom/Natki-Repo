@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>נני מקפי</title>
+    <originaltitle>Nanny McPhee [2005]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7</value>
+            <votes>56,147</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-01-7 08:20:06[/COLOR]
+אישה עם מראה לא נעים במיוחד וכוחות קסומים,מגיעה לביתו של אלמן הטרי מר בראון במטרה לאלף את שבעת ילדיו שכבר הבריחו 17 מטלפות אך כאשר נני מקפי לוקחת את העיניינים לידיים,וגורמת להם להבין שהתנהגותם השובבה מובילה לתוצאות קסומות.</plot>
+    <runtime>97</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\נני מקפי</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\נני מקפי\נני מקפי.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\נני מקפי\נני מקפי.strm</basepath>
+    <uniqueid type="tmdb" default="true">11283</uniqueid>
+    
+    <genre>Comedy</genre>
+<genre>Family</genre>
+<genre>Fantasy</genre>
+<genre>פנטזיה</genre>
+<genre>קומדיה</genre>
+<genre>משפחה</genre>
+    <year>2005</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=iNmWrAhYcP4</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//jXoWnMP3vk0IsQHgRg0eHZcRG6A.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//6KMnX8fWgMOVkPK1UjYyzao2nPD.jpg">http://image.tmdb.org/t/p/original//6KMnX8fWgMOVkPK1UjYyzao2nPD.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-01-07 08:20:06</dateadded>
+</movie>
+    

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>בדיחה של ממלכה</title>
+    <originaltitle>Pil</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2023-07-1 23:31:37[/COLOR]
+סיפורה של נערה אמיצה היוצאת להציל את נסיך הממלכה שכושף והפך ל... חתורנגול. בעזרת חברים טובים והרבה תושייה היא תצטרך להתגבר על כל המכשולים, למצוא את שיקוי הקסמים שיפיג את הכישוף, ולהשיב לממלכה את הכיף, השקט והשלווה.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בדיחה של ממלכה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בדיחה של ממלכה\בדיחה של ממלכה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בדיחה של ממלכה\בדיחה של ממלכה.strm</basepath>
+    <uniqueid type="tmdb" default="true">676705</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>הרפתקאות</genre>
+<genre>פנטזיה</genre>
+<genre>קומדיה</genre>
+<genre>משפחה</genre>
+    <year>2021</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=4A0muKc83Nc</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//o5PJwg28H5MDUO4XPuDR2osA3t3.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//mDvx0cafHm1Z0R295wMxzpVTGf9.jpg">http://image.tmdb.org/t/p/original//mDvx0cafHm1Z0R295wMxzpVTGf9.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-07-01 23:31:37</dateadded>
+</movie>
+    

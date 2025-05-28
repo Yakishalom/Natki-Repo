@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הפינגווינים ממדגסקר</title>
+    <originaltitle>Penguins of Madagascar</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.518</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2019-02-7 14:11:15
+ON,Dr,TE
+[COLOR lightblue]2017-04-12 21:11:17[/COLOR]
+[COLOR blue]לולו_סרטים_הפינגווינים_ממדגסקר_BDRip_מדובב.mkv[/COLOR]
+0.8 GB
+מרגלי-על לא נולדים, הם בוקעים! גלו את הסודות של הציפורים הסמויות הגדולות ביותר והמצחיקות ביותר בעסקי הריגול העולמיים: סקיפר, קובלסקי, ריקו ופריווט. הם האליטה של האליטה והם מאחדים כוחות עם ארגון חשאי אשר מונהג ע"י סוכן נאה וסודי. יחד, הם חייבים לעצור את ד"ר אוקטביוס בריין הנבזה מלהרוס את העולם כפי שאנו מכירים אותו.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הפינגווינים ממדגסקר</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הפינגווינים ממדגסקר\הפינגווינים ממדגסקר.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הפינגווינים ממדגסקר\הפינגווינים ממדגסקר.strm</basepath>
+    <uniqueid type="tmdb" default="true">270946</uniqueid>
+    
+    <genre>משפחה </genre>
+<genre> אנימציה </genre>
+<genre> הרפתקאות </genre>
+<genre> קומדיה</genre>
+    <year>2014</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//1Q9jDRHUmuy2fRHfHbLsfyDEd1.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//msnknPOg9dx86b0YozXOFP8PgBI.jpg">https://image.tmdb.org/t/p/original//msnknPOg9dx86b0YozXOFP8PgBI.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-02-07 14:11:15</dateadded>
+</movie>
+    

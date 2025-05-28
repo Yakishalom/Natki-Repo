@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>סקובי דו!</title>
+    <originaltitle>Scoob!</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.1</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>Dr,TE
+[COLOR lightblue]2023-03-02 14:00:56[/COLOR]
+[COLOR blue]720p HDTV 2020 זירה מדיה סקובי דו מדובב.mkv[/COLOR]
+1.11 GB
+לאחר מאות מקרים שנפתרו והרפתקאות משותפות, הכלב המפורסם סקובי דו והחבורה הבלשית מתמודדים עם התעלומה הגדולה והמאתגרת ביותר אי-פעם - מזימה לשחרר את כלב הרפאים האגדי סרברוס על העולם. בעזרת גיבורי על מפתיעים ובניסיונם לעצור את אסון הכלב-גלובלי הזה, החבורה מגלה שלסקובי יש מורשת סודית וייעוד גדול יותר ממה שיכלו לדמיין.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סקובי דו_</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סקובי דו_\סקובי דו_.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סקובי דו_\סקובי דו_.strm</basepath>
+    <uniqueid type="tmdb" default="true">385103</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> קומדיה </genre>
+<genre> משפחה </genre>
+<genre> מסתורין</genre>
+    <year>2020</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//3RhrewcyFJZ3J84XKg6R3K21kMn.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//fKtYXUhX5fxMxzQfyUcQW9Shik6.jpg">https://image.tmdb.org/t/p/original//fKtYXUhX5fxMxzQfyUcQW9Shik6.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-03-02 14:00:56</dateadded>
+</movie>
+    

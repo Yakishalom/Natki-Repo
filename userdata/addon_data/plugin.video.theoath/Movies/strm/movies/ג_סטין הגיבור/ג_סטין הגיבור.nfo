@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>ג'סטין הגיבור</title>
+    <originaltitle>Justin and the Knights of Valour</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.933</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2022-02-28 09:41:57
+ON,Dr,TE,TE,TE
+[COLOR lightblue]2018-10-28 22:11:30[/COLOR]
+[COLOR blue]ג'סטין הגיבור.מדובב.גוזלן.BDRip.mkv[/COLOR]
+0.82 GB
+ג'סטין חי בממלכה שנשלטת בידי בירוקרטים, ואילו האבירים נדחקו מעמדות שליטה. הוא חולם להפוך לאחד מ-"אבירי האומץ", כמו סבו, אבל אביו רג'ינלד, היועץ הראשי של המלכה, רוצה שבנו יילך בעקבותיו ויהפוך לעורך דין. לאחר ביקור מעורר השראה אצל סבתו האהובה ולאחר שנפרד לשלום מאהובתו, ג'סטין עוזב את ביתו ויוצא למסע במטרה להפוך לאביר. בדרך הוא פוגש את טליה היפהפייה והתוססת, מכשף מוזר בשם מלקוויידס ואת סר קלורקס יפה התואר. הוא אף זוכה להדרכה מידי שלושה נזירים: בלאצ'ר, לגאנטיר ובראוליו, אשר מלמדים אותו את המנהגים הקדומים של אבירי האומץ ואף בוחנים אותו על כך. על אף היותו מועמד לא סביר לאבירות, ג'סטין חייב להתמודד עד מהרה עם האתגר כאשר האביר המודח סר הראקליו וצבאו, בהנהגת סוטא, שבים ומאיימים להרוס את הממלכה.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ג_סטין הגיבור</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ג_סטין הגיבור\ג_סטין הגיבור.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ג_סטין הגיבור\ג_סטין הגיבור.strm</basepath>
+    <uniqueid type="tmdb" default="true">146381</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> הרפתקאות</genre>
+    <year>2013</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//p68OYDEyttWwWdxbnxkKAcDApio.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//nJU9mcwhp3NyrEVawziufARy64B.jpg">https://image.tmdb.org/t/p/original//nJU9mcwhp3NyrEVawziufARy64B.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-02-28 09:41:57</dateadded>
+</movie>
+    

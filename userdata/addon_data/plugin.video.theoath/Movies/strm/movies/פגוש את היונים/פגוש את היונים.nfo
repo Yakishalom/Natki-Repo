@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>פגוש את היונים</title>
+    <originaltitle>Valiant</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.485</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>TE
+[COLOR lightblue]2020-10-28 18:14:12[/COLOR]
+[COLOR blue]1080p HDTV 2005 נ.מ פגוש את היונים מדובב.mkv[/COLOR]
+1.42 GB
+וליאנט, יונה קטנה עם חלומות גדולים, מתגייס לחיל היונים של הוד מלכותה במלחמת העולם השנייה. לאחר שיחידות העילית נופלות בקרב אחת אחרי השנייה, עתיד הממלכה הבריטית נופל על כנפיהן של וליאנט ויחידתו שמורכבת מקבוצה משונה של יונים: פושע קטן, אריסטוקרט כחוש, צמד אחים שכוחם עולה על חכמתם וואלינט, יונה קטנת ממדים, שעל חסרונותיו הפיזיים הוא מפצה בתעוזה. בקרב המכריע אומץ ותעוזה הם שהופכים יונה קטנה לגיבור מלחמה. היוצרים של "שרק" מביאים אלינו סרט אנימציה עם מעוף.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פגוש את היונים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פגוש את היונים\פגוש את היונים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פגוש את היונים\פגוש את היונים.strm</basepath>
+    <uniqueid type="tmdb" default="true">14175</uniqueid>
+    
+    <genre>משפחה </genre>
+<genre> אנימציה </genre>
+<genre> הרפתקאות </genre>
+<genre> קומדיה </genre>
+<genre> מלחמה</genre>
+    <year>2005</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//chtAKvXb897I2Pn8HOkV4TC5Jzz.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//7qN0QWm2lXjjUoo3hzxz0412Oky.jpg">https://image.tmdb.org/t/p/original//7qN0QWm2lXjjUoo3hzxz0412Oky.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-10-28 18:14:12</dateadded>
+</movie>
+    

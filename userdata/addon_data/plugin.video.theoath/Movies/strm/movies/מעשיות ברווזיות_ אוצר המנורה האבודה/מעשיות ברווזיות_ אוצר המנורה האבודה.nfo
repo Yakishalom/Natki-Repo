@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מעשיות ברווזיות: אוצר המנורה האבודה</title>
+    <originaltitle>DuckTales the Movie: Treasure of the Lost Lamp [1990]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7</value>
+            <votes>21,787</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2017-12-4 13:07:14[/COLOR]
+דוד קמצוץ הקמצן מגלה היכן נמצא אוצרו האבוד של מולי באבא ו-40 השודדים שלו, בהגיעו אל האוצר הוא מוצא מנורה ישנה שאותה הוא נותן לאחייניתו הקטנה כדי שתכין תה לבובות שלה. כאשר היא חוזרת לביתה, היא מגלה ביחד עם האחיינים שלה, כי במנורה יש שד קסום שממלא את משאלותיהם, אך מורגן, המכשף האכזר, אדונו הקודם של השד מנסה גם הוא להשיג את המנורה הקסומה.</plot>
+    <runtime>74</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מעשיות ברווזיות_ אוצר המנורה האבודה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מעשיות ברווזיות_ אוצר המנורה האבודה\מעשיות ברווזיות_ אוצר המנורה האבודה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מעשיות ברווזיות_ אוצר המנורה האבודה\מעשיות ברווזיות_ אוצר המנורה האבודה.strm</basepath>
+    <uniqueid type="tmdb" default="true">10837</uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Adventure</genre>
+<genre>Comedy</genre>
+<genre>הרפתקאות</genre>
+<genre>אנימציה</genre>
+<genre>משפחה</genre>
+<genre>קומדיה</genre>
+<genre>פנטזיה</genre>
+    <year>1990</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=0kgjtjdlEkM</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//dPikP4LLcw2JV2LSBKKVtcl5d4v.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//k0DpC04G7tHanxDGdNksxvSH63A.jpg">http://image.tmdb.org/t/p/original//k0DpC04G7tHanxDGdNksxvSH63A.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2017-12-04 13:07:14</dateadded>
+</movie>
+    

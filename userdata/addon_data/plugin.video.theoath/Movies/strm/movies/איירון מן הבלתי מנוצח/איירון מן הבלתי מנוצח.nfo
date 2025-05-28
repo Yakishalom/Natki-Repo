@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>איירון מן הבלתי מנוצח</title>
+    <originaltitle>The Invincible Iron Man [Video 2007]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>6,294</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-03-29 13:12:27[/COLOR]
+טוני סטארק הינו ממציא מולטי מיליונר שמשתמש בטכנולוגיה פורצת דרך כדי להרים בצורהפיסיקלית עיר שנשכחה, הוא מקים לתחייה רוע, ונותן חיים לרשע. רק איש אחד יכול לעצוראת עיר הרשע החדשה. אחד שיש לו חליפה מיוחדת מפלדה שיצא להציל את העולם!</plot>
+    <runtime>83</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\איירון מן הבלתי מנוצח</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\איירון מן הבלתי מנוצח\איירון מן הבלתי מנוצח.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\איירון מן הבלתי מנוצח\איירון מן הבלתי מנוצח.strm</basepath>
+    <uniqueid type="tmdb" default="true">13647</uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Action</genre>
+<genre>Adventure</genre>
+<genre>אקשן</genre>
+<genre>הרפתקאות</genre>
+<genre>אנימציה</genre>
+<genre>פנטזיה</genre>
+<genre>מדע בדיוני</genre>
+    <year>2007</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=-8cMfBIQF88</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//7jDmWZW0C9nXEgsKNGs1nZT1EPv.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//oUi2pvNbHCUiEFSqawp5dJdQNMK.jpg">http://image.tmdb.org/t/p/original//oUi2pvNbHCUiEFSqawp5dJdQNMK.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-03-29 13:12:27</dateadded>
+</movie>
+    

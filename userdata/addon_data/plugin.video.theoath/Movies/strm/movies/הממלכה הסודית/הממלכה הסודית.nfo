@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הממלכה הסודית</title>
+    <originaltitle>Epic</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.498</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2024-01-21 00:22:55
+ON,Dr,TE,TE
+[COLOR lightblue]2020-07-16 00:48:44[/COLOR]
+[COLOR blue]הממלכה הסודית.מדובב.גוזלן.avi[/COLOR]
+0.68 GB
+מהיוצרים של עידן הקרח וריו, מגלים עולם חבוי שמעולם לא נראה כמותו בקומדיית הרפתקאות חדשה. "הממלכה הסודית" מציגה סיפור על המאבק הסובב אותנו; כוחות האור ששומרים על הטבע, לבין כוחות האופל שרוצים להשמיד אותו. כשנערה צעירה משתגרת באופן על-טבעי אל תוך הממלכה הסודית, היא מגלה את "צוות הראג-ראג" וחוברת עם דמויות מצחיקות וייחודיות כדי להציל את שני העולמות.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הממלכה הסודית</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הממלכה הסודית\הממלכה הסודית.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הממלכה הסודית\הממלכה הסודית.strm</basepath>
+    <uniqueid type="tmdb" default="true">116711</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> הרפתקאות </genre>
+<genre> משפחה </genre>
+<genre> פנטזיה</genre>
+    <year>2013</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//iv7pIupXHize0aFdlQ4O86hmQZs.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//lQ95iwZt1ZdDuDhB0rpFZPgFCBu.jpg">https://image.tmdb.org/t/p/original//lQ95iwZt1ZdDuDhB0rpFZPgFCBu.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2024-01-21 00:22:55</dateadded>
+</movie>
+    

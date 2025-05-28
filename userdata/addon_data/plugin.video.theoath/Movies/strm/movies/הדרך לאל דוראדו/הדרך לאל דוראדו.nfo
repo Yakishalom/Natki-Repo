@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הדרך לאל דוראדו</title>
+    <originaltitle>The Road to El Dorado</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.243</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,TE
+[COLOR lightblue]2021-06-02 00:06:08[/COLOR]
+[COLOR blue]הדרך לאל דוראדו.מדובב.גוזלן.DVDRip.avi[/COLOR]
+0.63 GB
+תחילת המאה ה-16. הקונקוויסטדורים הספרדים כובשים את דרום אמריקה. צמד נוכלים זוטרים טוליו ומיגל שמים את ידיהם על המפה שמובילה לעיר הזהב האגדית אל-דורדו. הם נמלטים מספינתו של קורטז ומגיעים אל העיר המובטחת, אך כאן רק מתחילות הצרות האמיתיות.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הדרך לאל דוראדו</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הדרך לאל דוראדו\הדרך לאל דוראדו.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הדרך לאל דוראדו\הדרך לאל דוראדו.strm</basepath>
+    <uniqueid type="tmdb" default="true">10501</uniqueid>
+    
+    <genre>משפחה </genre>
+<genre> הרפתקאות </genre>
+<genre> אנימציה </genre>
+<genre> קומדיה </genre>
+<genre> פנטזיה</genre>
+    <year>2000</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//q3RzfgZZnBxMRyzz87dH8SQt8Ru.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//ciID0Mu1pPuOUP3JbOsDXQ5aMV6.jpg">https://image.tmdb.org/t/p/original//ciID0Mu1pPuOUP3JbOsDXQ5aMV6.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-06-02 00:06:08</dateadded>
+</movie>
+    

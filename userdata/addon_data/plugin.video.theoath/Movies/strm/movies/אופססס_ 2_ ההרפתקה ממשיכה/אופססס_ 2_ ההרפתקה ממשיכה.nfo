@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>אופססס! 2: ההרפתקה ממשיכה</title>
+    <originaltitle>Ooops! The Adventure Continues</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2022-07-1 11:42:23[/COLOR]
+לאחר שהוסר איום המבול הגדול, שטה תיבת נוח בים בחיפושים אחר אדמה. ההרמוניה בין בעלי החיים, שנמצאים בה, מתחילה להיסדק ככל שעוברים הימים בתיבה הצפופה, כשברקע מלאי האוכל, המצומצם ממילא, מתחיל להיגמר.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אופססס_ 2_ ההרפתקה ממשיכה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אופססס_ 2_ ההרפתקה ממשיכה\אופססס_ 2_ ההרפתקה ממשיכה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אופססס_ 2_ ההרפתקה ממשיכה\אופססס_ 2_ ההרפתקה ממשיכה.strm</basepath>
+    <uniqueid type="tmdb" default="true">587562</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>הרפתקאות</genre>
+<genre>קומדיה</genre>
+<genre>משפחה</genre>
+    <year>2020</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=76AcoMW4VQ4</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//yymofOh0qAQnhzXsCTYYH8na7oe.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//oi9k7RySgadRwl8bAdXt7ehnt2f.jpg">http://image.tmdb.org/t/p/original//oi9k7RySgadRwl8bAdXt7ehnt2f.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-07-01 11:42:23</dateadded>
+</movie>
+    

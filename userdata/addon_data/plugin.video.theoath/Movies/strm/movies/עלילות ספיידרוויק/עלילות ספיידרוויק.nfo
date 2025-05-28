@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>עלילות ספיידרוויק</title>
+    <originaltitle>The Spiderwick Chronicles</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.614</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2018-10-27 08:21:22
+ON,TE
+[COLOR lightblue]2018-07-11 23:40:05[/COLOR]
+[COLOR blue]עלילות ספיידרוויק.מדובב.גוזלן.avi[/COLOR]
+0.69 GB
+משפחת גרייס עוברת להתגורר באחוזת ספיידרוויק המבודדת והרעועה, שהיתה שייכת בעבר לבני המשפחה ארתור ספיידרוויק (דייויד סתראת'רן) ובתו לוסינדה (ג'ואן פלורייט). למרות שהילדים הסתייגו מהמעבר, הם מתחילים להסתגל לביתם החדש: סיימון בוחן את הבית יוצא הדופן, מאלורי מתרגלת את הסיף שלה, והלן מוצאת עבודה בעיירה הקרובה. ג'ארד לעומת זאת, מגלה כמה עניינים מוזרים בבית הקסום, ומתחיל מיד לחקור אותם. הוא מתעלם מאזהרותיו של השדון הטוב טימבלטק (מרטין שורט), יצור קסום החי בקירות הבית, ונתקל בספר מוזר ומעט מסוכן שנכתב על ידי דודו ארתור, "מורה הנבוכים של ארתור ספיידרוויק לעולם הפנטזיה הסובב אותך". כשפותחים את הספר, הוא חושף ומשחרר לחופשי עולם חדש שאופף את אחוזת ספיידרוויק, כולו מאוכלס ביצורים מוזרים, נפלאים אך מפחידים, כמו השדון המקפץ והידידותי הוגסקוויל (סת' רוגאן), חבורת שדונים מסוכנים ופיות יפות ומסתוריות. הילדים מבינים שהספר אינו סתם פרי דמיונו הקודח של דודם, אלא המפתח לכל אותם יצורים מופלאים בהם פגשו.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\עלילות ספיידרוויק</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\עלילות ספיידרוויק\עלילות ספיידרוויק.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\עלילות ספיידרוויק\עלילות ספיידרוויק.strm</basepath>
+    <uniqueid type="tmdb" default="true">8204</uniqueid>
+    
+    <genre>משפחה </genre>
+<genre> הרפתקאות </genre>
+<genre> פנטזיה</genre>
+    <year>2008</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//ayGGrugKW2jGtEWsv40MXjcjLuf.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//mA8AQ9xVs3cniRqL8DnGlHFoFya.jpg">https://image.tmdb.org/t/p/original//mA8AQ9xVs3cniRqL8DnGlHFoFya.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-10-27 08:21:22</dateadded>
+</movie>
+    

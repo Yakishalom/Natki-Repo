@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>המסע לכוכב המינימיקים</title>
+    <originaltitle>המסע לכוכב המינימיקים</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes> </votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-04-4 17:15:53[/COLOR]
+מבוסס על סדרת הטלוויזיה 'מיקמק'. מקס השובב והאמיץ, זואי המתוחכמת והיפה, ג'ימבו הפזיז והקול וסנאי החנון והגאון. הסיפור מתרחש ביום המינימיקים השנתי שהוא יום חג. הגברת מיקיאוולי, האישה החזקה והעשירה במיקמק סיטי לא יכולה לסבול את המינימיקים ורוקחת שיקוי שהופך את היום השמח ליום של סכנה. האם יצליחו החבורה להציל את העיר שלהם?</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\המסע לכוכב המינימיקים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\המסע לכוכב המינימיקים\המסע לכוכב המינימיקים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\המסע לכוכב המינימיקים\המסע לכוכב המינימיקים.strm</basepath>
+    <uniqueid type="tmdb" default="true"> </uniqueid>
+    
+    <genre> </genre>
+    <year>2013</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://ia.media-imdb.com/images/M/MV5BMzZhZDY5ODAtMWY3Yi00MzFlLWIyOWYtZThlZTRiZThiZjY3XkEyXkFqcGdeQXVyMjMyMzI4MzY@._V1_UY268_CR3,0,182,268_AL_.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://ia.media-imdb.com/images/M/MV5BMzZhZDY5ODAtMWY3Yi00MzFlLWIyOWYtZThlZTRiZThiZjY3XkEyXkFqcGdeQXVyMjMyMzI4MzY@._V1_UY268_CR3,0,182,268_AL_.jpg">https://ia.media-imdb.com/images/M/MV5BMzZhZDY5ODAtMWY3Yi00MzFlLWIyOWYtZThlZTRiZThiZjY3XkEyXkFqcGdeQXVyMjMyMzI4MzY@._V1_UY268_CR3,0,182,268_AL_.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-04-04 17:15:53</dateadded>
+</movie>
+    

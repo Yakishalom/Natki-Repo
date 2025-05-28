@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>חתול תעלול</title>
+    <originaltitle>The Cat in the Hat</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.303</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2022-04-21 08:54:55
+ON,Dr,TE,TE
+[COLOR lightblue]2021-02-08 19:16:28[/COLOR]
+[COLOR blue]חתול תעלול .2003.מדובב.גוזלן.HDTV.mp4[/COLOR]
+1.04 GB
+לאחר ההצלחה הגדולה של "הגרינץ" מגיע אלינו סרט חדש המבוסס על ספרו של דוקטור סוס, כאשר שני ילדים נמצאים בבית לבד ביום שלג מגיע חתול תעלול ועוזר להם להפיג את השיעמום ופותח את דמיונם לעולמות חדשים ומוזרים.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\חתול תעלול</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\חתול תעלול\חתול תעלול.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\חתול תעלול\חתול תעלול.strm</basepath>
+    <uniqueid type="tmdb" default="true">10588</uniqueid>
+    
+    <genre>קומדיה </genre>
+<genre> הרפתקאות </genre>
+<genre> משפחה </genre>
+<genre> פנטזיה</genre>
+    <year>2003</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//hG2a0cdue12RybUQPnKFndosnDb.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//au236RSArVTOMXM6AXVNBPZEKNb.jpg">https://image.tmdb.org/t/p/original//au236RSArVTOMXM6AXVNBPZEKNb.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-04-21 08:54:55</dateadded>
+</movie>
+    

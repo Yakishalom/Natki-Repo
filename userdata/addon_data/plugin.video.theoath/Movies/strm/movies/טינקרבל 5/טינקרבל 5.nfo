@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>טינקרבל 5</title>
+    <originaltitle>טינקרבל 5</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>TE
+[COLOR lightblue]2023-03-15 16:18:37[/COLOR]
+[COLOR blue]720p HDTV 2012 זירה מדיה טינקרבל 5 מדובב.mkv[/COLOR]
+0.86 GB
+TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טינקרבל 5</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טינקרבל 5\טינקרבל 5.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טינקרבל 5\טינקרבל 5.strm</basepath>
+    <uniqueid type="tmdb" default="true"></uniqueid>
+    
+    <genre></genre>
+    <year>2012</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLd1qz7vDQz79zTTgddDCanmev34lU4E246XoMPYIwJ0q-m5ud&s</thumb>
+    <fanart>
+      <thumb colors="" preview="https://blog.pearachutekids.com/wp-content/uploads/2019/06/netflix-Cover.jpg">https://blog.pearachutekids.com/wp-content/uploads/2019/06/netflix-Cover.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-03-15 16:18:37</dateadded>
+</movie>
+    

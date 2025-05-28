@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>צבי הנינג'ה: טירוף המוטנטים</title>
+    <originaltitle>Teenage Mutant Ninja Turtles: Mutant Mayhem</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2023-11-10 13:18:27[/COLOR]
+לאחר שנים שהיו מוגנים מעולמם של בני האדם, צבי הנינג'ה מוכנים לכבוש את ליבם של תושבי ניו יורק ולהתקבל כבני נוער רגילים באמצעות מעשי גבורה. חברתם החדשה, אפריל אוניל, עוזרת להם להילחם מול ארגון פשע מסתורי, אולם במהרה העניינים יוצאים מכלל שליטה כאשר צבא של מוטנטים נשלח כדי להילחם בהם.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\צבי הנינג_ה_ טירוף המוטנטים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\צבי הנינג_ה_ טירוף המוטנטים\צבי הנינג_ה_ טירוף המוטנטים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\צבי הנינג_ה_ טירוף המוטנטים\צבי הנינג_ה_ טירוף המוטנטים.strm</basepath>
+    <uniqueid type="tmdb" default="true">614930</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>קומדיה</genre>
+<genre>אקשן</genre>
+<genre>מדע בדיוני</genre>
+    <year>2023</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ooZdaF2zMlM</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//yod952W96p8v75PF400vIqFSOSf.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//w2nFc2Rsm93PDkvjY4LTn17ePO0.jpg">http://image.tmdb.org/t/p/original//w2nFc2Rsm93PDkvjY4LTn17ePO0.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-11-10 13:18:27</dateadded>
+</movie>
+    

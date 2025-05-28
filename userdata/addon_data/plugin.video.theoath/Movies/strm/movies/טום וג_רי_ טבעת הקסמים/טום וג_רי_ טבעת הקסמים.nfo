@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>טום וג'רי: טבעת הקסמים</title>
+    <originaltitle>Tom and Jerry: The Magic Ring</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2021-08-3 18:51:20[/COLOR]
+טום עוזב את הבית לכמה זמן, ובמשך הזמן הזה ג'רי מסתבך ובטעות נדבקת לו לראש טבעת יקרה מאוד של נסיכה. הוא קורא לחבר שלו שהוא קוסם כדי שינסה להוריד אותה ויחזיר אותה לנסיכה.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טום וג_רי_ טבעת הקסמים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טום וג_רי_ טבעת הקסמים\טום וג_רי_ טבעת הקסמים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טום וג_רי_ טבעת הקסמים\טום וג_רי_ טבעת הקסמים.strm</basepath>
+    <uniqueid type="tmdb" default="true">14787</uniqueid>
+    
+    <genre>משפחה</genre>
+<genre>אנימציה</genre>
+<genre>פנטזיה</genre>
+<genre>קומדיה</genre>
+<genre>אקשן</genre>
+    <year>2002</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//v1FwZbbnrFwviFsciikq3OOP8rM.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//a7IN7BCgc7lMqoitDx3i7RWOBbk.jpg">http://image.tmdb.org/t/p/original//a7IN7BCgc7lMqoitDx3i7RWOBbk.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-08-03 18:51:20</dateadded>
+</movie>
+    

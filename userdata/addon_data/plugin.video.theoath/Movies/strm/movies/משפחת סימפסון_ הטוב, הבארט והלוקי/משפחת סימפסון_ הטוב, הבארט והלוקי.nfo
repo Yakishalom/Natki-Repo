@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>משפחת סימפסון: הטוב, הבארט והלוקי</title>
+    <originaltitle>The Simpsons: The Good, the Bart, and the Loki</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.346</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>TE
+[COLOR lightblue]2021-05-31 18:44:27[/COLOR]
+[COLOR blue]חן_סרטים_משפחת_סימפסון_מדובב_עי_יוקו.mp4[/COLOR]
+0.32 GB
+לוקי שוב מגורש מאסגרד ועליו להתמודד עם יריביו הקשים עד כה: הסימפסונים והגיבורים האדירים ביותר של ספרינגפילד. אל התכסיסים משתף פעולה עם בארט סימפסון באירוע הקרוסאובר האולטימטיבי ומחווה ליקום הקולנועי של מארוול.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\משפחת סימפסון_ הטוב, הבארט והלוקי</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\משפחת סימפסון_ הטוב, הבארט והלוקי\משפחת סימפסון_ הטוב, הבארט והלוקי.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\משפחת סימפסון_ הטוב, הבארט והלוקי\משפחת סימפסון_ הטוב, הבארט והלוקי.strm</basepath>
+    <uniqueid type="tmdb" default="true">846214</uniqueid>
+    
+    <genre></genre>
+    <year>2021</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//rtMdtzywcAGOrF6t8fbxJBqpdcq.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//jBUukLTCmXL79itbmK5JtQvImYS.jpg">https://image.tmdb.org/t/p/original//jBUukLTCmXL79itbmK5JtQvImYS.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-05-31 18:44:27</dateadded>
+</movie>
+    

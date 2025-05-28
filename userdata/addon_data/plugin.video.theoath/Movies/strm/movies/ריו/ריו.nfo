@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>ריו</title>
+    <originaltitle>Rio</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.717</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE,TE
+[COLOR lightblue]2022-03-26 21:31:30[/COLOR]
+[COLOR blue]1080p BluRay 2011 זירה מדיה ריו 1 מדובב.mkv[/COLOR]
+1.55 GB
+בלו הוא תוכי מהסוג הנדיר מקאו ספיקס. כשבלו היה גוזל צעיר נחטף על ידי מבריחים. בדרך הכלוב שלו נופל בעיירה קטנה במינסוטה, ארצות הברית. שם מוצאת אותו ילדה בשם לינדה והיא מאמצת אותו אליה. אחרי 15 שנים שבלו עוד לא למד בהם לעוף, מגיע לחנות הספרים של לינדה, דוקטור לציפורים שחי בריו דה ז'ניירו ואומר להם שהוא הזכר היחיד מהמין שלו וכדי שהזן לא ייכחד, עליו לבוא לריו כדי לפגוש את התוכית היחידה מהמין הזה, ג'ול. אחרי כמה זמן הם מתחילים להתאהב ולפגוש שלוש ציפורים שעוזרות להם בעצם להתאהב.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ריו</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ריו\ריו.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ריו\ריו.strm</basepath>
+    <uniqueid type="tmdb" default="true">46195</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> הרפתקאות </genre>
+<genre> קומדיה </genre>
+<genre> משפחה</genre>
+    <year>2011</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//gluQrnzyh17GGADblwyTEc5BXJK.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//qPQTqmJ5nL96ou81spQIJ32HC9a.jpg">https://image.tmdb.org/t/p/original//qPQTqmJ5nL96ou81spQIJ32HC9a.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-03-26 21:31:30</dateadded>
+</movie>
+    

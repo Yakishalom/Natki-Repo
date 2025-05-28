@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>ליאו</title>
+    <originaltitle>Leo</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2023-11-22 10:20:43[/COLOR]
+אדם סנדלר הוא ליאו הלטאה בקומדיית התבגרות מוזיקלית על השנה האחרונה בבית הספר היסודי, כפי שהיא נראית דרך עיניה של חיית המחמד הכיתתית.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ליאו</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ליאו\ליאו.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ליאו\ליאו.strm</basepath>
+    <uniqueid type="tmdb" default="true">1075794</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>קומדיה</genre>
+<genre>משפחה</genre>
+    <year>2023</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=G_AEL-Xo5l8</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//gSOVog7ydsaF1YpgAqBqnKYFGY.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//9PqD3wSIjntyJDBzMNuxuKHwpUD.jpg">http://image.tmdb.org/t/p/original//9PqD3wSIjntyJDBzMNuxuKHwpUD.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-11-22 10:20:43</dateadded>
+</movie>
+    

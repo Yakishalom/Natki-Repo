@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מרוץ החיות הגדול</title>
+    <originaltitle>Rally Road Racers</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2023-12-22 18:15:40[/COLOR]
+ז'י הוא קופיף מזן איטי, שלעומת שאר חבריו יש לו אנרגיה בלתי פוסקת. כאשר ביתה של סבתו עומד להימכר הוא מחליט להירשם להתחרות במרוץ מכוניות. אם יזכה בפרס הראשון הוא יוכל לעזור לסבתו לשמור על ביתה. הרפתקה במהירות גבוהה לכל המשפחה.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מרוץ החיות הגדול</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מרוץ החיות הגדול\מרוץ החיות הגדול.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מרוץ החיות הגדול\מרוץ החיות הגדול.strm</basepath>
+    <uniqueid type="tmdb" default="true">1008102</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>משפחה</genre>
+<genre>קומדיה</genre>
+    <year>2023</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=6S1oRHIpV3w</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//1b6Bxho4UgJVZTmQqgpuJTsCERy.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//ooXeD2XghNOg4JEb7XQPL3YPE5y.jpg">http://image.tmdb.org/t/p/original//ooXeD2XghNOg4JEb7XQPL3YPE5y.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-12-22 18:15:40</dateadded>
+</movie>
+    

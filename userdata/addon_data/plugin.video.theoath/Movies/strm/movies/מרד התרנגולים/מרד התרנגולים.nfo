@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מרד התרנגולים</title>
+    <originaltitle>Chicken Run</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.753</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2021-05-31 18:53:08
+Dr,TE,TE
+[COLOR lightblue]2018-08-09 17:49:54[/COLOR]
+[COLOR blue]מרד התרנגולים.מדובב.גוזלן.avi[/COLOR]
+0.69 GB
+הם אסירים מאחורי גדר תיל, פוחדים לחייהם וחולמים על החופש. כל נסיון בריחה מסוכל ומנהיג הכנופיה נשלח לבידוד, אבל זהו אינו כלא רגיל והם אינם אסירים רגילים. הם תרנגולות הכלואות בלול לייצור ביצים, ומי שלא מספק ביצה לארוחת הבוקר עלול להפוך בעצמו לארוחת הערב, אבל ג'ינג'ר וחבריה ללהקה מחליטים לברוח, הזמן קצר והמלאכה אינסופית לאחר שבעלת הלול מחליטה להתחיל להפוך תרנגולות לפשטידות עוף, בעזרתו של רוקי הם מחליטים לעוף רחוק, לחופשי, אבל דברים לא תמיד עובדים כמתוכנן.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מרד התרנגולים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מרד התרנגולים\מרד התרנגולים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מרד התרנגולים\מרד התרנגולים.strm</basepath>
+    <uniqueid type="tmdb" default="true">7443</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> קומדיה </genre>
+<genre> משפחה</genre>
+    <year>2000</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//f2b2s8Bz1Z8aHBXqbjCBdw2bgPa.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//xWG7emUlBPhsJ2MyQHqH0poeXwm.jpg">https://image.tmdb.org/t/p/original//xWG7emUlBPhsJ2MyQHqH0poeXwm.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-05-31 18:53:08</dateadded>
+</movie>
+    

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>חברים על הכוונת 4: להפחיד את הדוב</title>
+    <originaltitle>Open Season: Scared Silly</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.949</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE,TE
+[COLOR lightblue]2023-05-28 14:02:55[/COLOR]
+[COLOR blue]1080p 2015 חברים על הכוונת 4 מדובב.mkv[/COLOR]
+1.42 GB
+החברים האהובים חוזרים להרפתקה קומית חדשה, והפעם: האגדה המספרת על איש-זאב שחי ביער. בוג, דוב הגריזלי החביב מבוהל מהרעיון ומסרב לצאת לקמפינג המסורתי עם חבריו, עד שיידע בוודאות כי האיש-זאב אינו שם. זו הזדמנות נהדרת עבור חבריו להתאגד לעזור לו להתמודד עם פחדיו, כדי שיוכלו להמשיך ליהנות ביחד.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\חברים על הכוונת 4_ להפחיד את הדוב</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\חברים על הכוונת 4_ להפחיד את הדוב\חברים על הכוונת 4_ להפחיד את הדוב.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\חברים על הכוונת 4_ להפחיד את הדוב\חברים על הכוונת 4_ להפחיד את הדוב.strm</basepath>
+    <uniqueid type="tmdb" default="true">382517</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> קומדיה </genre>
+<genre> משפחה </genre>
+<genre> הרפתקאות</genre>
+    <year>2015</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//tLe0Y4dynYE96on1ao3czAuuCUd.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//5XQLZibhGQUxsnd093DZHDIwbzY.jpg">https://image.tmdb.org/t/p/original//5XQLZibhGQUxsnd093DZHDIwbzY.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-05-28 14:02:55</dateadded>
+</movie>
+    

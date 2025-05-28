@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>פדינגטון</title>
+    <originaltitle>Paddington</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.058</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>TE
+[COLOR lightblue]2018-06-02 20:32:27[/COLOR]
+[COLOR blue]הדב פדינגטון.מדובב.גוזלן.avi[/COLOR]
+0.68 GB
+במעמקי הג'ונגל של פרו, חי הדוב פדינגטון עם דודו ודודתו בשלווה. לאחר שרעידת אדמה מכה באזור ופוגעת בביתו, פדינגטון מחליט לעזוב ללונדון, שם הוא פוגש את מר בראון וגברת בראון, שמזמינים אותו לחיות עמו בביתם עם ילדיהם. פדינגטון הופך לבן בית במהירות, אך הכול נמצא בסכנה כאשר מיליסנט חובבת הפוחלצים, שמה את עינה על פדינגטון וזוממת להפוך אותו למיצג החדש שלה.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פדינגטון</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פדינגטון\פדינגטון.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פדינגטון\פדינגטון.strm</basepath>
+    <uniqueid type="tmdb" default="true">116149</uniqueid>
+    
+    <genre>קומדיה </genre>
+<genre> הרפתקאות </genre>
+<genre> משפחה</genre>
+    <year>2014</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//lKtEazwwHvN7cGidcOqRTssVI4l.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//wqX1vVZnBWwb0E18kt4epWYL90z.jpg">https://image.tmdb.org/t/p/original//wqX1vVZnBWwb0E18kt4epWYL90z.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-06-02 20:32:27</dateadded>
+</movie>
+    

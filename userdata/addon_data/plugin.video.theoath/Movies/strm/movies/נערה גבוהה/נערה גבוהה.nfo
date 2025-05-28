@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>נערה גבוהה</title>
+    <originaltitle>Tall Girl [2019] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5</value>
+            <votes>9,001</votes>
+        </rating>
+    </ratings>
+    <plot>2019-10-19 16:57:56
+ON,Dr
+[COLOR lightblue]2019-10-14 13:27:51[/COLOR]
+אחרי שנים של כתפיים שחוחות, ג'ודי בת ה-16 המתנשאת לגובה 1.85 מטר מחליטה לתפוס תעוזה, ונקלעת למשולש אהבים תיכוניסטי.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\נערה גבוהה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\נערה גבוהה\נערה גבוהה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\נערה גבוהה\נערה גבוהה.strm</basepath>
+    <uniqueid type="tmdb" default="true">625450</uniqueid>
+    
+    <genre>קומדיה</genre>
+<genre>דרמה</genre>
+<genre>רומנטי</genre>
+    <year>2019</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=NfpXeLVzJIw</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//m0clsFEXidLVJ0TueqWOvvImOMh.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//8wfPjfUgmGpqCIW6gS0pS0pixnA.jpg">http://image.tmdb.org/t/p/original//8wfPjfUgmGpqCIW6gS0pS0pixnA.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-10-19 16:57:56</dateadded>
+</movie>
+    

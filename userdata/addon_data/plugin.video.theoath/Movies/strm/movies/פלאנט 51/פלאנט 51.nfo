@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>פלאנט 51</title>
+    <originaltitle>Planet 51 [2009] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>50,295</votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr
+[COLOR lightblue]2020-11-16 07:19:31[/COLOR]
+יום אחד מרחק מיליונים של מיילים מהכוכב שלו, האסטרונאוט – קפטן צ'רלס 'צ'אק' בייקר – נוחת עם ספינת החלל שלו בחצר האחורית של נירה, הישר לברביקיו המשפחתי. כשהוא לא מודע לסביבה שלו הוא יוצא מהחללית להתענג על הרגע הגדול שלו.  הוא תוקע את הדגל שלו בניצחון ומסתובב... ואז הוא פוגש בתושביו ירוקי העור המבולבלים של פלאנט 51. הוא נכנס לפאניקה ובורח וממש במקרה מוצא מחסה בפלנטריום, היכן שלֶם בן ה-16 עובד.  כשלֶם וצ'אק נפגשים, הם מתגברים בהדרגה על הפחדים ההדדיים ומתחברים. לֶם מסכים להחביא את צ'אק מצבא הפרנואידים של הכוכב, שמשוכנע שהגיע חייזר להשמידם ונחוש בדעתו לתפוס אותו. אבל כל מה שצ'אק רוצה הוא להגיע לספינת החלל שלו לפני שהיא חוזרת לכדור הארץ בלעדיו!</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פלאנט 51</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פלאנט 51\פלאנט 51.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פלאנט 51\פלאנט 51.strm</basepath>
+    <uniqueid type="tmdb" default="true">16866</uniqueid>
+    
+    <genre>מדע בדיוני</genre>
+<genre>משפחה</genre>
+<genre>קומדיה</genre>
+<genre>הרפתקאות</genre>
+<genre>אנימציה</genre>
+    <year>2009</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=e46xCfLOlO8</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//o07mUgUZ1KsD1zWOIBM0EygfImZ.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//dZRstKaOYhsa2eBMfBH2m946CGD.jpg">http://image.tmdb.org/t/p/original//dZRstKaOYhsa2eBMfBH2m946CGD.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-11-16 07:19:31</dateadded>
+</movie>
+    

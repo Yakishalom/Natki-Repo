@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מלכת השלג 2: הקסם במראה</title>
+    <originaltitle>The Snow Queen 2 [2014] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>2,037</votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr
+[COLOR lightblue]2019-07-17 22:29:28[/COLOR]
+אחרי הניצחון הגדול שלהם על מלכת השלג, חגגו הטרולים את החופש ונהנו מטעם החירות. לאור תפקידו החשוב בהשגת הניצחון, הטרול גום שהוביל את המאבק הפך להיות הגיבור של כולם, אך לו זה לא מספיק. תוך כדי סיפורי גבורה מוגזמים ומצחיקים שחוגגים את מעלליו ומעשיו, הוא טווה רשת של שקרים, שבה לטענתו הוא לבדו ניצח את מלכת השלג, ולכן מגיע לו להינשא לנסיכה ולזכות בכוח גדול ועושר רב הנלווים למעמד ... התעלומה היא להיכן יובילו אותו שקריו?</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מלכת השלג 2_ הקסם במראה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מלכת השלג 2_ הקסם במראה\מלכת השלג 2_ הקסם במראה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מלכת השלג 2_ הקסם במראה\מלכת השלג 2_ הקסם במראה.strm</basepath>
+    <uniqueid type="tmdb" default="true">292014</uniqueid>
+    
+    <genre>פנטזיה</genre>
+<genre>משפחה</genre>
+<genre>אנימציה</genre>
+<genre>הרפתקאות</genre>
+    <year>2014</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=yo4n6Kownk4</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//bNF5hV9hx5A5GG3743ijCnLhXeH.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//wwW1jZSTSPW7HCcPFXgjcRVaeHM.jpg">http://image.tmdb.org/t/p/original//wwW1jZSTSPW7HCcPFXgjcRVaeHM.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-07-17 22:29:28</dateadded>
+</movie>
+    

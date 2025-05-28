@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>היפה והחיה</title>
+    <originaltitle>Beauty and the Beast [2017] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7</value>
+            <votes>239,915</votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr
+[COLOR lightblue]2019-07-5 11:08:31[/COLOR]
+היה היה פעם נסיך יפה תואר ומפונק שחי בטירה מפוארת, במהרה הוא הפך שקוע בעצמו ואדיש לזולת, וכאשר קבצנית זקנה מופיעה בטירתו ומבקשת מקלט מפני סערה המשתוללת בחוץ, ומציעה לו ורד יחיד בתמורה, הוא משליך אותה מביתו. הקבצנית מתגלה כקוסמת וכדי להעניש אותו על אכזריותו, היא מטילה קללה על הטירה. הנסיך הופך לחיה מפלצתית וכל דרי הטירה לחפצים מכושפים. כדי לשבור את הכישוף, הוא חייב ללמוד לאהוב ולהיות ראוי לאהבה לפני שהעלה האחרון של הוורד הקסום ייפול, אחרת הכישוף יימשך לנצח. שנים מאוחר יותר, בל, צעירה יפה, יוצאת לחפש את אביה הנעדר ומגיעה לטירה המכושפת, בה הוא שבוי. לאחר שבל מתנדבת להחליף את אביה כשבויה היא מתחילה לגלות כי החיה המפלצתית מסוגל להיות נדיב, מצחיק ומלא חמלה. בל עוזרת לו להיות אדם טוב יותר ולאט לאט הוא מתחיל לחזור לחיים ולהאמין שאולי יש סיכוי לשבור את הכישוף.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\היפה והחיה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\היפה והחיה\היפה והחיה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\היפה והחיה\היפה והחיה.strm</basepath>
+    <uniqueid type="tmdb" default="true">321612</uniqueid>
+    
+    <genre>משפחה</genre>
+<genre>פנטזיה</genre>
+<genre>רומנטי</genre>
+    <year>2017</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=e3Nl_TCQXuw</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//tWqifoYuwLETmmasnGHO7xBjEtt.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//7QshG75xKCmClghQDU1ta2BTaja.jpg">http://image.tmdb.org/t/p/original//7QshG75xKCmClghQDU1ta2BTaja.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-07-05 11:08:31</dateadded>
+</movie>
+    

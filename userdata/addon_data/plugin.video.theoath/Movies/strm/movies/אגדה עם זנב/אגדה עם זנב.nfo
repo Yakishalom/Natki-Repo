@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>אגדה עם זנב</title>
+    <originaltitle>Troll: The Tale of a Tail</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.0</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2023-05-28 14:02:04
+ON,TE,TE
+[COLOR lightblue]2021-03-08 16:54:23[/COLOR]
+[COLOR blue]אגדה עם זנב.מדובב.גוזלן.1080p.mp4[/COLOR]
+1.15 GB
+אגדה עם זנב, מהיוצר של ״צבי הנינג'ה״, הוא סיפור הרפתקה עוצמתי וסוחף. עלילות נסיך הטרולים טרים שנותרו לו רק עוד שלושה ימים להציל את אביו, המלך גרום, אשר הפך לאבן וזנבו נגנב על ידי הרוח הרעה של היער. כמו פרודו בשר הטבעות, טרים וחבריו יוצאים למסע מסוכן ופרוע, דרך ממלכת הטרולים, כדי להחזיר את זנבו של גרום, לשחרר אותו מהכישוף ולהחזיר את הממלכה לשליט האמיתי. "אגדה עם זנב" הוא סרט הרפתקאות מצחיק ומחמם את הלב, על התבגרות בעולם שונה ודומה כאחד.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אגדה עם זנב</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אגדה עם זנב\אגדה עם זנב.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אגדה עם זנב\אגדה עם זנב.strm</basepath>
+    <uniqueid type="tmdb" default="true">475351</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> הרפתקאות </genre>
+<genre> משפחה</genre>
+    <year>2018</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//eBYTINsA6as3hNlseL0EZxsVjvA.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//HKiG96NOIHb1pS9zxJukA3Bj6u.jpg">https://image.tmdb.org/t/p/original//HKiG96NOIHb1pS9zxJukA3Bj6u.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-05-28 14:02:04</dateadded>
+</movie>
+    

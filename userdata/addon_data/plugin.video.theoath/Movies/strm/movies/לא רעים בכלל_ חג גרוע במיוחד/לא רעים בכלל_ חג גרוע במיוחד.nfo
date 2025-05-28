@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>לא רעים בכלל: חג גרוע במיוחד</title>
+    <originaltitle>The Bad Guys: A Very Bad Holiday</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2023-12-6 00:15:01[/COLOR]
+כדי לקיים את חגיגת השודים השנתית, מר זאב וחבריו בעלי החיים פורעי החוק יצטרכו להשיב לעיר כולה את רוח חג המולד – ומהר!</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לא רעים בכלל_ חג גרוע במיוחד</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לא רעים בכלל_ חג גרוע במיוחד\לא רעים בכלל_ חג גרוע במיוחד.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לא רעים בכלל_ חג גרוע במיוחד\לא רעים בכלל_ חג גרוע במיוחד.strm</basepath>
+    <uniqueid type="tmdb" default="true">1046032</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>קומדיה</genre>
+<genre>משפחה</genre>
+    <year>2023</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=28qvBwqma2c</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//hzcSDH9KbmCxT9cxuUWPFWyML4m.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//oqbcmZJJ1EWkOPiGjqABaUN18rI.jpg">http://image.tmdb.org/t/p/original//oqbcmZJJ1EWkOPiGjqABaUN18rI.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-12-06 00:15:01</dateadded>
+</movie>
+    

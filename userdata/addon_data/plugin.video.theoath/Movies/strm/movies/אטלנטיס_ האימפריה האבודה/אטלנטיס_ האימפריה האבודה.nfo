@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>אטלנטיס: האימפריה האבודה</title>
+    <originaltitle>Atlantis: The Lost Empire [2001]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7</value>
+            <votes>82,015</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2017-12-2 19:02:54[/COLOR]
+1914: מילו טאצ', נכדו של העובד הגדול, ת'אדיאוס טאצ' העובד בחדר הדוד-חימום במוזיאון. הוא יודע שאטלנטיס היה אמיתי, והוא יכול להגיע לשם אם היה בידו העיתון המסתורי של שפארדס, שיכול להדריך אותו לאטלנטיס. אבל הוא צריך מישהו שיממן את המסע. המעסיק שלו חושב שהוא שוטה, ומסרב לממן כל רעיון מטורף שלו. הוא חוזר הבייתה לדירתו ומוצא אישה שם. היא לוקחת אותו לפרסטון ב. וויטמור, חבר וותיק של סבו. הוא נותן לו את העיתון של שפארדס, צוללת וצוות 5 כוכבים. הם נוסעים דרך ההאוקיינוס האטלנטי, מתייצבים מול לובסטר גדול הבא לבקר את הליוויתן, ולבסוף מגיע לאטלנטיס. אבל האם לצוות האטלנטיס יש תשוקה לגילוי, או משהו אחר?</plot>
+    <runtime>95</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אטלנטיס_ האימפריה האבודה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אטלנטיס_ האימפריה האבודה\אטלנטיס_ האימפריה האבודה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אטלנטיס_ האימפריה האבודה\אטלנטיס_ האימפריה האבודה.strm</basepath>
+    <uniqueid type="tmdb" default="true">10865</uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Action</genre>
+<genre>Adventure</genre>
+<genre>אנימציה</genre>
+<genre>משפחה</genre>
+<genre>הרפתקאות</genre>
+<genre>מדע בדיוני</genre>
+    <year>2001</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=KmEzWfpFUPs</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//wEsnk1W1qmyIVPGJSBDIB1T6kr6.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//6tDYT0R7uzVroxR7W2nppuTv2Ha.jpg">http://image.tmdb.org/t/p/original//6tDYT0R7uzVroxR7W2nppuTv2Ha.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2017-12-02 19:02:54</dateadded>
+</movie>
+    

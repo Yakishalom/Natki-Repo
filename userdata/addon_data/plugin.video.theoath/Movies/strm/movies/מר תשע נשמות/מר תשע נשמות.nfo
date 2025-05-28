@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מר תשע נשמות</title>
+    <originaltitle>Nine Lives</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.7</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2022-09-16 17:49:38
+ON,Dr,TE
+[COLOR lightblue]2020-06-28 12:27:43[/COLOR]
+[COLOR blue]מר תשע נשמות.מדובב.גוזלן.BDRip.avi[/COLOR]
+0.62 GB
+טום ברנד הוא מיליארדר נועז וממזרי אשר הגיע הכי גבוה שניתן בתחומו. החברה בבעלותו עומדת להשלים הישג עצום - גורד השחקים הגבוה ביותר בחצי הכדור הצפוני. אבל אורח החיים המכור לעבודה של טום ניתק אותו ממשפחתו, במיוחד מאשתו היפה לארה ומבתו המעריצה אותו רבקה. לכבוד יום ההולדת ה -11 של רבקה היא מבקשת את המתנה שהיא מבקשת בכל שנה - חתול. טום שונא חתולים, אבל הוא נותר ללא מתנה ליום הולדתה של בתו ובצעד נואש הוא מגיע לחנות לחיות מחמד מיסטית המלאה בחתולים יוצאי דופן ואקזוטיים. בעל החנות, פליקס פרקינס, מראה לו חתול מיוחד, ובדרך למסיבה של בתו, טום עובר תאונה איומה. כשהוא שב להכרתו הוא מגלה כי איכשהו, הוא כעת לכוד בתוך הגוף של החתול, שאומץ על ידי משפחתו.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מר תשע נשמות</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מר תשע נשמות\מר תשע נשמות.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מר תשע נשמות\מר תשע נשמות.strm</basepath>
+    <uniqueid type="tmdb" default="true">322240</uniqueid>
+    
+    <genre>פנטזיה </genre>
+<genre> קומדיה </genre>
+<genre> משפחה</genre>
+    <year>2016</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//qMDLhGXPROW7y7tGmfUiKea6hTM.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//5HnHEodzdN7thQRMfncWdle8ybD.jpg">https://image.tmdb.org/t/p/original//5HnHEodzdN7thQRMfncWdle8ybD.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-09-16 17:49:38</dateadded>
+</movie>
+    

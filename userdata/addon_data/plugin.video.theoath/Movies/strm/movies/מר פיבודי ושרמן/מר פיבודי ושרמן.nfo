@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מר פיבודי ושרמן</title>
+    <originaltitle>Mr. Peabody & Sherman</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.735</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2022-02-07 15:59:39
+ON,Dr,TE,TE
+[COLOR lightblue]2021-10-27 15:52:34[/COLOR]
+[COLOR blue]נתי מדיה מר פיבודי ושרמן מדובב.avi[/COLOR]
+0.88 GB
+מר פיבודי, הכלב הכי מוצלח בעולם ושרמן, בנו המאומץ, משתמשים במכונת הזמן שלהם כדי לחזור לרגעים הגדולים של ההיסטוריה ולחוות אותם. אבל כששרמן לוקח את מכונת הזמן כדי להרשים את חברה שלו פני, הם בטעות יוצרים חור ביקום ויוצרים תוהו ובוהו באירועים הכי חשובים בהיסטוריה העולמית.  לפני שהם משנים לעד את העבר, ההווה והעתיד, מר פיבודי בא להציל אותם ונתקל באתגר הכי גדול שלו: להבין איך להיות הורה. ביחד השלישיה שמטיילת בזמן ישאירו את חותמם על ההיסטוריה.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מר פיבודי ושרמן</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מר פיבודי ושרמן\מר פיבודי ושרמן.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מר פיבודי ושרמן\מר פיבודי ושרמן.strm</basepath>
+    <uniqueid type="tmdb" default="true">82703</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> הרפתקאות </genre>
+<genre> משפחה</genre>
+    <year>2014</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//q98BKXo7dh4qr13ak8YWMHOZhhk.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//lkBwfDDgLw1giIdmJCbVObkTzFr.jpg">https://image.tmdb.org/t/p/original//lkBwfDDgLw1giIdmJCbVObkTzFr.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-02-07 15:59:39</dateadded>
+</movie>
+    

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>לגו ליגת צדק: התנגשות קוסמית</title>
+    <originaltitle>Lego DC Comics Super Heroes: Justice League - Cosmic Clash [Video 2016]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>860</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-04-5 11:34:51[/COLOR]
+כדור הארץ, יהלום קטן המרחף בחלל השחור, ובשביל הרובוט שנקרא בריניאק, מדובר בפריט האחרון כדי להשלים את אוסף הכוכבים שלו, אך לא אם לליגת הצדק יש משהו לומר בנושא! כאשר בריניאק משגר את סופרמן, וונדרוומן וגרין לנטרן למקומות שונים בזמן, באטמן והפלאש נאבקים כדי לאחד את ליגת הצדק, בזמן שסייבורג וסופרגירל נלחמים בהתקפות של בריניאק על כדור הארץ. סרט חדש ומקורי מבית לגו ו-די. סי. קומיקס, אז התכוננו לכל דבר מסכנה פרה- היסטורית עד עימות בלב ים, משום שזו תמיד טעות להעריך לא נכון את ליגת הצדק.</plot>
+    <runtime>78</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לגו ליגת צדק_ התנגשות קוסמית</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לגו ליגת צדק_ התנגשות קוסמית\לגו ליגת צדק_ התנגשות קוסמית.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לגו ליגת צדק_ התנגשות קוסמית\לגו ליגת צדק_ התנגשות קוסמית.strm</basepath>
+    <uniqueid type="tmdb" default="true">382512</uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Action</genre>
+<genre>Adventure</genre>
+<genre>אקשן</genre>
+<genre>הרפתקאות</genre>
+<genre>אנימציה</genre>
+<genre>קומדיה</genre>
+<genre>משפחה</genre>
+    <year>2016</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=c1pZ7iZxkJU</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//9FVST1yWAfwJ4HIYW1F5V5YtkBb.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//lMfnE3RAVPd7QCANxG3vOrJERIO.jpg">http://image.tmdb.org/t/p/original//lMfnE3RAVPd7QCANxG3vOrJERIO.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-04-05 11:34:51</dateadded>
+</movie>
+    

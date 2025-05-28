@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הארי פוטר ואוצרות המוות, חלק ב'</title>
+    <originaltitle>Harry Potter and the Deathly Hallows: Part 2 [2011]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>8</value>
+            <votes>649,453</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-07-15 16:16:41[/COLOR]
+סדרת הארי פוטר מגיעה אל סיומה הקולנועי עם 'הארי פוטר ואוצרות המוות חלק 2' כאשר הארי ו-וולדמורט מתייצבים זה מול זה לקרב הסופי בהחלט. הארי, הרמיוני ורון ממשיכים בחיפושם אחר ההוקרוקס של וולדמורט, שבתורו שולח את אוכלי המוות לתקוף את הוגוורטס.</plot>
+    <runtime>130</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הארי פוטר ואוצרות המוות, חלק ב_</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הארי פוטר ואוצרות המוות, חלק ב_\הארי פוטר ואוצרות המוות, חלק ב_.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הארי פוטר ואוצרות המוות, חלק ב_\הארי פוטר ואוצרות המוות, חלק ב_.strm</basepath>
+    <uniqueid type="tmdb" default="true">12445</uniqueid>
+    
+    <genre>Adventure</genre>
+<genre>Drama</genre>
+<genre>Fantasy</genre>
+<genre>משפחה</genre>
+<genre>פנטזיה</genre>
+<genre>הרפתקאות</genre>
+    <year>2011</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=5NYt1qirBWg</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//g9N0DvVcjzvTFpINCr8SWcKb0ax.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//6n0DAcyjTHS6888mt8U9ZsLy9nR.jpg">http://image.tmdb.org/t/p/original//6n0DAcyjTHS6888mt8U9ZsLy9nR.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-07-15 16:16:41</dateadded>
+</movie>
+    

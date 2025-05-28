@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מואנה</title>
+    <originaltitle>Moana</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.566</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2021-05-31 18:56:09
+ON,TE,TE
+[COLOR lightblue]2020-07-09 15:09:52[/COLOR]
+[COLOR blue]מואנה.מדובב.גוזלן.BDRip.avi[/COLOR]
+1.17 GB
+מואנה, נווטת מלידה, מפליגה מהאיים העתיקים של אוקיאניה בדרום האוקיינוס השקט בחיפושה אחרי אי אגדי. בזמן מסעה המופלא, היא חוברת לגיבור שלה, חצי-האל "מאווי", וביחד הם חוצים את הים הפתוח בהפלגה מלאת אקשן ופוגשים יצורי ים אדירים, עולמות תת מימיים ותרבויות עתיקות.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מואנה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מואנה\מואנה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מואנה\מואנה.strm</basepath>
+    <uniqueid type="tmdb" default="true">277834</uniqueid>
+    
+    <genre>הרפתקאות </genre>
+<genre> קומדיה </genre>
+<genre> משפחה </genre>
+<genre> אנימציה</genre>
+    <year>2016</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//pTMppYTTD8dogwdRMyh5iKdRdZI.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//iYLKMV7PIBtFmtygRrhSiyzcVsF.jpg">https://image.tmdb.org/t/p/original//iYLKMV7PIBtFmtygRrhSiyzcVsF.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-05-31 18:56:09</dateadded>
+</movie>
+    

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>עף על הקרנף</title>
+    <originaltitle>Otto er et næsehorn</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.2</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE
+[COLOR lightblue]2021-06-02 00:06:31[/COLOR]
+[COLOR blue]עף על הקרנף.2013.מדובב.גוזלן.720p.mkv[/COLOR]
+0.63 GB
+קרוב החופש הגדול מגיע, ולטופר הצעיר קצת משעמם, אין לו שום תכניות לחופש והוא מאוהב בילדה שלא מבחינה בו, טופר מתגעגע מאוד לאביו שלא גר איתו. אבל בקרוב הכל עומד להשתנות כאשר הוא ייחשף לדבר מדהים, עיפרון קסמים שכל מה שמציירים איתו הוא הופך לאמיתי. הוא מתחיל לצייר על קיר ביתו קרנף צהוב גדול עם 3 קרניים, וכשזה מקבל חיים, החופש הגדול מהר מאוד הופך למיוחד וממש לא משעמם.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\עף על הקרנף</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\עף על הקרנף\עף על הקרנף.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\עף על הקרנף\עף על הקרנף.strm</basepath>
+    <uniqueid type="tmdb" default="true">201207</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> קומדיה </genre>
+<genre> משפחה</genre>
+    <year>2013</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//pEn0PwIkgf7vEP7BvYg3A6mN4P3.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//g2ghVmqhUcpA09mB2QruV78RxI6.jpg">https://image.tmdb.org/t/p/original//g2ghVmqhUcpA09mB2QruV78RxI6.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-06-02 00:06:31</dateadded>
+</movie>
+    

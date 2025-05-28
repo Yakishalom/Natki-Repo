@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>בת הים הקטנה: סיפורה של אריאל</title>
+    <originaltitle>The Little Mermaid: Ariel%27s Beginning</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.735</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,HP,TE
+[COLOR lightblue]2019-11-10 18:09:08[/COLOR]
+[COLOR blue]בת הים הקטנה 3 מדובב - נתי מדיה.avi[/COLOR]
+0.68 GB
+הפעם יוכל הצופה לגלות לראשונה את כל האמת על בת הים הקטנה בסרט האנימציה מבית דיסני. לפני שנים ארוכות בממלכת הים, הבת הקטנה של המלך טריטון מגלה את האהבה שלה למוזיקה במועדון מוזיקלי סודי. אריאל קרועה בין הבחירה בהסתרת האהבה שלה למוזיקה ואביה שלא רוצה לאבד אותה.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בת הים הקטנה_ סיפורה של אריאל</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בת הים הקטנה_ סיפורה של אריאל\בת הים הקטנה_ סיפורה של אריאל.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בת הים הקטנה_ סיפורה של אריאל\בת הים הקטנה_ סיפורה של אריאל.strm</basepath>
+    <uniqueid type="tmdb" default="true">13676</uniqueid>
+    
+    <genre>משפחה </genre>
+<genre> אנימציה</genre>
+    <year>2008</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//of4Ee5M9RrjmesmS5cDOBM8sjSk.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//1UNDNyqTV4CS03T4gMuRYiahtpd.jpg">https://image.tmdb.org/t/p/original//1UNDNyqTV4CS03T4gMuRYiahtpd.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-11-10 18:09:08</dateadded>
+</movie>
+    

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>לוקה</title>
+    <originaltitle>Luca</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.872</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>Dr,TE
+[COLOR lightblue]2021-12-20 23:04:07[/COLOR]
+[COLOR blue]Luca.2021.1080p.BluRay.HebDub.x264-iSrael.mkv.mp4[/COLOR]
+0.71 GB
+בעיר ליד הים בריביירה האיטלקית, ילד קטן בשם לוקה חולק את הרפתקאותיו עם ילד בשם אלברטו. אולם לוקה ואלברטו מחביאים סוד: הם מפלצות ים מהעולם מעבר למים.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לוקה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לוקה\לוקה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לוקה\לוקה.strm</basepath>
+    <uniqueid type="tmdb" default="true">508943</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> קומדיה </genre>
+<genre> פנטזיה </genre>
+<genre> הרפתקאות </genre>
+<genre> משפחה</genre>
+    <year>2021</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//eQMToOPHodxhg6ZOetohArLvboz.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//620hnMVLu6RSZW6a5rwO8gqpt0t.jpg">https://image.tmdb.org/t/p/original//620hnMVLu6RSZW6a5rwO8gqpt0t.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-12-20 23:04:07</dateadded>
+</movie>
+    

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>אסטריקס באחוזת האלים</title>
+    <originaltitle>Asterix and Obelix: Mansion of the Gods [2014]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7</value>
+            <votes>7,813</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2017-12-3 12:20:42[/COLOR]
+שנת 50 לספירה , כל גאליה נכבשה על ידי הרומאים חוץ מכפר קטן שתושביו הגאלים קשי העורף עומדים באומץ לב מול הצבא הרומאי. היות והצבא של יוליוס קיסר לא מצליח למחוץ את 'מעוז ההתנגדות האחרון', הוא מחליט על שינוי טקטי ומנסה פלישה שקטה , ולכן בונה רומא חדשה מסביב לכפרו של אסטריקס במטרה ללחוץ על הגאלים להיטמע או להיעלם. למרות תכניותיהם של אסטריקס ואובליקס להפסיק את עבודות הבנייה, הבניינים מתרוממים במהירות והאזרחים הרומאים שפולשים לסביבה הקרובה, מביאים מהומה ובלגן לכפרו של אסטריקס.</plot>
+    <runtime>85</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אסטריקס באחוזת האלים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אסטריקס באחוזת האלים\אסטריקס באחוזת האלים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אסטריקס באחוזת האלים\אסטריקס באחוזת האלים.strm</basepath>
+    <uniqueid type="tmdb" default="true">170522</uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Adventure</genre>
+<genre>Comedy</genre>
+<genre>אנימציה</genre>
+<genre>קומדיה</genre>
+<genre>הרפתקאות</genre>
+    <year>2014</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=_Npe5FV_dTA</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//dvXkv3xk7l4eULwlW2YXgkR9qMC.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//gq9MN21DhsJTrI2uKOaB1GmAFiC.jpg">http://image.tmdb.org/t/p/original//gq9MN21DhsJTrI2uKOaB1GmAFiC.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2017-12-03 12:20:42</dateadded>
+</movie>
+    

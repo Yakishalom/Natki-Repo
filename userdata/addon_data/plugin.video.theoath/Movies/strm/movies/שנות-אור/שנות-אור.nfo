@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>שנות-אור</title>
+    <originaltitle>Lightyear</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.072</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2022-08-27 18:48:51
+Dr,TE
+[COLOR lightblue]2017-06-01 16:55:26[/COLOR]
+[COLOR blue]באז שנות אור.avi[/COLOR]
+0.91 GB
+'שנות-אור' מאולפני דיסני-פיקסאר, הוא הרפתקת מדע בדיוני המספרת את סיפור המקור של באז שנות-אור (בקולו של כריס אוונס), הגיבור שסיפק השראה לצעצוע. הסרט החדש 'שנות -אור' עוקב אחר עלילות לוחם החלל האגדי במהלך הרפתקאותיו בחלל לצד קבוצה של מתגייסים חדורי מוטיבציה (טאיקה וואיטיטי, קיקי פלמר) וידידם הרובוט סוקס (פיטר סוהן).TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\שנות-אור</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\שנות-אור\שנות-אור.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\שנות-אור\שנות-אור.strm</basepath>
+    <uniqueid type="tmdb" default="true">718789</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> אקשן </genre>
+<genre> הרפתקאות </genre>
+<genre> משפחה </genre>
+<genre> מדע בדיוני</genre>
+    <year>2022</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//sNoTYWQy40XFaIE9VR2rYJ6lif7.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//nW5fUbldp1DYf2uQ3zJTUdachOu.jpg">https://image.tmdb.org/t/p/original//nW5fUbldp1DYf2uQ3zJTUdachOu.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-08-27 18:48:51</dateadded>
+</movie>
+    

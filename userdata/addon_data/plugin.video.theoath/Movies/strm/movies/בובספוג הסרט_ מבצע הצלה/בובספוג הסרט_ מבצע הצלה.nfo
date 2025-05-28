@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>בובספוג הסרט: מבצע הצלה</title>
+    <originaltitle>The SpongeBob Movie: Sponge on the Run</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.527</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2020-11-15 16:06:15
+Dr,TE,TE
+[COLOR lightblue]2017-05-30 10:03:27[/COLOR]
+[COLOR blue]בובספוג הסרט מדובב.avi[/COLOR]
+0.66 GB
+לאחר שגארי חילזון המחמד של בובספוג נחטף, יוצאים בובספוג ופטריק להרפתקה אפית בעיר האבודה אטלנטיק סיטי על מנת להחזיר את גארי הביתה. בעודם מנווטים בין תענוגות וסכנות במשימת החילוץ, בובספוג וחבריו מוכיחים שאין דבר חזק יותר מכוחה של חברות.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בובספוג הסרט_ מבצע הצלה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בובספוג הסרט_ מבצע הצלה\בובספוג הסרט_ מבצע הצלה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בובספוג הסרט_ מבצע הצלה\בובספוג הסרט_ מבצע הצלה.strm</basepath>
+    <uniqueid type="tmdb" default="true">400160</uniqueid>
+    
+    <genre>משפחה </genre>
+<genre> אנימציה </genre>
+<genre> פנטזיה </genre>
+<genre> הרפתקאות </genre>
+<genre> קומדיה</genre>
+    <year>2015</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//pvjbrOImkv9xkhhsGYIhTkDAPzo.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//wu1uilmhM4TdluKi2ytfz8gidHf.jpg">https://image.tmdb.org/t/p/original//wu1uilmhM4TdluKi2ytfz8gidHf.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-11-15 16:06:15</dateadded>
+</movie>
+    

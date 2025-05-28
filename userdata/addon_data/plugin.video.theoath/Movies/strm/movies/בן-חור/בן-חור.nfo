@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>בן-חור</title>
+    <originaltitle>Ben Hur [Video 2003]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7</value>
+            <votes>768</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-04-2 16:18:15[/COLOR]
+יהודה בן-חור הוא סוחר יהודי שגר בירושלים וחי כנסיך עשיר, בתחילת המאה ה-1. את שיגרת חייו הנוחה שובר חברו הוותיק שחוזר לירושלים כמפקד הלגיון הרומי בעיר. בתחילה הם שמחים מאוד לפגוש אחד את השני, אך עד מהרה חילוקי הדעות הפוליטיים בינהם גורמים למתחים רבים בחברות. באחד הימים בו נערך המצעד לכבודו של ראש הלגיון נופלת לבנה מביתו של יהודה ומפספסת את ראשו של ראש הלגיון, וכמעט הורגת אותו. למרות שמסלה יודע שיהודה לא אשם בכך, הוא מעניש אותו ואת משפחתו ושולח את יהודה בן חור לספינת עבדים, ואת אמו ואחיותיו לכלא. יהודה נודר נדר ונשבע לנקום את נקמת משפחתו בחברו.</plot>
+    <runtime>80</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בן-חור</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בן-חור\בן-חור.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בן-חור\בן-חור.strm</basepath>
+    <uniqueid type="tmdb" default="true">64609</uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Drama</genre>
+<genre>Family</genre>
+<genre>משפחה</genre>
+    <year>2003</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//85gKyu63a8qupK7lmWl7KOShUQp.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://ia.media-imdb.com/images/M/MV5BNjQzODc1NzUzNV5BMl5BanBnXkFtZTcwNDI4OTQxMQ@@._V1_UY268_CR3,0,182,268_AL_.jpg">https://ia.media-imdb.com/images/M/MV5BNjQzODc1NzUzNV5BMl5BanBnXkFtZTcwNDI4OTQxMQ@@._V1_UY268_CR3,0,182,268_AL_.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-04-02 16:18:15</dateadded>
+</movie>
+    

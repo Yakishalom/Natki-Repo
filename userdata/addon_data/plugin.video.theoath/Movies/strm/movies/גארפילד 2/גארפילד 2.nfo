@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>גארפילד 2</title>
+    <originaltitle>Garfield 2 [2006] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5</value>
+            <votes>35,569</votes>
+        </rating>
+    </ratings>
+    <plot>HP
+[COLOR lightblue]2019-09-10 09:17:17[/COLOR]
+גארפילד נוסע לחו'ל. הוא מגיע ללונדון כדי להפתיע את בעליו, ג'ון אקבאקל, אשר נמצא שם כדי להציע נישואין לחברתו, הוטרינרית ליז ווילסון. פלישתו של גארפילד לממלכה הבריטית מקבלת תפנית כאשר הוא מתחלף, בניגוד לרצונו, עם חתול מלכותי [אשר לרוע מזלו נראה בדיוק כמוהו],שירש זה עתה ארמון מליידי אלינור. זו אכזבה גדולה לאחיין של ליידי אלינור, לורד דארגיס שמרגיש שהוא בעצם היורש הטבעי של הממלכה והוא זה שצריך לרשת אותה. גארפילד חי את החיים הטובים, יש לו משרת ושילוב מעניין של עוזרים: וינסטון, בולדוג אנגלי מאוד, מקבאני, ארנבת סקוטית, נייג'ל החמוס, בולרו, שור ספרדי, קלודיוס, עכבר המצטט את שייקספיר כל היום, וכריסטוף, האווז הצרפתי. הנסיך לעומתו, מבקר בפאבים עם ג'ון ואודי וטועם לזניה. לורד דארגיס, אשר נמצא שני ברשימה לרשת את הארמון, רוצה שהנסיך ,גארפילד, ייצא מהתמונה.  עולמו החדש והמשופר של גארפילד עומד להתהפך לחלוטין.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\גארפילד 2</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\גארפילד 2\גארפילד 2.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\גארפילד 2\גארפילד 2.strm</basepath>
+    <uniqueid type="tmdb" default="true">9513</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>קומדיה</genre>
+<genre>משפחה</genre>
+    <year>2006</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=1u0rQ7J3oS4</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//8n7UXnABcOgwGhPuF8t1LuhwyV.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//krMn4dSfYlhizlvv7tDOyxb69X4.jpg">http://image.tmdb.org/t/p/original//krMn4dSfYlhizlvv7tDOyxb69X4.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-09-10 09:17:17</dateadded>
+</movie>
+    

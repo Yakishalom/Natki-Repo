@@ -1,0 +1,26 @@
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>סרטים מדובבים לפי א -ב</label>
+		<label2>פריטים מותאמים אישית</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.kids_new/?mode=11&amp;name=%28777%29+%D7%A1%D7%A8%D7%98%D7%99%D7%9D+%D7%9E%D7%93%D7%95%D7%91%D7%91%D7%99%D7%9D+%D7%9C%D7%A4%D7%99+%D7%90-%D7%91&amp;url=0&amp;mode=11&amp;iconimage=https%3A%2F%2Fwww.flatpanelshd.com%2Fpictures%2Fdespicableme2-1l.jpg&amp;fanart=http%3A%2F%2F4k.com%2Fwp-content%2Fuploads%2F2014%2F11%2Ftoystory3_img10_720-790x442.jpg&amp;description=%D7%A1%D7%A8%D7%98%D7%99%D7%9D+%D7%9E%D7%93%D7%95%D7%91%D7%91%D7%99%D7%9D&amp;next_page=&amp;name=%28777%29+%D7%A1%D7%A8%D7%98%D7%99%D7%9D+%D7%9E%D7%93%D7%95%D7%91%D7%91%D7%99%D7%9D+%D7%9C%D7%A4%D7%99+%D7%90-%D7%91&amp;url=0&amp;iconimage=https%3A%2F%2Fwww.flatpanelshd.com%2Fpictures%2Fdespicableme2-1l.jpg&amp;fanart=http%3A%2F%2F4k.com%2Fwp-content%2Fuploads%2F2014%2F11%2Ftoystory3_img10_720-790x442.jpg&amp;description=%D7%A1%D7%A8%D7%98%D7%99%D7%9D+%D7%9E%D7%93%D7%95%D7%91%D7%91%D7%99%D7%9D&amp;next_page=",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>סרטים לפי עמוד</label>
+		<label2>פריטים מותאמים אישית</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.kids_new/?mode=10&amp;name=%28777%29+%D7%A1%D7%A8%D7%98%D7%99%D7%9D+%D7%9E%D7%93%D7%95%D7%91%D7%91%D7%99%D7%9D+%D7%A2%D7%9E%D7%95%D7%93%D7%99%D7%9D&amp;url=0&amp;mode=10&amp;iconimage=https%3A%2F%2Fwww.flatpanelshd.com%2Fpictures%2Fdespicableme2-1l.jpg&amp;fanart=http%3A%2F%2F4k.com%2Fwp-content%2Fuploads%2F2014%2F11%2Ftoystory3_img10_720-790x442.jpg&amp;description=%D7%A1%D7%A8%D7%98%D7%99%D7%9D+%D7%9E%D7%93%D7%95%D7%91%D7%91%D7%99%D7%9D&amp;next_page=&amp;name=%28777%29+%D7%A1%D7%A8%D7%98%D7%99%D7%9D+%D7%9E%D7%93%D7%95%D7%91%D7%91%D7%99%D7%9D+%D7%A2%D7%9E%D7%95%D7%93%D7%99%D7%9D&amp;url=0&amp;iconimage=https%3A%2F%2Fwww.flatpanelshd.com%2Fpictures%2Fdespicableme2-1l.jpg&amp;fanart=http%3A%2F%2F4k.com%2Fwp-content%2Fuploads%2F2014%2F11%2Ftoystory3_img10_720-790x442.jpg&amp;description=%D7%A1%D7%A8%D7%98%D7%99%D7%9D+%D7%9E%D7%93%D7%95%D7%91%D7%91%D7%99%D7%9D&amp;next_page=",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>סרטים לפי שנים</label>
+		<label2>פריטים מותאמים אישית</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.kids_new/?mode=10&amp;name=%28777%29+%D7%A1%D7%A8%D7%98%D7%99%D7%9D+%D7%9E%D7%93%D7%95%D7%91%D7%91%D7%99%D7%9D+%D7%A9%D7%A0%D7%99%D7%9D&amp;url=0&amp;mode=10&amp;iconimage=https%3A%2F%2Fwww.flatpanelshd.com%2Fpictures%2Fdespicableme2-1l.jpg&amp;fanart=http%3A%2F%2F4k.com%2Fwp-content%2Fuploads%2F2014%2F11%2Ftoystory3_img10_720-790x442.jpg&amp;description=%D7%9C%D7%A4%D7%99+%D7%A9%D7%A0%D7%99%D7%9D&amp;next_page=&amp;name=%28777%29+%D7%A1%D7%A8%D7%98%D7%99%D7%9D+%D7%9E%D7%93%D7%95%D7%91%D7%91%D7%99%D7%9D+%D7%A9%D7%A0%D7%99%D7%9D&amp;url=0&amp;iconimage=https%3A%2F%2Fwww.flatpanelshd.com%2Fpictures%2Fdespicableme2-1l.jpg&amp;fanart=http%3A%2F%2F4k.com%2Fwp-content%2Fuploads%2F2014%2F11%2Ftoystory3_img10_720-790x442.jpg&amp;description=%D7%9C%D7%A4%D7%99+%D7%A9%D7%A0%D7%99%D7%9D&amp;next_page=",return)</action>
+		</shortcut>
+	</shortcuts>

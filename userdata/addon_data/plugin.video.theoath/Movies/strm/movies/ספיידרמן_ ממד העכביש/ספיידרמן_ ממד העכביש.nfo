@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>ספיידרמן: ממד העכביש</title>
+    <originaltitle>Spider-Man: Into the Spider-Verse</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>8.403</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE,TE
+[COLOR lightblue]2023-02-20 22:10:18[/COLOR]
+[COLOR blue]1080p 2018 ספיידרמן ממד העכביש מדובב.mkv[/COLOR]
+1.86 GB
+המוחות היצירתיים של פיל לורד וכריסטופר מילר, מגייסים את כישרונם יוצא הדופן לגרסה רעננה ושונה של העולם של ספיידרמן, עם ויזואליה פורצת דרך שטרם נראתה על המסך. ספיידרמן: ממד העכביש, מציג את הנער מברוקלין – מיילס מורלס, ואת אינספור האפשרויות של ממד העכביש, היכן שיותר מאחד יכולים לעטות על עצמם את המסכה של ספיידרמן.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ספיידרמן_ ממד העכביש</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ספיידרמן_ ממד העכביש\ספיידרמן_ ממד העכביש.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ספיידרמן_ ממד העכביש\ספיידרמן_ ממד העכביש.strm</basepath>
+    <uniqueid type="tmdb" default="true">324857</uniqueid>
+    
+    <genre>אקשן </genre>
+<genre> הרפתקאות </genre>
+<genre> אנימציה </genre>
+<genre> מדע בדיוני</genre>
+    <year>2018</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//2gyaFZSk8c5YGL9zddA4bPXlhZl.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//qGQf2OHIkoh89K8XeKQzhxczf96.jpg">https://image.tmdb.org/t/p/original//qGQf2OHIkoh89K8XeKQzhxczf96.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-02-20 22:10:18</dateadded>
+</movie>
+    

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>פוקהונטס</title>
+    <originaltitle>Pocahontas</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.929</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,TE
+[COLOR lightblue]2018-06-21 23:06:15[/COLOR]
+[COLOR blue]פוקהונטס מס 1.מדובב.גוזלן.avi[/COLOR]
+0.54 GB
+אגדה על אומץ וחברות עם הקמתו של העולם החדש. הגעתה של אוניה מסתורית ובה מתיישבים אנגלים, אשר ברראשה עומד קפטן ג'ון סמית, מחרידה את שלוותם של הנסיכה האינדיאנית פוקהונטס ובני שבטה. פוקהונטס לומדת להקשיב בעזרת ליבה ולעקוב אחר "צבעי הרוח" עד לייעודה האמיתי.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פוקהונטס</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פוקהונטס\פוקהונטס.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פוקהונטס\פוקהונטס.strm</basepath>
+    <uniqueid type="tmdb" default="true">10530</uniqueid>
+    
+    <genre>הרפתקאות </genre>
+<genre> אנימציה </genre>
+<genre> משפחה </genre>
+<genre> רומנטי</genre>
+    <year>1998</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//yhbSBPeyMBRYzv1sTTvxO0JVhK7.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//9YAVIwBcBrLXeukg2dgMGfYB1uu.jpg">https://image.tmdb.org/t/p/original//9YAVIwBcBrLXeukg2dgMGfYB1uu.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-06-21 23:06:15</dateadded>
+</movie>
+    

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>יש לו את זה</title>
+    <originaltitle>He&apos;s All That</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2022-10-16 22:01:38[/COLOR]
+עיבוד מחודש לסיפור העלילה של 'יש לה את זה', סרט הנעורים הקלאסי מ‑1999. רק שהפעם בחילופי מגדר: משפיענית צעירה שמתמחה במייקאוברים מתערבת עם חברותיה שתצליח להפוך את התלמיד הלא פופולרי למלך הנשף.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\יש לו את זה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\יש לו את זה\יש לו את זה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\יש לו את זה\יש לו את זה.strm</basepath>
+    <uniqueid type="tmdb" default="true">347626</uniqueid>
+    
+    <genre>רומנטי</genre>
+<genre>קומדיה</genre>
+    <year>2021</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=XqTPaRz8Nx8</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//clVa02lUYwA1SbGX0mUc4nn6die.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//wsztJfJvJW5nXxn5n0DIMzH2TDM.jpg">http://image.tmdb.org/t/p/original//wsztJfJvJW5nXxn5n0DIMzH2TDM.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-10-16 22:01:38</dateadded>
+</movie>
+    

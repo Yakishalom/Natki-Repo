@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>ברבי: הנסיכה רפונזל</title>
+    <originaltitle>Barbie as Rapunzel</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.014</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>TE
+[COLOR lightblue]2021-12-13 15:12:50[/COLOR]
+[COLOR blue]DVDRip 2002 ברבי הנסיכה רפונזל מדובב.mkv[/COLOR]
+0.5 GB
+אנימציה ממוחשבת על הנערה רפונזל ולה השיער המקסים והזוהר בעולם. היא חיה כמשרתת של גוטל הרעה במקום מרוחק בתוך היער האסור. גורלה משתנה לאחר שהיא מגלה מכחול קסמים...TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ברבי_ הנסיכה רפונזל</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ברבי_ הנסיכה רפונזל\ברבי_ הנסיכה רפונזל.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ברבי_ הנסיכה רפונזל\ברבי_ הנסיכה רפונזל.strm</basepath>
+    <uniqueid type="tmdb" default="true">15015</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> משפחה</genre>
+    <year>2002</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//ysiGzuMSc0nFmmDPn9z7U7YSFYf.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//kHxnvrXaWDiOsvjR7o6qYu15p7H.jpg">https://image.tmdb.org/t/p/original//kHxnvrXaWDiOsvjR7o6qYu15p7H.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-12-13 15:12:50</dateadded>
+</movie>
+    

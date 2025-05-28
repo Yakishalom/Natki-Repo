@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>סמוראי על ארבע</title>
+    <originaltitle>Paws of Fury: The Legend of Hank</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr,Dr
+[COLOR lightblue]2023-07-1 23:47:30[/COLOR]
+כלב צעיר בשם האנק, מגיע לעיירת חתולים ונאלץ להתמודד עם זרותו, ועם הבקשה כי יהיה הסמוראי השומר של העיירה מפני הפולשים הנטפלים אליה. הוא מחפש מורה לאומנויות לחימה ומתחבר עם סמוראי נרגן שיצא לפנסיה. האם יצליחו יחד להפוך את האנק לסמוראי שיציל את העיירה?</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סמוראי על ארבע</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סמוראי על ארבע\סמוראי על ארבע.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סמוראי על ארבע\סמוראי על ארבע.strm</basepath>
+    <uniqueid type="tmdb" default="true">366672</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>אקשן</genre>
+<genre>הרפתקאות</genre>
+<genre>קומדיה</genre>
+<genre>משפחה</genre>
+<genre>מערבון</genre>
+    <year>2022</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=A_hkjvjx2ek</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//2zI7W6iYd9ctOnEwcN1O8hjYU0h.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//92PJmMopfy64VYjd0HvIQaHGZX0.jpg">http://image.tmdb.org/t/p/original//92PJmMopfy64VYjd0HvIQaHGZX0.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-07-01 23:47:30</dateadded>
+</movie>
+    

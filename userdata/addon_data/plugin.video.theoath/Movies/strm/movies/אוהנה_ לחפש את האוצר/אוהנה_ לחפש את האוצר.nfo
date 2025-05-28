@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>אוהנה: לחפש את האוצר</title>
+    <originaltitle>Finding 'Ohana [2021] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>1,845</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2021-02-2 18:23:21[/COLOR]
+סרט הרפתקאות לכל המשפחה. אח ואחות מברוקלין מבלים את חופשת הקיץ באואהו ויוצאים להרפתקה מסעירה בעקבות אוצר אבוד. המסע המלהיב יחבר אותם מחדש למסורת העתיקה של משפחתם, הנטועה עמוק באדמת הוואי.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אוהנה_ לחפש את האוצר</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אוהנה_ לחפש את האוצר\אוהנה_ לחפש את האוצר.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אוהנה_ לחפש את האוצר\אוהנה_ לחפש את האוצר.strm</basepath>
+    <uniqueid type="tmdb" default="true">644092</uniqueid>
+    
+    <genre>אקשן</genre>
+<genre>הרפתקאות</genre>
+<genre>קומדיה</genre>
+<genre>משפחה</genre>
+    <year>2021</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=FTqLUEpWqEc</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//ey7IxslOdtuFm6UAqGHYwCm2m5Q.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//yImmxRokQ48PD49ughXdpKTAsAU.jpg">http://image.tmdb.org/t/p/original//yImmxRokQ48PD49ughXdpKTAsAU.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-02-02 18:23:21</dateadded>
+</movie>
+    

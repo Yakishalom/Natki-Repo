@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>כלב מי שמנגן 2: מסביב לפארק</title>
+    <originaltitle>Rock Dog 2</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2023-01-16 17:37:04[/COLOR]
+בודי ולהקתו 'כחול אמיתי', הפכו לסלבס בכפר שלהם בהרים המושלגים, וכן, יש להם אפילו מעריצים מושבעים! אך כאשר מפיק מוסיקה מקצועי נותן להם הזדמנות של פעם בחיים לצאת לסיבוב הופעות עם אלילת פופ, בודי וחבריו לומדים שיש מחיר לתהילה! ומגלים שרק אם אתה נאמן לעצמך את יכול לשחרר את הכוח שברוקנרול!</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\כלב מי שמנגן 2_ מסביב לפארק</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\כלב מי שמנגן 2_ מסביב לפארק\כלב מי שמנגן 2_ מסביב לפארק.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\כלב מי שמנגן 2_ מסביב לפארק\כלב מי שמנגן 2_ מסביב לפארק.strm</basepath>
+    <uniqueid type="tmdb" default="true">812204</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>קומדיה</genre>
+<genre>מוסיקה</genre>
+<genre>משפחה</genre>
+    <year>2021</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=UoYB1Zn6lR4</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//kETYRGA15L0wkVPugSl8lKmSgFn.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//uMPJwWDojedB36iowSl3HTLmTjW.jpg">http://image.tmdb.org/t/p/original//uMPJwWDojedB36iowSl3HTLmTjW.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-01-16 17:37:04</dateadded>
+</movie>
+    

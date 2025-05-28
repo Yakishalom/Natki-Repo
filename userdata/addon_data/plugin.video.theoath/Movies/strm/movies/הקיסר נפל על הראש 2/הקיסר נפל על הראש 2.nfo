@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הקיסר נפל על הראש 2</title>
+    <originaltitle>Kronk%27s New Groove</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.399</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,TE,TE
+[COLOR lightblue]2021-04-16 15:55:40[/COLOR]
+[COLOR blue]הקיסר_נפל_על_הראש_2_מדובב_גוזלן_1080p.mp4[/COLOR]
+1.3 GB
+לוג קרונק האהוב מ-"הקיסר נפל על הראש" הוא הגיבור של הרפתקה מטורפת זאת, שתצחיק אתכם עד דמעות. קרונק מתחיל בחיים חדשים כשף ראשי במסעדה שלו. אך כשאביו אמור להגיע לביקור, הענינים מתחילילם להסתבך.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הקיסר נפל על הראש 2</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הקיסר נפל על הראש 2\הקיסר נפל על הראש 2.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הקיסר נפל על הראש 2\הקיסר נפל על הראש 2.strm</basepath>
+    <uniqueid type="tmdb" default="true">13417</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> קומדיה </genre>
+<genre> משפחה</genre>
+    <year>2005</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//sNwKc7cDMJNuiTIQ5AbPkkLdwlV.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//9OQMecK6gwJEEKceJZABX94MzeI.jpg">https://image.tmdb.org/t/p/original//9OQMecK6gwJEEKceJZABX94MzeI.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-04-16 15:55:40</dateadded>
+</movie>
+    

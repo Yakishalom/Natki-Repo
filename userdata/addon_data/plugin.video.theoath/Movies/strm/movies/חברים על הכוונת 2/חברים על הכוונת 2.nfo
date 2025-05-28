@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>חברים על הכוונת 2</title>
+    <originaltitle>Open Season 2</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.86</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2020-11-15 23:06:30
+ON,Dr,TE
+[COLOR lightblue]2019-02-19 17:17:23[/COLOR]
+[COLOR blue]נתי מדיה חברים על הכוונת 2 מדובב.avi[/COLOR]
+0.69 GB
+בוג ואליוט חוזרים. לאחר שאליוט מתאהב בג'יזל, אליוט דוהר לחופה ומתעקב כאשר מר. וויני נחטף ע"י קבוצה של חיות מחמד מפונקות שרוצות להחזיר לבעליו. בוג, אליוט, מקסקוויזי, באדי ושאר חבורת היערות יוצאים למשימת הצלה נרחבת להצלת חברם דמוי הנקניקייה ובמהרה מוצאים עצמם במחנה האויב, עולם חיות המחמד, המונהג ע"י פודל בשם פיפי. חיות המחמד לא מתכוונות לוותר על וויני ללא מאבק.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\חברים על הכוונת 2</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\חברים על הכוונת 2\חברים על הכוונת 2.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\חברים על הכוונת 2\חברים על הכוונת 2.strm</basepath>
+    <uniqueid type="tmdb" default="true">13690</uniqueid>
+    
+    <genre>הרפתקאות </genre>
+<genre> אנימציה </genre>
+<genre> קומדיה </genre>
+<genre> משפחה</genre>
+    <year>2008</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//hE5GTByZV8s4uqJe6C2PejSPOtD.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//aM9cOyimlKYPT64DUrOmLlZVCy.jpg">https://image.tmdb.org/t/p/original//aM9cOyimlKYPT64DUrOmLlZVCy.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-11-15 23:06:30</dateadded>
+</movie>
+    

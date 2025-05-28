@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>לפגוש את הרובינסונים</title>
+    <originaltitle>Meet the Robinsons</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.895</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE
+[COLOR lightblue]2023-05-21 14:08:30[/COLOR]
+[COLOR blue]1080p 2007 לפגוש את הרובינסונים מדובב.mkv[/COLOR]
+1.4 GB
+לואיס הוא מדען מבריק שהמצאתו האחרונה היא סורק זכרון שהמציא כדי למצוא את אמו. לרע המזל ההמצאה נגנבה על ידי כובען מרושע בשם בוולר וחברו הצמוד, הכובע, דוריס. כשזר מסתורי בשם ווילבור מציע לו את עזרתו לאתר את הגנבים השניים יוצאים למסע הרפתקאות מלא הפתעות.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לפגוש את הרובינסונים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לפגוש את הרובינסונים\לפגוש את הרובינסונים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לפגוש את הרובינסונים\לפגוש את הרובינסונים.strm</basepath>
+    <uniqueid type="tmdb" default="true">1267</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> קומדיה </genre>
+<genre> משפחה</genre>
+    <year>2007</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//eQX0UgP8aGPrWWRJ5HkvMDT5Rgd.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//f1xAxP0DFRGYSew9U8fhilP5itx.jpg">https://image.tmdb.org/t/p/original//f1xAxP0DFRGYSew9U8fhilP5itx.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-05-21 14:08:30</dateadded>
+</movie>
+    

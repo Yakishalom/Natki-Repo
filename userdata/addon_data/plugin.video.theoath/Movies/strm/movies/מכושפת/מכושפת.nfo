@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מכושפת</title>
+    <originaltitle>Enchanted</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.805</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>TE
+[COLOR lightblue]2023-04-07 12:36:54[/COLOR]
+[COLOR blue]720p HDTV 2007 זירה מדיה מכושפת מדובב.mkv[/COLOR]
+0.95 GB
+בעולם האגדות המצוייר, נסיכה צעירה מתאהבת בנסיך חלומותיה וזה מאד מרגיז את המלכה המרשעת שמפעילה את כוחות האופל ומוציאה אותה מהעולם המצוייר אל המקום היחיד ביקום שבו אין אהבת אמת - מנהטן. הנערה האמיתית החדשה צריכה לשרוד בניו יורק ויש כבר עו"ד צעיר שנחלץ להצלתה, אך מה עם האהוב שנשאר באגדה? קומדיה מקסימה מבית דיסני בפרודיה שנונה על עולם האגדות ועל העולם שלנו...TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מכושפת</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מכושפת\מכושפת.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מכושפת\מכושפת.strm</basepath>
+    <uniqueid type="tmdb" default="true">4523</uniqueid>
+    
+    <genre>קומדיה </genre>
+<genre> משפחה </genre>
+<genre> פנטזיה </genre>
+<genre> רומנטי</genre>
+    <year>2007</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//dvWC1IVeYcM6adgPd5AGA8Bfjv4.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//u4UpRDi0w84aNrigr9p049rMHiy.jpg">https://image.tmdb.org/t/p/original//u4UpRDi0w84aNrigr9p049rMHiy.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-04-07 12:36:54</dateadded>
+</movie>
+    

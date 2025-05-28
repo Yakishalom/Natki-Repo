@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>דרגון בול זי: לורד סלאג</title>
+    <originaltitle>Dragon Ball Z: Lord Slug [1991] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7</value>
+            <votes>5,267</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2021-04-16 17:27:39[/COLOR]
+אביה של בורמה ראה בטלסקופ שמטאור עומד להתנגש בכדור הארץ. ואז גוקו וקרירין עפים למטאור ומנסים לפוצץ אותו, אך ללא הצלחה. במקום שהמטאור נחת הכל נהפך לקרח. חיילים יוצאים מהמטאור ואומרים שהכוכב שייך ללורד סלאג . לורד סלאג רואה את כדור הדרגון שעל הכובע של גוהן ולוקח אותו. לורד סלאג אומר לכל העבדים שלו לאסוף את כל כדורי הדרגון בול. אחרי שהוא מצא את כל הכדורים, לורד סלאג מבקש חיי נצח. גוהן מנסה להילחם בחיילים של סלאג, אך הוא ופיקורו נפצעים קשות ואז גוקו וקרירין מגיעים לעזור להם.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דרגון בול זי_ לורד סלאג</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דרגון בול זי_ לורד סלאג\דרגון בול זי_ לורד סלאג.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דרגון בול זי_ לורד סלאג\דרגון בול זי_ לורד סלאג.strm</basepath>
+    <uniqueid type="tmdb" default="true">39102</uniqueid>
+    
+    <genre>אקשן</genre>
+<genre>אנימציה</genre>
+<genre>מדע בדיוני</genre>
+    <year>1991</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=qd017xX0Y2E</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//iCySGAWNMk0BETBGAK3xNOKTkX5.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//cyQK5IzMXDUS8o84HYbSIFQt1Vy.jpg">http://image.tmdb.org/t/p/original//cyQK5IzMXDUS8o84HYbSIFQt1Vy.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-04-16 17:27:39</dateadded>
+</movie>
+    

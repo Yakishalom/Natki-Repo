@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>צ'רלי בממלכת השוקולד</title>
+    <originaltitle>Charlie and the Chocolate Factory</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.039</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,TE
+[COLOR lightblue]2018-06-21 00:57:44[/COLOR]
+[COLOR blue]צ'רלי_בממלכת_השוקולד_מדובב_גוזלן.avi[/COLOR]
+0.54 GB
+מפעל השוקולד המפורסם ביותר בתולדות הספרות והקולנוע נפתח בשנית בקיץ 2005. צ'רלי הוא ילד ממשפחה ענייה הזוכה בתחרות לבקר במפעל השוקולד של ווילי וונקה הבעלים של מפעל השוקולד הכי גדול בעולם. ביחד עם עוד ארבעה ילדים מגיע צ'רלי למפעל ומגלה שהטיול בעולמו הצבעוני, המתוק והמופרע של ווילי וונקה לא הולך להיות רגיל.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\צ_רלי בממלכת השוקולד</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\צ_רלי בממלכת השוקולד\צ_רלי בממלכת השוקולד.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\צ_רלי בממלכת השוקולד\צ_רלי בממלכת השוקולד.strm</basepath>
+    <uniqueid type="tmdb" default="true">118</uniqueid>
+    
+    <genre>הרפתקאות </genre>
+<genre> קומדיה </genre>
+<genre> משפחה </genre>
+<genre> פנטזיה</genre>
+    <year>2005</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//wfGfxtBkhBzQfOZw4S8IQZgrH0a.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//atoIgfAk2Ig2HFJLD0VUnjiPWEz.jpg">https://image.tmdb.org/t/p/original//atoIgfAk2Ig2HFJLD0VUnjiPWEz.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-06-21 00:57:44</dateadded>
+</movie>
+    

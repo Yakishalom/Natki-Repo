@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>קובו: אגדה של סמוראי</title>
+    <originaltitle>Kubo and the Two Strings</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.635</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,TE
+[COLOR lightblue]2019-10-26 18:50:40[/COLOR]
+[COLOR blue]נתי_מדיה_קובו_אגדה_של_סמוראי_מדובב.mp4[/COLOR]
+0.88 GB
+קובו חי את חיו השקטים בכפר קטן על גדות הנהר ביפן, שלוות חייו מופרת כאשר רוח מן העבר משנה את חייו ומעוררת מחדש נקמה עתיקת ימים. כתוצאה מכך קובו נרדף על ידי שדים ומפלצות. במהלך הרפתקאותיו קובו מאחד כוחות עם הקוף והחיפושית ביחד מנסים לפתור את תעלומת מותו של אביו האגדי של קובו. כדי לפצח את הסוד של מורשתו, להתאחד עם משפחתו ולהגשים את יעוד גבורתו, חייב קובו למצוא את חליפת שריון הקסמים של אביו הסמוראי.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קובו_ אגדה של סמוראי</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קובו_ אגדה של סמוראי\קובו_ אגדה של סמוראי.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קובו_ אגדה של סמוראי\קובו_ אגדה של סמוראי.strm</basepath>
+    <uniqueid type="tmdb" default="true">313297</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> הרפתקאות </genre>
+<genre> משפחה</genre>
+    <year>2016</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//ioByaQDsmaS4aXK36WN1YVYns1e.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//2nGKhDksmoDdkllXm5D5gy2urCg.jpg">https://image.tmdb.org/t/p/original//2nGKhDksmoDdkllXm5D5gy2urCg.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-10-26 18:50:40</dateadded>
+</movie>
+    

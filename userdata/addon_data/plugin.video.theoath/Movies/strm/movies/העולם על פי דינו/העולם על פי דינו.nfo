@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>העולם על פי דינו</title>
+    <originaltitle>Dino Time [2012]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5</value>
+            <votes>805</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-04-4 17:26:26[/COLOR]
+שלושה ילדים סקרניים נכנסים בטעות למכונת זמן ומועברים על ידה ישירות אל תוך עידן הדינוזאורים. הם מוצאים את עצמם לכודים בתוך קן של אימא דינוזאור המזהה אותם כצאצאיה. נותר לילדים רק זמן קצר כדי לחזור חזרה בזמן אל תקופת ההווה לפני שהביצים של הדינוזאור יפקעו והם יהפכו ל'ארוחת הבוקר' של הדינוזאורים הקטנים.</plot>
+    <runtime>86</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\העולם על פי דינו</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\העולם על פי דינו\העולם על פי דינו.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\העולם על פי דינו\העולם על פי דינו.strm</basepath>
+    <uniqueid type="tmdb" default="true">136793</uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Adventure</genre>
+<genre>Comedy</genre>
+<genre>אנימציה</genre>
+<genre>הרפתקאות</genre>
+<genre>קומדיה</genre>
+<genre>משפחה</genre>
+    <year>2012</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//bOriKE5Pjd1uLDfG5fu5uLXxaQ7.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//tNvqVHfmiPXC4IlEJPByRPy6lUx.jpg">http://image.tmdb.org/t/p/original//tNvqVHfmiPXC4IlEJPByRPy6lUx.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-04-04 17:26:26</dateadded>
+</movie>
+    

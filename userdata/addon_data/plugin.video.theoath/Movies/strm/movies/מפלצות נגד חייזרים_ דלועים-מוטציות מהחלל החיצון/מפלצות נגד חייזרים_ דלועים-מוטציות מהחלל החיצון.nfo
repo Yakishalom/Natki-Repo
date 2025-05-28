@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מפלצות נגד חייזרים: דלועים-מוטציות מהחלל החיצון</title>
+    <originaltitle>Mutant Pumpkins from Outer Space</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.828</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2021-11-14 20:48:22
+TE,TE
+[COLOR lightblue]2020-12-11 09:30:20[/COLOR]
+[COLOR blue]BRRip נ.מ מפלצות נגד חייזרים מדובב.avi[/COLOR]
+1.22 GB
+סוזן וחבריה המפלצות חוזרים אל ביתה של סוגן לפני חג ליל כל הקדושים. סוזן מבלה עם הוריה בזמן שהמפלצות הצטרפו ל-"ממתק או תעלול" בשביל לאסוף ממתקים. מאוחר יותר אנו מגלים כי המפלצות הגיעו כדי להרוס את מוטצית הדלעת שמחבאת בין כל קישוטי החג. כשהדלועים מתחילים לאכול את הממתקים של הילדים כדי להפוך לגדולות יותר, המפלצות והילדים מביסים אותם על ידי זריקת סוכריות ובכך לפוצץ אותם.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מפלצות נגד חייזרים_ דלועים-מוטציות מהחלל החיצון</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מפלצות נגד חייזרים_ דלועים-מוטציות מהחלל החיצון\מפלצות נגד חייזרים_ דלועים-מוטציות מהחלל החיצון.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מפלצות נגד חייזרים_ דלועים-מוטציות מהחלל החיצון\מפלצות נגד חייזרים_ דלועים-מוטציות מהחלל החיצון.strm</basepath>
+    <uniqueid type="tmdb" default="true">53985</uniqueid>
+    
+    <genre>סרט טלויזיה </genre>
+<genre> אנימציה </genre>
+<genre> משפחה </genre>
+<genre> קומדיה</genre>
+    <year>2009</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//w3R9G8rqrrbMSOufl0QBaNAZPDC.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//g17w3GkHkJiB0R3IB6AvtIEQQ07.jpg">https://image.tmdb.org/t/p/original//g17w3GkHkJiB0R3IB6AvtIEQQ07.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-11-14 20:48:22</dateadded>
+</movie>
+    

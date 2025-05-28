@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מרד החיות</title>
+    <originaltitle>Home on the Range</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.031</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2023-04-23 19:01:19
+ON,Dr,TE,TE,TE
+[COLOR lightblue]2020-07-29 08:59:57[/COLOR]
+[COLOR blue]DVDRip 2004 נ.מ מרד החיות מדובב.avi[/COLOR]
+0.92 GB
+שלוש פרות נחושות, סוס בשם באק שבועט בעיטות קאראטה בעת הצורך וחבורה ססגונית של בעלי חיים מאחדים כוחות כדי להציל את ביתם, לאחר שפושע חמדן זומם להשתלט על חוות "חלקת האלוהים הקטנה". בעלי החיים יוצרים ברית בלתי-צפויה ומסכנים את עורם ופרוותם בקרב מוחות עם כנופיה מסתורית, והמחיר עלול להגיע לשמיים.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מרד החיות</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מרד החיות\מרד החיות.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מרד החיות\מרד החיות.strm</basepath>
+    <uniqueid type="tmdb" default="true">13700</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> משפחה</genre>
+    <year>2004</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//fA3vnfUo1HKWuULftu005jfJiop.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//rQKlcMY8i3elENXEHlkAbQr3xiG.jpg">https://image.tmdb.org/t/p/original//rQKlcMY8i3elENXEHlkAbQr3xiG.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-04-23 19:01:19</dateadded>
+</movie>
+    

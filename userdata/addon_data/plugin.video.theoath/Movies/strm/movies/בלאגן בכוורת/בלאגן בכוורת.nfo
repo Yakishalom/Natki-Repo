@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>בלאגן בכוורת</title>
+    <originaltitle>Drôles de petites bêtes</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2023-06-2 22:17:14[/COLOR]
+סרט הרפתקאות לכל המשפחה מהיוצרים של 'הנסיך הקטן' מבוסס על סדרת הספרים רבי המכר של אנטון קרינגס שנמכר במעל 20 מיליון עותקים ברחבי העולם. אפולו הוא נווד מזמר, המגיע בסיורו אל הגן הקסום והכוורת ההומה. הוא פוגש בפועלים הנמרצים ומלכתם היפה אך נחשף במהרה לקנוניה בממלכה, אשר מסתיימת בחטיפתה של המלכה. החשד הגדול נופל עליו, הנווד הזר ועליו לצאת להרפתקאה להציל את הממלכה ולהחזיר סדר לקנו. כולל עיבוד מיוחד לשיר 'לה וי אז רוז'.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בלאגן בכוורת</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בלאגן בכוורת\בלאגן בכוורת.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בלאגן בכוורת\בלאגן בכוורת.strm</basepath>
+    <uniqueid type="tmdb" default="true">458252</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>קומדיה</genre>
+    <year>2017</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=fO0kKhROcIA</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//h26vWSv5JlGKMcMhNOFI7x5MSsW.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//7Q1RYwIdDGr3yOHXg8mHJGW4zjw.jpg">http://image.tmdb.org/t/p/original//7Q1RYwIdDGr3yOHXg8mHJGW4zjw.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-06-02 22:17:14</dateadded>
+</movie>
+    

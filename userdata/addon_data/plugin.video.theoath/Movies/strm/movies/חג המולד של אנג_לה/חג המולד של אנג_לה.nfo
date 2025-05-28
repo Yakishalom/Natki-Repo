@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>חג המולד של אנג'לה</title>
+    <originaltitle>Angela%27s Christmas</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.794</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>TE,TE,TE
+[COLOR lightblue]2018-12-02 16:56:14[/COLOR]
+[COLOR blue]חג_המולד_של_אנג'לה_מדובב_גוזלן_720p.mkv[/COLOR]
+0.15 GB
+ביקור משפחתי בכנסייה בערב חג המולד מעניק לילדה אנג'לה רעיון יוצא דופן. סיפור מרגש המבוסס על ספר של פרנק מק'קורט.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\חג המולד של אנג_לה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\חג המולד של אנג_לה\חג המולד של אנג_לה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\חג המולד של אנג_לה\חג המולד של אנג_לה.strm</basepath>
+    <uniqueid type="tmdb" default="true">563710</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> משפחה</genre>
+    <year>2020</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//ew9IEloBogVhuTBnzwroo7cxHrr.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//8uj9vrZtZHJKIyYEKH6DuU0B6Sr.jpg">https://image.tmdb.org/t/p/original//8uj9vrZtZHJKIyYEKH6DuU0B6Sr.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-12-02 16:56:14</dateadded>
+</movie>
+    

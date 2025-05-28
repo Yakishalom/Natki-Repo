@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>עידן הקרח: הרפתקאות באק ויילד</title>
+    <originaltitle>The Ice Age Adventures of Buck Wild</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2022-06-23 18:28:31[/COLOR]
+מחפשי הריגושים האחים קראש ואדי חוברים לבאק ווילד להשתלט על דינוזאורים של העולם האבוד</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\עידן הקרח_ הרפתקאות באק ויילד</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\עידן הקרח_ הרפתקאות באק ויילד\עידן הקרח_ הרפתקאות באק ויילד.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\עידן הקרח_ הרפתקאות באק ויילד\עידן הקרח_ הרפתקאות באק ויילד.strm</basepath>
+    <uniqueid type="tmdb" default="true">774825</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>קומדיה</genre>
+<genre>הרפתקאות</genre>
+<genre>משפחה</genre>
+    <year>2022</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=0U0L4uT0btQ</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//zzXFM4FKDG7l1ufrAkwQYv2xvnh.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//eG0oOQVsniPAuecPzDD1B1gnYWy.jpg">http://image.tmdb.org/t/p/original//eG0oOQVsniPAuecPzDD1B1gnYWy.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-06-23 18:28:31</dateadded>
+</movie>
+    

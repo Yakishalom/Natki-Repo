@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>זוטרופוליס</title>
+    <originaltitle>Zootopia</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.747</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2023-04-16 15:48:33
+ON,Dr,TE,TE,TE
+[COLOR lightblue]2020-07-09 15:10:41[/COLOR]
+[COLOR blue]זוטרופוליס-מדובב-גוזלן.avi[/COLOR]
+0.7 GB
+עיר החיות "זוטרופוליס" היא עיר בה כל החיות מכל הזנים והסוגים חיות יחדיו - עיר בה לא חשוב אם אתה הפיל הגדול בעולם או העכבר הקטן ביותר. אולם כאשר השוטרת ג'ודי הופס מגיעה לעיר היא מגלה שלהיות הארנבת הראשונה בשירות המשטרה של חיות גדולות וקשוחות, אינה משימה פשוטה. נחושה להוכיח את עצמה, היא קופצת על ההזדמנות לפצח תעלומה, גם אם זה אומר להתחבר לשועל חלקלק.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\זוטרופוליס</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\זוטרופוליס\זוטרופוליס.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\זוטרופוליס\זוטרופוליס.strm</basepath>
+    <uniqueid type="tmdb" default="true">269149</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> הרפתקאות </genre>
+<genre> משפחה </genre>
+<genre> קומדיה</genre>
+    <year>2016</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//vaZpo3YmG7EIscaYPAteZLkjZwR.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//p2fRZzxla6NoRbIH2KOZq0gHb5S.jpg">https://image.tmdb.org/t/p/original//p2fRZzxla6NoRbIH2KOZq0gHb5S.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-04-16 15:48:33</dateadded>
+</movie>
+    

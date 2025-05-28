@@ -1,0 +1,42 @@
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>HBO</label>
+		<label2>פריטים מותאמים אישית</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.cobra/?mode=build_tvshow_list&amp;action=tmdb_tv_networks&amp;network_id=49&amp;name=HBO&amp;iconImage=https%3A%2F%2Fi.imgur.com%2FHyu8ZGq.png",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>חיפוש</label>
+		<label2>פריטים מותאמים אישית</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.cobra/?mode=history.search&amp;action=tvshow&amp;name=%D7%A1%D7%93%D7%A8%D7%95%D7%AA&amp;iconImage=https%3A%2F%2Fi.imgur.com%2FxYTdX3O.png",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>דיסני פלוס</label>
+		<label2>פריטים מותאמים אישית</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.cobra/?mode=build_tvshow_list&amp;action=tmdb_tv_networks&amp;network_id=2739&amp;name=Disney%2B&amp;iconImage=https%3A%2F%2Fi.imgur.com%2FDVrPgbM.png",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>נטפליקס</label>
+		<label2>פריטים מותאמים אישית</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.cobra/?mode=build_tvshow_list&amp;action=tmdb_tv_networks&amp;network_id=213&amp;name=Netflix&amp;iconImage=https%3A%2F%2Fi.imgur.com%2FjI5c3bw.png",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>אמזון</label>
+		<label2>פריטים מותאמים אישית</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.cobra/?mode=build_tvshow_list&amp;action=tmdb_tv_networks&amp;network_id=2552&amp;name=Apple+TV+%2B&amp;iconImage=https%3A%2F%2Fi.imgur.com%2FfAQMVNp.png",return)</action>
+		</shortcut>
+	</shortcuts>

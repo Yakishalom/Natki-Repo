@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>עידן הקרח 4: יבשת בתנועה</title>
+    <originaltitle>Ice Age: Continental Drift</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.358</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2021-06-13 21:56:48
+ON,Dr,TE,TE,TE
+[COLOR lightblue]2018-07-05 00:52:20[/COLOR]
+[COLOR blue]NF נתי מדיה עידן הקרח 4 מדובב.avi[/COLOR]
+0.63 GB
+המרדף האגוזי של סקארט אחר הבלוט המקולל, שנמשך מאז תחילת הזמן, גורם להשלכות עולמיות - תזוזת יבשות עולמית שמתחילה את הרפתקה הגדולה ביותר למני, דייגו וסיד. לאחר התהפוכות הגדולות בסדר היבשות, סיד מתאחד עם משפחתו האבודה, לאחר איחוד המשפחות החבורה פוגשת בדרכה הביתה חיות חדשות שרוצות למנוע מהן לחזור לשם.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\עידן הקרח 4_ יבשת בתנועה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\עידן הקרח 4_ יבשת בתנועה\עידן הקרח 4_ יבשת בתנועה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\עידן הקרח 4_ יבשת בתנועה\עידן הקרח 4_ יבשת בתנועה.strm</basepath>
+    <uniqueid type="tmdb" default="true">57800</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> קומדיה </genre>
+<genre> הרפתקאות </genre>
+<genre> משפחה</genre>
+    <year>2012</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//e1BfecKYKNvR8nMlQ2SDVSkkA34.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//kyTlMMVWo1GffYoQctZwLqJcwaj.jpg">https://image.tmdb.org/t/p/original//kyTlMMVWo1GffYoQctZwLqJcwaj.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-06-13 21:56:48</dateadded>
+</movie>
+    

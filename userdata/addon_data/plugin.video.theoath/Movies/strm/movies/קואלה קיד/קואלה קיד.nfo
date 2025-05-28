@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>קואלה קיד</title>
+    <originaltitle>The Outback</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.721</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2020-01-14 14:47:57
+ON,Dr,TE
+[COLOR lightblue]2018-06-02 20:32:26[/COLOR]
+[COLOR blue]קואלה קיד.מדובב.גוזלן.DVDRip.avi[/COLOR]
+0.88 GB
+ג'וני, דב קואלה לבקן, תמיד זכה ליחס מזלזל מחבריו, דובי הקואלה האחרים. הוא מחליט לברוח מביתו והופך לאטרקציה בקרנבל סמוך. כאשר טעות בזיהוי גורמת לכל חיות האיזור להאמין שג'וני ביצע מעשה גבורה, הן פונות אליו בכדי שיעזור להן להילחם בקרוקודיל אכזר. בין המדבבים בגרסה העברית: תום שוורצברג, דון לני גבאי, אור דגן, צביקה שוורצברג, אלעד שרעבי, יהויכין פרידלנדר ותמר הר-שגיא.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קואלה קיד</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קואלה קיד\קואלה קיד.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קואלה קיד\קואלה קיד.strm</basepath>
+    <uniqueid type="tmdb" default="true">136405</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> הרפתקאות </genre>
+<genre> משפחה</genre>
+    <year>2012</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//tcc5ZqiQLhBVK6Mr6hOJOhjIEvC.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//ocOWqV5xFxrvUE3Hk2ZNZsTwDax.jpg">https://image.tmdb.org/t/p/original//ocOWqV5xFxrvUE3Hk2ZNZsTwDax.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-01-14 14:47:57</dateadded>
+</movie>
+    

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>גיירמו דל טורו מציג: פינוקיו</title>
+    <originaltitle>Guillermo del Toro%27s Pinocchio</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>8.189</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2023-04-8 21:13:28
+Dr,TE
+[COLOR lightblue]2023-03-27 00:00:45[/COLOR]
+[COLOR blue]1080p WEB 2022 זירה מדיה פינוקיו מדובב.mkv[/COLOR]
+1.52 GB
+הבמאי זוכה האוסקר גיירמו דל טורו לוקח את הצופים להרפתקת סטופ-מושן מוזיקלית בעיבוד מחודש לאגדה האיטלקית הקלאסית "פינוקיו". צפו במעלליו של פינוקיו, ילד מעץ שחולם להפוך לילד בשר ודם.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\גיירמו דל טורו מציג_ פינוקיו</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\גיירמו דל טורו מציג_ פינוקיו\גיירמו דל טורו מציג_ פינוקיו.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\גיירמו דל טורו מציג_ פינוקיו\גיירמו דל טורו מציג_ פינוקיו.strm</basepath>
+    <uniqueid type="tmdb" default="true">555604</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> פנטזיה </genre>
+<genre> דרמה </genre>
+<genre> מוסיקה</genre>
+    <year>2022</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//grSO89WQpNKHU8z97CVEHH5VDZM.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//e782pDRAlu4BG0ahd777n8zfPzZ.jpg">https://image.tmdb.org/t/p/original//e782pDRAlu4BG0ahd777n8zfPzZ.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-04-08 21:13:28</dateadded>
+</movie>
+    

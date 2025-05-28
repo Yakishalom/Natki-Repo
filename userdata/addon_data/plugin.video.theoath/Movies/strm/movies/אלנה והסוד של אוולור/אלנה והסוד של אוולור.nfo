@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>אלנה והסוד של אוולור</title>
+    <originaltitle>Elena and the Secret of Avalor</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.18</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2019-02-26 21:22:02
+Dr,TE,TE
+[COLOR lightblue]2019-01-24 08:39:50[/COLOR]
+[COLOR blue]אלנה והסוד של אוולור.מדובב.גוזלן.avi[/COLOR]
+0.85 GB
+כשאלנה הייתה בת 16, המכשפה שאריקי השתלטה על הממלכה והרגה את הוריה של אלנה. אלנה נכלאה בתוך התליון של אוולור ואחותה איזבל וסביהן נקלעו בתוך ציור. לאחר 41 שנים, התליון הגיע לנסיכה סופיה, אשר מגלה שאלנה כלואה בתוכו. בעזרת אנשים רבים וקסם, היא עוברת הרפתקה שבסופה אלנה, איזבל וסביהן משתחררים.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אלנה והסוד של אוולור</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אלנה והסוד של אוולור\אלנה והסוד של אוולור.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אלנה והסוד של אוולור\אלנה והסוד של אוולור.strm</basepath>
+    <uniqueid type="tmdb" default="true">427143</uniqueid>
+    
+    <genre>פנטזיה </genre>
+<genre> אנימציה </genre>
+<genre> משפחה </genre>
+<genre> סרט טלויזיה</genre>
+    <year>2016</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//9Eo5E2mN7ytRz6SMeKOXYQyNph8.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//yNSwYIAFeM39Rz1uJkFqTpjsZd3.jpg">https://image.tmdb.org/t/p/original//yNSwYIAFeM39Rz1uJkFqTpjsZd3.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-02-26 21:22:02</dateadded>
+</movie>
+    

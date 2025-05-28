@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>דורה והעיר האבודה</title>
+    <originaltitle>Dora and the Lost City of Gold [2019] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>12,797</votes>
+        </rating>
+    </ratings>
+    <plot>2019-12-31 06:31:23
+ON,Dr
+[COLOR lightblue]2019-12-20 00:03:59[/COLOR]
+דורה בילתה את רוב חייה בחקירת וגילוי הג'ונגל יחד עם הוריה. אך כל זה לא הכין אותה להרפתקה המסוכנת ביותר עבורה - בית הספר התיכון. בהיותה תמיד חוקרת, דורה מוצאת את עצמה מהר מאוד מובילה חבורה שלמה: הקוף בוטס חברה הטוב, דייגו בן דודה, תושב ג'ונגל מסתורי וכמה בני נוער, להרפתקה מסחררת להציל את הוריה ולפתור את המיסתורין שמאחורי עיר הזהב האבודה.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דורה והעיר האבודה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דורה והעיר האבודה\דורה והעיר האבודה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דורה והעיר האבודה\דורה והעיר האבודה.strm</basepath>
+    <uniqueid type="tmdb" default="true">499701</uniqueid>
+    
+    <genre>הרפתקאות</genre>
+<genre>קומדיה</genre>
+<genre>משפחה</genre>
+    <year>2019</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ksj69JaBrAo</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//sZekAoFcDjRT9iTkHzFVCQ6v7b2.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//61sbyO47yIpsMFyLhY1MWcqjg1Q.jpg">http://image.tmdb.org/t/p/original//61sbyO47yIpsMFyLhY1MWcqjg1Q.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-12-31 06:31:23</dateadded>
+</movie>
+    

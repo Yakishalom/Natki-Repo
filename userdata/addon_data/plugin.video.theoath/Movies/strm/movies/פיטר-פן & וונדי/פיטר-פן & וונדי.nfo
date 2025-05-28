@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>פיטר-פן & וונדי</title>
+    <originaltitle>Peter Pan & Wendy</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2023-12-10 22:35:50[/COLOR]
+וונדי דארלינג, ילדה צעירה שמפחדת לעזוב את בית ילדותה מאחור, פוגשת את פיטר פן, ילד שמסרב להתבגר. יחד עם שני אחיה ובליווי פיה קטנטנה בשם טינקרבל, היא טסה עם פיטר לארץ לעולם-לא הקסומה, שם היא נתקלת בפיראט מרושע, קפטן הוק, ויוצאת להרפתקה מסעירה ומסוכנת שתשנה את חייה לעד.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פיטר-פן & וונדי</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פיטר-פן & וונדי\פיטר-פן & וונדי.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פיטר-פן & וונדי\פיטר-פן & וונדי.strm</basepath>
+    <uniqueid type="tmdb" default="true">420808</uniqueid>
+    
+    <genre>משפחה</genre>
+<genre>פנטזיה</genre>
+<genre>אקשן</genre>
+<genre>הרפתקאות</genre>
+    <year>2023</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9Ji5U2sTlLU</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//u9qZbot87EijyvIlr1qlBFqekpu.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//8HfjrSxfTVKmjNh8cJjbu5eXzcX.jpg">http://image.tmdb.org/t/p/original//8HfjrSxfTVKmjNh8cJjbu5eXzcX.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-12-10 22:35:50</dateadded>
+</movie>
+    

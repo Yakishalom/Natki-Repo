@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מגה-מוח</title>
+    <originaltitle>Megamind</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.96</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2019-05-5 17:22:03
+ON,Dr,TE,TE
+[COLOR lightblue]2016-11-18 14:16:08[/COLOR]
+[COLOR blue]מגה מוח מדובב.mp4[/COLOR]
+0.37 GB
+אחרי שמגה-מוח המרושע הורג את גיבור העל ואויבו המושבע מטרו-מן הוא משועמם מאחר ולא נשארו לא אויבים להלחם בהם. הוא יוצר את טיטאן שבמקום להשתמש בכוחותיו כדי להפך לגיבור על ולהלחם במגה-מוח, מחליט להחריב את העולם. מגה-מוח מוצא את עצמו לראשונה בתפקיד הגיבור כאשר הוא יוצא נגד הגולם שקם על יוצרו.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מגה-מוח</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מגה-מוח\מגה-מוח.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מגה-מוח\מגה-מוח.strm</basepath>
+    <uniqueid type="tmdb" default="true">38055</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> אקשן </genre>
+<genre> קומדיה </genre>
+<genre> משפחה </genre>
+<genre> מדע בדיוני</genre>
+    <year>2011</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//bfLIywOS0xXETpeOmzc9YUnSaB4.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//irpJXGiVr539uuspcQcNdkhS2lq.jpg">https://image.tmdb.org/t/p/original//irpJXGiVr539uuspcQcNdkhS2lq.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-05-05 17:22:03</dateadded>
+</movie>
+    

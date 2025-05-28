@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>באג לייף</title>
+    <originaltitle>A Bug%27s Life</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.968</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE
+[COLOR lightblue]2021-04-16 15:57:45[/COLOR]
+[COLOR blue]באג לייף.מדובב.גוזלן.DVDRip.avi[/COLOR]
+0.87 GB
+קן הנמלים עומד בסכנה מיידי החרגולים האכזריים, שבראשם עומד הופר. מולם מתייצב רק פליק הקטן, נמלה רב פעלים והמצאות שיוצא לגייס חיות אחרות שיגנו על הקן מהחרגולים האלימים. בין רגעי הסכנה והמאבקים הקשים, מצליח להתפתח רומן המוכיח שעולמה של הנמלה לא צר בכלל! אנימציה מדהימה, נמלים מצחיקות, ועולם ומלואו בגובה הדשא משעשעים ומותחים ילדים, מבוגרים ונמלים כאחד.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\באג לייף</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\באג לייף\באג לייף.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\באג לייף\באג לייף.strm</basepath>
+    <uniqueid type="tmdb" default="true">9487</uniqueid>
+    
+    <genre>הרפתקאות </genre>
+<genre> אנימציה </genre>
+<genre> קומדיה </genre>
+<genre> משפחה</genre>
+    <year>1998</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//5OC8SYEinr7pHOkBAgrHYB7CBJd.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//hwwFyowfcbLRVmRBOkvnABBNIOs.jpg">https://image.tmdb.org/t/p/original//hwwFyowfcbLRVmRBOkvnABBNIOs.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-04-16 15:57:45</dateadded>
+</movie>
+    

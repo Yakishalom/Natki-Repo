@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>גנוב על העולם</title>
+    <originaltitle>Despicable Me 3</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.452</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,TE
+[COLOR lightblue]2018-06-02 20:32:27[/COLOR]
+[COLOR blue]גנוב על העולם.מדובב.גוזלן.avi[/COLOR]
+0.84 GB
+הפעם, גרו יוצא להילחם בנבל בלתז'אר בראט, כוכב טלוויזיה, שנשאר תקוע בשנות ה-80 כולל הג'ל בשיער וכריות הכתפיים, שמזימתו להשתלט על העולם, או גרוע מכך - להחזיר את שנות ה-80 הנוראיות לחיים. ואם זה לא מספיק לגרו, הוא מאבד את עבודתו ומגלה במפתיע כי יש לו אח תאום אבוד – דרו. השניים מחליטים בכוחות משותפים לגנוב בחזרה את היהלום שבלתז'אר גנב – להציל את העולם ולהחזיר לגרו את עבודתו. אבל הדרך לשם, לא עומדת להיות קלה...TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\גנוב על העולם</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\גנוב על העולם\גנוב על העולם.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\גנוב על העולם\גנוב על העולם.strm</basepath>
+    <uniqueid type="tmdb" default="true">324852</uniqueid>
+    
+    <genre>אקשן </genre>
+<genre> אנימציה </genre>
+<genre> קומדיה </genre>
+<genre> משפחה </genre>
+<genre> הרפתקאות</genre>
+    <year>2017</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//7UOmTDnKPPi9kGLIytpfyBoUniJ.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//ftRkFtAGuHngHnLiOxktq0aCVMF.jpg">https://image.tmdb.org/t/p/original//ftRkFtAGuHngHnLiOxktq0aCVMF.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-06-02 20:32:27</dateadded>
+</movie>
+    

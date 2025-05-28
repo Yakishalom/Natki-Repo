@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>זמביזיה</title>
+    <originaltitle>Zambezia</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.996</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE
+[COLOR lightblue]2021-06-23 17:18:29[/COLOR]
+[COLOR blue]1080p BluRay 2012 ז.מ זמביזיה מדובב.mkv[/COLOR]
+1.55 GB
+בצדו של מפל מים קסום, ובתוך סככת עץ ענקית שוכנת לה עיר הציפורים התוססת "זמביזיה". העיר, שנודעת כעיר הבטוחה ביותר באפריקה, הפכה לאטרקציה גדולה בקרב הציפורים למיניהם אשר באים להכיר חברים חדשים ולחיות חיי אושר והרמוניה. קאי, שחף צעיר, נוטש את אביו כדי להתגייס ליחידת ציפורים מובחרת המתריעה את תושבי העיר מפני הוריקנים וסערות למיניהן. אביו של קאי יוצא בעקבותיו של בנו ונלכד בידי בודג'ו, לטאה ענקית, שזומם עם חברו מראבוס להשתלט על זמביזיה. קאי, שמתוודע לחטיפת אביו, מבין שהוא נלכד בתוך מזימה מסוכנת, ונאבק עם בודג'ו על המשך קיומה של זמביזיה.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\זמביזיה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\זמביזיה\זמביזיה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\זמביזיה\זמביזיה.strm</basepath>
+    <uniqueid type="tmdb" default="true">133931</uniqueid>
+    
+    <genre></genre>
+    <year>2012</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//dr9kMRq5XZNdJtQmST2DOhCVamG.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//34Xi4ZYsmRgO4JEpDzSMrHF5JEY.jpg">https://image.tmdb.org/t/p/original//34Xi4ZYsmRgO4JEpDzSMrHF5JEY.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-06-23 17:18:29</dateadded>
+</movie>
+    

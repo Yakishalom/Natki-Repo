@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>פלונטר</title>
+    <originaltitle>Tangled</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.596</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE,TE
+[COLOR lightblue]2022-12-25 23:50:06[/COLOR]
+[COLOR blue]1080p BluRay 2010 זירה מדיה פלונטר מדובב.mkv[/COLOR]
+1.48 GB
+כאשר גנב בוחר במגדל מבודד כמסתורו האחרון, הוא לא העלה בדעתו שהמגדל כבר מאוכלס בנסיכה אשר נחטפה כאשר הייתה תינוקת על ידי מכשפה חמדנית. לנסיכה קוראים פעמונית והיא יכולה להשתמש בשערה הקסום כדי לרפא ולהשתמש בו בדרכים נוספות. היא מוצאת בגנב הזדמנות למצוא את דרכה החוצה מהמגדל ולצאת לחיי הרפתקאות, כדי להתאחד עם הוריה ולשחזר את המורשת המלכותית שלה.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פלונטר</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פלונטר\פלונטר.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פלונטר\פלונטר.strm</basepath>
+    <uniqueid type="tmdb" default="true">38757</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> משפחה</genre>
+    <year>2010</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//oJgbux25CjBiTjKBOYNQqBWxu0U.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//cWczNud8Y8i8ab0Z4bxos4myWYO.jpg">https://image.tmdb.org/t/p/original//cWczNud8Y8i8ab0Z4bxos4myWYO.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-12-25 23:50:06</dateadded>
+</movie>
+    

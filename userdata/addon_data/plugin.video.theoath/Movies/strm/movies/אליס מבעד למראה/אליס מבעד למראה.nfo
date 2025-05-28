@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>אליס מבעד למראה</title>
+    <originaltitle>Alice Through the Looking Glass [2016]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>68,736</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-04-2 11:33:26[/COLOR]
+אליס קינגסלי בילתה את השנים האחרונות בעקבותיו של אביה והפליגה בים הפתוח. עם חזרתה ללונדון, היא נתקלת במראה קסומה וחוזרת לממלכה הפנטסטית של ארץ הפלאות עם חבריה הארנב הלבן, הזחל הכחול, חתול הצ'שייר והכובען המטורף, אשר איבד את עצמו. מירנה שולחת את אליס למסע כדי למצוא גלובוס מתכתי הנמצא בתוך החדר של השעון הגדול ושולט בזמן. אליס חוזרת אל העבר, ונתקלת בחברים ואויבים - בנקודות שונות בחייהם, ויוצאת למרוץ מסוכן כדי להציל את הכובען לפני שנגמר הזמן.</plot>
+    <runtime>113</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אליס מבעד למראה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אליס מבעד למראה\אליס מבעד למראה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אליס מבעד למראה\אליס מבעד למראה.strm</basepath>
+    <uniqueid type="tmdb" default="true">241259</uniqueid>
+    
+    <genre>Adventure</genre>
+<genre>Family</genre>
+<genre>Fantasy</genre>
+<genre>הרפתקאות</genre>
+<genre>משפחה</genre>
+<genre>פנטזיה</genre>
+    <year>2016</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=fomWLkyO_SY</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//tyPyMyxwLRfk1K36drZfSTtf1dI.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//rWlXrfmX1FgcPyj7oQmLfwKRaam.jpg">http://image.tmdb.org/t/p/original//rWlXrfmX1FgcPyj7oQmLfwKRaam.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-04-02 11:33:26</dateadded>
+</movie>
+    

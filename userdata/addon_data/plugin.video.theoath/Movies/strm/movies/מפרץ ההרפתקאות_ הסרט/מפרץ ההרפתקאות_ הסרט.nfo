@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מפרץ ההרפתקאות: הסרט</title>
+    <originaltitle>PAW Patrol: The Movie</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.4</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>Dr,TE
+[COLOR lightblue]2023-08-13 18:59:34[/COLOR]
+[COLOR blue]1080p ז.מ מפרץ ההרפתקאות הסרט מדובב.mkv[/COLOR]
+1.36 GB
+יחידת החילוץ של הכלבלבים מגיעה למסך הגדול! כשיריבם המר ביותר, המדינגר, הופך לראש העיר השכנה 'עיר ההרפתקאות' ומתחיל לעשות צרות, ריידר והגורים האמיצים נכנסים להילוך גבוה על מנת להתגבר על האתגר. בעוד שאחד הכלבלבים נדרש להתמודד עם עברו בעיר ההרפתקאות, הצוות נעזר בחברה חדשה – כלבלבת התחש רבת התושייה, ליברטי. יחד, חמושים בגאדג'טים חדשים ומרגשים, הם נלחמים כדי להציל את תושבי עיר ההרפתקאות!TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מפרץ ההרפתקאות_ הסרט</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מפרץ ההרפתקאות_ הסרט\מפרץ ההרפתקאות_ הסרט.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מפרץ ההרפתקאות_ הסרט\מפרץ ההרפתקאות_ הסרט.strm</basepath>
+    <uniqueid type="tmdb" default="true">675445</uniqueid>
+    
+    <genre></genre>
+    <year>2021</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//yGz7zFUdifTjjcrJyNz7WnEbUBT.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//a17F3zXnmuwqxfiDa46mtlosjrv.jpg">https://image.tmdb.org/t/p/original//a17F3zXnmuwqxfiDa46mtlosjrv.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-08-13 18:59:34</dateadded>
+</movie>
+    

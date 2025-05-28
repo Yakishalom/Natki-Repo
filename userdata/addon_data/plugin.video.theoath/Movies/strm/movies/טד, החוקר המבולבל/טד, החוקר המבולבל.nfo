@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>טד, החוקר המבולבל</title>
+    <originaltitle>Las aventuras de Tadeo Jones</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.221</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2021-09-2 22:09:00
+ON,Dr,TE
+[COLOR lightblue]2021-08-02 21:51:18[/COLOR]
+[COLOR blue]Tad.the.Lost.Explorer.2012.720p.BrRip.x264.HebDub.mkv[/COLOR]
+0.65 GB
+בילדותו, טד חלם על הרפתקאות מסוכנות ותגליות מדהימות. הוא העריץ את אינדיאנה ג'ונס. אבל מציאות היא אחרת, טד הוא רק עובד בניין רגיל, אבל גורלו עומד להישתנות לאחר שבטעות לוקחים אותו לארכיאולוג ידוע לשמצה אשר שולח אותו לפרו לצורך לחפירות ארכיאולוגיות כדי למצוא את אוצרות האינקה העתיקות.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טד, החוקר המבולבל</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טד, החוקר המבולבל\טד, החוקר המבולבל.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טד, החוקר המבולבל\טד, החוקר המבולבל.strm</basepath>
+    <uniqueid type="tmdb" default="true">121734</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> קומדיה </genre>
+<genre> הרפתקאות </genre>
+<genre> משפחה</genre>
+    <year>2012</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//bJOh4n9rW4pGInCpHFzdny3Zyh3.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//rg10dfOmhP42jTmVs0jRTPQ0WUE.jpg">https://image.tmdb.org/t/p/original//rg10dfOmhP42jTmVs0jRTPQ0WUE.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-09-02 22:09:00</dateadded>
+</movie>
+    

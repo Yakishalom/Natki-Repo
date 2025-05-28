@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>פיטר ראביט</title>
+    <originaltitle>Peter Rabbit</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.712</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2019-11-11 15:52:33
+ON,Dr,TE,TE,TE
+[COLOR lightblue]2018-06-29 00:56:06[/COLOR]
+[COLOR blue]פיטר ראביט.מדובב.גוזלן.BDRip.avi[/COLOR]
+1.05 GB
+הסיפור של פיטר ראביט והסכסוך שלו עם מר מקגרגור עולה דרגה כשהם מתחרים על ליבה של השכנה החיננית וחובבת החיות שגרה מול.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פיטר ראביט</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פיטר ראביט\פיטר ראביט.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פיטר ראביט\פיטר ראביט.strm</basepath>
+    <uniqueid type="tmdb" default="true">381719</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> הרפתקאות </genre>
+<genre> משפחה</genre>
+    <year>2021</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//5670H8PABhJFtcljZ2bLjFhMoGC.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//1wj8H9gdtkb98Tl3zu0hrHfW0qw.jpg">https://image.tmdb.org/t/p/original//1wj8H9gdtkb98Tl3zu0hrHfW0qw.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-11-11 15:52:33</dateadded>
+</movie>
+    

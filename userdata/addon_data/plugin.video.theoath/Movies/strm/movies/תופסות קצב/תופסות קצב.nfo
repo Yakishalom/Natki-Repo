@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>תופסות קצב</title>
+    <originaltitle>Feel the Beat</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2023-06-16 19:51:03[/COLOR]
+רקדנית אגוצנטרית מפשלת באודישן לברודוויי, ונאלצת לחזור הביתה ולאמן קבוצת ילדים לא הכי מוכשרים לתחרות גדולה.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\תופסות קצב</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\תופסות קצב\תופסות קצב.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\תופסות קצב\תופסות קצב.strm</basepath>
+    <uniqueid type="tmdb" default="true">707886</uniqueid>
+    
+    <genre>קומדיה</genre>
+<genre>מוסיקה</genre>
+<genre>דרמה</genre>
+    <year>2020</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=PhLSDnxLp-M</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//Af2jt7m9GLFpR4V11xOsFmT8OKD.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//fZBQOScjDT8TAipEyCkLVeDTu5c.jpg">http://image.tmdb.org/t/p/original//fZBQOScjDT8TAipEyCkLVeDTu5c.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-06-16 19:51:03</dateadded>
+</movie>
+    

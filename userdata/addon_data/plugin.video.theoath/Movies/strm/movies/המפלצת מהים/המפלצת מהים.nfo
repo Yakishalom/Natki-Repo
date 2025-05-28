@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>המפלצת מהים</title>
+    <originaltitle>The Sea Beast</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2022-07-16 13:33:38[/COLOR]
+בעידן שבו האוקיינוסים שרצו מפלצות אימתניות, ציידי המפלצות היו גיבורים מהוללים – והאהוב מכולם היה ג'ייקוב הולנד הגדול. כשמייזי ברמבל הצעירה מתגנבת לספינתו האגדית והופכת לשותפתו לדרך בעל כורחו, השניים יוצאים למסע בלתי-נשכח במים לא מוכרים – ועושים היסטוריה.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\המפלצת מהים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\המפלצת מהים\המפלצת מהים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\המפלצת מהים\המפלצת מהים.strm</basepath>
+    <uniqueid type="tmdb" default="true">560057</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>הרפתקאות</genre>
+<genre>משפחה</genre>
+<genre>פנטזיה</genre>
+    <year>2022</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=XGJmEAuxjdQ</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//yMeSc5iDuROh3xMKAvWtB6vqCsj.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//wUwizGzbTk5CTiKBnE4Pq1MONwD.jpg">http://image.tmdb.org/t/p/original//wUwizGzbTk5CTiKBnE4Pq1MONwD.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-07-16 13:33:38</dateadded>
+</movie>
+    

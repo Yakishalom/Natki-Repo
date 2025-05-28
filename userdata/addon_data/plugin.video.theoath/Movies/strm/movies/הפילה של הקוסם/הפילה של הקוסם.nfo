@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הפילה של הקוסם</title>
+    <originaltitle>The Magician&apos;s Elephant</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2023-03-18 14:12:57[/COLOR]
+ילד נחוש מקבל מהמלך אתגר: לבצע שלוש משימות בלתי אפשריות תמורת פילה קסומה. הילד נענה לאתגר – ולהזדמנות לרדוף אחר גורלו.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הפילה של הקוסם</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הפילה של הקוסם\הפילה של הקוסם.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הפילה של הקוסם\הפילה של הקוסם.strm</basepath>
+    <uniqueid type="tmdb" default="true">776835</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>הרפתקאות</genre>
+<genre>משפחה</genre>
+<genre>פנטזיה</genre>
+    <year>2023</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=JvNuYOR7b4w</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//cAoAgzOCxSytYBqqCQulhXNR3LB.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//gNOyIDGW8YY6AYbz6nMvrVSHSXs.jpg">http://image.tmdb.org/t/p/original//gNOyIDGW8YY6AYbz6nMvrVSHSXs.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-03-18 14:12:57</dateadded>
+</movie>
+    

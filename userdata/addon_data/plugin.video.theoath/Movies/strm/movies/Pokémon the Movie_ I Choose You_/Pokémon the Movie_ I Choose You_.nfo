@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Pokémon the Movie: I Choose You!</title>
+    <originaltitle>Pokémon the Movie: I Choose You! [2017] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>5,725</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2020-12-16 12:38:27[/COLOR]
+This is the story of how Satoshi and Pikachu first met. At first, Pikachu was disobedient towards Satoshi, but Satoshi only wanted to be friends with Pikachu. On the day they set out from Masara Town, both of them saw a Ho-Oh flying and they made a vow to meet it.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\Pokémon the Movie_ I Choose You_</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\Pokémon the Movie_ I Choose You_\Pokémon the Movie_ I Choose You_.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\Pokémon the Movie_ I Choose You_\Pokémon the Movie_ I Choose You_.strm</basepath>
+    <uniqueid type="tmdb" default="true">436931</uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Family</genre>
+<genre>Adventure</genre>
+<genre>Fantasy</genre>
+    <year>2017</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=r12w4iRBLp4</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//cmpOaiRtjnhLNF2iPslMXCOcVJ.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//jLS805N4QmLVPurQwuaCFTNEZss.jpg">http://image.tmdb.org/t/p/original//jLS805N4QmLVPurQwuaCFTNEZss.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-12-16 12:38:27</dateadded>
+</movie>
+    

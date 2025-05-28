@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>טרופותי הבת</title>
+    <originaltitle>The Gruffalo%27s Child</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.839</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,TE
+[COLOR lightblue]2020-12-11 09:30:39[/COLOR]
+[COLOR blue]BRRip 2011 נתי מדיה טרופותי הבת מדובב.avi[/COLOR]
+0.88 GB
+בסרט המשך, בתו של טרופותי לא שומעת לעצת אביה, ויוצאת אל היער כדי למצוא את העכברון המרושע. היא פוגשת את הנחש, הינשוף והשועל, אבל עכבר אגדי אין. האם הוא בכלל קיים או שסתם מכרו לה לוקשים? אנימציה מאת ג'ייקוב שו ומקס לאנג, עפ"י ספר הילדים של ג'וליה דונלדסון ואקסל שפלר.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טרופותי הבת</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טרופותי הבת\טרופותי הבת.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טרופותי הבת\טרופותי הבת.strm</basepath>
+    <uniqueid type="tmdb" default="true">81684</uniqueid>
+    
+    <genre>הרפתקאות </genre>
+<genre> אנימציה </genre>
+<genre> משפחה </genre>
+<genre> פנטזיה</genre>
+    <year>2011</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//n8fu0eATvUWtmR9CsDlL1gwqTcp.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//xmegF6QooE8SyzxygO2E3PsPpVA.jpg">https://image.tmdb.org/t/p/original//xmegF6QooE8SyzxygO2E3PsPpVA.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-12-11 09:30:39</dateadded>
+</movie>
+    

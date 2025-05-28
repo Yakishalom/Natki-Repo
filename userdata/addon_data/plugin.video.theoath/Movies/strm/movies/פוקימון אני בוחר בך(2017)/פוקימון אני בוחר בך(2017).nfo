@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>פוקימון אני בוחר בך(2017)</title>
+    <originaltitle> פוקימון אני בוחר בך(2017)</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes> </votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2019-01-31 09:51:22[/COLOR]
+אש הוא מאמן פוקימונים צעיר מהעיר פאלט, וכשהוא מגיע לגיל 10, הוא מקבל את הפוקימון הראשון שלו – פיקאצ'ו ויחד הם פוגשים את הפוקימון האגדי הו-הו, שמוסר לאש את נוצת הקשת בענן. בהמשך המסע שלו, אש פוגש את וריטי וסורל, שני מאמני פוקימונים צעירים, אשר מנסים ללכוד את הפוקימון האגדי אנטיי. הם מתחברים יחד ויוצאים למסע משותף אל עבר קצה הקשת בענן. במהלך הדרך הם פוגשים את שאר הכלבים האגדיים סוויקון וראיקו.</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פוקימון אני בוחר בך(2017)</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פוקימון אני בוחר בך(2017)\פוקימון אני בוחר בך(2017).strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פוקימון אני בוחר בך(2017)\פוקימון אני בוחר בך(2017).strm</basepath>
+    <uniqueid type="tmdb" default="true"> </uniqueid>
+    
+    <genre>משפחה</genre>
+<genre>אנימציה</genre>
+    <year> 2017</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//qL9CWspCl2dVK3rcz5Qbk9AWztZ.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//k6KlehTEOAlC5nJUeIbbgim7GrV.jpg">http://image.tmdb.org/t/p/original//k6KlehTEOAlC5nJUeIbbgim7GrV.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-01-31 09:51:22</dateadded>
+</movie>
+    

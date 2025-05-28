@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מכוניות</title>
+    <originaltitle>Cars</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.93</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2021-07-15 20:13:42
+ON,Dr,TE,TE
+[COLOR lightblue]2020-12-23 20:45:35[/COLOR]
+[COLOR blue]DVDRip 2006 נתי מדיה מכוניות מדובב.avi[/COLOR]
+0.69 GB
+לייטנינג מק'קווין הוא מכונית מרוץ גאוותנית ובטוחה בעצמה. בדרכו לקליפורניה על כביש מס' 66 המפורסם הוא מתרסק לתוך עיירה בשם רדיאטור ספרינגס, והורס חצי רחוב. תושבי המקום מאלצים אותו להישאר עד שיגמור לשפץ את ביתם, והם לא מוכנים לוותר לו על התנהגותו הלא הולמת. הסרט היה מועמד לאוסקר לסרט האנימציה הטוב ביותר של 2006.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מכוניות</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מכוניות\מכוניות.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מכוניות\מכוניות.strm</basepath>
+    <uniqueid type="tmdb" default="true">920</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> הרפתקאות </genre>
+<genre> קומדיה </genre>
+<genre> משפחה</genre>
+    <year>2006</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//y8VFPKimeRvDXi2IeaqmqAEwQaw.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//sd4xN5xi8tKRPrJOWwNiZEile7f.jpg">https://image.tmdb.org/t/p/original//sd4xN5xi8tKRPrJOWwNiZEile7f.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-07-15 20:13:42</dateadded>
+</movie>
+    

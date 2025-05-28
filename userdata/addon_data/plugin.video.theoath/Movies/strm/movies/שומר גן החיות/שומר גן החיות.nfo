@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>שומר גן החיות</title>
+    <originaltitle>Zookeeper [2011]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5</value>
+            <votes>48,849</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-01-7 12:24:18[/COLOR]
+החיות בגן חיות בפרנקלין פארק מאד אוהבות את השומר טוב הלב שלהן, גריפין קיס. גריפין, שמוצא את עצמו יותר בנוח בחברת אריה מאשר בחורה, מחליט שהדרך היחידה למצוא את אהבת חייו היא לעזוב את גן החיות ולמצוא ג'וב נוצץ יותר. החיות בגן החיות בפאניקה ומחליטות לשבור את קוד השתיקה ולגלות את הסוד הגדול ביותר שלהן: הן יכולות לדבר! על מנת למנוע מגריפין לעזוב, הן מחליטות ללמד אותו את רזי החיזור – כמו שרק החיות יודעות.</plot>
+    <runtime>102</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\שומר גן החיות</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\שומר גן החיות\שומר גן החיות.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\שומר גן החיות\שומר גן החיות.strm</basepath>
+    <uniqueid type="tmdb" default="true">38317</uniqueid>
+    
+    <genre>Comedy</genre>
+<genre>Family</genre>
+<genre>Romance</genre>
+<genre>קומדיה</genre>
+<genre>רומנטי</genre>
+<genre>משפחה</genre>
+    <year>2011</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ak-pN_ZwvG4</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//nXA2Oa3IIRGYXlaCw4IRFMxc7Q7.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//8imTBLgQMJcfYrAGOsqVHFFXs3l.jpg">http://image.tmdb.org/t/p/original//8imTBLgQMJcfYrAGOsqVHFFXs3l.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-01-07 12:24:18</dateadded>
+</movie>
+    

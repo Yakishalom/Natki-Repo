@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הדרדסים</title>
+    <originaltitle>The Smurfs</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.767</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2022-02-28 05:32:05
+ON,Dr,TE
+[COLOR lightblue]2020-03-17 12:24:14[/COLOR]
+[COLOR blue]The.Smurfs.2011.720p.BrRip.x264.HebDub.mkv[/COLOR]
+0.7 GB
+עיבוד קולנועי מדהים בתלת מימד לסדרת הטלוויזיה האהובה. כשגרגמל הרשע רודף אחרי הדרדסים הקטנים אל מחוץ לכפר שלהם, הם נופלים מהעולם הקסום שלהם ונוחתים ב...עולם שלנו. ליתר דיוק, באמצע סנטרל פארק בניו יורק. עכשיו, בתפוח הגדול, הם חייבים למצוא דרך לברוח ולחזור לכפר שלהם לפני שגרגמל ימצא אותם.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הדרדסים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הדרדסים\הדרדסים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הדרדסים\הדרדסים.strm</basepath>
+    <uniqueid type="tmdb" default="true">41513</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> משפחה </genre>
+<genre> הרפתקאות </genre>
+<genre> קומדיה </genre>
+<genre> פנטזיה</genre>
+    <year>2011</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//aYaT0VwQOZFaRkzqUnf0oofzxic.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//iYLimHUF0C0R61v1ofg79SUIja9.jpg">https://image.tmdb.org/t/p/original//iYLimHUF0C0R61v1ofg79SUIja9.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-02-28 05:32:05</dateadded>
+</movie>
+    

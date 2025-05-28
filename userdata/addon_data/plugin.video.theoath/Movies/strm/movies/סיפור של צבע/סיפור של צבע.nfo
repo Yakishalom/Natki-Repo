@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>סיפור של צבע</title>
+    <originaltitle>The Hero of Color City [2014] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>4</value>
+            <votes>438</votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr
+[COLOR lightblue]2019-10-4 14:52:38[/COLOR]
+'סיפור של צבע' הוא סרט אנימציה לכל המשפחה אודות על צבעי פסטל הקמים לתחיה במהלך הלילה.  ככל ערב, בזמן שבן הולך לישון, צבעי הפסטל שלו קמים לחיים וקופצים לתוך קופסת הצבעים הקסומה שלהם ודרכה הם עוברים לביתם בעיר הצבעים. עולם של גוונים מהממים, פנטזיה מרהיבה וניחוחות של ילדות מתגלים פתאום. עולם שניזון מקשת ומפל קסומים אשר נותנים לעיר ולתושביה את הצבע שלהם.  כשצהובה, הגיבורה הביישנית שלנו, נותרת בטעות מאחור בחדר של בן, היא מעירה שני ציורים לא גמורים: המלך שרבוט, מפלצת גדולה, חזקה ואילמת – ונט, עוזרו ההיפראקטיבי שאינו מפסיק לדבר לרגע .בעודם מחפשים את הצבעים שאיתם יוכלו לצבוע את עצמם, הם עוקבים אחרי צהובה לעיר הצבעים, שם השניים יוצרים פניקה ודאגה. שרבוט ונט מנסים לחסום את מפל הצבעים ולקחת את הצבע רק לעצמם. אם יצליחו עיר הצבעים תעלם ואיתה ייעלמו הצבעים החביבים שלנו.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סיפור של צבע</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סיפור של צבע\סיפור של צבע.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סיפור של צבע\סיפור של צבע.strm</basepath>
+    <uniqueid type="tmdb" default="true">217057</uniqueid>
+    
+    <genre>אנימציה</genre>
+    <year>2014</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//tKOSuJhjn981H3G3zoGTETgj1AG.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://m.media-amazon.com/images/M/MV5BMTAzMzQ4Njc1ODReQTJeQWpwZ15BbWU4MDM5MDgyNDEx._V1_UX182_CR0,0,182,268_AL_.jpg">https://m.media-amazon.com/images/M/MV5BMTAzMzQ4Njc1ODReQTJeQWpwZ15BbWU4MDM5MDgyNDEx._V1_UX182_CR0,0,182,268_AL_.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-10-04 14:52:38</dateadded>
+</movie>
+    

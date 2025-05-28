@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>סרט לגו 2</title>
+    <originaltitle>The Lego Movie 2: The Second Part [2019] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7</value>
+            <votes>30,458</votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr
+[COLOR lightblue]2019-06-7 00:07:26[/COLOR]
+בובת לגו רגילה מזוהה בטעות כ'מאסטר-בילדר' , בונה העל, ומגוייסת להרפתקה לעצירת עריץ לגו גדול המבקש להדביק את היקום יחד.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סרט לגו 2</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סרט לגו 2\סרט לגו 2.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סרט לגו 2\סרט לגו 2.strm</basepath>
+    <uniqueid type="tmdb" default="true">280217</uniqueid>
+    
+    <genre>אקשן</genre>
+<genre>הרפתקאות</genre>
+<genre>אנימציה</genre>
+<genre>קומדיה</genre>
+<genre>משפחה</genre>
+<genre>מדע בדיוני</genre>
+<genre>פנטזיה</genre>
+    <year>2019</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=cksYkEzUa7k</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//ck1KLm9uy5dkRuSKFZ0R3csFArm.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//8kPozGb4BDrcWBSsGPrkULG2tP9.jpg">http://image.tmdb.org/t/p/original//8kPozGb4BDrcWBSsGPrkULG2tP9.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-06-07 00:07:26</dateadded>
+</movie>
+    

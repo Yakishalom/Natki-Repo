@@ -1,0 +1,1 @@
+["https://team-crew.github.io/", ["https://team-crew.github.io/", "repo url https //team-crew.github.io"], [], {"google:suggestsubtypes": [[512], [22, 30]], "google:suggesttype": ["QUERY", "QUERY"]}]

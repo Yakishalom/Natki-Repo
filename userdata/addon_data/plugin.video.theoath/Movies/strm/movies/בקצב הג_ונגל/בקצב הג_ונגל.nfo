@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>בקצב הג'ונגל</title>
+    <originaltitle>Jungle Beat: The Movie</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2022-03-21 20:01:51[/COLOR]
+בוקר אחד, חיות הג'ונגל ומגלות שהם יכולות לדבר! הם אפילו יותר נדהמו לגלות את הסיבה, יש חייזר בג'ונגל! החייזר הקטן בא לכבוש את העולם והוא הביא איתו טכנולוגיה מדהימה, אשר נותנת להם את היכולת לדבר. לרוע המזל של עולם הבית שלו ולשמחת העולם שלנו החייזר הקטן הוא הכובש הגרוע ביקום: החייזר הקטן מת לחזור הביתה, החללית שלו התרסקה והוא לא ממש יכול להתמודד מול חבורת החיות שלנו. הגיבורים שלנו לא יתנו לכיבוש אינטרגלקטי קטן לפגוע בכיף שלהם או באופציה לחבר חדש! החיות עוזרות לו בדרכו הביתה והוא לומד שחברות יכולה להיות הכוח החזק ביקום. השאלה האם זה מספיק...</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בקצב הג_ונגל</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בקצב הג_ונגל\בקצב הג_ונגל.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בקצב הג_ונגל\בקצב הג_ונגל.strm</basepath>
+    <uniqueid type="tmdb" default="true">663459</uniqueid>
+    
+    <genre>משפחה</genre>
+<genre>אנימציה</genre>
+<genre>מדע בדיוני</genre>
+<genre>קומדיה</genre>
+    <year>2020</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=zkIGl8LLPyE</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//cgC67SOxd9xkjN4Bnvjtuj1vI8T.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//eyPqSGbSldk0Sruujqe6xrQyctC.jpg">http://image.tmdb.org/t/p/original//eyPqSGbSldk0Sruujqe6xrQyctC.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-03-21 20:01:51</dateadded>
+</movie>
+    

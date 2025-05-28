@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>החיים הסודיים של חיות המחמד 2</title>
+    <originaltitle>The Secret Life of Pets 2 [2019] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>31,400</votes>
+        </rating>
+    </ratings>
+    <plot>2019-12-31 06:30:02
+ON,Dr
+[COLOR lightblue]2019-12-1 23:09:27[/COLOR]
+מקס הכלב שוב מתמודד עם שינוים גדולים בחייו: הבעלים שלו התחתנה ויש לה תינוק. מקס מרגיש חובה להגן על התינוק בכל מחיר, וכשהמשפחה נוסעת יחד עם מקס ועם חברו למשפחה הכלב דיוק, מתגלות חיות לא סימפטיות.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\החיים הסודיים של חיות המחמד 2</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\החיים הסודיים של חיות המחמד 2\החיים הסודיים של חיות המחמד 2.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\החיים הסודיים של חיות המחמד 2\החיים הסודיים של חיות המחמד 2.strm</basepath>
+    <uniqueid type="tmdb" default="true">412117</uniqueid>
+    
+    <genre>הרפתקאות</genre>
+<genre>אנימציה</genre>
+<genre>קומדיה</genre>
+<genre>משפחה</genre>
+    <year>2019</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=U_8cQYEXEZE</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//qIclkRKPeslEH2wTOs9nV2CwuqX.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//5mFcjZ58f9Pqg5RNv493XlfgzIX.jpg">http://image.tmdb.org/t/p/original//5mFcjZ58f9Pqg5RNv493XlfgzIX.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-12-31 06:30:02</dateadded>
+</movie>
+    

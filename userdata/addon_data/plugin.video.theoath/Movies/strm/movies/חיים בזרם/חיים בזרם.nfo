@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>חיים בזרם</title>
+    <originaltitle>Flushed Away</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.3</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2021-07-11 05:02:22
+ON,Dr,TE,TE
+[COLOR lightblue]2018-08-07 11:26:03[/COLOR]
+[COLOR blue]חיים בזרם - מדובב.avi[/COLOR]
+0.84 GB
+רודי הוא מסוג העכברים שנהנה מהחיים של המעמד העליון. הוא מתגורר לו בדירת יוקרה בשכונת הפאר קנסינגטון. סיד לעומתו הוא עכבר ביבים מתוחכם שחודר לתוך חייו של רודי והורס אותם קליל. רודי מנסה להפטר ממנו אבל סיד לא פראייר ועולה על מזימתו של רודי. כמה רגעים אח"כ רודי צריך למצוא את הדרך הביתה במערכת הביוב הלא כול כך ידידותית ומסתבך בשלל צרות.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\חיים בזרם</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\חיים בזרם\חיים בזרם.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\חיים בזרם\חיים בזרם.strm</basepath>
+    <uniqueid type="tmdb" default="true">11619</uniqueid>
+    
+    <genre>הרפתקאות </genre>
+<genre> אנימציה </genre>
+<genre> קומדיה </genre>
+<genre> משפחה</genre>
+    <year>2006</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//m3tNo77fvzJu7GluVCtjgs3lMcC.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//7xQk3HdCvkNmk3gblDGn9fVnbsT.jpg">https://image.tmdb.org/t/p/original//7xQk3HdCvkNmk3gblDGn9fVnbsT.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-07-11 05:02:22</dateadded>
+</movie>
+    

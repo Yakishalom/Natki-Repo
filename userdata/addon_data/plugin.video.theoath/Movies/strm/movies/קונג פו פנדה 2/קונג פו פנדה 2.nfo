@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>קונג פו פנדה 2</title>
+    <originaltitle>Kung Fu Panda 2</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.96</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2018-10-29 23:24:16
+ON,Dr,TE,TE
+[COLOR lightblue]2016-12-11 22:04:52[/COLOR]
+[COLOR blue]יוסי סרטים קונג פו פנדה 2 מדובב.avi[/COLOR]
+0.69 GB
+פו חי את החלום שלו כלוחם המגן על עמק השלום יחד עם חבריו לוחמי הקונג-פו, החמישייה הזועמת: טייגרס, קוף, גמל שלמה, צפע ועגור. חייו מלאי הרושם של פו מאוימים על ידי אויב חדש – לורד שן שמתכננן לעשות שימוש בנשק סודי וקטלני כדי לכבוש את סין ולחסל את הקונג-פו. פו חייב להתבונן בעברו ולגלות את הסודות המסתוריים של מוצאו כדי לשחרר כוח פנימי שרק הוא יגרום לו לנצח.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קונג פו פנדה 2</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קונג פו פנדה 2\קונג פו פנדה 2.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קונג פו פנדה 2\קונג פו פנדה 2.strm</basepath>
+    <uniqueid type="tmdb" default="true">49444</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> משפחה</genre>
+    <year>2011</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//rLy7iPV0fVtpaSbdjwiERkdAvVF.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//7BdxZXbSkUiVeCRXKD3hi9KYeWm.jpg">https://image.tmdb.org/t/p/original//7BdxZXbSkUiVeCRXKD3hi9KYeWm.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-10-29 23:24:16</dateadded>
+</movie>
+    

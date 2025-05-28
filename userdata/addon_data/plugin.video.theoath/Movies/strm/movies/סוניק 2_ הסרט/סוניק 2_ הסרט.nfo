@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>סוניק 2: הסרט</title>
+    <originaltitle>Sonic the Hedgehog 2</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2022-06-29 17:18:43[/COLOR]
+לאחר שסוניק התמקם בגרין הילס, הוא צמא להוכיח שיש לו את מה שדרוש בשביל להיות גיבור אמיתי. המבחן שלו מגיע כאשר ד'ר רובוטניק חוזר, הפעם עם שותף חדש בשם נאקלס, בחיפוש אחר אבן איזמרגד שבכוחה להשמיד עולמות. סוניק חובר אל שותף משלו, טיילז, ויחד הם יוצאים למסע חובק עולם לאיתור האזמרגד לפני שהוא נופל לידיים הלא נכונות.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סוניק 2_ הסרט</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סוניק 2_ הסרט\סוניק 2_ הסרט.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סוניק 2_ הסרט\סוניק 2_ הסרט.strm</basepath>
+    <uniqueid type="tmdb" default="true">675353</uniqueid>
+    
+    <genre>אקשן</genre>
+<genre>הרפתקאות</genre>
+<genre>משפחה</genre>
+<genre>קומדיה</genre>
+    <year>2022</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=G5kzUpWAusI</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//kzF9Css9aoXvXWdqxoJX1cnHonC.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//egoyMDLqCxzjnSrWOz50uLlJWmD.jpg">http://image.tmdb.org/t/p/original//egoyMDLqCxzjnSrWOz50uLlJWmD.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-06-29 17:18:43</dateadded>
+</movie>
+    

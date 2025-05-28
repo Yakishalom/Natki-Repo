@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>גנוב על המיניונים</title>
+    <originaltitle>Despicable Me 2 [2013]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7</value>
+            <votes>333,066</votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr
+[COLOR lightblue]2018-11-24 22:36:05[/COLOR]
+גרו אשר פרש מחיי הפשע לטובת ניהול חיי משפחה תקינים בסיועם של המיניונים, עוזריו הנאמנים אשר גנבו את ההצגה בסרט. אלא שאז מאיים נבל חדש בשם אדוארדו על המיניונים ועל העולם, ומאלץ את גרו להצטרף לליגת האנטי רשעים תחת הנהגתו של סיילס ואמסבוטום ולהצטרף להרפתקה חדשה יחד עם הסוכנות לוסי וייל על מנת לסכל את התוכניות הזדונית של הנבל.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\גנוב על המיניונים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\גנוב על המיניונים\גנוב על המיניונים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\גנוב על המיניונים\גנוב על המיניונים.strm</basepath>
+    <uniqueid type="tmdb" default="true">93456</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>קומדיה</genre>
+<genre>משפחה</genre>
+    <year>2013</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=EK3j98PHaGM</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//dWH3KWDxPjDmnN2L2bbmevqNydV.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//rmgxcw8tGTmdhsWqdjGBS9uI1tO.jpg">http://image.tmdb.org/t/p/original//rmgxcw8tGTmdhsWqdjGBS9uI1tO.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-11-24 22:36:05</dateadded>
+</movie>
+    

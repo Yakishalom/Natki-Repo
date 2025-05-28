@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>גשם של פלאפל</title>
+    <originaltitle>Cloudy with a Chance of Meatballs</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.604</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2021-06-11 18:27:12
+ON,Dr,TE,TE
+[COLOR lightblue]2017-10-03 20:26:38[/COLOR]
+[COLOR blue]גשם של פלאפל 1 - מדובב.avi[/COLOR]
+0.69 GB
+הממציא השאפתן פלינט לוקווד, הוא גאון מוקצה חברתית שהגה כמה מההמצאות הביזאריות ביותר בעולם. פלינט נחוש להמציא משהו שיגרום לאנשים להיות מאושרים. כשהמכונה האחרונה של פלינט, הממירה מים לאוכל, הורסת בטעות את כיכר העיר וממריאה אל העננים, הוא בטוח שקריירת ההמצאות שלו הסתיימה. עד שדבר מופלא קורה - המבורגרים מתחילים ליפול מהשמיים. מזג האוויר החדש הופך להצלחה מיידית, ופלינט מתחבר עם החזאית המקומית, סם ספארקס שמגיעה לעיירה כדי לסקר את מה שהיא מכנה "תופעת מזג האוויר הגדולה ביותר בהיסטוריה". אבל כשאנשים נעשים חמדנים ומבקשים עוד ועוד אוכל, המכונה מתחילה להשתולל וליצור מזג אוויר קולינארי מסוכן. הכל תלוי בסם ופלינט, שיוצאים למשימה מסוכנת – להשתלט על מכונת האוכל שיצאה מכלל שליטה, ולהציל את העולם.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\גשם של פלאפל</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\גשם של פלאפל\גשם של פלאפל.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\גשם של פלאפל\גשם של פלאפל.strm</basepath>
+    <uniqueid type="tmdb" default="true">22794</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> קומדיה </genre>
+<genre> משפחה</genre>
+    <year>2009</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//w5rfdvqPAMAwyR1ayNX8Y9x4jfN.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//iIvtWOkRgzprh6PRPEdnEcwGyM0.jpg">https://image.tmdb.org/t/p/original//iIvtWOkRgzprh6PRPEdnEcwGyM0.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-06-11 18:27:12</dateadded>
+</movie>
+    

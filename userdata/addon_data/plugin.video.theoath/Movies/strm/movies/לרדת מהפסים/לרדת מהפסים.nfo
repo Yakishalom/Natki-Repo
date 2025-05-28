@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>לרדת מהפסים</title>
+    <originaltitle>Racing Stripes</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.866</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,TE
+[COLOR lightblue]2021-10-27 15:52:18[/COLOR]
+[COLOR blue]נתי מדיה לרדת מהפסים מדובב.avi[/COLOR]
+0.66 GB
+זברה נטושה(קולו של פרנקי מיוניז - "מלקולם באמצע","קודי בנקס"), גודל תוך כדי החלום שהוא סוס מירוצים, מנסה להשיג את חלומו בעזרתם של חיות החווה, וילדה (היידן פנטייארי - "המהפך של הלן", "אלי מקביל"), להתחרות כנגד כל הסיכויים.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לרדת מהפסים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לרדת מהפסים\לרדת מהפסים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לרדת מהפסים\לרדת מהפסים.strm</basepath>
+    <uniqueid type="tmdb" default="true">6439</uniqueid>
+    
+    <genre>קומדיה </genre>
+<genre> משפחה</genre>
+    <year>2005</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//7gLAKUwjFusHZhfKB0oXPLvZUJr.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//QpKBAkssvvKtJrJLJvbq5I4Ggg.jpg">https://image.tmdb.org/t/p/original//QpKBAkssvvKtJrJLJvbq5I4Ggg.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-10-27 15:52:18</dateadded>
+</movie>
+    

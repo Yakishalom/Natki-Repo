@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Over the Moon</title>
+    <originaltitle>Over the Moon [2020] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>10,621</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2021-01-11 11:13:59[/COLOR]
+In this animated musical, a girl builds a rocket ship and blasts off, hoping to meet a mythical moon goddess.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\Over the Moon</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\Over the Moon\Over the Moon.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\Over the Moon\Over the Moon.strm</basepath>
+    <uniqueid type="tmdb" default="true">560050</uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Adventure</genre>
+<genre>Family</genre>
+<genre>Fantasy</genre>
+    <year>2020</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=0J6AudFxgU8</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//lQfdytwN7eh0tXWjIiMceFdBBvD.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//htBUhLSS7FfHtydgYxUWjL3J1Q1.jpg">http://image.tmdb.org/t/p/original//htBUhLSS7FfHtydgYxUWjL3J1Q1.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-01-11 11:13:59</dateadded>
+</movie>
+    

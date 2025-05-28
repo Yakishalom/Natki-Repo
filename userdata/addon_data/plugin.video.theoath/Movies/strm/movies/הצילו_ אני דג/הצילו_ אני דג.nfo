@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הצילו! אני דג</title>
+    <originaltitle>Hjælp, jeg er en fisk</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.611</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,TE
+[COLOR lightblue]2021-10-13 23:45:17[/COLOR]
+[COLOR blue]נתי מדיה הצילו! אני דג מדובב.avi[/COLOR]
+0.65 GB
+סטלה בת ה-5 ואחיה בן ה-13 פליי מגיעים לבלות אחר הצהריים עם דודתם אנה ובנה, פריק מחשבים שמן מאוד בשם צ'אק.  לשלושה נמאס מחברת דודתם המשעממת, והם יוצאים לדוג, אבל כשמגיעה הגאות הם אינם מוצאים את דרכם הביתה. הם מגיעים למעבדתו של מדען מטורף הבטוח שהתחממות כדור הארץ עומדת להמיס את הקטבים בכל רגע. המדען הכין לקראת המאורע, שיקוי מיוחד ההופך בני אדם לדגים, בכדי שהם יוכלו לשרוד בעולם החדש שבפתח.  אחרי שסטלה טועמת בטעות מן השיקוי, הופכת לדג ויוצאת לאוקיאנוס, פליי וצ'אק שותים גם הם מהשיקוי ויוצאים אחריה עם שיקוי נגדי על מנת להציל אותה. בדרכם הם פוגשים את ג'ו, דג חם מזג, בעל אשליות גדלות. כשג'ו טועם מן השיקוי הנגדי הוא מתחיל לפתח אינטליגנציה וחשיבה אנושית ומפתח תוכנית על להשתלטות על האוקיאנוסים.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הצילו_ אני דג</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הצילו_ אני דג\הצילו_ אני דג.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הצילו_ אני דג\הצילו_ אני דג.strm</basepath>
+    <uniqueid type="tmdb" default="true">12609</uniqueid>
+    
+    <genre>הרפתקאות </genre>
+<genre> אנימציה </genre>
+<genre> קומדיה </genre>
+<genre> משפחה</genre>
+    <year>2000</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//uuAMrxd07eNzuss2IoIENHPH1eX.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//6l8lBSHrBSoiphNR96HQSE27PoV.jpg">https://image.tmdb.org/t/p/original//6l8lBSHrBSoiphNR96HQSE27PoV.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-10-13 23:45:17</dateadded>
+</movie>
+    

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>חלומו של דולפין</title>
+    <originaltitle>The Dolphin: Story of a Dreamer [2009]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>4</value>
+            <votes>526</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-04-5 10:34:27[/COLOR]
+הסיפור המדהים של דניאל, דולפין אשר נוטש את הלגונה הקטנה שבה הוא חי בכדי לחקור את האוקיינוס ולגלות את המטרה האמיתית של חייו.</plot>
+    <runtime>86</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\חלומו של דולפין</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\חלומו של דולפין\חלומו של דולפין.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\חלומו של דולפין\חלומו של דולפין.strm</basepath>
+    <uniqueid type="tmdb" default="true">51800</uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Adventure</genre>
+<genre>Family</genre>
+<genre>אנימציה</genre>
+    <year>2009</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=0qb8IRFjzN4</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//aFXeNvNrrx5tu5VOFI4wv4l29SO.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//f7Vpi1eHPHUKxpVkAjlu4YK5uN9.jpg">http://image.tmdb.org/t/p/original//f7Vpi1eHPHUKxpVkAjlu4YK5uN9.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-04-05 10:34:27</dateadded>
+</movie>
+    

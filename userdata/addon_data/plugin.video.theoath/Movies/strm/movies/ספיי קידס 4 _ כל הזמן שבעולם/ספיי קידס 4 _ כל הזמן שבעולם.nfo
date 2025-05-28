@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>ספיי קידס 4 : כל הזמן שבעולם</title>
+    <originaltitle>ספיי קידס 4 : כל הזמן שבעולם</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes> </votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-09-3 06:51:17[/COLOR]
+הסרט 'ספיי קידס 4 :כל הזמן שבועלם' הוא הפרק הרביעי בסדרת הפעולה המצליחה לכל המשפחה.  על פניו, מריסה קורטז וילסון [ג'סיקה אלבה] יכולה לומר שיש לה הכל. היא נשואה לכתב טלוויזיה רודף מרגלים מפורסמים, יש לה תינוק וזוג תאומים חורגים. אבל המציאות היא אחרת. הניסיון להיות אמא לרבקה [רואן בלאנשארד] וססיל [מייסון קוק], שלא ממש רוצים אותה בסביבה, הוא האתגר הכי גדול שלה. בנוסף, בעלה וילבור [ג'ואל מקהייל], לא יזהה מרגל אפילו אם הוא היה חי עם אחד, מה שבעצם קורה.</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ספיי קידס 4 _ כל הזמן שבעולם</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ספיי קידס 4 _ כל הזמן שבעולם\ספיי קידס 4 _ כל הזמן שבעולם.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ספיי קידס 4 _ כל הזמן שבעולם\ספיי קידס 4 _ כל הזמן שבעולם.strm</basepath>
+    <uniqueid type="tmdb" default="true"> </uniqueid>
+    
+    <genre>Action</genre>
+<genre>Adventure</genre>
+<genre>Comedy</genre>
+<genre>משפחה</genre>
+<genre>קומדיה</genre>
+<genre>אקשן</genre>
+    <year>2011</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//eHldUGDNxb4ZPQSPDnGolyFDECa.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//aezGIrtl4Q8KaLltPum0hR4VRuB.jpg">http://image.tmdb.org/t/p/original//aezGIrtl4Q8KaLltPum0hR4VRuB.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-09-03 06:51:17</dateadded>
+</movie>
+    

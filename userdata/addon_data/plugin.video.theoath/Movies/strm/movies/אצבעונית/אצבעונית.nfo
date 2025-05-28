@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>אצבעונית</title>
+    <originaltitle>Thumbelina</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.475</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,TE
+[COLOR lightblue]2020-12-11 09:30:50[/COLOR]
+[COLOR blue]DVDRip 1994 נתי מדיה אצבעונית מדובב.avi[/COLOR]
+0.68 GB
+אצבעונית היא נערה בגודל קמיצה שמפנטזת על היום בו תמצא חברים בגודל שלה ואפילו את אהבת חייה. יום אחד היא מגלה את נסיך הפיות קורנליוס שמתאים לממדיה, אבל בטרם תספיק לומר ג'ק, היא כבר תיחטף על ידי גברת קרפד, ותמצא עצמה מתגלגלת מהרפתקה להרפתקה. האם קורנליוס יחכה לה בסופו של יום בשדה שעורה מצהיב?TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אצבעונית</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אצבעונית\אצבעונית.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אצבעונית\אצבעונית.strm</basepath>
+    <uniqueid type="tmdb" default="true">28032</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> משפחה </genre>
+<genre> פנטזיה </genre>
+<genre> רומנטי </genre>
+<genre> מוסיקה</genre>
+    <year>1994</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//q4CKxYQTKwLsKUtiLTyBx5dQswX.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//c4T4ajKmkA1GXg5I8yQLRKMSTQu.jpg">https://image.tmdb.org/t/p/original//c4T4ajKmkA1GXg5I8yQLRKMSTQu.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-12-11 09:30:50</dateadded>
+</movie>
+    

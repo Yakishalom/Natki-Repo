@@ -1,0 +1,3 @@
+<favourites>
+    <favourite name="[COLOR red] Force Close Kodi[/COLOR] ">RunAddon("plugin.close.kodi")</favourite>
+</favourites>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>השדון הראשון שלי</title>
+    <originaltitle>Ghosthunters: On Icy Trails [2015] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>733</votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr
+[COLOR lightblue]2019-07-14 06:37:18[/COLOR]
+הסרט 'השדון הראשון שלי' עוקב אחר טום, נער צעיר אשר נבהל כמעט מכל דבר, האטי - ציידת רוחות מקצועית השייכת סוכנות CGI ללוחמה ברוחות רפאים רשעים, והוגו, רוח רפאים ירוקה ולא מזיקה אשר חובר אל השניים במטרה להילחם ברוח הקרח הרעה אשר שונאת רוחות ובעיקר ילדים.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\השדון הראשון שלי</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\השדון הראשון שלי\השדון הראשון שלי.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\השדון הראשון שלי\השדון הראשון שלי.strm</basepath>
+    <uniqueid type="tmdb" default="true">333112</uniqueid>
+    
+    <genre>קומדיה</genre>
+<genre>משפחה</genre>
+<genre>פנטזיה</genre>
+    <year>2015</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=fkXfF-wVIHc</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//nQkBy6DVgvZYi18Zd3GdQTbXkon.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//32QlmroPigEH88WmXlCnnVq5Po0.jpg">http://image.tmdb.org/t/p/original//32QlmroPigEH88WmXlCnnVq5Po0.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-07-14 06:37:18</dateadded>
+</movie>
+    

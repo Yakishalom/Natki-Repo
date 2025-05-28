@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הלקחנים: עולמה הסודי של ארייטי</title>
+    <originaltitle>The Secret World of Arrietty [2010]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>8</value>
+            <votes>62,307</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-04-4 16:59:31[/COLOR]
+זהו סיפורם של משפחה שכולה אנשים 'קטנים'. מתחת לאריכי העץ של אחוזה אפופה בחיק הטבע של פאתי טוקיו , גרה ילדה פיצפונת בת 14 בשם הרייטי עם הוריה הקטנים לא פחות. בבית גרות שני נשים זקנות , שלהן אין שום ידיעה על הדיירים הזעירים שגרים איתם. הרייטי והוריה הם 'משאילים'. כל רכושם הושאל מהבית, או נעשה מהדברים שהשאילו, בנוסף למשאבים בסיסים כמו גז בישול, ומים שגם אותם הם משאילים. בזהירות רבה, בכדי שהדיירות הזקנות לא ישימו לב, משאילים המשפחה הזעירה גם חפצים שלהם שימוש רב שלא יחסר ל'שותפים' שלהם, ובנוסף גם דברי מתיקה כמו קוביות סוכר... ילד בן 12, שו, עובר לאחוזה לגור עם דודתו, שהיא גם בעלת הבית, בכדי להעביר את הזמן במנוחה לקראת ניתוח שעליו לעבור. הוריה של הרייטי תמיד הזהירו אותה' לעולם אל תתני לבני אנוש לראותך', מכיוון שבמצב כזה האנשים הקטנים חייבים לעזוב את אותו המקום. אך הרייטי ההרפתקנית לא מקשיבה, ושו מגלה אותה. השניים לאט מתקרבים אחד לשני, ואט אט גם ידידות חדשה מתחילה לפרוח...</plot>
+    <runtime>94</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הלקחנים_ עולמה הסודי של ארייטי</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הלקחנים_ עולמה הסודי של ארייטי\הלקחנים_ עולמה הסודי של ארייטי.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הלקחנים_ עולמה הסודי של ארייטי\הלקחנים_ עולמה הסודי של ארייטי.strm</basepath>
+    <uniqueid type="tmdb" default="true">51739</uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Adventure</genre>
+<genre>Family</genre>
+<genre>פנטזיה</genre>
+<genre>אנימציה</genre>
+<genre>משפחה</genre>
+    <year>2010</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=3tVTwN4a0No</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//4joWNcTQrKx7VpCucG6i0WtmDNv.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//7UfW01brClXNFNNMCwjbuISbVEO.jpg">http://image.tmdb.org/t/p/original//7UfW01brClXNFNNMCwjbuISbVEO.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-04-04 16:59:31</dateadded>
+</movie>
+    

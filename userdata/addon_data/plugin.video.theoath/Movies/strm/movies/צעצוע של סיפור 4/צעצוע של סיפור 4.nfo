@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>צעצוע של סיפור 4</title>
+    <originaltitle>Toy Story 4</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.522</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE
+[COLOR lightblue]2019-11-12 14:49:46[/COLOR]
+[COLOR blue]חננאל ס. צעצוע של סיפור 4 מדובב BDRip.avi[/COLOR]
+0.62 GB
+וודי תמיד היה בטוח במקומו בעולם והאמין שתפקידו המרכזי בחיים הללו הוא לשמור על הילד שהוא בבעלותו בין אם זה אנדי או בוני. אך כאשר בוני מצרפת צעצוע בר מזל חדש לחבורה בשם "פורקי", וודי יוצא למסע הרפתקני יחד עם חברים חדשים וישנים, דרך מסע זה יבין וודי עד כמה גדול עולמנו בעבור צעצוע.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\צעצוע של סיפור 4</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\צעצוע של סיפור 4\צעצוע של סיפור 4.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\צעצוע של סיפור 4\צעצוע של סיפור 4.strm</basepath>
+    <uniqueid type="tmdb" default="true">301528</uniqueid>
+    
+    <genre>משפחה </genre>
+<genre> הרפתקאות </genre>
+<genre> אנימציה </genre>
+<genre> קומדיה </genre>
+<genre> פנטזיה</genre>
+    <year>2020</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//800tT0ZwzSiFnHz6twBQzJ36gRZ.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//q62bpQ67qaXY0u6b2wFEnQYIbPd.jpg">https://image.tmdb.org/t/p/original//q62bpQ67qaXY0u6b2wFEnQYIbPd.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-11-12 14:49:46</dateadded>
+</movie>
+    

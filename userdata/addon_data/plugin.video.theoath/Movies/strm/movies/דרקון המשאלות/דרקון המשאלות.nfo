@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>דרקון המשאלות</title>
+    <originaltitle>Wish Dragon</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.977</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2021-07-17 15:54:13
+Dr,TE
+[COLOR lightblue]2021-06-14 19:28:10[/COLOR]
+[COLOR blue]1080p WEB-DL 2021 ז.מ דרקון המשאלות מדובב.mp4[/COLOR]
+1.54 GB
+סרט אנימציה בדיבובם של ג'ימי וונג, ג'ון צ'ו ("הרולד וקומאר") וקונסטנס וו ("עשיר בהפתעה").  נער רב-תושייה שחולם למצוא את חברת הילדות שלו פוגש דרקון משאלות מקסים שחושף בפניו עולם מופלא של אפשרויות.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דרקון המשאלות</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דרקון המשאלות\דרקון המשאלות.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דרקון המשאלות\דרקון המשאלות.strm</basepath>
+    <uniqueid type="tmdb" default="true">550205</uniqueid>
+    
+    <genre></genre>
+    <year>2021</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//jNLxD5JwfSrOeTd7RJIxG1BVi8K.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//4kIRrW1AlHP5Idne8CPHeQt8nR5.jpg">https://image.tmdb.org/t/p/original//4kIRrW1AlHP5Idne8CPHeQt8nR5.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-07-17 15:54:13</dateadded>
+</movie>
+    

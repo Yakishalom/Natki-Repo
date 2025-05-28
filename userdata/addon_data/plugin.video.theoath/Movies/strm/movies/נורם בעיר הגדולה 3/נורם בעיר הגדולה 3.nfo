@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>נורם בעיר הגדולה 3</title>
+    <originaltitle>Norm of the North: King Sized Adventure</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.1</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2022-01-31 02:01:33
+Dr,TE,TE,TE
+[COLOR lightblue]2021-04-16 15:54:43[/COLOR]
+[COLOR blue]נורם בעיר הגדולה 3.מדובב.גוזלן.720p.mp4[/COLOR]
+0.99 GB
+בעוד נורם וחבריו מתכוננים לחתונתו של סבו, צרות מתחילות להתעורר בהר המסתורין. נורם פוגש ארכיאולוג בשם ג'ין, ומגלה שדקסטר, שותפו לשעבר, גנב חפץ סיני יחיד במינו. בעזרת חבריו המכרסמים, נורם יוצא למסע ברחבי העולם על מנת להשיב את החפץ למקומו הנכון. האם יקיים נורם את הבטחתו לחבריו ויספיק לחזור הביתה בשביל החתונה? רק הזמן יגיד.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\נורם בעיר הגדולה 3</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\נורם בעיר הגדולה 3\נורם בעיר הגדולה 3.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\נורם בעיר הגדולה 3\נורם בעיר הגדולה 3.strm</basepath>
+    <uniqueid type="tmdb" default="true">601131</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> הרפתקאות </genre>
+<genre> קומדיה </genre>
+<genre> משפחה</genre>
+    <year>2019</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//fVxuhWkoJKBpM5TAzLhI7BeLhzH.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//i9ZAZGdnqlurYddUZSbPuYeIb7s.jpg">https://image.tmdb.org/t/p/original//i9ZAZGdnqlurYddUZSbPuYeIb7s.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-01-31 02:01:33</dateadded>
+</movie>
+    

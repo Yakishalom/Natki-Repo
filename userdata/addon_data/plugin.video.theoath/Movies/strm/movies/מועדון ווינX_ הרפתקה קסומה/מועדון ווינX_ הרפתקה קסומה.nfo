@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מועדון ווינX: הרפתקה קסומה</title>
+    <originaltitle>Winx Club 3D: Magical Adventure [2010]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>343</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-04-5 11:43:42[/COLOR]
+הפיות היפהפיות חוזרות שנית לקולנוע. הפיה בלום וחברותיה יוצאות להרפתקה קסומה עם הנסיכים וכל חיות המחמד.  הן מגלות קסמים חדשים ועוברות מסע מחודש רצוף הרפתקאות כדי להוכיח את כוח הרצון שלהן, את האומץ ואת החברות ועבודת הצוות.</plot>
+    <runtime>87</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מועדון ווינX_ הרפתקה קסומה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מועדון ווינX_ הרפתקה קסומה\מועדון ווינX_ הרפתקה קסומה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מועדון ווינX_ הרפתקה קסומה\מועדון ווינX_ הרפתקה קסומה.strm</basepath>
+    <uniqueid type="tmdb" default="true">74658</uniqueid>
+    
+    <genre>Animation</genre>
+<genre>משפחה</genre>
+<genre>אנימציה</genre>
+    <year>2010</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Kx5rd_VC2Ng</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//m5ng4jGXBm5AvqWv011a9ULZTA5.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//63Yb4v2NGUl0ygvRqyddkDW1DJd.jpg">http://image.tmdb.org/t/p/original//63Yb4v2NGUl0ygvRqyddkDW1DJd.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-04-05 11:43:42</dateadded>
+</movie>
+    

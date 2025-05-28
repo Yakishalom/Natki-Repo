@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>איגור</title>
+    <originaltitle>Igor</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.986</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2017-12-16 08:34:03
+ON,TE
+[COLOR lightblue]2017-10-11 02:22:14[/COLOR]
+[COLOR blue]חן סרטים איגור DVDRip מדובב.avi[/COLOR]
+0.68 GB
+בעולם מלא במדענים מטורפים והמצאות מרושעות, לכל מדען מטורף יש את האיגור שלו, העוזר הגיבן שתפקידו מתמצה בפעולה אחת בלבד, ופשוטה להפליא - להפעיל את המתג. אבל איגור שלנו הוא קצת שונה ומאד מוכשר ובעיקר יש לו חלומות גדולים. הוא חולם להפוך בעצמו למדען מטורף ולזכות בפרס הגדול שמוענק למקום הראשון בתחרות יריד המדע המרושע השנתי. איגור בונה את אווה, מעין בובת פרנקשטיין ענקית, ובעזרת היכולת שלו להמציא דברים הוא נופח בה רוח חיים. למרות הקשיים, הנערמים שלו ובזכות השאיפות הגדולות שלו איגור לא מוותר על החלום להפוך למדען. וכך לומד איגור על כוחה של חברות ואהבה. וכולנו לומדים לא לשפוט את הספר לפי הכריכה שלו.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\איגור</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\איגור\איגור.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\איגור\איגור.strm</basepath>
+    <uniqueid type="tmdb" default="true">14248</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> קומדיה </genre>
+<genre> משפחה </genre>
+<genre> פנטזיה </genre>
+<genre> אימה</genre>
+    <year>2013</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//zUt008qlB5QG7ZlcWwAHYqUz6MV.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//lVzddSYNXANBXHpbmL1bpJCqTpY.jpg">https://image.tmdb.org/t/p/original//lVzddSYNXANBXHpbmL1bpJCqTpY.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2017-12-16 08:34:03</dateadded>
+</movie>
+    

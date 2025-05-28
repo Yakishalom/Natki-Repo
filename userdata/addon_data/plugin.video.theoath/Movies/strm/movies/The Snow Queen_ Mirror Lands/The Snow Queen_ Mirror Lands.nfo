@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>The Snow Queen: Mirror Lands</title>
+    <originaltitle>The Snow Queen: Mirrorlands [2018] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5</value>
+            <votes>321</votes>
+        </rating>
+    </ratings>
+    <plot>ON,ON
+[COLOR lightblue]2020-12-16 12:34:40[/COLOR]
+אש קאטצ'ם מפאלטטאון כבר בן 10. זה אומר שעתה הוא בוגר דיו כדי להפוך למאמן פוקימונים. אש חולם בגדול על ההרפתקאות שיחווה לאחר שיזכה בפוקימון הראשון שלו מפרופסור אוק.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\The Snow Queen_ Mirror Lands</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\The Snow Queen_ Mirror Lands\The Snow Queen_ Mirror Lands.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\The Snow Queen_ Mirror Lands\The Snow Queen_ Mirror Lands.strm</basepath>
+    <uniqueid type="tmdb" default="true">564145</uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Family</genre>
+<genre>Adventure</genre>
+<genre>Fantasy</genre>
+    <year>2018</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=2iYEEeUZW2A</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//cmpOaiRtjnhLNF2iPslMXCOcVJ.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//jLS805N4QmLVPurQwuaCFTNEZss.jpg">http://image.tmdb.org/t/p/original//jLS805N4QmLVPurQwuaCFTNEZss.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-12-16 12:34:40</dateadded>
+</movie>
+    

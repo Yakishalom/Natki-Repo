@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>תפוס ת'כריש</title>
+    <originaltitle>Shark Tale</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.024</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>TE,TE
+[COLOR lightblue]2023-08-01 22:20:08[/COLOR]
+[COLOR blue]720p WEB-DL 2004 ז.מ תפוס ת'כריש מדובב.mkv[/COLOR]
+0.95 GB
+אוסקר הוא דג קטן ופטפטן שחולם בגדול. הוא רוצה להיות גיבור וצרורות של סיפורי גבורה נשזרים מפיו לאורך כל האוקיינוס. כאשר מסתבר שהקטן הוא גם שקרן ואף אחד לא מסכים להתייחס לסיפוריו ברצינות, עליו למצוא תרופת נגד מהירה וזו מגיעה בתור כריש גדול ופחדן הנמלט מבני משפחתו המאפיונרים שלא מרוצים מבן המשפחה הרכרוכי.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\תפוס ת_כריש</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\תפוס ת_כריש\תפוס ת_כריש.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\תפוס ת_כריש\תפוס ת_כריש.strm</basepath>
+    <uniqueid type="tmdb" default="true">10555</uniqueid>
+    
+    <genre></genre>
+    <year>2004</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//AegoOwSHXkRJR1yCx5AfbkYXXWh.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//7ZmZxar3bYORcl0TPA4oceyxcaE.jpg">https://image.tmdb.org/t/p/original//7ZmZxar3bYORcl0TPA4oceyxcaE.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-08-01 22:20:08</dateadded>
+</movie>
+    

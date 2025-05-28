@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>קסם של בית</title>
+    <originaltitle>The House of Magic</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.359</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2022-02-07 15:59:04
+ON,Dr,TE,TE
+[COLOR lightblue]2020-09-09 16:32:04[/COLOR]
+[COLOR blue]720p 2013 נ. מדיה קסם של בית מדובב.mkv[/COLOR]
+1.35 GB
+כשהוא מחפש מחסה מפני הסופה המשתוללת, רעם החתול הנטוש מתגנב אל אחוזה מסתורית בבעלותו של הקוסם בגמלאות לורנס הידוע גם בשמו "לורנזוה המהולל". לוראנס חולק את עולמו הקסום עם חיות רבות ורובוטים שמסוגלים להכין ארוחת בוקר בזמן שהם רוקדים ושרים בצורה מופלאה. במהרה הוא גורם לרעם להרגיש חלק מהמשפחה, אבל ג'ק הארנב ומגי העכברה מתחילים לרקום מזימה כדי לגרש אותו מהבית. כשלוראנס בבית החולים, האחיין שלו מנסה לגרום לו למכור את הבית, אבל הדיירים הרבים שגרים באחוזה מפתחים שיטות מבהילות על מנת להגן על ביתם. הם הופכים את הבית לאחוזה רדופת רוחות כשהם משתמשים ברעם כנשק הסודי שלהם.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קסם של בית</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קסם של בית\קסם של בית.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קסם של בית\קסם של בית.strm</basepath>
+    <uniqueid type="tmdb" default="true">202575</uniqueid>
+    
+    <genre>משפחה </genre>
+<genre> פנטזיה </genre>
+<genre> אנימציה </genre>
+<genre> הרפתקאות</genre>
+    <year>2013</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//3Gkj6LU7G7LCpRXnhFc9bRPb13G.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//sPU9KWoPYt9z8ZbI6iLlF6Xvsje.jpg">https://image.tmdb.org/t/p/original//sPU9KWoPYt9z8ZbI6iLlF6Xvsje.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-02-07 15:59:04</dateadded>
+</movie>
+    

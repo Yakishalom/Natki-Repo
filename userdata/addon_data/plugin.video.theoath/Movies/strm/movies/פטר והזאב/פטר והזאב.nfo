@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>פטר והזאב</title>
+    <originaltitle>Peter and the Wolf</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.758</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>TE
+[COLOR lightblue]2021-10-27 15:52:42[/COLOR]
+[COLOR blue]נתי מדיה פטר והזאב מדובב.avi[/COLOR]
+0.68 GB
+עיבוד האנימציה של דיסני ליצירת המופת של פרוקופייב, שבו כל תו מיוצג על ידי מכשיר מוסיקלי שונה. הצעיר פטר מחליט לצאת לצוד את הזאב שמשוטט סביב הכפר. לאורך הדרך, מצטרפים אליו חבריו הציפור, הברווז והחתול. כל הכיף הזה מגיע לסופו, לעומת זאת, וכאשר הזאב מעמיד פנים. האם פיטר וחבריו יחיו בכדי לספר על הרפתקאותיהם?TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פטר והזאב</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פטר והזאב\פטר והזאב.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פטר והזאב\פטר והזאב.strm</basepath>
+    <uniqueid type="tmdb" default="true">31518</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> משפחה</genre>
+    <year>2006</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//jjXh8JWgWXVXKfNOdY2915yyPQD.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//aybVgmultQYMKukekpSMbuRAHEi.jpg">https://image.tmdb.org/t/p/original//aybVgmultQYMKukekpSMbuRAHEi.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-10-27 15:52:42</dateadded>
+</movie>
+    

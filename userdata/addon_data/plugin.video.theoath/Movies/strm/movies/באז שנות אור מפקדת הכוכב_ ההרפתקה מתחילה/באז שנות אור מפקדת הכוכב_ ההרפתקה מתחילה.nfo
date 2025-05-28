@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>באז שנות אור מפקדת הכוכב: ההרפתקה מתחילה</title>
+    <originaltitle>Buzz Lightyear of Star Command: The Adventure Begins [Video 2000]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>3,319</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-04-2 09:02:57[/COLOR]
+סרט האנימציה באורך מלא שהכוכב הראשי בו הוא האסטרונאוט מסרטי 'צעצוע של סיפור' באזז שנת אור [בקולו של טים אלן, צרה גדולה]. את הסרט ביים טד סטונס [אלאדין ומלך הגנבים]. אחרי משימה בה שותפו וורפ אנטי-חומר נהרג, באז מחליט לא לסכן יותר שותפים ומתחיל לעבוד לבד. מפקדת הכוכבים אינה מסכימה, ושותפה חדשה, מירה נובה, נשלחת להחליף את וורפ. יחד עם צוותם, גיבורינו חייבים לעצור את הקיסר הרשע זורג, המתכוון [שוב] לנסות ולהשתלט על העולם.</plot>
+    <runtime>70</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\באז שנות אור מפקדת הכוכב_ ההרפתקה מתחילה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\באז שנות אור מפקדת הכוכב_ ההרפתקה מתחילה\באז שנות אור מפקדת הכוכב_ ההרפתקה מתחילה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\באז שנות אור מפקדת הכוכב_ ההרפתקה מתחילה\באז שנות אור מפקדת הכוכב_ ההרפתקה מתחילה.strm</basepath>
+    <uniqueid type="tmdb" default="true">16187</uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Action</genre>
+<genre>Adventure</genre>
+<genre>אנימציה</genre>
+<genre>משפחה</genre>
+<genre>קומדיה</genre>
+<genre>מדע בדיוני</genre>
+<genre>הרפתקאות</genre>
+    <year>2000</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=qGQ4TucPSys</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//nzGScKpn6c1BubkNkhDKuRVWldX.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//evkhbIi0kLKrhkWhN05fZweWf0k.jpg">http://image.tmdb.org/t/p/original//evkhbIi0kLKrhkWhN05fZweWf0k.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-04-02 09:02:57</dateadded>
+</movie>
+    

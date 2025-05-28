@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>בייבי בוס 2: עסק משפחתי</title>
+    <originaltitle>The Boss Baby: Family Business</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2022-03-1 01:38:40[/COLOR]
+טים ואחיו הקטן, טד, התבגרו והתרחקו זה מזה. טים הוא כיום אבא בעצמו וגר בבית פרברים עם אשתו ושתי בנותיו. טד הוא מנכ'ל קרן גידור מצליח. כעת, התינוקת טינה תגלה שהיא סוכנת חשאית בכירה של בייבי קורפ במשימה לחשוף את הסודות האפלים שמאחורי בית הספר המקומי. האחים טים וטד יתאחדו וילמדו מחדש להעריך את משמעות המשפחה וחברות ומה באמת הכי חשוב.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בייבי בוס 2_ עסק משפחתי</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בייבי בוס 2_ עסק משפחתי\בייבי בוס 2_ עסק משפחתי.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בייבי בוס 2_ עסק משפחתי\בייבי בוס 2_ עסק משפחתי.strm</basepath>
+    <uniqueid type="tmdb" default="true">459151</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>קומדיה</genre>
+<genre>הרפתקאות</genre>
+<genre>משפחה</genre>
+    <year>2021</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=QPzy8Ckza08</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//91iCccaNRYLaYfXjVheFnypLo3z.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//pxOiKwRvNp3zFOiuwpYpzlbmEgC.jpg">http://image.tmdb.org/t/p/original//pxOiKwRvNp3zFOiuwpYpzlbmEgC.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-03-01 01:38:40</dateadded>
+</movie>
+    

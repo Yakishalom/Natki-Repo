@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מיסטר לינק</title>
+    <originaltitle>Missing Link</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.001</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE,TE
+[COLOR lightblue]2020-06-05 14:58:39[/COLOR]
+[COLOR blue]מיסטר לינק.מדובב.גוזלן.720p.avi[/COLOR]
+0.82 GB
+מיסטר לינק חי בצפון מערב האוקיינוס השקט, ונמאס לו להיות לבד. הוא מחליט לגייס את שירותיו של מגלה הארצות ליונל פרוסט, במטרה שיוביל אותו במסע לאיתור בני משפחתו האבודים בארץ הפלאות שנגרי-לה. אל הצמד המוזר חוברת אדלינה פורטנייט ההרפתקנית וכך נוצרת משלחת משולשת המסוגלת להתמודד עם כל מכשול שיקרא בדרכם. ביחד יגלו השלושה ש"משפחה" ניתן לפעמים למצוא גם במקומות הכי לא צפויים.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מיסטר לינק</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מיסטר לינק\מיסטר לינק.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מיסטר לינק\מיסטר לינק.strm</basepath>
+    <uniqueid type="tmdb" default="true">458253</uniqueid>
+    
+    <genre>משפחה </genre>
+<genre> אנימציה </genre>
+<genre> קומדיה </genre>
+<genre> הרפתקאות </genre>
+<genre> פנטזיה</genre>
+    <year>2019</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//bdxVj0iRqiegzZ6BYFtQp3Te3RV.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//ob4XnKBqAh1rg381hayebJx6EkE.jpg">https://image.tmdb.org/t/p/original//ob4XnKBqAh1rg381hayebJx6EkE.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-06-05 14:58:39</dateadded>
+</movie>
+    

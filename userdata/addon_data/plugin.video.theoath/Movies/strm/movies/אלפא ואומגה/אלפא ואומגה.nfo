@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>אלפא ואומגה</title>
+    <originaltitle>Alpha and Omega</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.911</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE
+[COLOR lightblue]2019-11-12 06:56:36[/COLOR]
+[COLOR blue]נתי מדיה אלפא ואומגה מדובב.avi[/COLOR]
+0.67 GB
+שני זאבים מהצדדים השונים של הסולם החברתי יוצאים למסע ארוך על מנת להגיע בחזרה הביתה ללהקה שלהם. האמפרי הוא מהיר תפיסה ואוהב להשתעשע עם חבריו ולשחק משחקי מחשב עם הסנאים. קייט היא זאבה ממושמעת שאוהבת להיות זו שמחליטה ולצוד קאריבו. באופן נורמלי, לזאב אומגה כמו האמפרי לעולם לא יהיה סיכוי עם זאבת אלפא כמו קייט, אך כששניהם נשלחים לפארק הממוקם אלפי קילומטרים מביתם הם חייבים לעבוד ביחד כדי לחזור לסביבה הטבעית שלהם. וזה לא הולך להיות קל, אם יש משהו שקייט והאמפרי מסכימים עליו זה שאין ביניהם שום דבר במשותף. יכול להיות שאם הם ישתפו פעולה כדי להשיג את מטרתם המשותפת יבינו שני הזאבים הווכחניים שאפילו זאבים בודדים יכולים להיעזר בכף שמושטת לעזרה.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אלפא ואומגה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אלפא ואומגה\אלפא ואומגה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אלפא ואומגה\אלפא ואומגה.strm</basepath>
+    <uniqueid type="tmdb" default="true">12819</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> משפחה </genre>
+<genre> קומדיה </genre>
+<genre> הרפתקאות </genre>
+<genre> רומנטי</genre>
+    <year>2010</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//laFM3BcujKbfa9Mx7iHrEj034Bi.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//mpli5lSOeXIphtfNRPPybJYw3V0.jpg">https://image.tmdb.org/t/p/original//mpli5lSOeXIphtfNRPPybJYw3V0.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-11-12 06:56:36</dateadded>
+</movie>
+    

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>דרדסים: הכפר האבוד</title>
+    <originaltitle>Smurfs: The Lost Village</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.3</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>Dr,TE,TE
+[COLOR lightblue]2020-06-28 12:26:15[/COLOR]
+[COLOR blue]דרדסים הכפר האבוד.מדובב.גוזלן.avi[/COLOR]
+1.07 GB
+דרדסית וידידיה הטובים בר מוח, ביש גדא ובר כח נכנסים למעמקי היער האסור. המטרה: להציל כפר אבוד ומסתורי מהמכשף הרשע גרגמל.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דרדסים_ הכפר האבוד</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דרדסים_ הכפר האבוד\דרדסים_ הכפר האבוד.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דרדסים_ הכפר האבוד\דרדסים_ הכפר האבוד.strm</basepath>
+    <uniqueid type="tmdb" default="true">137116</uniqueid>
+    
+    <genre>משפחה </genre>
+<genre> הרפתקאות </genre>
+<genre> אנימציה </genre>
+<genre> קומדיה</genre>
+    <year>2017</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//tANAkEbmSFVi7veBfBVEmgmFIJA.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//AeMtzbw7shxtLvwKKqeITabpTrD.jpg">https://image.tmdb.org/t/p/original//AeMtzbw7shxtLvwKKqeITabpTrD.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-06-28 12:26:15</dateadded>
+</movie>
+    

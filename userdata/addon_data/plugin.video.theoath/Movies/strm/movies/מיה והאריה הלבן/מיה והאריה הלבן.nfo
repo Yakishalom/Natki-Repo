@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מיה והאריה הלבן</title>
+    <originaltitle>Mia et le lion blanc</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.303</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE
+[COLOR lightblue]2021-09-16 22:22:40[/COLOR]
+[COLOR blue]720p BluRay 2018 מיה והאריה הלבן מדובב.mkv[/COLOR]
+1.44 GB
+חייה של מיה בת ה-10 עוברים טלטלה כאשר משפחתה מחליטה לעבור מלונדון לאפריקה בשביל לנהל חוות אריות. כאשר גור אריות לבן ויפהפה בשם צ'ארלי נולד בחווה, עצבותה של מיה מהמעבר מתחלפתבאושר עז, ומתפתחת בין הילדה לאריה חברות אמיצה. שלוש שנים עוברות, ומיה וצ'ארלי קרובים מאי פעם. כאשר מיה מגלה במקרה סוד שהוסתר ממנה על ידי אביה לגבי גורלו של צ'ארלי, היא חשה נבגדת ומבוהלת. היא מחליטה לברוח עם צ'ארלי לעבר הסוואנה הדרום אפריקאית ולצאת למסע של פעם בחיים במאבק על זכויותיו של חברה הטוב, ושחרורו לחופשי בסביבה הטבעית שלו.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מיה והאריה הלבן</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מיה והאריה הלבן\מיה והאריה הלבן.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מיה והאריה הלבן\מיה והאריה הלבן.strm</basepath>
+    <uniqueid type="tmdb" default="true">498248</uniqueid>
+    
+    <genre>הרפתקאות </genre>
+<genre> משפחה </genre>
+<genre> דרמה</genre>
+    <year>2018</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//zXfwBeYe0RnqsJ0dnBoFTB4SSrG.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//oZH4WUD5vyazrJHazRdyLjo26xV.jpg">https://image.tmdb.org/t/p/original//oZH4WUD5vyazrJHazRdyLjo26xV.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-09-16 22:22:40</dateadded>
+</movie>
+    

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>ספיי קידס 4: כל הזמן שבעולם</title>
+    <originaltitle>Spy Kids: All the Time in the World</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>4.689</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2022-11-28 02:55:34
+Dr,TE
+[COLOR lightblue]2021-11-14 20:49:17[/COLOR]
+[COLOR blue]1080p BluRay 2011 נ.מ ספיי קידס 4 מדובב.mkv[/COLOR]
+1.43 GB
+על פניו, מריסה קורטז-וילסון יכולה לומר שיש לה הכל. היא נשואה לכתב טלוויזיה רודף מרגלים מפורסמים, יש לה תינוק וזוג תאומים חורגים. אבל המציאות היא אחרת. הניסיון להיות אמא לרבקה וססיל, שלא ממש רוצים אותה בסביבה, הוא האתגר הכי גדול שלה. בנוסף, בעלה וילבור, לא יזהה מרגל אפילו אם הוא היה חי עם אחד, מה שבעצם קורה.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ספיי קידס 4_ כל הזמן שבעולם</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ספיי קידס 4_ כל הזמן שבעולם\ספיי קידס 4_ כל הזמן שבעולם.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ספיי קידס 4_ כל הזמן שבעולם\ספיי קידס 4_ כל הזמן שבעולם.strm</basepath>
+    <uniqueid type="tmdb" default="true">56288</uniqueid>
+    
+    <genre>משפחה </genre>
+<genre> קומדיה </genre>
+<genre> אקשן</genre>
+    <year>2011</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//trNJ3yKzESIPbhHNcKIFTYS9yIQ.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//3COCz2DMRNefY4a3lfUHrNj4tl0.jpg">https://image.tmdb.org/t/p/original//3COCz2DMRNefY4a3lfUHrNj4tl0.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-11-28 02:55:34</dateadded>
+</movie>
+    

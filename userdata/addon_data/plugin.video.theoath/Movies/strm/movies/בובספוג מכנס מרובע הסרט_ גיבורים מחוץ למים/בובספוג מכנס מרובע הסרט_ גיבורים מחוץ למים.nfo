@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>בובספוג מכנס מרובע הסרט: גיבורים מחוץ למים</title>
+    <originaltitle>The SpongeBob Movie: Sponge Out of Water</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.065</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>TE
+[COLOR lightblue]2020-05-05 16:22:53[/COLOR]
+[COLOR blue]נ.מ בובספוג ספוג מחוץ למים מדובב.avi[/COLOR]
+0.79 GB
+אחרי שחי במעמקי הים, בבית שהוא בכלל אננס וכל מה שרצה בחיים זה שכולם יהיו מאושרים ושמחים בחלקם, בוב ספוג יוצא לראשונה למסע בעולם האמיתי שעל פני היבשה. החיים בבקיני לא יכולים להיות טובים יותר לאופטימיסט הנצחי בוב ספוג וחבריו. אך כאשר המתכון הסודי ביותר שלהם לקציצות סרטנים נגנב, בוב ספוג ויריבו הנצחי פלנקטון חייבים לאחד כוחות במטרה לנסוע בזמן ובמרחב ולתפוס את הפירט בורגר בירד אשר לו תוכניות אחרות למתכון הקציצות המפורסם.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בובספוג מכנס מרובע הסרט_ גיבורים מחוץ למים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בובספוג מכנס מרובע הסרט_ גיבורים מחוץ למים\בובספוג מכנס מרובע הסרט_ גיבורים מחוץ למים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בובספוג מכנס מרובע הסרט_ גיבורים מחוץ למים\בובספוג מכנס מרובע הסרט_ גיבורים מחוץ למים.strm</basepath>
+    <uniqueid type="tmdb" default="true">228165</uniqueid>
+    
+    <genre></genre>
+    <year>2015</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//tzAaB5rWTLQ7PRevlkL7bVhmLgI.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//sqcqFzAj3IPSFprQSLHr5JOBU4m.jpg">https://image.tmdb.org/t/p/original//sqcqFzAj3IPSFprQSLHr5JOBU4m.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-05-05 16:22:53</dateadded>
+</movie>
+    

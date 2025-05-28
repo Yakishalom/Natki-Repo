@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Arctic Dogs</title>
+    <originaltitle>Arctic Dogs [2019] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5</value>
+            <votes>1,426</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2021-02-18 17:18:40[/COLOR]
+Animals band together to save the day when the evil Otto Von Walrus hatches a sinister scheme to accelerate global warming and melt the Arctic Circle.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\Arctic Dogs</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\Arctic Dogs\Arctic Dogs.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\Arctic Dogs\Arctic Dogs.strm</basepath>
+    <uniqueid type="tmdb" default="true">416153</uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Adventure</genre>
+<genre>Comedy</genre>
+    <year>2019</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=MD6u7h7Z8uo</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//5YHjyjd2N0ZXcnGuB8G1nIa6h9t.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//uTfdOozort4sp9kukWxEmdmRsqJ.jpg">http://image.tmdb.org/t/p/original//uTfdOozort4sp9kukWxEmdmRsqJ.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-02-18 17:18:40</dateadded>
+</movie>
+    

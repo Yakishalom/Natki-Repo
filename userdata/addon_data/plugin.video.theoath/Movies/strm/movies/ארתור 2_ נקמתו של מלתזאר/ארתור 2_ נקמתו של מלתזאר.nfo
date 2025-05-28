@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>ארתור 2: נקמתו של מלתזאר</title>
+    <originaltitle>Arthur and the Great Adventure [2009]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5</value>
+            <votes>6,463</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-04-2 09:00:24[/COLOR]
+לוק בסון מביא את הסרט השני בסדרת סרטי האנימציה 'ארתור' המבוססת על טרילוגיית הספרים שבסון עצמו כתב. ארתור נרגש ביותר: הלילה מסתיים מחזור הירח העשירי ועכשיו הוא יוכל סוף סוף לחזור לממלכת המינימונים ולהתאחד מחדש עם סלניה. גם בכפר המינימונים ההתרגשות גדולה: התושבים הזעירים הכינו חגיגה ענקית לכבוד חזרתו של ארתור. אבל דווקא ביום זה, לו חיכה ארתור זמן רב, אביו של ארתור מכריז שהוא מקצר את החופשה בביתה של סבתא. רגע לפני שהם עומדים לעזוב, עכביש מוסר לארתור גרגר אורז ועליו חרוטה המילה 'הצילו'. אין ספק, סלניה נמצאת בסכנה! ארתור אינו חושב פעמיים לפני שהוא נחלץ לעזרתה, גם אם משמעות הדבר היא לאלתר מעבר מסוכן לעולם המינימונים, ליפול על הראש הישר לבר של מקס, להיתקל בחייליו של קרוב, הרודן החדש של שבע הממלכות, להציל את עורו של בטאמש ולהלחם בעכברושים, צפרדעים ועכבישים שעירים. אבל כשארתור מגיע לכפר המינימונים, הוא מגלה שהם מעולם לא שלחו לו קריאת עזרה! מי הוביל את גיבורנו הצעיר למלכודת מחוכמת שכזו?</plot>
+    <runtime>107</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ארתור 2_ נקמתו של מלתזאר</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ארתור 2_ נקמתו של מלתזאר\ארתור 2_ נקמתו של מלתזאר.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ארתור 2_ נקמתו של מלתזאר\ארתור 2_ נקמתו של מלתזאר.strm</basepath>
+    <uniqueid type="tmdb" default="true">26505</uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Adventure</genre>
+<genre>Family</genre>
+<genre>הרפתקאות</genre>
+<genre>פנטזיה</genre>
+<genre>אנימציה</genre>
+<genre>משפחה</genre>
+    <year>2009</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=idh1KNSpH3I</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//uD8x9oYNv7BMwLMhu0C7VsDY0Jc.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//eO2SzacumPHe7MZNOXfbGGumFfd.jpg">http://image.tmdb.org/t/p/original//eO2SzacumPHe7MZNOXfbGGumFfd.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-04-02 09:00:24</dateadded>
+</movie>
+    

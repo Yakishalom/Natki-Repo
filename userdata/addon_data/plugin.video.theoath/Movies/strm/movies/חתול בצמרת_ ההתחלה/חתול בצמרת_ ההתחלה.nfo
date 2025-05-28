@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>חתול בצמרת: ההתחלה</title>
+    <originaltitle>Don Gato: El Inicio de la Pandilla</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.7</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>TE
+[COLOR lightblue]2021-10-13 23:45:52[/COLOR]
+[COLOR blue]נתי מדיה חתול בצמרת מדובב.avi[/COLOR]
+0.68 GB
+זהו ביקורו הראשון של טופ-תול בעיר ומטרתו להצליח בה בגדול. הסיכוי שלו הוא מצוין, יש לו תושייה כריזמטית, חיוך מקסים, ביטחון עצמי מעורר השראה ותחבולות מוטרפות. תחבולותיו מסבכות אותו בין היתר עם הבוס של העיר, מיסטר ביג, בעיקר כשהוא מנסה להפיל את האימפריה שלו ול-"שחרר" יהלום יקר ממנו. יחד עם חבריו החביבים, טופ-תול חייב לחשוב מחוץ לקופסא על מנת להצליח. אבל כשהמנהיג של החבורה הוא טופ-תול יש סיכוי סביר שהם יצליחו לעמוד במטרות.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\חתול בצמרת_ ההתחלה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\חתול בצמרת_ ההתחלה\חתול בצמרת_ ההתחלה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\חתול בצמרת_ ההתחלה\חתול בצמרת_ ההתחלה.strm</basepath>
+    <uniqueid type="tmdb" default="true">293644</uniqueid>
+    
+    <genre>קומדיה </genre>
+<genre> אנימציה </genre>
+<genre> משפחה</genre>
+    <year>1988</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//pKM2XVsJQJKLjL5HEHYX4zOiRzq.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//ul1YQyy7KNGUPvhrDmb1W81QpY9.jpg">https://image.tmdb.org/t/p/original//ul1YQyy7KNGUPvhrDmb1W81QpY9.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-10-13 23:45:52</dateadded>
+</movie>
+    

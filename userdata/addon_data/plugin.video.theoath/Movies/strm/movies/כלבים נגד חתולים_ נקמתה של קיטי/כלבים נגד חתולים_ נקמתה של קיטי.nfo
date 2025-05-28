@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>כלבים נגד חתולים: נקמתה של קיטי</title>
+    <originaltitle>Cats & Dogs: The Revenge of Kitty Galore</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.2</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,TE
+[COLOR lightblue]2021-12-13 15:22:08[/COLOR]
+[COLOR blue]2010 נ.מ כלבים נגד חתולים 2 מדובב.avi[/COLOR]
+0.69 GB
+בקרב הנצחי בין כלבים לחתולים, חתולה מטורפת אחת לקחה את העניינים כף רגל אחת רחוק מדי. קיטי גאלור, סוכנת בכירה לשעבר בארגון הריגול 'מיאוז', עברה לצד של הרעים. בפרק זמן של 48 שעות, היא מתכננת לשחרר אל העולם מתקן שטני שמסוגל לא רק לגרום לאויביה הכלביים להשתחוות לה, אלא גם להכניע את חבריה החתולים ולהפוך את העולם לעמוד הגירודים שלה. כשהם תחת איום מיידי וחסר תקדים, חתולים וכלבים ייאלצו לשתף פעולה בפעם הראשונה בהיסטוריה בברית בלתי הגיונית כדי להציל את עצמם – ואת בני האנוש האהובים עליהם – מקטסטרופה עולמית.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\כלבים נגד חתולים_ נקמתה של קיטי</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\כלבים נגד חתולים_ נקמתה של קיטי\כלבים נגד חתולים_ נקמתה של קיטי.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\כלבים נגד חתולים_ נקמתה של קיטי\כלבים נגד חתולים_ נקמתה של קיטי.strm</basepath>
+    <uniqueid type="tmdb" default="true">39691</uniqueid>
+    
+    <genre>משפחה </genre>
+<genre> הרפתקאות </genre>
+<genre> קומדיה </genre>
+<genre> פנטזיה </genre>
+<genre> אקשן </genre>
+<genre> אנימציה</genre>
+    <year>2010</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//nTsZT66I4U3aS9ezLdOKacfvo8T.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//l8yf1Rfp58GGjt39R2jpo8nEshF.jpg">https://image.tmdb.org/t/p/original//l8yf1Rfp58GGjt39R2jpo8nEshF.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-12-13 15:22:08</dateadded>
+</movie>
+    

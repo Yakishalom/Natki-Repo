@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>דרגון בול זי: מיזוג נולד מחדש</title>
+    <originaltitle>Dragon Ball Z: Fusion Reborn [1995] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>8</value>
+            <votes>9,540</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2021-04-16 18:36:03[/COLOR]
+כאשר שד זדוני שקוראים לו ג'אנמבה מאיים להשתלט על הגיהנום ועולם הנפשות, גוקו ווג'יטה נאלצים להתמזג בפעם הראשונה כדי להביסו.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דרגון בול זי_ מיזוג נולד מחדש</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דרגון בול זי_ מיזוג נולד מחדש\דרגון בול זי_ מיזוג נולד מחדש.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דרגון בול זי_ מיזוג נולד מחדש\דרגון בול זי_ מיזוג נולד מחדש.strm</basepath>
+    <uniqueid type="tmdb" default="true">39107</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>אקשן</genre>
+<genre>פנטזיה</genre>
+<genre>מדע בדיוני</genre>
+    <year>1995</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=rE95a4iC1dk</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//GvIuv47dlgj8t0601NCjwlNU1Z.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//m3GqDIJo3U1pjcBCbHadFYbrOMX.jpg">http://image.tmdb.org/t/p/original//m3GqDIJo3U1pjcBCbHadFYbrOMX.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-04-16 18:36:03</dateadded>
+</movie>
+    

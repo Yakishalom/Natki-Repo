@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>משחקי גמדים</title>
+    <originaltitle>Gnome Alone</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.104</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE
+[COLOR lightblue]2020-11-01 17:59:46[/COLOR]
+[COLOR blue]720p HDTV 2017 נ.מ משחקי גמדים מדובב.mkv[/COLOR]
+1.42 GB
+קלואי ואמה עוברות דירה לבית ישן ומוזר עם הרבה גמדי גינה. קלואי מגלה במהרה שבבית החדש מסתתרים סודות גדולים. כאשר היא מגיעה הביתה לבדה לאחר בית הספר, קלואי והשכן החטטן שלה ליאם, מגלים שהגמדים הם בעצם יצורים חיים. במשך המון שנים המשימה של גמדי הגינה הייתה להגן על כדור הארץ מפני יצורים קטניסגורם ומפלצתיים אשר נקראים "טרוגים", שמנסים לפלוש לבית דרך מעבר מיקום אחר. קלואי וליאם יהיו חייבים לשתף פעולה עם חבורת גמדי הגינה, כדי להילחם באיום הפלישה של הטרוגים ולהציל יחד את העולם.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\משחקי גמדים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\משחקי גמדים\משחקי גמדים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\משחקי גמדים\משחקי גמדים.strm</basepath>
+    <uniqueid type="tmdb" default="true">466876</uniqueid>
+    
+    <genre>משפחה </genre>
+<genre> הרפתקאות </genre>
+<genre> אנימציה </genre>
+<genre> קומדיה </genre>
+<genre> פנטזיה</genre>
+    <year>2017</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//tMFLbzQKkXLAb23ya4GYolbwI97.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//uAv8MOm26tAbSZbUiOtrHZx10gQ.jpg">https://image.tmdb.org/t/p/original//uAv8MOm26tAbSZbUiOtrHZx10gQ.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-11-01 17:59:46</dateadded>
+</movie>
+    

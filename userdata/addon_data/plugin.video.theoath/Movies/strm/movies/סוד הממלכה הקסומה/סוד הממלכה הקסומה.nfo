@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>סוד הממלכה הקסומה</title>
+    <originaltitle>The Swan Princess [1994]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>20,018</votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr
+[COLOR lightblue]2018-10-6 12:33:11[/COLOR]
+מבוסס על האגדה הקלאסית 'אגם הברבורים'. זוהי פנטסיה קסומה המתרחשת בארץ אגדית, בין ארמונות ומבצרים, יערות עד, יצורים מקסימים ומכשף מרושע. סיפור כובש על אהבה והרפתקאות, שבו יוצא הנסיך האמיץ דרק למצוא את אהובתו האחת והיחידה הנסיכה אודט שהפכה לברבור בגלל כישוף שהביא עליה המכשף חסר הלב. שלושה ידידים נאמנים, שוכני היער: הצפרדע הצרפתי, הצב הזחלן אך הנחוש והתוכי יוצאים לעזרתם של צמד האוהבים כדי להציל אותם ולהחזיר לממלכה את שליטיה החוקיים והטובים.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סוד הממלכה הקסומה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סוד הממלכה הקסומה\סוד הממלכה הקסומה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סוד הממלכה הקסומה\סוד הממלכה הקסומה.strm</basepath>
+    <uniqueid type="tmdb" default="true">22586</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>פנטזיה</genre>
+<genre>משפחה</genre>
+<genre>הרפתקאות</genre>
+    <year>1994</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=5wfMVdyDa_g</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//wlKHD3wGdPuAq3raljTnKw2oZCh.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//hP9dsGy8FR7eeTqzpOpP3tl3wFD.jpg">http://image.tmdb.org/t/p/original//hP9dsGy8FR7eeTqzpOpP3tl3wFD.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-10-06 12:33:11</dateadded>
+</movie>
+    

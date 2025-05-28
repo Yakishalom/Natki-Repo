@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>ספיי קידס 2: אי החלומות האבודים</title>
+    <originaltitle>Spy Kids 2: The Island of Lost Dreams</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.58</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE
+[COLOR lightblue]2021-11-14 20:48:56[/COLOR]
+[COLOR blue]1080p BluRay 2002 נ.מ ספיי קידס 2 מדובב.mkv[/COLOR]
+1.45 GB
+האחים קורטז נוסעים לאי מסתורי יחד עם צמד מתחרה של סוכנים צעירים כדי להציל את העולם מפני מדען ויצירותיו המהונדסות.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ספיי קידס 2_ אי החלומות האבודים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ספיי קידס 2_ אי החלומות האבודים\ספיי קידס 2_ אי החלומות האבודים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ספיי קידס 2_ אי החלומות האבודים\ספיי קידס 2_ אי החלומות האבודים.strm</basepath>
+    <uniqueid type="tmdb" default="true">9488</uniqueid>
+    
+    <genre>אקשן </genre>
+<genre> הרפתקאות </genre>
+<genre> משפחה </genre>
+<genre> קומדיה </genre>
+<genre> מדע בדיוני</genre>
+    <year>2002</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//pGhXN6jIgYMkLm6un9MHxqlk917.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//5rKa5UKXnTdLsgY0mJbjAEQX3gB.jpg">https://image.tmdb.org/t/p/original//5rKa5UKXnTdLsgY0mJbjAEQX3gB.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-11-14 20:48:56</dateadded>
+</movie>
+    

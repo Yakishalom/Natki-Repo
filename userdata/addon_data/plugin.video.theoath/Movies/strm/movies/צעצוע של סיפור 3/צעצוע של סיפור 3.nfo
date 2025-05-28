@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>צעצוע של סיפור 3</title>
+    <originaltitle>Toy Story 3</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.79</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE
+[COLOR lightblue]2023-03-29 00:22:00[/COLOR]
+[COLOR blue]1080p BluRay 2010 צעצוע של סיפור 3 מדובב.mkv[/COLOR]
+1.79 GB
+צעצוע של סיפור 3 מחזיר אל המסך הגדול את וודי, באז ושאר החבורה. הפעם אנדי מתכונן ליציאה לקולג' וכל צעצועיו הנאמנים מוצאים עצמם ב... פעוטון! שם, הצעצועים החדשים, חסרי הנימוס הבסיסי לא משחקים יפה, אז למען מטרה משותפת אומצה הסיסמה: כולם בשביל אחד ואחד בשביל כולם בעודם מתככנים את הבריחה הגדולה.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\צעצוע של סיפור 3</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\צעצוע של סיפור 3\צעצוע של סיפור 3.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\צעצוע של סיפור 3\צעצוע של סיפור 3.strm</basepath>
+    <uniqueid type="tmdb" default="true">10193</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> משפחה </genre>
+<genre> קומדיה</genre>
+    <year>2010</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//vrZl3N4IOTLEEPAOGAOINveYMww.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//uAfhsySkr1UzQg1zdg3dZQRz9Fd.jpg">https://image.tmdb.org/t/p/original//uAfhsySkr1UzQg1zdg3dZQRz9Fd.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-03-29 00:22:00</dateadded>
+</movie>
+    

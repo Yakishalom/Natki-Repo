@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הלורקס</title>
+    <originaltitle>The Lorax</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.486</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE,TE
+[COLOR lightblue]2021-03-08 16:54:10[/COLOR]
+[COLOR blue]הלורקס.מדובב.גוזלן אלירן.720p.mp4[/COLOR]
+1.05 GB
+בן 12 מחפש את הדבר המיוחד שיסייע לו להשיג את נערת חלומותיו. כדי למצוא אותו, הוא חייב לגלות את סיפורו של הלורקס, הייצור הנרגן אך מקסים שמנסה להגן על עולמו.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הלורקס</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הלורקס\הלורקס.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הלורקס\הלורקס.strm</basepath>
+    <uniqueid type="tmdb" default="true">73723</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> משפחה</genre>
+    <year>1972</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//5Dsvv9Xbd80lDtfQvAETKZGymbS.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//sWulI556AJZ1DAQnxyAvnAAY6nd.jpg">https://image.tmdb.org/t/p/original//sWulI556AJZ1DAQnxyAvnAAY6nd.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-03-08 16:54:10</dateadded>
+</movie>
+    

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>במבי 2</title>
+    <originaltitle>Bambi II [Video 2006]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>8,019</votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr
+[COLOR lightblue]2019-01-25 15:00:47[/COLOR]
+במבי חוזר למסך הגדול בסרט המשך ללהיט הקלאסי של דיסני. הסיפור מתרחש באמצע הסרט הראשון, והוא בעצם עלילת התבגרות מרגשת שבמרכזה התמודדותו של במבי עם אביו - הנסיך הגדול, ועם מותה של אימו. בדרך במבי יפגוש חברים ישנים וחדשים.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\במבי 2</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\במבי 2\במבי 2.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\במבי 2\במבי 2.strm</basepath>
+    <uniqueid type="tmdb" default="true">13205</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>דרמה</genre>
+<genre>משפחה</genre>
+    <year>2006</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=k73vgTDvRek</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//bc2OSFFLSa8qA2leUYXB7HDKM6Z.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//ebug4NE8EV0f345KwbNNS3T3dRh.jpg">http://image.tmdb.org/t/p/original//ebug4NE8EV0f345KwbNNS3T3dRh.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-01-25 15:00:47</dateadded>
+</movie>
+    

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>פלאמלים</title>
+    <originaltitle>Extinct</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.404</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2023-02-6 22:13:45
+Dr,TE
+[COLOR lightblue]2023-02-09 10:55:23[/COLOR]
+[COLOR blue]720p HDTV 2021 זירה מדיה פלאמלים מדובב.mp4[/COLOR]
+1.04 GB
+אופ ואד הם "פלאמלים", חיות חביבות אשר צורתם עגולה ודומה לדונאט. באופן מקרי ובלתי צפוי, הם נוסעים בזמן משנת 1835 לשנגחאי המדהימה של היום. אופ ואד מגלים דברים חדשים כמו פקקי תנועה, שומן רווי והגרוע מכול – שהפלאמלים נכחדו מהעולם!!! כעת על שני הלא-יוצלחים הללו, נופלת אחריות כבדה. הם צריכים להציל את עצמם, את בני מינם וכנראה לשנות את פני ההיסטוריה - לתמיד!TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פלאמלים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פלאמלים\פלאמלים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פלאמלים\פלאמלים.strm</basepath>
+    <uniqueid type="tmdb" default="true">664236</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> קומדיה </genre>
+<genre> משפחה </genre>
+<genre> הרפתקאות</genre>
+    <year>2021</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//jWzVCqXIg3jXBY3a4uoHHjGlk2p.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//yd2xws5wVT2Ss6f0Q0oTkdYtiQE.jpg">https://image.tmdb.org/t/p/original//yd2xws5wVT2Ss6f0Q0oTkdYtiQE.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-02-06 22:13:45</dateadded>
+</movie>
+    

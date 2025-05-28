@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>עידן הקרח</title>
+    <originaltitle>Ice Age</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.347</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2021-06-13 21:55:28
+ON,Dr,TE,TE,TE
+[COLOR lightblue]2018-07-05 00:52:20[/COLOR]
+[COLOR blue]NF נתי מדיה עידן הקרח 1 מדובב.avi[/COLOR]
+0.44 GB
+לפני עשרים אלף שנה, בתחילתו של עדין הקרח, מביא הגורל 3 יצורים לגמרי לא מתאימים להתאחד להרפתקה של חייהם. סיד, "עצלן" מצחיק וקשקשן, מנפרד - ממותה שעיר ומדוכדך, ודייגו - נמר מרושע בעל ניבים חדים, חוברים יחד בחוסר רצון כדי להשיב תינוק אדם שאבד לאביו משבט האדם הקדמון. לפני שמסעם המופלא מגיע לסופו, עוברת השלישייה הבלתי אפשרית הזו דרך מלכודת לבה, מנהרות קרח מסוכנות ואף פוגשת בסנאי פרה היסטורי בשם סקראט שמנסה נואשות לקבור את הבלוט שלו.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\עידן הקרח</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\עידן הקרח\עידן הקרח.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\עידן הקרח\עידן הקרח.strm</basepath>
+    <uniqueid type="tmdb" default="true">425</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> קומדיה </genre>
+<genre> משפחה </genre>
+<genre> הרפתקאות</genre>
+    <year>2002</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//gLhHHZUzeseRXShoDyC4VqLgsNv.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//a9ykRAWtQnI3SsZDfh8sCJo5cWI.jpg">https://image.tmdb.org/t/p/original//a9ykRAWtQnI3SsZDfh8sCJo5cWI.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-06-13 21:55:28</dateadded>
+</movie>
+    

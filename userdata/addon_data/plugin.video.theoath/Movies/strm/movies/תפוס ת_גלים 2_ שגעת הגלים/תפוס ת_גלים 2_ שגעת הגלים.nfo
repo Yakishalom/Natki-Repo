@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>תפוס ת'גלים 2: שגעת הגלים</title>
+    <originaltitle>Surf%27s Up 2: WaveMania</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.131</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2023-07-30 08:23:51
+Dr,TE
+[COLOR lightblue]2023-04-03 12:17:41[/COLOR]
+[COLOR blue]1080p WEB 2017 ז.מ תפוס ת'גלים 2 מדובב.mkv[/COLOR]
+1.32 GB
+המטרה של קודי היא לגלוש על הענק שבגלי הים, אך מהר מאוד הוא מגלה  שהחיים שאותם השאיר על החוף מאתגרים לא פחות מהכיבוש של הגלים הגבוהים.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\תפוס ת_גלים 2_ שגעת הגלים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\תפוס ת_גלים 2_ שגעת הגלים\תפוס ת_גלים 2_ שגעת הגלים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\תפוס ת_גלים 2_ שגעת הגלים\תפוס ת_גלים 2_ שגעת הגלים.strm</basepath>
+    <uniqueid type="tmdb" default="true">411840</uniqueid>
+    
+    <genre></genre>
+    <year>2017</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//xs8WqGWRpJSE2WgtfuMLsWYEP4T.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//am0HLptKPN8u1Ttgs9f6xvLxCZh.jpg">https://image.tmdb.org/t/p/original//am0HLptKPN8u1Ttgs9f6xvLxCZh.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-07-30 08:23:51</dateadded>
+</movie>
+    

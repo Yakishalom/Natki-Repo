@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הרפתקאה הגדולה של קליפורד</title>
+    <originaltitle>Clifford's Really Big Movie [2004]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-09-16 07:02:25[/COLOR]
+אנימציה לילדים ולכל המשפחה. הכלב קליפורד, שומע את בעליו, מר בליקמן, אומר שהאכלת הכלב עלולה להיות יקרה מאוד. לכן מקשיב קליפורד לשמועה על קרנבל 'החיות המדהימות של לארי' שהגיע לעיר. הזוכה בה יקבל אספקה שוטפת של אוכל לכלבים. קליפורד מחליט לברוח לקרנבל, לזכות בתחרות, ולחזור הביתה. אבל הדרך הביתה תהיה קשה משחשב. עם קולותיהם של: ג'ון ריטר ז'ל [הכל בשביל איב], ג'ון גודמן [בארטון פינק], ג'נה אלפמן [לשמור אמונים], וג'אג' ריינהולד [השוטר מבברלי הילס].</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הרפתקאה הגדולה של קליפורד</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הרפתקאה הגדולה של קליפורד\הרפתקאה הגדולה של קליפורד.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הרפתקאה הגדולה של קליפורד\הרפתקאה הגדולה של קליפורד.strm</basepath>
+    <uniqueid type="tmdb" default="true">19016</uniqueid>
+    
+    <genre>הרפתקאות</genre>
+<genre>אנימציה</genre>
+<genre>משפחה</genre>
+    <year>2004</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=eI1e_Hi8o9w</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//cpaynGAqDjr0N5I92JEEqW0dpTl.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//aGN7a87zkS43YfunbRFw7a7AZUL.jpg">http://image.tmdb.org/t/p/original//aGN7a87zkS43YfunbRFw7a7AZUL.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-09-16 07:02:25</dateadded>
+</movie>
+    

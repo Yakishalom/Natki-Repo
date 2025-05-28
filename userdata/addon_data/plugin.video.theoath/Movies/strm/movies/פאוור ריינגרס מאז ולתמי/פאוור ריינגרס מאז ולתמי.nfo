@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>פאוור ריינגרס מאז ולתמי</title>
+    <originaltitle>פאוור ריינגרס מאז ולתמי</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes> </votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2023-05-21 07:44:55[/COLOR]
+בעקבות טרגדיה, גיבורה צעירה ומפתיעה תופסת את מקומה הראוי בין חברי הפאוור ריינג’רס במטרה להילחם באויבת הוותיקה ביותר של הצוות.</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פאוור ריינגרס מאז ולתמי</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פאוור ריינגרס מאז ולתמי\פאוור ריינגרס מאז ולתמי.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פאוור ריינגרס מאז ולתמי\פאוור ריינגרס מאז ולתמי.strm</basepath>
+    <uniqueid type="tmdb" default="true"> </uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>משפחה</genre>
+    <year> 2023</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://www.fuzer.me/image.php?type=external&image=https://i.imgur.com/nTD5Ve4.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://www.fuzer.me/image.php?type=external&image=https://i.imgur.com/nTD5Ve4.jpg">https://www.fuzer.me/image.php?type=external&image=https://i.imgur.com/nTD5Ve4.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-05-21 07:44:55</dateadded>
+</movie>
+    

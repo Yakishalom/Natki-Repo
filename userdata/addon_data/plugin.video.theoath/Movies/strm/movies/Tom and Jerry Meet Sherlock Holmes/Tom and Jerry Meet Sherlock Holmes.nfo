@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Tom and Jerry Meet Sherlock Holmes</title>
+    <originaltitle>Tom and Jerry Meet Sherlock Holmes [Video 2010] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>1,384</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2020-12-16 10:59:35[/COLOR]
+Tom and Jerry need to learn to work together in order to help Sherlock Holmes with an investigation of a jewel theft. But still, they are cat and mouse!</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\Tom and Jerry Meet Sherlock Holmes</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\Tom and Jerry Meet Sherlock Holmes\Tom and Jerry Meet Sherlock Holmes.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\Tom and Jerry Meet Sherlock Holmes\Tom and Jerry Meet Sherlock Holmes.strm</basepath>
+    <uniqueid type="tmdb" default="true">43956</uniqueid>
+    
+    <genre>Adventure</genre>
+<genre>Animation</genre>
+<genre>Family</genre>
+<genre>Comedy</genre>
+    <year>2010</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=hQpCiXZofWE</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//8TAd3Cky2D8dHzWIirna1IHa2N3.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://m.media-amazon.com/images/M/MV5BMjM5NzI1NjI3MF5BMl5BanBnXkFtZTgwOTQ1OTAwNzE@._V1_UY268_CR3,0,182,268_AL_.jpg">https://m.media-amazon.com/images/M/MV5BMjM5NzI1NjI3MF5BMl5BanBnXkFtZTgwOTQ1OTAwNzE@._V1_UY268_CR3,0,182,268_AL_.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-12-16 10:59:35</dateadded>
+</movie>
+    

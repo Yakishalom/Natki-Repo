@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>ברבי במפצח האגוזים</title>
+    <originaltitle>Barbie in the Nutcracker</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.812</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>TE
+[COLOR lightblue]2021-12-13 15:12:38[/COLOR]
+[COLOR blue]DVDRip 2001 ברבי במפצח האגוזים מדובב.mkv[/COLOR]
+0.67 GB
+קלרה מקבלת מפצח אגוזים יפהפה עשוי עץ. באותו הלילה, בעוד קלרה ישנה, נכנסת רוח חיים במפצח האגוזים והוא יוצא לגרש את מלך העכברים המרושע שפלש לטרקלינה של קלרה. קלרה מתעוררת ומסייעת למפצח האגוזים, אך כישוף מרושע שהוטל עליה על ידי מלך העכברים גורם לגופה להצטמק. קלרה ומפצח האגוזים יוצאים להרפתקה קסומה במטרה למצוא את נסיכת הסוכריה, היחידה שיכולה להתיר את הכישוף הנורא.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ברבי במפצח האגוזים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ברבי במפצח האגוזים\ברבי במפצח האגוזים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ברבי במפצח האגוזים\ברבי במפצח האגוזים.strm</basepath>
+    <uniqueid type="tmdb" default="true">15167</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> משפחה</genre>
+    <year>2001</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//eIkXJggVmzN4MyPgJ2kDjOy9lmQ.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//budvUJdSNKVzEkNdoh4qa4r7Vj1.jpg">https://image.tmdb.org/t/p/original//budvUJdSNKVzEkNdoh4qa4r7Vj1.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-12-13 15:12:38</dateadded>
+</movie>
+    

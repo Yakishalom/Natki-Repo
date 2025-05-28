@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>לרכב על דרקון</title>
+    <originaltitle>Dragon Rider</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2022-07-28 00:01:28[/COLOR]
+שלישיית גיבורים בעל כורחם - דרקון, ילד צעיר ונערת שדונים, היוצאים להרפתקה אגדית כדי למצוא את תקוותם האחרונה של הדרקונים - עמק נסתר בשם פאתי שמיים - מקום מקלט מיתולוגי לכול הדרקונים. מסע שמוביל אותם מהיערות של צפון אירופה, מסביב לעולם עד לפסגות המושלגות של הרי ההימלאיה.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לרכב על דרקון</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לרכב על דרקון\לרכב על דרקון.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לרכב על דרקון\לרכב על דרקון.strm</basepath>
+    <uniqueid type="tmdb" default="true">523366</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>משפחה</genre>
+<genre>הרפתקאות</genre>
+<genre>פנטזיה</genre>
+    <year>2020</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=2cXEjupXf9c</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//l36FBYerfybK4AQLxOwI1RWibMC.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//494bVeWKJ3DlCRHQu7kaPyskou9.jpg">http://image.tmdb.org/t/p/original//494bVeWKJ3DlCRHQu7kaPyskou9.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-07-28 00:01:28</dateadded>
+</movie>
+    

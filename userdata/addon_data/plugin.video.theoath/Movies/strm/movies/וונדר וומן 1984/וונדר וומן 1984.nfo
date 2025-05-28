@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>וונדר וומן 1984</title>
+    <originaltitle>Wonder Woman 1984</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2021-10-1 14:39:50[/COLOR]
+אחרי שניצחה את מלחמת העולם הראשונה, דיאנה פרינס מתמקמת בשנת 1984 במכון סמית'סוניאן בוושינגטון, שם היא עובדת כאנתרופולוגית. הנאיביות הטהורה שלה התפוגגה, אך היא עדיין נחמדה לכולם, ועכשיו היא מושא קנאתה של ברברה מינרווה חסרת הבטחון שעובדת לצידה. כשלמוזאון מגיע חפץ עתיק אך לא מרשים למראה, מתברר די מהר שזו אבן המגשימה משאלות. אבל יש קאץ'...</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\וונדר וומן 1984</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\וונדר וומן 1984\וונדר וומן 1984.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\וונדר וומן 1984\וונדר וומן 1984.strm</basepath>
+    <uniqueid type="tmdb" default="true">464052</uniqueid>
+    
+    <genre>אקשן</genre>
+<genre>הרפתקאות</genre>
+<genre>פנטזיה</genre>
+    <year>2020</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=sfM7_JLk-84</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//qAcbYCEGLM5gP0NPP50XA7c8W9k.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//srYya1ZlI97Au4jUYAktDe3avyA.jpg">http://image.tmdb.org/t/p/original//srYya1ZlI97Au4jUYAktDe3avyA.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-10-01 14:39:50</dateadded>
+</movie>
+    

@@ -1,0 +1,1 @@
+["05", ["051", "055", "053", "055 israel", "058", "052 israel", "051 israel", "052", "054", "058 area code israel"], [], {"google:suggestsubtypes": [[512, 433, 131], [512], [512], [512], [512], [512], [512], [512], [512], [512]], "google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

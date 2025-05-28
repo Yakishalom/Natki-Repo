@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>כיפה אדומה - הראשון</title>
+    <originaltitle>Little Red Riding Hood</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.7</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>TE
+[COLOR lightblue]2021-11-30 23:10:34[/COLOR]
+[COLOR blue]DVDRip 1995 זירה מדיה כיפה אדומה מדובב.mkv[/COLOR]
+0.39 GB
+הסרט המקורי והמדובב הראשון של כיפה אדומה משנת 1995.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\כיפה אדומה - הראשון</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\כיפה אדומה - הראשון\כיפה אדומה - הראשון.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\כיפה אדומה - הראשון\כיפה אדומה - הראשון.strm</basepath>
+    <uniqueid type="tmdb" default="true">186117</uniqueid>
+    
+    <genre>משפחה </genre>
+<genre> אנימציה</genre>
+    <year>1995</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//aILYBuiGnPZd3KwqDJpmzeQKMe2.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//oI8m8jIGrUCt95nNo9pa7pn8799.jpg">https://image.tmdb.org/t/p/original//oI8m8jIGrUCt95nNo9pa7pn8799.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-11-30 23:10:34</dateadded>
+</movie>
+    

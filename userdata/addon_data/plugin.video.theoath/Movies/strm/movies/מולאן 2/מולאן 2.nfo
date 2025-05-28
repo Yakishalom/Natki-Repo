@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מולאן 2</title>
+    <originaltitle>Mulan 2 [Video 2004]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>17,856</votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr
+[COLOR lightblue]2018-11-30 21:11:54[/COLOR]
+שאנג הגיע למצב בחיים שהוא רוצה להתמסד, ולהקים משפחה. הוא מבקש את ידה של מולאן, והם חולמים לחיות ביחד לנצח באושר... אך הקיסר קורא להם בדחיפות ושולח אותם למשימה סודית. להסיע שלושה נסיכות להתחתן בסין... מושו מתערב, ומחליט שהוא זה שיסיע אותם. הוא יודע שהוא יאבד את עבודתו עם מולאן, אם היא תתחתן ותתמסד למשפחתו של שאנג. הנסיכות מתחברות עם השלושה במהלך נסיעתם, ומולאן מבטיחה לנסיכות שהיא תעשה את הכל בכדי שהם לא יאלצו להתחתן עם גברים בניגוד לרצונם. אבל משפחת המלוכה חושבת אחרת... בזמן שהיותם בסין, מתקפת של מונגולים מתחילה על סין, והיא בסכנת כיבוש.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מולאן 2</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מולאן 2\מולאן 2.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מולאן 2\מולאן 2.strm</basepath>
+    <uniqueid type="tmdb" default="true">12242</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>קומדיה</genre>
+<genre>משפחה</genre>
+<genre>אקשן</genre>
+    <year>2004</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=gWf2Cg00kD0</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//8cUIHYXpDFYX6r5ZviQuRKCVLJ2.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//f8BobrxGnAFObYRSN1BTIzQbEMW.jpg">http://image.tmdb.org/t/p/original//f8BobrxGnAFObYRSN1BTIzQbEMW.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-11-30 21:11:54</dateadded>
+</movie>
+    

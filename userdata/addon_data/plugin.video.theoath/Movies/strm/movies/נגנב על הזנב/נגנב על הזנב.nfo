@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>נגנב על הזנב</title>
+    <originaltitle>Dva khvosta</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2022-08-4 01:37:21[/COLOR]
+חייו של בונה משתנים בבת אחת כאשר באמצע הלילה דופק על דלתו מקס החתול ועובר לגור עמו. יום אחד הוא מבחין בחללית בה נמצאים החייזרים הקטנים זאקה, זיק וזוק, שלושתם ברחו מיצור בשם סקראצ'רס. סקראצ'רס המגיע גם הוא מכוכב הלכת שלהם, מנסה לתפוס יצורים מכדור הארץ ולקחת אותם עמו. מקס והבונה מחליטים לצאת למשימה מסוכנת על מנת להציל אותם וגם את חבריהם האחרים ביער - מר דב, ג'ירף, פינגווין ופיל.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\נגנב על הזנב</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\נגנב על הזנב\נגנב על הזנב.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\נגנב על הזנב\נגנב על הזנב.strm</basepath>
+    <uniqueid type="tmdb" default="true">518601</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>משפחה</genre>
+    <year>2018</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=fhkhWMSeNW4</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//u7vUf0rHfsXp5ibqG6J7WjRp6ba.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//soeM66WqqzrxcvI4mWLtiOd8z7p.jpg">http://image.tmdb.org/t/p/original//soeM66WqqzrxcvI4mWLtiOd8z7p.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-08-04 01:37:21</dateadded>
+</movie>
+    

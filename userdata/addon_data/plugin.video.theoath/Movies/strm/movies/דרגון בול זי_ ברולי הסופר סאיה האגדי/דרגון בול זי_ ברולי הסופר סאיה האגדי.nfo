@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>דרגון בול זי: ברולי הסופר סאיה האגדי</title>
+    <originaltitle>Dragon Ball Z: Broly - The Legendary Super Saiyan [1993] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>8</value>
+            <votes>9,670</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2021-04-16 17:44:47[/COLOR]
+פאראגוס מגיע לכדור הארץ בחיפושים אחרי מקיטה, וטוען שמקיטה הוא המלך של הכוכב 'מקיטה החדש', ומבקש ממקיטה לבוא איתו. מקיטה מסכים כי הוא שמע על הסופר סאייה האגדי ורוצה להלחם איתו. החבורה מתלווה אליו. גוקו משגר את עצמו לשם אחרי שהמלך קאיו ביקש ממנו ושילחם בסופר סאייה האגדי. גוקו פוגש את ברולי, וברולי ששונא אותו מתעצבן, אבל פאראגוס מרגיע אותו. שאר החבורה גילתה מקום הרוס ועבדים של פאראגוס שהתלוננו ואמרו שברולי הוא הסופר הסאייה האגדי ופאראגוס משתמש בו כדי להשמיד ולכבוש.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דרגון בול זי_ ברולי הסופר סאיה האגדי</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דרגון בול זי_ ברולי הסופר סאיה האגדי\דרגון בול זי_ ברולי הסופר סאיה האגדי.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דרגון בול זי_ ברולי הסופר סאיה האגדי\דרגון בול זי_ ברולי הסופר סאיה האגדי.strm</basepath>
+    <uniqueid type="tmdb" default="true">34433</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>מדע בדיוני</genre>
+<genre>אקשן</genre>
+    <year>1993</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=61dVyIHK0NM</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//vbb9INpvNJtOx2mHWRrAYs0RIFN.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//2GmSSCZ9WE00ti0TdwFQCYbhXuL.jpg">http://image.tmdb.org/t/p/original//2GmSSCZ9WE00ti0TdwFQCYbhXuL.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-04-16 17:44:47</dateadded>
+</movie>
+    

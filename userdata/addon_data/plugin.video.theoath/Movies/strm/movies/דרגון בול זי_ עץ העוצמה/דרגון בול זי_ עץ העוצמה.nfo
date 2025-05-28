@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>דרגון בול זי: עץ העוצמה</title>
+    <originaltitle>Dragon Ball Z: Tree of Might [1990] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7</value>
+            <votes>6,932</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2021-04-16 17:18:46[/COLOR]
+גוהאן, קרילין ובולמה יוצאים למחנה בחיק הטבע כשכדור כלשהו נוחת בכדור הארץ ומתחחל לשרוף את היער. לאחר השריפה ולאחר שהם חזרו לביתם מהמחנה, אותו כדור שנפל הופך למעין עכביש שהוא בעצם מצלמת ריגול של הסאיאנים כדי שהסאיאנים שנמצאים ליד כדור הארץ יוכלו לראות אם כדור הארץ הוא מקום טוב בשביל לשתול את עץ העוצמה. עץ העוצמה הוא עץ ששואב את כול החיים שנמצאים בכוכב ומצמיח פירות שאם אתה אוכל אותם הם מעניקים לך הרבה מאוד עוצמה אנרגטית. הסאיאנים ממהרים ומתחילים לשתול אותו בכדור הארץ. המלך קאיו מדווח על כך ללוחמי ה-זי והם הולכים לשם על מנת להשמיד אותו.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דרגון בול זי_ עץ העוצמה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דרגון בול זי_ עץ העוצמה\דרגון בול זי_ עץ העוצמה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דרגון בול זי_ עץ העוצמה\דרגון בול זי_ עץ העוצמה.strm</basepath>
+    <uniqueid type="tmdb" default="true">39101</uniqueid>
+    
+    <genre>אקשן</genre>
+<genre>אנימציה</genre>
+<genre>מדע בדיוני</genre>
+    <year>1990</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=6nkQu1l5Grs</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//fDX4Dp8IKvjBAaEb5MOJrGkxWX0.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//s0XaJEApAfgMgKUBy6UfOnNTtwR.jpg">http://image.tmdb.org/t/p/original//s0XaJEApAfgMgKUBy6UfOnNTtwR.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-04-16 17:18:46</dateadded>
+</movie>
+    

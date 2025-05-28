@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הדרקון של אבא</title>
+    <originaltitle>My Father%27s Dragon</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.441</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>TE
+[COLOR lightblue]2023-04-05 07:38:45[/COLOR]
+[COLOR blue]1080p WEB 2022 ז.מ הדרקון של אבא מדובב.mkv[/COLOR]
+1.46 GB
+ילד קטן עוזב את העיר הגדולה אין-ירק ויוצא אל אי הפרא המסתורי, שם הוא מוצא חיות אימתניות – וחברוּת של פעם בחיים.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הדרקון של אבא</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הדרקון של אבא\הדרקון של אבא.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הדרקון של אבא\הדרקון של אבא.strm</basepath>
+    <uniqueid type="tmdb" default="true">560052</uniqueid>
+    
+    <genre></genre>
+    <year>2022</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//tNPamOfVrIgaryIwcCV8xo8FqeN.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//gJESrIalQkXe7bh9ckyQvgCSlhq.jpg">https://image.tmdb.org/t/p/original//gJESrIalQkXe7bh9ckyQvgCSlhq.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-04-05 07:38:45</dateadded>
+</movie>
+    

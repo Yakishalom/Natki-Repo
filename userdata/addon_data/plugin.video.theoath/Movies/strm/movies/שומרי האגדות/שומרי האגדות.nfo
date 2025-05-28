@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>שומרי האגדות</title>
+    <originaltitle>Rise of the Guardians</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.362</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE
+[COLOR lightblue]2023-08-21 18:37:04[/COLOR]
+[COLOR blue]1080p BluRay 2012 ז.מ שומרי האגדות 1 מדובב.mkv[/COLOR]
+1.55 GB
+הסרט "שומרי האגדות" הוא הרפתקה אפית שמספרת את עלילתם של קבוצת גיבורים - שלכל אחד מהם יש יכולות יוצאות מן הכלל. לאחר שרוח רעה הידועה בשם פיץ' מניח את הכפפה כדי להשתלט על העולם, הגיבורים האלמותים חייבים לאחד את כוחם לראשונה כדי להגן על תקוותם, אמונתם ודמיונם של כל הילדים בעולם כולו.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\שומרי האגדות</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\שומרי האגדות\שומרי האגדות.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\שומרי האגדות\שומרי האגדות.strm</basepath>
+    <uniqueid type="tmdb" default="true">81188</uniqueid>
+    
+    <genre></genre>
+    <year>2012</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//hGQAMhxG8EqUrCXV07qTsl3KYcM.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//46IGtYNjpIvQYRIQlb2X493Wh8x.jpg">https://image.tmdb.org/t/p/original//46IGtYNjpIvQYRIQlb2X493Wh8x.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-08-21 18:37:04</dateadded>
+</movie>
+    

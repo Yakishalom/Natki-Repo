@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>'StarBeam' Halloween Hero [TV Episode 2020] - IMDb</title>
+    <originaltitle>'StarBeam' Halloween Hero [TV Episode 2020] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>4</value>
+            <votes>10</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2020-12-16 11:43:00[/COLOR]
+ </plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\_StarBeam_ Halloween Hero [TV Episode 2020] - IMDb</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\_StarBeam_ Halloween Hero [TV Episode 2020] - IMDb\_StarBeam_ Halloween Hero [TV Episode 2020] - IMDb.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\_StarBeam_ Halloween Hero [TV Episode 2020] - IMDb\_StarBeam_ Halloween Hero [TV Episode 2020] - IMDb.strm</basepath>
+    <uniqueid type="tmdb" default="true">None</uniqueid>
+    
+    <genre> </genre>
+    <year>0</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://m.media-amazon.com/images/M/MV5BNTUyOGMyYTYtMDg3Ny00YTM1LTlhOTgtZmI2MjcyNzA2YmVlXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_UY268_CR4,0,182,268_AL_.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://m.media-amazon.com/images/M/MV5BNTUyOGMyYTYtMDg3Ny00YTM1LTlhOTgtZmI2MjcyNzA2YmVlXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_UY268_CR4,0,182,268_AL_.jpg">https://m.media-amazon.com/images/M/MV5BNTUyOGMyYTYtMDg3Ny00YTM1LTlhOTgtZmI2MjcyNzA2YmVlXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_UY268_CR4,0,182,268_AL_.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-12-16 11:43:00</dateadded>
+</movie>
+    

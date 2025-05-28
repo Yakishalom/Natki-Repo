@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>לעוף כל הדרך הביתה</title>
+    <originaltitle>Fly Away Home [1996] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7</value>
+            <votes>22,326</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2019-10-19 16:58:26[/COLOR]
+לאחר שאמי [פאקין] מאבדת את אימה בתאונת דרכים, היא עוברת מניו זילנד לגור עם אביה, תומס [דניאלס] הגרוש מאימה, בחווה שלו בקנדה. בחווה אמי מוצאת שהעניין היחידי שלה הוא בצפייה באווזים ששוחים ליד החווה. כאשר קבלנים הורסים את איזור המחייה של האווזים, אמי מצליחה להציל כמה ביצים, ולהכין עבורם מדגרה בחווה. כשמתגלים האווזים הם כבר בקעו ובטוחים שאמי היא אימם. שוטר שמגיע טוען שיש לקצץ את כנפיהם, ואמי ואביה יוצאים במסע בו ילמדו את האווזים לעוף וישברו את המחסומים ביניהם. הסיפור מבוסס על סיפור אמיתי של קנדי שגידל אווזים ולימדם לעוף. הסרט הועמד לאוסקר על הצילום הנפלא של דשאנל.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לעוף כל הדרך הביתה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לעוף כל הדרך הביתה\לעוף כל הדרך הביתה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לעוף כל הדרך הביתה\לעוף כל הדרך הביתה.strm</basepath>
+    <uniqueid type="tmdb" default="true">11076</uniqueid>
+    
+    <genre>אקשן</genre>
+<genre>הרפתקאות</genre>
+<genre>דרמה</genre>
+<genre>משפחה</genre>
+    <year>1996</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=KxEK8xHyAnc</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//azFDIXe7TgEgte7gHL8PkvXW0GC.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//zJiKgxIeikZPr0nM6qNgDL2gzjr.jpg">http://image.tmdb.org/t/p/original//zJiKgxIeikZPr0nM6qNgDL2gzjr.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-10-19 16:58:26</dateadded>
+</movie>
+    

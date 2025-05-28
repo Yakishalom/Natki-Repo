@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>ספייס ג'אם: אגדה חדשה</title>
+    <originaltitle>Space Jam: A New Legacy</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2021-09-8 00:34:23[/COLOR]
+לברון ג'יימס, כוכב האן-בי-איי הגדול ביותר – נכנס לנעליו של כוכב הכדורסל האגדי מייקל ג'ורדון! קאמבק לסרט הקלאסי שכל ילד בשנות ה-90 גדל עליו ובו נפגשים כוכבי הכדורסל הגדולים עם דמויות הלוני טונס המפורסמות: באגס באני, טוויטי, טאז, דאפי דאק ועוד. הסרט משלב בין ציור קלאסי לבין שחקנים בשר ודם.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ספייס ג_אם_ אגדה חדשה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ספייס ג_אם_ אגדה חדשה\ספייס ג_אם_ אגדה חדשה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ספייס ג_אם_ אגדה חדשה\ספייס ג_אם_ אגדה חדשה.strm</basepath>
+    <uniqueid type="tmdb" default="true">379686</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>קומדיה</genre>
+<genre>משפחה</genre>
+<genre>מדע בדיוני</genre>
+    <year>2021</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=olXYZOsXw_o</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//u8yyWlPWI7z2UtYXrXTVZzvA8IV.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//8s4h9friP6Ci3adRGahHARVd76E.jpg">http://image.tmdb.org/t/p/original//8s4h9friP6Ci3adRGahHARVd76E.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-09-08 00:34:23</dateadded>
+</movie>
+    

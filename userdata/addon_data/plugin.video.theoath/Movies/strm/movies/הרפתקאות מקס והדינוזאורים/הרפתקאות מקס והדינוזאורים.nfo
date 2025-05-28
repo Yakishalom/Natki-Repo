@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הרפתקאות מקס והדינוזאורים</title>
+    <originaltitle>Max Adventures in Dinoterra</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0.0</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,TE
+[COLOR lightblue]2021-10-13 23:45:26[/COLOR]
+[COLOR blue]נתי מדיה הרפתקאות מקס מדובב.avi[/COLOR]
+0.68 GB
+מאסטר הצללים לא מוותר. לאחר שמקס סיכל את תוכניתו להשתלט על קריסטל האריה, הוא מגלה על קיומו של קריסטל בעל כוחות גדולים יותר "קריסטל הדינוזאור". בכדי לאתר את "קריסטל הדינוזאור" מאסטר הצללים חייב לחזור בזמן לעידן הפרה-היסטורי של הדינוזאורים. מקס האריה וחבורתו חוזרים בזמן במרדף אחר מאסטר הצללים בכדי לעצור אותו ולמנוע ממנו להשתמש בכוחות העל של הקריסטל למטרות זדוניות. האם מקס האריה יוכל לכבוש את העבר בכדי להציל את העתיד?TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הרפתקאות מקס והדינוזאורים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הרפתקאות מקס והדינוזאורים\הרפתקאות מקס והדינוזאורים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הרפתקאות מקס והדינוזאורים\הרפתקאות מקס והדינוזאורים.strm</basepath>
+    <uniqueid type="tmdb" default="true">231642</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> הרפתקאות</genre>
+    <year>2014</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//uF1m6Nm9YC4JONwGmcYYpV5q9Ne.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//lb3uKCv93pcJiwDdelMWjLKrYi3.jpg">https://image.tmdb.org/t/p/original//lb3uKCv93pcJiwDdelMWjLKrYi3.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-10-13 23:45:26</dateadded>
+</movie>
+    

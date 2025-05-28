@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מטוסים</title>
+    <originaltitle>Planes</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.881</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2021-06-23 17:24:20
+ON,Dr,TE,TE
+[COLOR lightblue]2018-06-24 23:42:02[/COLOR]
+[COLOR blue]מטוסים מס 1.מדובב.גוזלן.DVDRip.mkv[/COLOR]
+0.89 GB
+דאסטי הוא מטוס ריסוס זריז ורחב לב, שחולם על השתתפות במירוץ אווירי מסביב לעולם. יש רק שתי בעיות: דאסטי לא בדיוק בנוי להתחרות במרוצים ומסתבר שהוא סובל גם מפחד גבהים. למרות הפחד שלו ובעידוד המורה הרוחני שלו, טייס צבאי בשם סקיפר, דאסטי מצליח להשתחל לרשימת המועמדים למירוץ. הספורטיביות והמהירות של דאסטי מתחילות להדאיג את האלוף הנוכחי של מסלול המירוץ, ריפסלינגר, שדבר לא יעצור אותו מלדאוג שדאסטי ייכשל. כשאסון מכה בעת השיא של המירוץ הסופי, האומץ של דאסטי עומד בפני המבחן האולטימטיבי.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מטוסים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מטוסים\מטוסים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מטוסים\מטוסים.strm</basepath>
+    <uniqueid type="tmdb" default="true">151960</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> משפחה </genre>
+<genre> הרפתקאות </genre>
+<genre> קומדיה</genre>
+    <year>2013</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//rZXhg4s5wgHcmqEHRkjxBT6l70c.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//1BaUaXBRKzwNESZ6hZkZjelatmt.jpg">https://image.tmdb.org/t/p/original//1BaUaXBRKzwNESZ6hZkZjelatmt.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-06-23 17:24:20</dateadded>
+</movie>
+    

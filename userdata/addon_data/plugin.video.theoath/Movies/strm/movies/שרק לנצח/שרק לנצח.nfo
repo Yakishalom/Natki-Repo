@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>שרק לנצח</title>
+    <originaltitle>Shrek Forever After</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.347</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2019-01-5 20:14:01
+ON,Dr,TE
+[COLOR lightblue]2017-08-31 13:06:20[/COLOR]
+[COLOR blue]חן סרטים שרק 4 מדובב עי נועםם.avi[/COLOR]
+0.68 GB
+לאחר שנלחם בדרקונים, הציל נסיכה יפה ושמר על שלמות הממלכה, מה נשאר לשרק לעשות? לפתע הופך שרק להיות איש משפחה, ובמקום להבהיל אזרחים כפי שהיה נוהג לעשות, כעת הוא מחלק חתימות למעריצים. מה קרה למפלצת הירוקה והאימתנית? שרק, חותם עסקה של ראמפאלסטיסקין אשר הופכת את כל העולם המוקר של שרק לעולם בו ראמפאלסטילסקין שולט, החמור לו מכיר אותו, פיונה היא עוגית בצבא העוגית, והחתול הוא חתול שמן ועצלן ששיך לפיונה. עכשיו לשרק יש יום אחד לנשק את פיונה נשיקת אוהבים כדי לחזור לעצמו ואם לא שרק ישלם את מחיר העסקה עם ראמפרלסטילסקין והפעם לנצח...TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\שרק לנצח</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\שרק לנצח\שרק לנצח.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\שרק לנצח\שרק לנצח.strm</basepath>
+    <uniqueid type="tmdb" default="true">10192</uniqueid>
+    
+    <genre></genre>
+    <year>2010</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//mpfySHc3p7QQM9zUv69joGCXWHP.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//gVl6aX2paJIHpMxAAe8X36VNExi.jpg">https://image.tmdb.org/t/p/original//gVl6aX2paJIHpMxAAe8X36VNExi.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-01-05 20:14:01</dateadded>
+</movie>
+    

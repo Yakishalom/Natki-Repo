@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>יום הכן</title>
+    <originaltitle>Yes Day [2021] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>11,512</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2021-03-29 22:28:59[/COLOR]
+קומדיה משפחתית. הורים שנוהגים לסרב לכל דבר מחליטים שבמשך יום אחד יסכימו לכל בקשה של ילדיהם, והמשפחה כולה יוצאת ליום של כיף והרפתקה פרועה.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\יום הכן</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\יום הכן\יום הכן.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\יום הכן\יום הכן.strm</basepath>
+    <uniqueid type="tmdb" default="true">638597</uniqueid>
+    
+    <genre>קומדיה</genre>
+<genre>משפחה</genre>
+    <year>2021</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Y-3Vr8Ut8d0</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//36YgwtIsdDVYGh5s8OkqVhKNa6.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//sNKnz0ZU8u55yCFreZUSOIBMSuY.jpg">http://image.tmdb.org/t/p/original//sNKnz0ZU8u55yCFreZUSOIBMSuY.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-03-29 22:28:59</dateadded>
+</movie>
+    

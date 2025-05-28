@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>המיניונים 2: עלייתו של גרו</title>
+    <originaltitle>Minions: The Rise of Gru</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.399</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>Dr,TE,TE
+[COLOR lightblue]2023-04-16 15:47:30[/COLOR]
+[COLOR blue]1080p BluRay 2022 ז.מ המיניונים 2 מדובב.mkv[/COLOR]
+1.22 GB
+סיפור המפגש בין היצורים הצהובים לבין מי שיהפוך לבוס שלהם: גרו (מסדרת "גנוב על הירח"). גרו חולם להיות נבל העל הגדול ביותר שידע העולם והמיניונים נחושים לעזור לו להגשים את הפוטנציאל הגלום בו. הבעיה היחידה - גרו רק בן 12 וחבורה מסוכנת של נבלי על מפורסמים שמה על היצורים המצחיקים מטרה.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\המיניונים 2_ עלייתו של גרו</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\המיניונים 2_ עלייתו של גרו\המיניונים 2_ עלייתו של גרו.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\המיניונים 2_ עלייתו של גרו\המיניונים 2_ עלייתו של גרו.strm</basepath>
+    <uniqueid type="tmdb" default="true">438148</uniqueid>
+    
+    <genre></genre>
+    <year>2022</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//1ERySprcc5soPq35MxS3HDhuB8o.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//uMSxXLfH7v30gRNBqsQaSP3yqX5.jpg">https://image.tmdb.org/t/p/original//uMSxXLfH7v30gRNBqsQaSP3yqX5.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-04-16 15:47:30</dateadded>
+</movie>
+    

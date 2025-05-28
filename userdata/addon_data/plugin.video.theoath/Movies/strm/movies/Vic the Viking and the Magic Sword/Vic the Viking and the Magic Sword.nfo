@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Vic the Viking and the Magic Sword</title>
+    <originaltitle>Vic the Viking and the Magic Sword [2019] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5</value>
+            <votes>30</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2020-04-12 19:59:36[/COLOR]
+ </plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\Vic the Viking and the Magic Sword</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\Vic the Viking and the Magic Sword\Vic the Viking and the Magic Sword.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\Vic the Viking and the Magic Sword\Vic the Viking and the Magic Sword.strm</basepath>
+    <uniqueid type="tmdb" default="true">674695</uniqueid>
+    
+    <genre> </genre>
+    <year>2020</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=qe10w9ctQoQ</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//44zYcLe6B5HadmvvsstRCMpZW6H.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//9PuymkG0h9sBh0iM9XY5HZyjTdd.jpg">http://image.tmdb.org/t/p/original//9PuymkG0h9sBh0iM9XY5HZyjTdd.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-04-12 19:59:36</dateadded>
+</movie>
+    

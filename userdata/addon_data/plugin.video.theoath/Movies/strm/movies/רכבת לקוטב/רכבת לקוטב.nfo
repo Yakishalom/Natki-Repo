@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>רכבת לקוטב</title>
+    <originaltitle>The Polar Express [2004]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7</value>
+            <votes>140,354</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-01-7 12:13:15[/COLOR]
+סרטי חג מולד וסרטי סנטה קלאוס בפרט אף פעם לא היו ללהיטים גדולים בארצנו הקטנטונת. אולי שמות כמו הבמאי רוברט זמקיס ['פורסט גאמפ'] והשחקן טום הנקס יעשו לכם את זה. ואם לא השמות הגדולים אולי האנימציה הדיגיטאלית המרהיבה תגרום לכם לקנות כרטיס לסרט הזה. האם סנטה קלאוס קיים, כן או לא? ילד אחד מטיל ספק בקיומו של הסבא עם הזקן הלבן והחליפה האדומה. בערב חג המולד הילד הספקן שוכב במיטתו מקווה לשמוע את צלצולי הפעמונים המלווים את הכרכרה של סנטה אבל במקום הכרכרה נשמע קיטור רכבת מחוץ לחלון חדר השינה. הכרטיסן מזמין את הילד לעלות על הרכבת ולנסוע אל הקוטב הצפוני שם הילדים שמאמינים בסנטה יקבלו מתנה מאד מיוחדת.</plot>
+    <runtime>100</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\רכבת לקוטב</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\רכבת לקוטב\רכבת לקוטב.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\רכבת לקוטב\רכבת לקוטב.strm</basepath>
+    <uniqueid type="tmdb" default="true">5255</uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Adventure</genre>
+<genre>Family</genre>
+<genre>הרפתקאות</genre>
+<genre>אנימציה</genre>
+<genre>משפחה</genre>
+<genre>פנטזיה</genre>
+    <year>2004</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=F8_GUrqe5tc</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//mCKwMNSXpWmsw81pXeQsibIuB6V.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//AcXCaPRB037DZoZZ2cJzRSxrNBP.jpg">http://image.tmdb.org/t/p/original//AcXCaPRB037DZoZZ2cJzRSxrNBP.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-01-07 12:13:15</dateadded>
+</movie>
+    

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>שבעת המופלאים של סטן לי</title>
+    <originaltitle>Stan Lee%27s Mighty 7</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.8</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,TE
+[COLOR lightblue]2020-05-07 10:14:54[/COLOR]
+[COLOR blue]1080p 2014 המופלאים של סטן לי מדובב.mkv[/COLOR]
+1.42 GB
+סטן לי האגדי פוגש בקבוצת חייזרים אמיתית, ומלמד אותם להיות קבוצת גיבורי על על פי סיפורי הקומיקס.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\שבעת המופלאים של סטן לי</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\שבעת המופלאים של סטן לי\שבעת המופלאים של סטן לי.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\שבעת המופלאים של סטן לי\שבעת המופלאים של סטן לי.strm</basepath>
+    <uniqueid type="tmdb" default="true">254187</uniqueid>
+    
+    <genre>מדע בדיוני </genre>
+<genre> אנימציה </genre>
+<genre> משפחה</genre>
+    <year>2014</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//z73jtY4LhUyxovJR34GukSfzYa4.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview=" "> </thumb>
+            
+    </fanart>
+    <dateadded>2020-05-07 10:14:54</dateadded>
+</movie>
+    

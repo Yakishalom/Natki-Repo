@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>יוצאים לחופשה עם טימון ופומבה</title>
+    <originaltitle>On Holiday With Timon & Pumbaa</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.16</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>TE,TE
+[COLOR lightblue]2023-09-07 14:32:00[/COLOR]
+[COLOR blue]יוסי סרטים טימון ופומבה יוצאים לחופשה מדובב עי אורי המלך.avi[/COLOR]
+0.67 GB
+הצטרפו אל טימון ופומבה, החברים האהובים ממלך האריות, ותכינו עצמכם ליהנות ולצחוק בהרפתקה חובקת עולם זו. יעדנו הראשון - אפריקה. בפרק "קניה תהיי חברתי" טימון ופומבה שוכחים את מהות המילה חברות, כאשר טימון שוכח את יום החבר הטוב ביותר. בפרק "מחלת הים הדרומי" טימון משחק בלהיות רופא ברגע שפומבה אוכל זחל רעיל, אולם התרופה עלולה להרוג את החולה לפני הרעל. לאחר מכן בפרק "אוגנדה הפכי להיות פיל" פומבה לומד שהוא בעצם שמח להיות עצמו, לאחר שהוא מנסה להפוך לאחת מהחיות היותר פופולריות בג'ונגל. במרכז אמריקה בפרק "איך לנצח את קוסטה ריקה" נבל מאבד את כספו ברגע שטימון ופומבה מנסים להשיב כסף גנוב משודד הבנקים המרושע קווינט.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\יוצאים לחופשה עם טימון ופומבה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\יוצאים לחופשה עם טימון ופומבה\יוצאים לחופשה עם טימון ופומבה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\יוצאים לחופשה עם טימון ופומבה\יוצאים לחופשה עם טימון ופומבה.strm</basepath>
+    <uniqueid type="tmdb" default="true">40645</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> קומדיה </genre>
+<genre> משפחה</genre>
+    <year>1997</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//fHw3NBDf1pL0nnokFZ3ynCpWap4.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//3kDIZSgAVYET7cVmfKg4nAP86WO.jpg">https://image.tmdb.org/t/p/original//3kDIZSgAVYET7cVmfKg4nAP86WO.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-09-07 14:32:00</dateadded>
+</movie>
+    

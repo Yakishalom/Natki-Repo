@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>ריו 2</title>
+    <originaltitle>Rio 2</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.497</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE,TE
+[COLOR lightblue]2022-03-26 21:31:39[/COLOR]
+[COLOR blue]720p BluRay 2014 זירה מדיה ריו 2 מדובב.mkv[/COLOR]
+1.29 GB
+הג'ונגל בשיאו בשביל בלו, ג'ול ושלושת ילדיהם ב-'ריו 2', כשהם מגיעים מהעיר הקסומה ריו אל הטבע הפראי של האמזונס בשביל איחוד משפחתי. מחוץ לסביבתו הטבעית בארץ שהוא לא מכיר, בלו צריך להתעמת עם היריב המר ביותר שלו – החותן שלו - וגם להתחמק מתוכניות הנקמה השטניות של נייג'ל.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ריו 2</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ריו 2\ריו 2.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ריו 2\ריו 2.strm</basepath>
+    <uniqueid type="tmdb" default="true">172385</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> הרפתקאות </genre>
+<genre> קומדיה </genre>
+<genre> משפחה</genre>
+    <year>2014</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//8yh8511ZZpTkytuBIVRxJYQzswD.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//eg2jxQ1FFi6ENDfyMIMC5odpcU0.jpg">https://image.tmdb.org/t/p/original//eg2jxQ1FFi6ENDfyMIMC5odpcU0.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-03-26 21:31:39</dateadded>
+</movie>
+    

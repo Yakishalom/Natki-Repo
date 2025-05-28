@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>משפחת מיטשל ומלחמתה במכונות</title>
+    <originaltitle>The Mitchells vs. the Machines</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.95</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>Dr,TE
+[COLOR lightblue]2021-05-25 00:15:16[/COLOR]
+[COLOR blue]The.Mitchells.vs.The.Machines.2021.hebdub.mp4[/COLOR]
+1.51 GB
+אפוקליפסת רובוטים משבשת את הטיול המשפחתי של משפחת מיטשל – המשפחה הכי מוזרה בעולם – והם יוצאים להציל את האנושות.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\משפחת מיטשל ומלחמתה במכונות</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\משפחת מיטשל ומלחמתה במכונות\משפחת מיטשל ומלחמתה במכונות.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\משפחת מיטשל ומלחמתה במכונות\משפחת מיטשל ומלחמתה במכונות.strm</basepath>
+    <uniqueid type="tmdb" default="true">501929</uniqueid>
+    
+    <genre></genre>
+    <year>2021</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//q8r4nbokzE45MLgufj3IIfzx39O.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//6ydGnzbo8s4yRNqQWPAvVSiNU8N.jpg">https://image.tmdb.org/t/p/original//6ydGnzbo8s4yRNqQWPAvVSiNU8N.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-05-25 00:15:16</dateadded>
+</movie>
+    

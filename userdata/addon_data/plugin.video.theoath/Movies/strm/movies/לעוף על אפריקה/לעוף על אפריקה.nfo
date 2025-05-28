@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>לעוף על אפריקה</title>
+    <originaltitle>A Stork%27s Journey</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.964</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>Dr,TE
+[COLOR lightblue]2023-07-26 19:59:28[/COLOR]
+[COLOR blue]1080p BluRay 2017 לעוף על אפריקה מדובב.mkv[/COLOR]
+1.3 GB
+כציפור שבקעה וגדלה עם חסידות, ריצ'רד הקטן משוכנע, שהוא גם כזה, ומתרגש מאוד לקראת עונת הנדידה הקרובה לאפריקה. אולם כשהלהקה יוצאת לדרך, הם חושפים בפניו את האמת. בהיותו ציפור דרור, הוא פשוט לא ישרוד את המסע, ועליו להישאר מאחור. אולם ריצ'רד לא נותן לעובדות לבלבל אותו. חמוש בנחישות, הוא יוצא להרפתקה המשגעת של חייו, ובעזרת ינשוף מקורי ומצחיק עם חבר דמיוני ותוכי נרקיסיסטי, הוא עובר מסע של ממש ומגלה, שלפעמים, הדרך שצריכים לעבור, היא למעשה המטרה עצמה.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לעוף על אפריקה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לעוף על אפריקה\לעוף על אפריקה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לעוף על אפריקה\לעוף על אפריקה.strm</basepath>
+    <uniqueid type="tmdb" default="true">378111</uniqueid>
+    
+    <genre>משפחה </genre>
+<genre> פנטזיה </genre>
+<genre> הרפתקאות </genre>
+<genre> אנימציה </genre>
+<genre> קומדיה</genre>
+    <year>2017</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//nxv6xF4MMq6GK8rU81X8Lb8Y8Nu.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//3BWd3jRlr06E022BKzQ8MxNfoRX.jpg">https://image.tmdb.org/t/p/original//3BWd3jRlr06E022BKzQ8MxNfoRX.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-07-26 19:59:28</dateadded>
+</movie>
+    

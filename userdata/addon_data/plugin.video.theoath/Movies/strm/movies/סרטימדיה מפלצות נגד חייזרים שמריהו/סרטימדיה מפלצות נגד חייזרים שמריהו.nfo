@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>סרטימדיה מפלצות נגד חייזרים שמריהו</title>
+    <originaltitle>סרטימדיה מפלצות נגד חייזרים שמריהו</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>TE
+[COLOR lightblue]2018-08-07 10:46:07[/COLOR]
+[COLOR blue]סרטימדיה_מפלצות_נגד_חייזרים_שמריהו.avi[/COLOR]
+0.69 GB
+TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סרטימדיה מפלצות נגד חייזרים שמריהו</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סרטימדיה מפלצות נגד חייזרים שמריהו\סרטימדיה מפלצות נגד חייזרים שמריהו.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סרטימדיה מפלצות נגד חייזרים שמריהו\סרטימדיה מפלצות נגד חייזרים שמריהו.strm</basepath>
+    <uniqueid type="tmdb" default="true"></uniqueid>
+    
+    <genre></genre>
+    <year>0</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLd1qz7vDQz79zTTgddDCanmev34lU4E246XoMPYIwJ0q-m5ud&s</thumb>
+    <fanart>
+      <thumb colors="" preview="https://blog.pearachutekids.com/wp-content/uploads/2019/06/netflix-Cover.jpg">https://blog.pearachutekids.com/wp-content/uploads/2019/06/netflix-Cover.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-08-07 10:46:07</dateadded>
+</movie>
+    

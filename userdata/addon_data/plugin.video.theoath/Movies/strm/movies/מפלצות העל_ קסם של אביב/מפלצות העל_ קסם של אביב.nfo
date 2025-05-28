@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מפלצות העל: קסם של אביב</title>
+    <originaltitle>Super Monsters Furever Friends</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.9</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE
+[COLOR lightblue]2021-10-13 23:40:56[/COLOR]
+[COLOR blue]1080p WEB-DL 2019 נ.מ קסם של אביב מדובב.mkv[/COLOR]
+1.15 GB
+בלילה הראשון של האביב, מפלצות העל מתאספות כדי לאכול, לבלות ולשחק בפארק – ופוגשות את חיות המחמד המתוקות שלהן!TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מפלצות העל_ קסם של אביב</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מפלצות העל_ קסם של אביב\מפלצות העל_ קסם של אביב.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מפלצות העל_ קסם של אביב\מפלצות העל_ קסם של אביב.strm</basepath>
+    <uniqueid type="tmdb" default="true">595503</uniqueid>
+    
+    <genre>פנטזיה </genre>
+<genre> אנימציה</genre>
+    <year>2019</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//h3s6YTCeSP9cGaVpS8jCPim5qbq.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//8p308NEIzAqTWHEdcuSFrA9RDHy.jpg">https://image.tmdb.org/t/p/original//8p308NEIzAqTWHEdcuSFrA9RDHy.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-10-13 23:40:56</dateadded>
+</movie>
+    

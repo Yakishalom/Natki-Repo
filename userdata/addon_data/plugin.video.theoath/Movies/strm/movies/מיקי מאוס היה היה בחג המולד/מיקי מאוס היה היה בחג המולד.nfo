@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מיקי מאוס היה היה בחג המולד</title>
+    <originaltitle>Mickey%27s Once Upon a Christmas</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.076</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>TE
+[COLOR lightblue]2023-04-16 15:47:40[/COLOR]
+[COLOR blue]1080p_1999_מיקי_מאוס_היה_היה_בחג_המולד_מדובב.mkv[/COLOR]
+1.15 GB
+Mickey, Minnie, and their famous friends Goofy, Donald, Daisy and Pluto gather together to reminisce about the love, magic and surprises in three wonder-filled stories of Christmas past.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מיקי מאוס היה היה בחג המולד</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מיקי מאוס היה היה בחג המולד\מיקי מאוס היה היה בחג המולד.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מיקי מאוס היה היה בחג המולד\מיקי מאוס היה היה בחג המולד.strm</basepath>
+    <uniqueid type="tmdb" default="true">15400</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> משפחה </genre>
+<genre> קומדיה</genre>
+    <year>1999</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//b6h6HwucncSxn06sMNROJ9apLC5.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//nTyjdZjaTUoyW62pti2rtWgvhE3.jpg">https://image.tmdb.org/t/p/original//nTyjdZjaTUoyW62pti2rtWgvhE3.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-04-16 15:47:40</dateadded>
+</movie>
+    

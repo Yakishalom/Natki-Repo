@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מרד התרנגולים: עלייתם של הנאגטס</title>
+    <originaltitle>Chicken Run: Dawn of the Nugget</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2023-12-15 22:58:57[/COLOR]
+חבורה של תרנגולות אמיצות משתפת פעולה כדי להציל עופות נוספים מסכנה חדשה ומטרידה – חווה סמוכה שמבשלת משהו מפוקפק.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מרד התרנגולים_ עלייתם של הנאגטס</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מרד התרנגולים_ עלייתם של הנאגטס\מרד התרנגולים_ עלייתם של הנאגטס.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מרד התרנגולים_ עלייתם של הנאגטס\מרד התרנגולים_ עלייתם של הנאגטס.strm</basepath>
+    <uniqueid type="tmdb" default="true">520758</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>הרפתקאות</genre>
+<genre>קומדיה</genre>
+<genre>משפחה</genre>
+    <year>2023</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=icfv_T5pkdI</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//pJycBsn4QrHEhuqPpXQweKShwOn.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//aNG1BSIULxbHtUmBiar0i3fR1S4.jpg">http://image.tmdb.org/t/p/original//aNG1BSIULxbHtUmBiar0i3fR1S4.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-12-15 22:58:57</dateadded>
+</movie>
+    

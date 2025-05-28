@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>קליפורד הכלב האדום והגדול</title>
+    <originaltitle>Clifford the Big Red Dog</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2022-02-16 17:14:01[/COLOR]
+כאשר תלמידת חטיבת הביניים אמילי אליזבת פוגשת אדם קסום אשר מציל בעלי חיים ומקבלת במתנה גור כלבים אדמדם, היא מעולם לא ציפתה להתעורר בוקר לאחר מכן לכלב ענקי בגובה 3 מטרים, בתוך דירתה הקטנטנה בניו יורק. בעוד האם החד הורית נמצאת בנסיעת עסקים, אמילי ודודה הספונטני קייסי יוצאים להרפתקה שתשאיר את הצופים על קצות הכיסאות בזמן שגיבורי הסרט לוקחים ביס מהתפוח הגדול.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קליפורד הכלב האדום והגדול</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קליפורד הכלב האדום והגדול\קליפורד הכלב האדום והגדול.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קליפורד הכלב האדום והגדול\קליפורד הכלב האדום והגדול.strm</basepath>
+    <uniqueid type="tmdb" default="true">585245</uniqueid>
+    
+    <genre>משפחה</genre>
+<genre>הרפתקאות</genre>
+<genre>קומדיה</genre>
+<genre>פנטזיה</genre>
+    <year>2021</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=4zH5iYM4wJo</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//bJEnhEv2k9pzADP9qPSDF9E0fNQ.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//1Wlwnhn5sXUIwlxpJgWszT622PS.jpg">http://image.tmdb.org/t/p/original//1Wlwnhn5sXUIwlxpJgWszT622PS.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-02-16 17:14:01</dateadded>
+</movie>
+    

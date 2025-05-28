@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>נשמה</title>
+    <originaltitle>Soul</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>8.152</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2021-10-2 13:49:00
+Dr,TE
+[COLOR lightblue]2021-09-24 13:58:24[/COLOR]
+[COLOR blue]נשמה 2021 מדובב amsi77.mp4[/COLOR]
+1.47 GB
+הסרט יוצא במסע מהעיר ניו-יורק אל הממלכות הקוסמיות אשר נראות כאן לראשונה ואל המקום הפנטסטי שבו כולנו מגלים את האופי היחודי שלנו. ג'יימי פוקס מדבב את ג'ו גארדנר, מורה למוזיקה בחטיבת ביניים שתשוקתו האמיתית היא לנגן מוזיקת ג'אז. פיי מגלמת את 22, נשמה "בהכשרה" אשר פוגשת במקרה את ג'ו כאשר הוא מוצא בטעות את דרכו ל-"You Seminar". יחד, השניים ימצאו דרך להחזיר את ג'ו לכדור הארץ, מה שיגרום לו לחשוב שוב על המשמעות האמיתית של הנשמה.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\נשמה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\נשמה\נשמה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\נשמה\נשמה.strm</basepath>
+    <uniqueid type="tmdb" default="true">508442</uniqueid>
+    
+    <genre></genre>
+    <year>2020</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//oNfHOp73x3iL2nwg3bNnpjjY5Qr.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//4JNggqfyJWREqb0enzpUMbvIniV.jpg">https://image.tmdb.org/t/p/original//4JNggqfyJWREqb0enzpUMbvIniV.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-10-02 13:49:00</dateadded>
+</movie>
+    

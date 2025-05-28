@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הדרקון הראשון שלי 2</title>
+    <originaltitle>How to Train Your Dragon 2</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.7</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE,TE
+[COLOR lightblue]2021-09-16 22:24:21[/COLOR]
+[COLOR blue]1080p 2014 הדרקון הראשון שלי 2 מדובב.mkv[/COLOR]
+1.43 GB
+עברו חמש שנים מאז שויקינגים ודרקונים התאחדו על האי. בזמן שאנשים מאתגרים אחד את השני למרוצי דרקונים, היקאפ ושום שן יוצאים לחקור את המרחב הפתוח את העולם הגדול. באחד מהרפתקאות שלהם הם מוצאים מערת קרח שהיא הבית של מאות דרקונים פראיים חדשים. השניים מוצאים את עצמם באמצע קרב להגנת השלום עכשיו היקאפ ושום שן חייבים לעמוד על מה שהם מאמינים שרק ביחד יש להם את הכוח לשנות את העתיד של האנשים והדרקונים.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הדרקון הראשון שלי 2</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הדרקון הראשון שלי 2\הדרקון הראשון שלי 2.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הדרקון הראשון שלי 2\הדרקון הראשון שלי 2.strm</basepath>
+    <uniqueid type="tmdb" default="true">82702</uniqueid>
+    
+    <genre>פנטזיה </genre>
+<genre> אקשן </genre>
+<genre> הרפתקאות </genre>
+<genre> אנימציה </genre>
+<genre> קומדיה </genre>
+<genre> משפחה</genre>
+    <year>2014</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//zQ16eobKE89TlUqnH9EYHfDPZ6a.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//sKTFNMsuSgyAcwbD0xXVUXvvbY.jpg">https://image.tmdb.org/t/p/original//sKTFNMsuSgyAcwbD0xXVUXvvbY.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-09-16 22:24:21</dateadded>
+</movie>
+    

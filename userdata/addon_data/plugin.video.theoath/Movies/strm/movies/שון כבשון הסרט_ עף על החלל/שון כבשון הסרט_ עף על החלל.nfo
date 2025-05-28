@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>שון כבשון הסרט: עף על החלל</title>
+    <originaltitle>A Shaun the Sheep Movie: Farmageddon</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.947</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>Dr,TE
+[COLOR lightblue]2021-09-16 22:22:48[/COLOR]
+[COLOR blue]1080p BluRay 2019 נ.מ עף על החלל מדובב.mkv[/COLOR]
+1.42 GB
+שון כבשון חוזר בהרפתקה חדשה על חברות לא מהעולם הזה!  חיי החווה השקטים של שון וחבריו הכבשונים משתנים מקצה לקצה, כאשר חייזרית קטנה וחמודה בשם לולה נוחתת ממש לידם. שון נחוש בדעתו לעזור לה לחזור הביתה, ויחד עם לולה השובבה בעלת כוחות הקסם הם יוצאים למסע מצחיק, מרגש ומסעיר. אבל הכל מסתבך כשאנשים אחרים מנסים לחבל במשימה ולתפוס את לולה…  התכוננו להרפתקה מרהיבה, משעשעת ומחממת לב לקטנים וגם לגדולים! מבית היוצר של סטודיו ארדמן המוערך ("וולאס וגרומיט").TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\שון כבשון הסרט_ עף על החלל</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\שון כבשון הסרט_ עף על החלל\שון כבשון הסרט_ עף על החלל.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\שון כבשון הסרט_ עף על החלל\שון כבשון הסרט_ עף על החלל.strm</basepath>
+    <uniqueid type="tmdb" default="true">422803</uniqueid>
+    
+    <genre>קומדיה </genre>
+<genre> אנימציה </genre>
+<genre> משפחה</genre>
+    <year>2019</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//bMB6eKoqNaogzbX2LGIseesR9vq.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//AgYlP6g4vrNn1sVsAIvflW3TfJU.jpg">https://image.tmdb.org/t/p/original//AgYlP6g4vrNn1sVsAIvflW3TfJU.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-09-16 22:22:48</dateadded>
+</movie>
+    

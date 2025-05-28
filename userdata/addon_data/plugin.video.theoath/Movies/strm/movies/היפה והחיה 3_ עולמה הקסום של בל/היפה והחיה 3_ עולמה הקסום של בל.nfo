@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>היפה והחיה 3: עולמה הקסום של בל</title>
+    <originaltitle>היפה והחיה 3: עולמה הקסום של בל</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes> </votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-08-23 15:58:38[/COLOR]
+'עולמה הקסום של בל' הוא אוסף של פרקי הסדרה 'היפה והחיה' אשר בוטלה. הפרקים לא זכו להופיע בטלוויזיה עקב חוסר ביקוש, ובעקבות זאת יצא המארז הזה המאגד ארבעה פרקים מן הסדרה: סיפור 1: בל והחיה רבים בטירה. ספר, עט ודף, כותבים לבל מכתב התנצלות מפוברק מאת החיה. סיפור 2: לפיפי, המנקה, וללומייר יש יום נישואים ובל עוזרת ללומייר אבל פיפי חושבת שהוא בוגד בה עם בל. סיפור 3: ציפור עם כנף שבורה מגיעה אל הטירה, ובל מטפלת בו ומסתירה אותו מהחיה. סיפור 4: גברת תיון מדוכאת ובל מנסה לארגן לה מסיבה אבל לומייר ושעוני הורסים אותה.</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\היפה והחיה 3_ עולמה הקסום של בל</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\היפה והחיה 3_ עולמה הקסום של בל\היפה והחיה 3_ עולמה הקסום של בל.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\היפה והחיה 3_ עולמה הקסום של בל\היפה והחיה 3_ עולמה הקסום של בל.strm</basepath>
+    <uniqueid type="tmdb" default="true"> </uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Comedy</genre>
+<genre>Family</genre>
+<genre>אנימציה</genre>
+<genre>משפחה</genre>
+    <year>1998</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//nVVmovURk9IEkxbkrXVmvIcgi7P.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//yZYWGHqtpbZlOKUdL5nGt24ZBOO.jpg">http://image.tmdb.org/t/p/original//yZYWGHqtpbZlOKUdL5nGt24ZBOO.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-08-23 15:58:38</dateadded>
+</movie>
+    

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>דרגון בול זי: זעם הדרקון</title>
+    <originaltitle>Dragon Ball Z: Wrath of the Dragon [1995] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>8</value>
+            <votes>7,814</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2021-04-16 18:43:27[/COLOR]
+כאשר גוקו הופל בפח על ידי הוי, איש זקן ומוזר לפתוח תיבה קסומה המכילה מפלצת זדונית, נער מסתורי בשם טאפיון, מופיע ומסביר על הוי והאיום של מפלצתו. גוקו וחבריו יוצאים להביסו.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דרגון בול זי_ זעם הדרקון</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דרגון בול זי_ זעם הדרקון\דרגון בול זי_ זעם הדרקון.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דרגון בול זי_ זעם הדרקון\דרגון בול זי_ זעם הדרקון.strm</basepath>
+    <uniqueid type="tmdb" default="true">39108</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>אקשן</genre>
+<genre>מדע בדיוני</genre>
+    <year>1995</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=52VKPAbEWug</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//gnBg8kaGTORyTHdFs4u8VgKj0Dg.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//Ktn3lkVHlaLpymvp7cCIPdb65g.jpg">http://image.tmdb.org/t/p/original//Ktn3lkVHlaLpymvp7cCIPdb65g.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-04-16 18:43:27</dateadded>
+</movie>
+    

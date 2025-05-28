@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הרפתקאות מקס בממלכת הקסמים</title>
+    <originaltitle> הרפתקאות מקס בממלכת הקסמים</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes> </votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-08-30 07:03:58[/COLOR]
+ שלוש מכשפות מחפשות את קריסטל הירח כדי להביא אפילה ולהגדיל את כוחן. קוסמת הכוכבים, חד-קרן טובה, שומרת על גביש הירח, אך המכשפות מנצחות אותה ולוקחות את הגביש. הקוסמת נמלטת לממלכת האריות ופוגשת שם את מקס, ליאונה וידידיהם. היא מזהירה אותם שהדרך היחידה למנוע את האפילה היא להשתמש בקריסטסגורל השמש שנמצא אצל אחיה, החד-קרן שומר האור. מקס וידידיו יוצאים למסע אל ממלכת הקסמים, כדי להגיע אל טירתו של שומר האור, להביס את המכשפות ואת אדונן – אויבם המושבע, מאסטר הצללים.</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הרפתקאות מקס בממלכת הקסמים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הרפתקאות מקס בממלכת הקסמים\הרפתקאות מקס בממלכת הקסמים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הרפתקאות מקס בממלכת הקסמים\הרפתקאות מקס בממלכת הקסמים.strm</basepath>
+    <uniqueid type="tmdb" default="true"> </uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Action</genre>
+<genre>Adventure</genre>
+    <year> 2014</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://eilat.city/images/movies/%D7%9E%D7%A7%D7%A1-%D7%94%D7%90%D7%A8%D7%99%D7%94.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://www.edb.co.il/photos/292612014_poster01.full.jpg">https://www.edb.co.il/photos/292612014_poster01.full.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-08-30 07:03:58</dateadded>
+</movie>
+    

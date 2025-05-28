@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>היפה והגלדיאטור</title>
+    <originaltitle>Gladiators of Rome [2012] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5</value>
+            <votes>1,236</votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr
+[COLOR lightblue]2019-08-28 00:41:43[/COLOR]
+טימו הגלדיאטור הלא מוצלח הצעיר אומץ על ידי הגנרל קרינו, וגדל באקדמיה המפורסמת ביותר לגלדיאטורים שברומא, אבל טימו לא קרוץ מאותו החומר שממנו עשויים גלדיאטורים. הדבר היחידי שהוא רוצה לעשות הוא להסתובב עם חברים שלו ולהימנע מהאימונים הקשים של אביו החורג. כשטימו פוגש את לוסילה המקסימה, הוא מחליט לשנות את חייו כדי להראות לה את הגיבור החבוי בו. דרך כישופים ואימונים נוראיים של דיאנה המאמנת, טימו צריך להפוך לגלדיאטור הגדול של כל הזמנים בשביל להראות ללוסילה מי הוא באמת.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\היפה והגלדיאטור</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\היפה והגלדיאטור\היפה והגלדיאטור.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\היפה והגלדיאטור\היפה והגלדיאטור.strm</basepath>
+    <uniqueid type="tmdb" default="true">137548</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>משפחה</genre>
+    <year>2012</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=PFF-N8kgYjo</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//ziqZHubEqprC50I0eUcvH1NI3JM.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//nmrjmQqx1F0X8KoUlN2tPGNGxwq.jpg">http://image.tmdb.org/t/p/original//nmrjmQqx1F0X8KoUlN2tPGNGxwq.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-08-28 00:41:43</dateadded>
+</movie>
+    

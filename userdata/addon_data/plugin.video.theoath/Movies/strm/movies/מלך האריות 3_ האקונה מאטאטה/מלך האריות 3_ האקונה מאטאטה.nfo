@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מלך האריות 3: האקונה מאטאטה</title>
+    <originaltitle>The Lion King 1½</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.573</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,TE
+[COLOR lightblue]2021-07-13 04:20:13[/COLOR]
+[COLOR blue]DVDRip 2004 נתי מדיה מלך האריות 3 מדובב.avi[/COLOR]
+0.7 GB
+בעדכון ההיסטרי הזה למלך האריות, טימון, פומבה, ויתר החבורה מתאחדים על מנת להסביר איך המאורעות באמת התרחשו. מצורפים סיפורים מצחיקים מאחורי הקלעים, טימון ופומבה מסבירים מה באמת קרה כשהמלך מופסה הציג את יורשו ומספרים את הסודות מאחורי מאורעות נוספים בסרט. קסם אמיתי מבית דיסני.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מלך האריות 3_ האקונה מאטאטה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מלך האריות 3_ האקונה מאטאטה\מלך האריות 3_ האקונה מאטאטה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מלך האריות 3_ האקונה מאטאטה\מלך האריות 3_ האקונה מאטאטה.strm</basepath>
+    <uniqueid type="tmdb" default="true">11430</uniqueid>
+    
+    <genre>משפחה </genre>
+<genre> אנימציה </genre>
+<genre> קומדיה </genre>
+<genre> אקשן</genre>
+    <year>2004</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//6VKy6U3tntpwDJmXFDs3qzVXE7i.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//3eQnD9CIUerbXbgtFE1zJNvEVVo.jpg">https://image.tmdb.org/t/p/original//3eQnD9CIUerbXbgtFE1zJNvEVVo.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-07-13 04:20:13</dateadded>
+</movie>
+    

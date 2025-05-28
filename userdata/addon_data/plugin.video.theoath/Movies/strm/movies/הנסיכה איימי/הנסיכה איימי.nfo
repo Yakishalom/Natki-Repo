@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הנסיכה איימי</title>
+    <originaltitle>Prinzessin Emmy</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.3</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE
+[COLOR lightblue]2020-11-01 17:58:58[/COLOR]
+[COLOR blue]1080p WEB 2019 נ.מ הנסיכה איימי מדובב.mkv[/COLOR]
+1.43 GB
+לנסיכה הצעירה איימי יש כישרון סודי - היא היחידה בממלכה שיכולה לדבר עם סוסים. עד היום חייה של איימי היו מושלמים וחסרי דאגה ,בילויים באורווה עם חבריה הטובים - הסוסים הנפלאים ובחיק משפחתה בטירה המלכותית. כל זה נעלם ביום שהדודנית הקנאית והתככנית שלה ,זאנה, מגיעה לביקור ומנסה בכל דרך להרוס לאיימי את הסיכוי להפוך רשמית לנסיכה ובאופן כללי הופכת את חייה לגיהינום. בנוסף לכל זה איימי חייבת לעבור גם את המבחן הסופי שיאפשר לה להמשיך ולהחזיק בכישרון הסודי שלה ואם תיכשל, היא תאבד את היכולת המיוחדת שלה ואת חבריה הטובים ביותר לנצח.... האם איימי תצליח להתגבר על כל המכשולים ?TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הנסיכה איימי</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הנסיכה איימי\הנסיכה איימי.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הנסיכה איימי\הנסיכה איימי.strm</basepath>
+    <uniqueid type="tmdb" default="true">532293</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> משפחה </genre>
+<genre> פנטזיה</genre>
+    <year>2019</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//8q1CiGX1GYF8JxWh43fHM81Bb3f.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//u7DwcSpTxI1L2UpSF2Bv4HF6oxz.jpg">https://image.tmdb.org/t/p/original//u7DwcSpTxI1L2UpSF2Bv4HF6oxz.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-11-01 17:58:58</dateadded>
+</movie>
+    

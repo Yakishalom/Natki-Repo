@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הקדמונים</title>
+    <originaltitle>Early Man</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.169</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2023-05-24 13:08:31
+ON,Dr,TE,TE,TE
+[COLOR lightblue]2018-10-06 22:49:01[/COLOR]
+[COLOR blue]הקדמונים.מדובב.גוזלן.720p.avi[/COLOR]
+0.75 GB
+בשחר ההיסטוריה, כשממוטות עוד הילכו על פני האדמה, הלורד נוד האכזר מוביל את הקידמה ואת עידן הברונזה ומשתלט על העמק של הקדמונים, בני עידן האבן, כדי להופכו למכרה. כדי לזכות בחזרה בעמק, דאג, איש המערות הצעיר, קורא תיגר על הלורד במשחק הקדוש... כדורגל. הוא מבין מהר מאד שעליו לאחד את השבט ולאמן אותם למשחק החשוב. לעזרתו נחלצים הטוב הוגנוב וכדורגלנית צעירה וכשרונית בשם גונה - שתלמד את השבט שמשחק קבוצתי - הוא שם המשחק.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הקדמונים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הקדמונים\הקדמונים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הקדמונים\הקדמונים.strm</basepath>
+    <uniqueid type="tmdb" default="true">387592</uniqueid>
+    
+    <genre>משפחה </genre>
+<genre> קומדיה </genre>
+<genre> אנימציה </genre>
+<genre> הרפתקאות</genre>
+    <year>2018</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//oo7CDRGueBSxJn9HQn3iC08xnw7.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//z30NXJEY4YDBWEL0ICHGtv4Mt26.jpg">https://image.tmdb.org/t/p/original//z30NXJEY4YDBWEL0ICHGtv4Mt26.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-05-24 13:08:31</dateadded>
+</movie>
+    

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>נסיך פאוריה: נס האייל של חג המולד</title>
+    <originaltitle>Prince of Peoria: A Christmas Moose Miracle</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.8</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>TE,TE
+[COLOR lightblue]2019-01-28 14:54:23[/COLOR]
+[COLOR blue]נסיך_פאוריה_מדובב_לעברית_גוזלן_720p.mkv[/COLOR]
+0.88 GB
+טדי מעולם לא החמיץ את פסטיבל האורות, אבל השלג חוסם את היציאה מהבאולינג! אל דאגה – אמיל מתעקש שאייל חג המולד יציל את המצב.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\נסיך פאוריה_ נס האייל של חג המולד</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\נסיך פאוריה_ נס האייל של חג המולד\נסיך פאוריה_ נס האייל של חג המולד.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\נסיך פאוריה_ נס האייל של חג המולד\נסיך פאוריה_ נס האייל של חג המולד.strm</basepath>
+    <uniqueid type="tmdb" default="true">569038</uniqueid>
+    
+    <genre>קומדיה </genre>
+<genre> משפחה</genre>
+    <year>2018</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//zZmL9ZYMlXliuNwznjb1INawgYx.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//3Y9euG3JOawWcXBCX5WpdIo8gIg.jpg">https://image.tmdb.org/t/p/original//3Y9euG3JOawWcXBCX5WpdIo8gIg.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-01-28 14:54:23</dateadded>
+</movie>
+    

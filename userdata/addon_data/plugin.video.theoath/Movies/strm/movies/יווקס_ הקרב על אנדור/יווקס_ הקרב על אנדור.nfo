@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>יווקס: הקרב על אנדור</title>
+    <originaltitle>Ewoks: The Battle for Endor</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.339</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>TE
+[COLOR lightblue]2018-08-06 23:37:07[/COLOR]
+[COLOR blue]הקרב על הכוכב.מדובב.גוזלן.mp4[/COLOR]
+0.53 GB
+הרפתקאות האיווקים נמשכות כאשר וויקט והחברים מתעמתים עם השודדים המרושעים.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\יווקס_ הקרב על אנדור</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\יווקס_ הקרב על אנדור\יווקס_ הקרב על אנדור.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\יווקס_ הקרב על אנדור\יווקס_ הקרב על אנדור.strm</basepath>
+    <uniqueid type="tmdb" default="true">10372</uniqueid>
+    
+    <genre>הרפתקאות </genre>
+<genre> משפחה </genre>
+<genre> סרט טלויזיה </genre>
+<genre> מדע בדיוני </genre>
+<genre> פנטזיה</genre>
+    <year>2007</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//ntgKdekb7xMKscyh2Hei706LBLf.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//xdH8k2O6mpLv4szeLkQGiM1aSOC.jpg">https://image.tmdb.org/t/p/original//xdH8k2O6mpLv4szeLkQGiM1aSOC.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-08-06 23:37:07</dateadded>
+</movie>
+    

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>משפחה בהחלפה 2</title>
+    <originaltitle>Monster Family 2</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.6</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2023-04-28 13:41:04
+Dr,TE,TE
+[COLOR lightblue]2018-08-16 10:50:11[/COLOR]
+[COLOR blue]משפחה בהחלפה.מדובב.גוזלן.avi[/COLOR]
+0.7 GB
+מפלצות מפורסמות, כמו באבא יאגה ודרקולה, נחטפות אחת אחרי השנייה. מקס ומשפחתו מתגייסים למשימה, להציל אותם ולגלות מה עומד מאחורי החטיפות הללו. בשביל זה, עליהם להפוך שוב ל: ערפד, מפלצת, מומיה ואיש הזאב. ביחד עם שלושת הערפדי המחמד שלהם, הם פוגשים מפלצות חדשות ורודפים אחרי ילדה מסתורית בשם ״מילה״ ומבינים ש-"אף אחד לא מושלם" וזה הכי בסדר בעולם...TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\משפחה בהחלפה 2</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\משפחה בהחלפה 2\משפחה בהחלפה 2.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\משפחה בהחלפה 2\משפחה בהחלפה 2.strm</basepath>
+    <uniqueid type="tmdb" default="true">823609</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> משפחה</genre>
+    <year>2017</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//xxCf8E7nvwb1DGz36Wxw8dEtXaR.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//z6GxNP2Z5AyoFfrYKxZWJypfZXJ.jpg">https://image.tmdb.org/t/p/original//z6GxNP2Z5AyoFfrYKxZWJypfZXJ.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-04-28 13:41:04</dateadded>
+</movie>
+    

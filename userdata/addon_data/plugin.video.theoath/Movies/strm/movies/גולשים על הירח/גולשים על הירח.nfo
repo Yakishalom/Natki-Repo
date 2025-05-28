@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>גולשים על הירח</title>
+    <originaltitle>Atrapa la bandera</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.047</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2020-07-20 18:55:01
+ON,TE,TE,TE
+[COLOR lightblue]2020-06-16 20:57:06[/COLOR]
+[COLOR blue]גולשים על הירח.מדובב.גוזלן.BDRip.avi[/COLOR]
+0.85 GB
+לאחר שהמיליונר המשוגע ריצ'ארד קארסון בונה חללית על מנת להגיע לירח ולהוכיח כי הנחיתה על הירח היתה מבויימת - נאס"א מחליטה לשלוח בשנית אסטרונאוטים לירח, על מנת להקדים את קארסון ולהגן על דגל ארה"ב המונח על קרקע הירח מאז הנחיתה ההיסטורית של אפולו 13, ביולי 1969. גיבורי הסרט הם החברים איימי, מרטי ומייק גולדווינג, דור שלישי לאסטרונאטים - אביו אסטרונאוט פעיל בנאס"א וסבו, אסטרונאוט בגימלאות שכמעט הגיע לירח באותה טיסה היסטורית, אך ברגע האחרון קורקע. בעקבות רצף אירועים מטורף, מוצאים את עצמם הילדים עם הסבא ועם לטאת מחמד, בחללית אל הירח ובמירוץ להקדים את המיליונר הרשע אל הדגל.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\גולשים על הירח</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\גולשים על הירח\גולשים על הירח.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\גולשים על הירח\גולשים על הירח.strm</basepath>
+    <uniqueid type="tmdb" default="true">300602</uniqueid>
+    
+    <genre>קומדיה </genre>
+<genre> אנימציה </genre>
+<genre> הרפתקאות </genre>
+<genre> משפחה</genre>
+    <year>2015</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//6jxBFzLRWNgrU1lqzzAvgp92rgZ.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//2dPQkvanMbrO1yNDYoQjZhPkCNe.jpg">https://image.tmdb.org/t/p/original//2dPQkvanMbrO1yNDYoQjZhPkCNe.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-07-20 18:55:01</dateadded>
+</movie>
+    

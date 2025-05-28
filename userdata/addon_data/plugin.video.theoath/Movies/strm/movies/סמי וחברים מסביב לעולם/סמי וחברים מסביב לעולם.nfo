@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>סמי וחברים מסביב לעולם</title>
+    <originaltitle>A Turtle%27s Tale 2: Sammy%27s Escape from Paradise</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.809</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2018-07-15 15:00:31
+ON,TE
+[COLOR lightblue]2017-10-11 12:52:44[/COLOR]
+[COLOR blue]לולו_סרטים_סמי_וחברים_מסביב_לעולם_(2012)_-_מדובב_לעברית.mp4[/COLOR]
+0.64 GB
+סמי וחברים מסביב לעולם הרפתקה מצוירת לכל המשפחה בדיבוב לעברית ובתלת ממד. סמי וריי, שני צבי ים וחברי אמת, נהנים מהמים ומהחול של שונית האלמוגים ומשגיחים על שתי הצבות שזה עתה נבקעו: ריקי ואלה בדרכן אל הים הגדול. לפתע, צייד חוטף אותם במטרה להכניס אותם לאקווריום המרהיב שאליו מגיעים תיירים בדובאי. האחראי באקוואריום הוא סוס הים, ביג די, שמגלה להם את תוכניתו לבריחה הגדולה. אבל עם החברים החדשים שלהם, ג'ימבו הדג ולובסטר מגמגם, אנאבל התמנונה המתוקה, ומשפחה שלמה של פינגווינים, סמי וריי רוקמים מזימת בריחה משלהם. כל זה קורה בזמן שריקי ואלה הקטנות מגיעות עם תוכנית לפרוץ פנימה ולהציל אותם. אחרי סדרה של הרפתקאות והתחמקויות ברגע האחרון, הגיבורים פונים דרומה לפגוש את שלי, אהובתו הראשונה והיחידה של סמי.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סמי וחברים מסביב לעולם</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סמי וחברים מסביב לעולם\סמי וחברים מסביב לעולם.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סמי וחברים מסביב לעולם\סמי וחברים מסביב לעולם.strm</basepath>
+    <uniqueid type="tmdb" default="true">113594</uniqueid>
+    
+    <genre>הרפתקאות </genre>
+<genre> אנימציה</genre>
+    <year>2012</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//br7BxWeKDKCPExIIN6ePoCLe07z.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//oouy3ZkF1yNAHyicANcp70uqfSj.jpg">https://image.tmdb.org/t/p/original//oouy3ZkF1yNAHyicANcp70uqfSj.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-07-15 15:00:31</dateadded>
+</movie>
+    

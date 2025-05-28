@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>דייזי קווא-קה</title>
+    <originaltitle>Daisy Quokka: World&apos;s Scariest Animal</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2023-11-19 01:35:23[/COLOR]
+קווא-קה? יש חיה כזאת! דייזי היא קווא-קה - חיית כיס קטנה וחמודה בעלת מראה מקסים, אופטימיות אין סופית, וחלום אחד גדול. דייזי מנסה לשבור את התבנית של בני מינה ולהשיג את הבלתי אפשרי - לנצח בתחרות החיה המסוכנת ביותר בעולם. היא נעזרת בכישוריו של אלוף לשעבר, תנין מים מלוחים נרגן, כדי לעזור לה להגשים את החלום ולהוכיח שאלופים אמיתיים מגיעים בכל הגדלים!</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דייזי קווא-קה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דייזי קווא-קה\דייזי קווא-קה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דייזי קווא-קה\דייזי קווא-קה.strm</basepath>
+    <uniqueid type="tmdb" default="true">778814</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>קומדיה</genre>
+<genre>משפחה</genre>
+    <year>2021</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ahu-Jxfcuvo</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//nV6VGptrzQ5ddWiD7HatQCRuIfM.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//g9fS7s8V54wyFRc2O9iAowPJCNB.jpg">http://image.tmdb.org/t/p/original//g9fS7s8V54wyFRc2O9iAowPJCNB.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-11-19 01:35:23</dateadded>
+</movie>
+    

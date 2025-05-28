@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>סנופי וצ'ארלי בראון: פינאטס - הסרט</title>
+    <originaltitle>The Peanuts Movie</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.866</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2017-12-5 08:48:20
+ON,TE
+[COLOR lightblue]2017-10-18 22:06:31[/COLOR]
+[COLOR blue]סנופי וצ'ארלי בראון - מדובב .avi[/COLOR]
+1.23 GB
+סנופי, הכלב המעופף האהוב בעולם, יוצא אל המשימה הגדולה ביותר שלו, כאשר הוא יוצא לשמיים במרדף אחר האויב הגדול ביותר שלו- הברון האדום, בזמן שחברו הטוב צ'ארלי בראון יוצא למסע אפי משלו.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סנופי וצ_ארלי בראון_ פינאטס - הסרט</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סנופי וצ_ארלי בראון_ פינאטס - הסרט\סנופי וצ_ארלי בראון_ פינאטס - הסרט.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סנופי וצ_ארלי בראון_ פינאטס - הסרט\סנופי וצ_ארלי בראון_ פינאטס - הסרט.strm</basepath>
+    <uniqueid type="tmdb" default="true">227973</uniqueid>
+    
+    <genre>קומדיה </genre>
+<genre> אנימציה </genre>
+<genre> משפחה</genre>
+    <year>2015</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//f3AJA0yyRxtiI856uylnqXWCyHD.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//kbfPaXHnImSDSPgfmbbWjIDgwv8.jpg">https://image.tmdb.org/t/p/original//kbfPaXHnImSDSPgfmbbWjIDgwv8.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2017-12-05 08:48:20</dateadded>
+</movie>
+    

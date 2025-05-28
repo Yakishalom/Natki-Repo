@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הרפתקאות טינטין</title>
+    <originaltitle>The Adventures of Tintin</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.884</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2019-02-19 17:12:18
+ON,TE,TE
+[COLOR lightblue]2016-11-29 19:40:41[/COLOR]
+[COLOR blue]הרפתקאות טינטין מדובב.avi[/COLOR]
+0.76 GB
+טינטין הוא עיתונאי בלגי החוקר מקרים שונים ומתגלגל לפרשיות סבוכות המפגישות אותו לא-פעם עם פושעים מסוכנים שיאלץ לחמוק מידיהם ולהשכין סדר במקומות בו הם זורעים הרס וכאוס. "סודו של חד הקרן" היה קומיקס ראשון מבין צמד שהתעסק בפיראטים ואוצרות גלומים, ודמותו של רקהאם האדום היא הפיראט המרושע בהם.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הרפתקאות טינטין</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הרפתקאות טינטין\הרפתקאות טינטין.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הרפתקאות טינטין\הרפתקאות טינטין.strm</basepath>
+    <uniqueid type="tmdb" default="true">17578</uniqueid>
+    
+    <genre>הרפתקאות </genre>
+<genre> אנימציה </genre>
+<genre> מסתורין</genre>
+    <year>2011</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//92Xra3TpFsl72GCb1T4ZIFkpAxi.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//yMAqgJyxLm7wqeuQOr3J6FlIHxf.jpg">https://image.tmdb.org/t/p/original//yMAqgJyxLm7wqeuQOr3J6FlIHxf.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-02-19 17:12:18</dateadded>
+</movie>
+    

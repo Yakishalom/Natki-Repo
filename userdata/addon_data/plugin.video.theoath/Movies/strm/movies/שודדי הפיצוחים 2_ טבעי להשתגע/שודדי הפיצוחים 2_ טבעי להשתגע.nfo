@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>שודדי הפיצוחים 2: טבעי להשתגע</title>
+    <originaltitle>The Nut Job 2: Nutty by Nature [2017] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>4,805</votes>
+        </rating>
+    </ratings>
+    <plot>2019-10-19 18:38:58
+ON,Dr
+[COLOR lightblue]2019-06-3 22:08:52[/COLOR]
+סולי הסנאי ושאר חיות הפארק חיים את החיים הטובים במרתף חנות הפיצוחים. כאשר חנות הפיצוחים מתפוצצת, סולי וחבריו חייבים לחזור לאסוף מזון בפארק. לרוע מזלן של החיות, ראש העיר הרשע יוזם תכנית להרוס את המקום ולבנות במקומו פארק שעשועים רועש ומסוכן. סולי וחבורת החיות צריכים לאחד כוחות כדי סגורלהציל את הבית, לנצח את ראש העיר ולקבל חזרה את הפארק.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\שודדי הפיצוחים 2_ טבעי להשתגע</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\שודדי הפיצוחים 2_ טבעי להשתגע\שודדי הפיצוחים 2_ טבעי להשתגע.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\שודדי הפיצוחים 2_ טבעי להשתגע\שודדי הפיצוחים 2_ טבעי להשתגע.strm</basepath>
+    <uniqueid type="tmdb" default="true">335777</uniqueid>
+    
+    <genre>משפחה</genre>
+<genre>אנימציה</genre>
+<genre>הרפתקאות</genre>
+<genre>קומדיה</genre>
+    <year>2017</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=nYif5QTYI9w</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//gGQWsFjslreSE4h8XJEFMENeDKt.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//bd1X5nNrrAHVGG0MxsAeCOPPh1w.jpg">http://image.tmdb.org/t/p/original//bd1X5nNrrAHVGG0MxsAeCOPPh1w.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-10-19 18:38:58</dateadded>
+</movie>
+    

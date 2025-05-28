@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>בת הים הקטנה 2: השיבה לים</title>
+    <originaltitle>The Little Mermaid 2: Return to the Sea [Video 2000]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>13,497</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2017-12-16 21:39:49[/COLOR]
+הרפתקה חדשה של בת הים. כדי להגן עליה בפני מכשפת הים, בתה של ארירל אינה מורשה להיכנס לאוקינוס. אך בהגיעה לגיל 12, היא בורחת להרפתקה מתחת למים.</plot>
+    <runtime>75</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בת הים הקטנה 2_ השיבה לים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בת הים הקטנה 2_ השיבה לים\בת הים הקטנה 2_ השיבה לים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בת הים הקטנה 2_ השיבה לים\בת הים הקטנה 2_ השיבה לים.strm</basepath>
+    <uniqueid type="tmdb" default="true">10898</uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Drama</genre>
+<genre>Family</genre>
+<genre>הרפתקאות</genre>
+<genre>אנימציה</genre>
+<genre>משפחה</genre>
+<genre>מוסיקה</genre>
+    <year>2000</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=q9T5PqCaje8</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//tFTRKegX0hyjS85NFEpWvQZcGFy.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//aCqOfdBU1ZVpoivOE0AGiEsBQAc.jpg">http://image.tmdb.org/t/p/original//aCqOfdBU1ZVpoivOE0AGiEsBQAc.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2017-12-16 21:39:49</dateadded>
+</movie>
+    

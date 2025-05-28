@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>טום וג'רי: הרעד לי את השפם</title>
+    <originaltitle>Tom and Jerry in Shiver Me Whiskers [Video 2006]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-09-2 13:28:10[/COLOR]
+טום וג'רי יוצאים לים הפתוח להרפתקאה חדשה מאתגרת ומהנה. טום מפליג בלב ים כחתול שפל רוח עבור הפיראט החשוב והרשע, הקפטן רד הידוע לשמצה. עייף מלנקות את הסיפון כל היום, הוא חושב שמזלו השתנה כאשר נסחף לאונייה בקבוק מיסתורי המכיל מפת אוצר. חלומו למצוא את האוצר לעצמו נהרס כשהוא מגלה שבקבוק נמצא גם נוסע סמוי: ג'רי העכבר. ג'רי הקטן והמסכן שמר על מפת האוצר, אבל עכשיו עליו להתמודד עם טום התאוותן. המירוץ לאוצר מתחיל, ועל טום וג'רי לעבוד יחדיו כדי לעבור את הקופים זורקי אגוזי הקוקוס ואת התמנון הענק והמגעיל, ואז להערים על הפיראטים למצוא את האוצר הקבור!</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טום וג_רי_ הרעד לי את השפם</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טום וג_רי_ הרעד לי את השפם\טום וג_רי_ הרעד לי את השפם.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טום וג_רי_ הרעד לי את השפם\טום וג_רי_ הרעד לי את השפם.strm</basepath>
+    <uniqueid type="tmdb" default="true">60293</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>קומדיה</genre>
+<genre>משפחה</genre>
+    <year>2006</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//v2NfzxIUmRb6GhMSPtrCO6T2m5j.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//kd59dVgAIVocN7fCw0YljkYnbHa.jpg">http://image.tmdb.org/t/p/original//kd59dVgAIVocN7fCw0YljkYnbHa.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-09-02 13:28:10</dateadded>
+</movie>
+    

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הרפתקאותיו החדשות של פינוקיו</title>
+    <originaltitle>The New Adventures of Pinocchio</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.483</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>TE
+[COLOR lightblue]2020-12-23 20:46:37[/COLOR]
+[COLOR blue]הרפתקאותיו_החדשות_של_פינוקיו_מדובב.avi[/COLOR]
+0.28 GB
+עיבוד של הספר המפורסם של קרלו קולודי. בגרסה זו ג'פטו עצמו הופך לבובה לאחר שהוא שותה שיקוי אשר פינוקיו הביא מהקרנבל הנודד.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הרפתקאותיו החדשות של פינוקיו</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הרפתקאותיו החדשות של פינוקיו\הרפתקאותיו החדשות של פינוקיו.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הרפתקאותיו החדשות של פינוקיו\הרפתקאותיו החדשות של פינוקיו.strm</basepath>
+    <uniqueid type="tmdb" default="true">256075</uniqueid>
+    
+    <genre>משפחה</genre>
+    <year>1999</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//y2RQ54SqnN5NfxXgKOE9uRQGb2q.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//36XnDk6LIfDQ3whjc0I7boQlDx7.jpg">https://image.tmdb.org/t/p/original//36XnDk6LIfDQ3whjc0I7boQlDx7.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-12-23 20:46:37</dateadded>
+</movie>
+    

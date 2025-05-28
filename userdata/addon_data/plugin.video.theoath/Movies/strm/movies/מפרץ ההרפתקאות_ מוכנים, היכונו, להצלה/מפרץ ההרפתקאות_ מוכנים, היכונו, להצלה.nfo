@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מפרץ ההרפתקאות: מוכנים, היכונו, להצלה</title>
+    <originaltitle>Paw Patrol: Ready, Race, Rescue!</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2023-08-1 23:16:33[/COLOR]
+זה מפרץ ההרפתקאות 500! הגורים בנו מסלול מרוצים מדהים ומוכנים להיות צוות הבור עבור גיבור המירוץ שלהם, The Whoosh! אבל כאשר הרוכב האגדי אינו מסוגל לנהוג במירוץ האליפות, הוא קורא לגור המעריץ הגדול ביותר שלו, מרשל, לקחת את ההגה ולמרוץ במקומו! מרשל צריך להתגבר על חוסר הביטחון שלו והתחרות הנוראית שלו, הצ'יטה, כדי להגשים את חלומו להיות גור המירוץ המהיר ביותר אי פעם!</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מפרץ ההרפתקאות_ מוכנים, היכונו, להצלה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מפרץ ההרפתקאות_ מוכנים, היכונו, להצלה\מפרץ ההרפתקאות_ מוכנים, היכונו, להצלה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מפרץ ההרפתקאות_ מוכנים, היכונו, להצלה\מפרץ ההרפתקאות_ מוכנים, היכונו, להצלה.strm</basepath>
+    <uniqueid type="tmdb" default="true">624620</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>משפחה</genre>
+    <year>2019</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=lAKXRYTb6B8</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//wZy2z2K7ZWd5fNVfUTS7yasoIOW.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//9Kv8JLhvz6iQeqcxIut0BMEvIPz.jpg">http://image.tmdb.org/t/p/original//9Kv8JLhvz6iQeqcxIut0BMEvIPz.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-08-01 23:16:33</dateadded>
+</movie>
+    

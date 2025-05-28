@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>בראץ בנות ברוקנרול</title>
+    <originaltitle>Bratz Girlz Really Rock [2008]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>34</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-04-2 16:20:50[/COLOR]
+הבראציות נוסעות למחנה סטארשיין, מחנה המעודד כישרונות צעירים, שבסיומו יתמודדו כל המחנאים על התפקיד הראשי בסרט קולנוע. בדרך הן מגלות כי כל אחת מהן טובה בתחום אחר, ומחליטות לפרק את הלהקה, כשהרצון לזכות בתפקיד גובר.הגיע הזמן שוב לפנק את הילדים !חזרתי כמו תמיד לפני החג לעשות שמח לילדים.מקווה שתהנוו .התאומות שלי ממש נהנו מהסרט.רק סבלנות אני משחרר מאצלי .אז חברייה תנו בתגובות</plot>
+    <runtime>78</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בראץ בנות ברוקנרול</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בראץ בנות ברוקנרול\בראץ בנות ברוקנרול.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בראץ בנות ברוקנרול\בראץ בנות ברוקנרול.strm</basepath>
+    <uniqueid type="tmdb" default="true">57334</uniqueid>
+    
+    <genre>Animation</genre>
+<genre>אנימציה</genre>
+<genre>משפחה</genre>
+    <year>2008</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//xuaQfvnb6ZAu2C3LwDzN9LXSC1V.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//7ZUMUEZfFR6H6PUEbRzEufVOMWb.jpg">http://image.tmdb.org/t/p/original//7ZUMUEZfFR6H6PUEbRzEufVOMWb.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-04-02 16:20:50</dateadded>
+</movie>
+    

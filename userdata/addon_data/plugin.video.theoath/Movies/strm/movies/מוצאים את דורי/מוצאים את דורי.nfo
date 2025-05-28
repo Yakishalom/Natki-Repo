@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מוצאים את דורי</title>
+    <originaltitle>Finding Dory [2016]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7</value>
+            <votes>199,466</votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr
+[COLOR lightblue]2018-10-6 12:43:27[/COLOR]
+סרט המשך ל-'מוצאים את נמו'. דורי חייה באושר בשונית האלמוגים עם מרלין ונמו, כשנה אחרי ההרפתקה ששינתה את חייהם. כשדורי נזכרת לפתע שיש לה משפחה שאולי מחפשת אחריה, היא מגייסת את מרלין ונמו להרפתקה ענקית מעבר לאוקיינוס למכון הימי בקליפורניה. במאמץ למצוא את אביה ואמה, דורי מבקשת את עזרתם של שלושה מהדיירים של המכון הימי: האנק, תמנון שאוהב למתוח את עובדי המכון: ביילי, לוויתן המשוכנע שכישורי הרדאר שלו משובשים; ודסטיני, כרישה עם בעיית ראיה.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מוצאים את דורי</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מוצאים את דורי\מוצאים את דורי.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מוצאים את דורי\מוצאים את דורי.strm</basepath>
+    <uniqueid type="tmdb" default="true">127380</uniqueid>
+    
+    <genre>הרפתקאות</genre>
+<genre>אנימציה</genre>
+<genre>קומדיה</genre>
+<genre>משפחה</genre>
+    <year>2016</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=NQu-153MnGQ</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//udPNevvv5YQWJAH0frMM3lgc2WM.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//3iSCdXjDmY3DuEOUYsElu35vQU6.jpg">http://image.tmdb.org/t/p/original//3iSCdXjDmY3DuEOUYsElu35vQU6.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-10-06 12:43:27</dateadded>
+</movie>
+    

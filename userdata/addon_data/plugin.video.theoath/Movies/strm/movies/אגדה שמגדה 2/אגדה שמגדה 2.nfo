@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>אגדה שמגדה 2</title>
+    <originaltitle>Happily N%27Ever After 2</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>4.646</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>TE
+[COLOR lightblue]2020-07-20 18:53:38[/COLOR]
+[COLOR blue]DVDRip נתי מדיה אגדה שמגדה 1 מדובב.avi[/COLOR]
+0.68 GB
+כל הדמויות הנערצות חוזרות בשמחה גדולה יותר ב-"אגדה שמגדה 2", אגדה מפותלת המספרת מחדש את סיפורה של שלגייה! הסרט מוליד מחדש באנימצית תלת-מידי את שבעת הגמדים, עוץ לי גוץ לי, ושתי הדמויות המצחיקות וההיסטריות, ממבו ומאנק. כמו במקור, אגדה שמגדה 2 עוקבת אחר הדמויות הנערצות מהאגדות בעודן משתנות בצורה מצחיקה במהלך הרפתקאה מהירה, אשר מתאימה לכל בני המשפחה.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אגדה שמגדה 2</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אגדה שמגדה 2\אגדה שמגדה 2.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אגדה שמגדה 2\אגדה שמגדה 2.strm</basepath>
+    <uniqueid type="tmdb" default="true">16652</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> קומדיה </genre>
+<genre> הרפתקאות</genre>
+    <year>2009</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//dDEr0TYjp7vwZQHJAOF8P1uDcdj.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//8RD8XoU4A20RujPtqejNQl8flPF.jpg">https://image.tmdb.org/t/p/original//8RD8XoU4A20RujPtqejNQl8flPF.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-07-20 18:53:38</dateadded>
+</movie>
+    

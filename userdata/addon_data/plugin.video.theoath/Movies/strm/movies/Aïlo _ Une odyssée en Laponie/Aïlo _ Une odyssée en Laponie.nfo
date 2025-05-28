@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Aïlo : Une odyssée en Laponie</title>
+    <originaltitle>Aïlo : Une odyssée en Laponie</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes> </votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2020-01-4 14:49:51[/COLOR]
+איילו הוא אייל צפוני חמוד שנולד קצת לפני הזמן, ומבלה את שנת חייו הראשונה במסע לאורכה של לפלנד המושלגת והיפה יחד עם אמא שלו ועם עדר האיילים שעכשיו הוא חלק ממנו. איילו הסקרן והשובב יחווה מפגשים מרגשים ומפתיעים, יתמודד עם סכנות חדשות, וימצא לבסוף, בעזרת אומץ ונחישות, את מקומו בעולם</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\Aïlo _ Une odyssée en Laponie</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\Aïlo _ Une odyssée en Laponie\Aïlo _ Une odyssée en Laponie.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\Aïlo _ Une odyssée en Laponie\Aïlo _ Une odyssée en Laponie.strm</basepath>
+    <uniqueid type="tmdb" default="true"> </uniqueid>
+    
+    <genre>דוקומנטרי</genre>
+<genre>משפחה</genre>
+    <year>2018</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//sXfQMxrafnU9aOmVOIJG96IqT1x.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//ioixdq6AUYKRusLsxjho7bek5Qi.jpg">http://image.tmdb.org/t/p/original//ioixdq6AUYKRusLsxjho7bek5Qi.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-01-04 14:49:51</dateadded>
+</movie>
+    

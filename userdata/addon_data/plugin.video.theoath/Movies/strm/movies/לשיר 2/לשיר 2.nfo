@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>לשיר 2</title>
+    <originaltitle>Sing 2</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.93</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>Dr,TE
+[COLOR lightblue]2022-04-29 03:00:06[/COLOR]
+[COLOR blue]1080p BluRay 2021 זירה מדיה לשיר 2 מדובב.mkv[/COLOR]
+1.68 GB
+הקואלה האופטימי תמיד, באסטר מון, וצוות השחקנים שלו מתכוננים להשיק את המופע החדש, הנוצץ, הענק והמוגזם שלהם על הבמה המסנוורת ביותר בבירת הבידור של העולם. יש רק בעיה אחת: תחילה עליהם לשכנע כוכב רוק מתבודד ומופנם להצטרף אליהם או שיאבדו את הכל.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לשיר 2</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לשיר 2\לשיר 2.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לשיר 2\לשיר 2.strm</basepath>
+    <uniqueid type="tmdb" default="true">438695</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> משפחה</genre>
+    <year>2021</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//kGBwf9nj5r4VXxOXf1nMlGS4aQ6.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//6mJrgL7Mi13XjJeGYJFlD6UEVQw.jpg">https://image.tmdb.org/t/p/original//6mJrgL7Mi13XjJeGYJFlD6UEVQw.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-04-29 03:00:06</dateadded>
+</movie>
+    

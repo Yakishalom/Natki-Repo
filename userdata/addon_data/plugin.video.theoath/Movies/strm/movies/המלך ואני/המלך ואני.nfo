@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>המלך ואני</title>
+    <originaltitle>The King and I [1999]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>4</value>
+            <votes>3,227</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2017-12-3 15:30:30[/COLOR]
+בשנת 1863, אנה, מורה אנגליה, נשכרת כדי ללמד את ילדיו של מלך סיאם. המלך, החפץ שיראו בו איש מדע מבקש להוכיח שסיאם מוכנה לתפוס את מקומה בין שאר מדינות המערב הנאורות. אבל ראש הממשלה המושחת, קראלאהום, רוצה להוכיח למלכה ויקטוריה של בריטניה הגדולה כי מלך סיאם הוא ברברי ועל כן יש צורך להדיחו.</plot>
+    <runtime>87</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\המלך ואני</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\המלך ואני\המלך ואני.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\המלך ואני\המלך ואני.strm</basepath>
+    <uniqueid type="tmdb" default="true">47288</uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Family</genre>
+<genre>Fantasy</genre>
+<genre>אנימציה</genre>
+<genre>דרמה</genre>
+<genre>משפחה</genre>
+    <year>1999</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=UijESPmAfFw</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//zUMBSExtVELo0zLuDoYKhTsYsag.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//nel5CglWDDE3oHhTT9AuwNo6OZH.jpg">http://image.tmdb.org/t/p/original//nel5CglWDDE3oHhTT9AuwNo6OZH.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2017-12-03 15:30:30</dateadded>
+</movie>
+    

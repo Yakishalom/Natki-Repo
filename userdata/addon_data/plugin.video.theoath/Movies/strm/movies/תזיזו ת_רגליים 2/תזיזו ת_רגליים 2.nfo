@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>תזיזו ת'רגליים 2</title>
+    <originaltitle>Happy Feet Two [2011] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>39,957</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2020-03-31 11:27:05[/COLOR]
+תזיזו ת'רגליים 2 מביא את המשך הרפתקאותיהם של הפינגווינים המזמרים והמרקדים, שאותם פגשנו בלהיט תזיזו ת'רגליים'. הוא עושה זאת עם צוות מדבבים עטור כוכבים באופן חסר תקדים, ובו בראד פיט, מאט דיימון, רובין וויליאמס ואחרים. גם בריטאני מרפי, שתרמה את קולה לפרק הקודם, היתה אמורה להשתתף בסרט, אך מותה הטרגי בטרם עת מנע זאת כמובן. היא הוחלפה בידי הזמרת פינק. זו הפעם הראשונה שפינק משתתפת כמדבבת בסרט. קודם לכן הופיעה רק בתפקידים…</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\תזיזו ת_רגליים 2</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\תזיזו ת_רגליים 2\תזיזו ת_רגליים 2.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\תזיזו ת_רגליים 2\תזיזו ת_רגליים 2.strm</basepath>
+    <uniqueid type="tmdb" default="true">65759</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>קומדיה</genre>
+<genre>משפחה</genre>
+    <year>2011</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=gKWNUyTGqss</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//9M1Jfnr0wlnVug94LGoybnlqGAv.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//dUy3Kh5DIl1CkuMmTP58gOMGxU6.jpg">http://image.tmdb.org/t/p/original//dUy3Kh5DIl1CkuMmTP58gOMGxU6.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-03-31 11:27:05</dateadded>
+</movie>
+    

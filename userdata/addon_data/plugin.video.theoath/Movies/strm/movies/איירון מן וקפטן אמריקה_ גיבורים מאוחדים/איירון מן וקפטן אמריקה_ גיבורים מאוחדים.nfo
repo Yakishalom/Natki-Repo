@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>איירון מן וקפטן אמריקה: גיבורים מאוחדים</title>
+    <originaltitle>Iron Man and Captain America: Heroes United</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2022-07-16 23:16:30[/COLOR]
+גיבורי-העל איירון מן וקפטן אמריקה משתפים פעולה בלחימה נגד הנבלים הגולגולת האדומה והטאסקמאסטר, בתקווה למנוע מבריוני הידרה להשתלט על העולם.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\איירון מן וקפטן אמריקה_ גיבורים מאוחדים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\איירון מן וקפטן אמריקה_ גיבורים מאוחדים\איירון מן וקפטן אמריקה_ גיבורים מאוחדים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\איירון מן וקפטן אמריקה_ גיבורים מאוחדים\איירון מן וקפטן אמריקה_ גיבורים מאוחדים.strm</basepath>
+    <uniqueid type="tmdb" default="true">284274</uniqueid>
+    
+    <genre>הרפתקאות</genre>
+<genre>אנימציה</genre>
+<genre>אקשן</genre>
+    <year>2014</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=thTmIcLY3O0</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//CX7eRlaxFXiW3UGQBdQUoSVZRi.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//hGvAIrlWqXOnctvyVlX8RzKLgKz.jpg">http://image.tmdb.org/t/p/original//hGvAIrlWqXOnctvyVlX8RzKLgKz.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-07-16 23:16:30</dateadded>
+</movie>
+    

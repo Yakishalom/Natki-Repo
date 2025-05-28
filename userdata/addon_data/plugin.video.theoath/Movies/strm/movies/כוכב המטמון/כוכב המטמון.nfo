@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>כוכב המטמון</title>
+    <originaltitle>Treasure Planet [2002]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7</value>
+            <votes>81,574</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-01-7 06:44:11[/COLOR]
+עיבוד לסרט 'אי המטמון'. ג'ים הוקינס בן החמש עשרה, ילד מתבגר מכוכב מונטרסור, מחפש את מקומו בעולם. חייו משתנים כאשר חללית מתרסקת ליד ביתו. צב משוגע בשם בילי בונס יוצא מן ההריסות ומזהיר את ג'ים על חבורת שודדים שעוקבים אחריו, ועל כן מסר לו חבילה שאסור שתיפול לידי השודדים. מיד אחרי מותו של הצב, מגיעה חבורת השודדים ופורצים לבית בחיפוש אחר החבילה.  ג'ים, אמו וידיד המשפחה, דר' דלברט דופלר נמלטים מהבית ובורחים על נפשם. לאחר הגיעם למקום מבטחים, מגלה ג'ים בתוך החבילה כדור זהב עם חריטות, לאחר שניות של התעסקות עם הכדור, מתמלא החדר בהולוגרמה של מפה. ג'ים מזהה את הכוכב במפה מסיפורי ילדותו, כוכב המטמון. הכוכב האגדי בו החביא קפטן פלינט את מטמונו - אוצרות של אלף עולמות.</plot>
+    <runtime>95</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\כוכב המטמון</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\כוכב המטמון\כוכב המטמון.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\כוכב המטמון\כוכב המטמון.strm</basepath>
+    <uniqueid type="tmdb" default="true">9016</uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Adventure</genre>
+<genre>Family</genre>
+<genre>הרפתקאות</genre>
+<genre>אנימציה</genre>
+<genre>משפחה</genre>
+<genre>פנטזיה</genre>
+<genre>מדע בדיוני</genre>
+    <year>2002</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ajhZRL1j7a0</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//i4HjQJF0qgefUOtrhL33qBb9tVm.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//3HVvtFm9NvOfn1u3yfeEugh2ZWj.jpg">http://image.tmdb.org/t/p/original//3HVvtFm9NvOfn1u3yfeEugh2ZWj.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-01-07 06:44:11</dateadded>
+</movie>
+    

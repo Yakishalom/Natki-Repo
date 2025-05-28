@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הדבורה מאיה וביצת הזהב</title>
+    <originaltitle>Maya the Bee 3: The Golden Orb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2023-06-2 18:59:55[/COLOR]
+כשמאיה, דבורה קטנה וחזקה, וחברתה הטובה ביותר ווילי, מצילות נסיכת נמלים הן מוצאות את עצמן באמצע קרב חרקים שייקח אותן לעולמות חדשים ומשונים ויבדוק את ידידותן עד לגבולותיה.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הדבורה מאיה וביצת הזהב</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הדבורה מאיה וביצת הזהב\הדבורה מאיה וביצת הזהב.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הדבורה מאיה וביצת הזהב\הדבורה מאיה וביצת הזהב.strm</basepath>
+    <uniqueid type="tmdb" default="true">681260</uniqueid>
+    
+    <genre>הרפתקאות</genre>
+<genre>אנימציה</genre>
+<genre>משפחה</genre>
+    <year>2021</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=fNQawiJ6FR8</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//isZSr9L8w4XZr6sFL3phbtwjleO.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//v4xnYIVz91OtUZKDdBvJjFhFXTU.jpg">http://image.tmdb.org/t/p/original//v4xnYIVz91OtUZKDdBvJjFhFXTU.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-06-02 18:59:55</dateadded>
+</movie>
+    

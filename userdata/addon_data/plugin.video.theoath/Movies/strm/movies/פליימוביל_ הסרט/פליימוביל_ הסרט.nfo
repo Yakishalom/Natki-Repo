@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>פליימוביל: הסרט</title>
+    <originaltitle>Playmobil: The Movie</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.675</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE,TE,TE
+[COLOR lightblue]2023-08-10 16:04:06[/COLOR]
+[COLOR blue]1080p 2019 ז.מ פליימוביל הסרט מדובב.mkv[/COLOR]
+1.42 GB
+מרלה בת ה-16 מגלה, שאחיה צ'רלי בן ה-10 התגנב לתערוכה קסומה של פליימוביל, כשלפתע השניים נשאבים יחד אל תוך המיצג המרכזי והופכים בן רגע לדמויות פליימוביל בעצמם. צ'רלי הופך לויקינג פליימוביל עוצמתי, ונחטף על ידי פליימובילים אחרים. מרלה יוצאת בעקבותיו ועוברת בין עולמות משחק שונים, מהמערב הפרוע דרך הפיראטים ועד לרומא העתיקה. למסעה מצטרפים גיבורים כמו דל, שמנהל פוד-טראק, ורקס דאשר, המרגל של הוד מעלתה, שעוזרים לה למצוא ולהציל את צ'רלי.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פליימוביל_ הסרט</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פליימוביל_ הסרט\פליימוביל_ הסרט.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פליימוביל_ הסרט\פליימוביל_ הסרט.strm</basepath>
+    <uniqueid type="tmdb" default="true">366668</uniqueid>
+    
+    <genre></genre>
+    <year>2019</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//ct5imIl4d3QRfhvIiZacCibxDYq.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//axmxVeX5R1FfN7w4LNFehskDxW1.jpg">https://image.tmdb.org/t/p/original//axmxVeX5R1FfN7w4LNFehskDxW1.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-08-10 16:04:06</dateadded>
+</movie>
+    

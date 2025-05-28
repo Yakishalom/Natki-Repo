@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>The Christmas Chronicles</title>
+    <originaltitle>The Christmas Chronicles [2018] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7</value>
+            <votes>52,342</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2020-12-16 11:09:42[/COLOR]
+Siblings Kate and Teddy try to prove Santa Claus is real, but when they accidentally cause his sleigh to crash, they have to save Christmas.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\The Christmas Chronicles</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\The Christmas Chronicles\The Christmas Chronicles.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\The Christmas Chronicles\The Christmas Chronicles.strm</basepath>
+    <uniqueid type="tmdb" default="true">527435</uniqueid>
+    
+    <genre>Comedy</genre>
+<genre>Adventure</genre>
+<genre>Family</genre>
+<genre>Fantasy</genre>
+    <year>2018</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=YaeDa_Uempk</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//5Il2EMSF2KecrUKZPuen6BZmaCP.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//brENMyyhk13WLzKHBK20rBKx0u7.jpg">http://image.tmdb.org/t/p/original//brENMyyhk13WLzKHBK20rBKx0u7.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-12-16 11:09:42</dateadded>
+</movie>
+    

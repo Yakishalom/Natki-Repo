@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>משפחת וילובי</title>
+    <originaltitle>The Willoughbys</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.112</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE
+[COLOR lightblue]2023-05-04 19:42:49[/COLOR]
+[COLOR blue]1080p WEB-DL 2020 נ.מ משפחת וילובי מדובב.mkv[/COLOR]
+1.39 GB
+ילדי משפחת וילובי מחליטים שעדיף להם לגדל את עצמם ומצליחים בערמומיות לשלוח את הוריהם האנוכיים לחופשה. כשההורים מחוץ לבית, האחים יוצאים להרפתקה משלהם ומגלים את המשמעות האמיתית של משפחה. מבוסס על ספרה האהוב של לויס לורי.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\משפחת וילובי</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\משפחת וילובי\משפחת וילובי.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\משפחת וילובי\משפחת וילובי.strm</basepath>
+    <uniqueid type="tmdb" default="true">560044</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> קומדיה </genre>
+<genre> משפחה</genre>
+    <year>2020</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//t2ABNORmm0DYt5vdzb2Vmrfkocp.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//9foQsz7j1o2pGCKFGkzlxJteE5W.jpg">https://image.tmdb.org/t/p/original//9foQsz7j1o2pGCKFGkzlxJteE5W.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-05-04 19:42:49</dateadded>
+</movie>
+    

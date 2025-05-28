@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>דארטניאן ושלושת המוסקטרים</title>
+    <originaltitle>D&apos;Artacán y los tres Mosqueperros</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2022-04-9 08:26:37[/COLOR]
+דארטניאן הכלבלב מגיע לפריז במטרה להפוך למוסקיטר! לאחר שיוכיח את כישוריו ונאמנותו, הוא ושלושת המוסקטרים ידרשו להגן על המלך מפני מזימתו הסודית והמרושעת של החשמן רישלייה.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דארטניאן ושלושת המוסקטרים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דארטניאן ושלושת המוסקטרים\דארטניאן ושלושת המוסקטרים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דארטניאן ושלושת המוסקטרים\דארטניאן ושלושת המוסקטרים.strm</basepath>
+    <uniqueid type="tmdb" default="true">768726</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>קומדיה</genre>
+<genre>הרפתקאות</genre>
+<genre>משפחה</genre>
+    <year>2021</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Nx6EVJ-1GY8</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//j9Z7WBARVWF77t5e5DA4mTtxCZ2.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//89QZbysJM6bwwlYDa7NUytSQmWE.jpg">http://image.tmdb.org/t/p/original//89QZbysJM6bwwlYDa7NUytSQmWE.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-04-09 08:26:37</dateadded>
+</movie>
+    

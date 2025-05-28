@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מפלצתי</title>
+    <originaltitle>מפלצתי</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes> </votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2022-09-22 18:32:56[/COLOR]
+מותחן אימה בכיכוב כריסטינה ריצ'י ('צהובות').לורה היא אימא לילד בן 7 העונה לשם קודי. לאחר שאשתקד הילד טבע בבריכה כשהאבא צפה בטלוויזיה והאימא שהתה במכולת, מחליטה לורה לקחת את קודי ולברוח הרחק מביתם שבעיירה סרה. כל הטלפונים מבעלה ומאימה לא עוזרים והיא מחליטה להישאר במקום מבודד יחד עם בנה. אך כשהיא חווה, יחד עם בנה, הימצאותה של מפלצת מסתורית באגם שלצד ביתה השכור, אז היא תבין שאולי היא חיה בצללים ומציאות חייה אינה מה שחשבה</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מפלצתי</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מפלצתי\מפלצתי.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מפלצתי\מפלצתי.strm</basepath>
+    <uniqueid type="tmdb" default="true"> </uniqueid>
+    
+    <genre>אימה</genre>
+<genre>מסתורין</genre>
+<genre>מותחן</genre>
+    <year>2022</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//ec3aX4DyjepEhPkpIUukaBxKpN3.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//591Cjf3DWGAcJbQYdHmRS7fHH3z.jpg">http://image.tmdb.org/t/p/original//591Cjf3DWGAcJbQYdHmRS7fHH3z.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-09-22 18:32:56</dateadded>
+</movie>
+    

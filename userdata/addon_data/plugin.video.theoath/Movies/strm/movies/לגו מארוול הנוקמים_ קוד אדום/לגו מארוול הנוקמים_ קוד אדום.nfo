@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>לגו מארוול הנוקמים: קוד אדום</title>
+    <originaltitle>LEGO Marvel Avengers: Code Red</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2023-10-29 07:34:14[/COLOR]
+כאשר גיבורים ונבלים מתחילים להיעלם באופן מסתורי, הנוקמים מתאחדים כדי למצוא אותם.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לגו מארוול הנוקמים_ קוד אדום</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לגו מארוול הנוקמים_ קוד אדום\לגו מארוול הנוקמים_ קוד אדום.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לגו מארוול הנוקמים_ קוד אדום\לגו מארוול הנוקמים_ קוד אדום.strm</basepath>
+    <uniqueid type="tmdb" default="true">1154598</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>אקשן</genre>
+<genre>משפחה</genre>
+    <year>2023</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=nsTMauyViHI</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//7KgagtlnevQw6SxpJ2cb1ZdvZdD.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//oFSQEG1lJTTISj3QKB7cJ9ANkFw.jpg">http://image.tmdb.org/t/p/original//oFSQEG1lJTTISj3QKB7cJ9ANkFw.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-10-29 07:34:14</dateadded>
+</movie>
+    

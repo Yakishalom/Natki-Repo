@@ -1,0 +1,42 @@
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>ערוץ כאן 11</label>
+		<label2>פריטים מותאמים אישית</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.telemedia/?mode=113&amp;iconimage=special://home/addons/plugin.video.telemedia/tele/search.png&amp;fanart=https://seleritysas.com/wp-content/uploads/2019/12/shutterstock_606583169.jpg&amp;description=Search+All&amp;url=+&amp;name=%5BCOLOR+white%5D%D7%97%D7%99%D7%A4%D7%95%D7%A9%5B%2FCOLOR%5D&amp;image_master=&amp;heb_name= &amp;last_id=0$$$0&amp;dates= &amp;data=all&amp;original_title= &amp;id= &amp;season= &amp;episode= &amp;tmdbid= &amp;eng_name= &amp;show_original_year= &amp;isr=0&amp;fav_status=false&amp;groups_id=0&amp;next_page=0",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>ערוץ 22</label>
+		<label2>פריטים מותאמים אישית</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.idanplus/?name=%5BB%5D%D7%A7%D7%A9%D7%AA+12%5B%2FB%5D&amp;url=&amp;mode=0&amp;iconimage=C%253A%255CUsers%255Cuser%255CAppData%255CRoaming%255CKodi%255Caddons%255Cplugin.video.idanplus%255Cresources%255Cimages%255Cmako.png&amp;module=keshet&amp;moredata=",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>ערוץ 13</label>
+		<label2>פריטים מותאמים אישית</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.idanplus/?name=%5BB%5D%D7%A8%D7%A9%D7%AA+13%5B%2FB%5D&amp;url=&amp;mode=-1&amp;iconimage=C%253A%255CUsers%255Cuser%255CAppData%255CRoaming%255CKodi%255Caddons%255Cplugin.video.idanplus%255Cresources%255Cimages%255C13.jpg&amp;module=reshet&amp;moredata=",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>כאן חינוכית</label>
+		<label2>פריטים מותאמים אישית</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.idanplus/?name=%5BB%5D%D7%9B%D7%90%D7%9F+%D7%97%D7%99%D7%A0%D7%95%D7%9B%D7%99%D7%AA+23%5B%2FB%5D&amp;url=https%253A%252F%252Fwww.kankids.org.il&amp;mode=5&amp;iconimage=C%253A%255CUsers%255Cuser%255CAppData%255CRoaming%255CKodi%255Caddons%255Cplugin.video.idanplus%255Cresources%255Cimages%255C23tv.jpg&amp;module=kan&amp;moredata=",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>חיפוש</label>
+		<label2>פריטים מותאמים אישית</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.telemedia",return)</action>
+		</shortcut>
+	</shortcuts>

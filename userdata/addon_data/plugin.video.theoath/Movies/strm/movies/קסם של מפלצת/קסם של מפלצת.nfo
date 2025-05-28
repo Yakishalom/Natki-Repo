@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>קסם של מפלצת</title>
+    <originaltitle>Abominable</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.519</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE,TE
+[COLOR lightblue]2021-04-16 15:54:32[/COLOR]
+[COLOR blue]קסם של מפלצת.מדובב.גוזלן.720p.mp4[/COLOR]
+1.19 GB
+כאשר הנערה לי מגלה גור ייטי בגג ביתה בשנגחאי, היא וחבריה, ג'ין ופנג, יוצאים למסע בלתי אפשרי כדי להחזיר אותו הביתה, למשפחתו. בדרך הם מגלים את יכולותיו הקסומות של חברם החדש ואת כוחה של חברות ויכולותיהם שלהם עצמם.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קסם של מפלצת</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קסם של מפלצת\קסם של מפלצת.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קסם של מפלצת\קסם של מפלצת.strm</basepath>
+    <uniqueid type="tmdb" default="true">431580</uniqueid>
+    
+    <genre>משפחה </genre>
+<genre> אנימציה </genre>
+<genre> הרפתקאות </genre>
+<genre> קומדיה</genre>
+    <year>2019</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//lyOL2ApbJQooPMH34EQWQ3fQrNc.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//tLCDKsXo6D84IVFanoElosSEKdp.jpg">https://image.tmdb.org/t/p/original//tLCDKsXo6D84IVFanoElosSEKdp.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-04-16 15:54:32</dateadded>
+</movie>
+    

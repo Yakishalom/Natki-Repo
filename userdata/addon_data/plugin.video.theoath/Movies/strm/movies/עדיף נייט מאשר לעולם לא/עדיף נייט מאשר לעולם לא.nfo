@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>עדיף נייט מאשר לעולם לא</title>
+    <originaltitle>Better Nate Than Ever</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.695</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>Dr,TE
+[COLOR lightblue]2023-02-16 15:46:53[/COLOR]
+[COLOR blue]1080p 2022 עדיף נייט מאשר לעולם מדובב.mkv[/COLOR]
+1.44 GB
+נייט פוסטר בן ה-13 הוא ילד לא פופולרי במיוחד בתיכון בו הוא לומד, שמפנטז להפוך לכוכב מוזיקלי גדול בברודווי. אך בינתיים, נייט אפילו לא יכול לקבל תפקיד הגון בהפקות הדרמה של חטיבת הביניים שלו. האם יצליח להגשים את חלומו?TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\עדיף נייט מאשר לעולם לא</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\עדיף נייט מאשר לעולם לא\עדיף נייט מאשר לעולם לא.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\עדיף נייט מאשר לעולם לא\עדיף נייט מאשר לעולם לא.strm</basepath>
+    <uniqueid type="tmdb" default="true">826953</uniqueid>
+    
+    <genre>מוסיקה </genre>
+<genre> משפחה </genre>
+<genre> קומדיה</genre>
+    <year>2022</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//55gkFbie2Nbudo21rDpi6zG0XvC.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//oXJq7bVXfKzx1qMI0J8qOM1Yr9A.jpg">https://image.tmdb.org/t/p/original//oXJq7bVXfKzx1qMI0J8qOM1Yr9A.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-02-16 15:46:53</dateadded>
+</movie>
+    

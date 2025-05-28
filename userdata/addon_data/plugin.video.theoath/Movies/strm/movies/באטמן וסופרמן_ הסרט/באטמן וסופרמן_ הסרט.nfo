@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>באטמן וסופרמן: הסרט</title>
+    <originaltitle>The Batman Superman Movie: World's Finest [TV Movie 1997]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>8</value>
+            <votes>7,088</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-04-2 09:09:06[/COLOR]
+אנימציית סופר-הירוס שהיוותה בעבר שלושה פרקים בסדרת הטלוויזיה 'סופרמן' בעונתה השנייה. הג'וקר, יריבו המושבע של העטלף האנושי, ולקס לות'ר, הנמסיס של איש הברזל מקריפטון, חוברים לתכנית משותפת להפלת הגיבורים. כך נאלצים ברוס וקלארק לחבור לצוות שיחזיר מלחמה!! למי שרוצה לדעת איך לצייר את באטמן וסופרמן, מצורפים שני בונוסים מאירי עיניים.</plot>
+    <runtime>64</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\באטמן וסופרמן_ הסרט</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\באטמן וסופרמן_ הסרט\באטמן וסופרמן_ הסרט.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\באטמן וסופרמן_ הסרט\באטמן וסופרמן_ הסרט.strm</basepath>
+    <uniqueid type="tmdb" default="true">17074</uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Action</genre>
+<genre>Adventure</genre>
+<genre>אקשן</genre>
+<genre>אנימציה</genre>
+    <year>1998</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=47aEME-QFg0</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//dQxwNGQ6pQLCUE5vaI9PwIZK6UC.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//rHf1RAbfdhHIMbwhU08A4Q7Kc6e.jpg">http://image.tmdb.org/t/p/original//rHf1RAbfdhHIMbwhU08A4Q7Kc6e.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-04-02 09:09:06</dateadded>
+</movie>
+    

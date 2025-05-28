@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>טינקרבל והסוד הקסום</title>
+    <originaltitle>Tinker Bell and the Great Fairy Rescue</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.687</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2022-02-28 09:40:10
+ON,Dr,TE
+[COLOR lightblue]2018-10-03 01:14:50[/COLOR]
+[COLOR blue]טינקרבל והסוד הקסום.מדובב.גוזלן.avi[/COLOR]
+0.68 GB
+הפיה האהובה טינקר בל, נאלצת לשתף פעולה עם פיה יריבה שלה, על מנת להצליח לשמור בסוד את קיומן של הפיות, מפני בני האדם.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טינקרבל והסוד הקסום</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טינקרבל והסוד הקסום\טינקרבל והסוד הקסום.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טינקרבל והסוד הקסום\טינקרבל והסוד הקסום.strm</basepath>
+    <uniqueid type="tmdb" default="true">44683</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> הרפתקאות </genre>
+<genre> משפחה </genre>
+<genre> פנטזיה</genre>
+    <year>2010</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//7EpW6G6HpEUi3q9Bh9POnVfylyA.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//gKfhkw4zZPJJk7wuQymKtuc5NuX.jpg">https://image.tmdb.org/t/p/original//gKfhkw4zZPJJk7wuQymKtuc5NuX.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-02-28 09:40:10</dateadded>
+</movie>
+    

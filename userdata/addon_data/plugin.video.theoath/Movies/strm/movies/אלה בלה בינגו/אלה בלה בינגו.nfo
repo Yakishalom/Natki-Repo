@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>אלה בלה בינגו</title>
+    <originaltitle>Elleville Elfrid</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2023-05-20 18:55:50[/COLOR]
+אלה בלה בינגו היא ילדה חמודה חובבת קסמים, המבלה עם החבר הכי טוב שלה, הנרי, שעות ארוכות בצחוק ובמשחקים. מאחר והנרי מעולם לא ביקר בקרקס, היא מארגנת עבורו אחד כזה, ועומלת על ההופעה הראשית - קסם מיוחד, שהיא מכינה לכבודו. אולם הכל משתנה דווקא ביום חשיפת הקרקס, כשג'וני, ילד חדש, מגיע לשכונה. ג'וני סוחף את הנרי למשחקי פעלולי אופניים, אליהם אלה לא מוזמנת. היא מתמודדת לראשונה עם קנאה ודורשת מהנרי לבחור בינה לבין ג'וני. הנרי, שלא רוצה לפגוע באף אחד מהם, מסתלק מהמקום - ונעלם. כעת נאלצים אלה וג'וני לשתף פעולה, ויוצאים להרפתקה סוחפת במיוחד למציאת הנרי.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אלה בלה בינגו</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אלה בלה בינגו\אלה בלה בינגו.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אלה בלה בינגו\אלה בלה בינגו.strm</basepath>
+    <uniqueid type="tmdb" default="true">619918</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>משפחה</genre>
+    <year>2020</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=RofPe17GeKc</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//3PDisKKOiEh5Lw15IQtZvCsuchs.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//d5tYuMGpZEQ45NZOu9LrGQ2uiQN.jpg">http://image.tmdb.org/t/p/original//d5tYuMGpZEQ45NZOu9LrGQ2uiQN.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-05-20 18:55:50</dateadded>
+</movie>
+    

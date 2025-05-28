@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הארי פוטר (4) וגביע האש</title>
+    <originaltitle>הארי פוטר (4) וגביע האש </originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes> </votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-08-19 09:18:50[/COLOR]
+זמנים קשים פוקדים את הארי פוטר. סיוטי לילה מטרידים את מנוחתו וגורמים לצלקת על מצחו לצרוב יותר מתמיד. הארי [דניאל רדקליף] יותר משמח להימלט מהחלומות הרעים אל אליפות העולם בקווידיץ' יחד עם חבריו רון [רופרט גרינט] והרמיוני [אמה ווטסון]. אך אות מבשר רעות מדליק את השמיים של מחנה הקווידיץ' - הסימן האפל של לורד וולדמורט. את המחנה תוקפים אוכלי המוות, תומכיו של וולדמורט, שלא העזו להיחשף בציבור מאז הופעתו האחרונה של וולדמורט [רייף פיינס], לפני 13 שנה - הלילה בו נרצחו הוריו של הארי. הארי רוצה מאוד לשוב לכתלים הבטוחים של הוגוורטס, בית הספר לכישוף וקוסמות, שם פרופסור דאמבלדור [מייקל גמבון] יכול להגן עליו. אבל השנה הדברים קורים קצת אחרת.</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הארי פוטר (4) וגביע האש</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הארי פוטר (4) וגביע האש\הארי פוטר (4) וגביע האש.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הארי פוטר (4) וגביע האש\הארי פוטר (4) וגביע האש.strm</basepath>
+    <uniqueid type="tmdb" default="true"> </uniqueid>
+    
+    <genre>Adventure</genre>
+<genre>Family</genre>
+<genre>Fantasy</genre>
+<genre>הרפתקאות</genre>
+<genre>פנטזיה</genre>
+<genre>משפחה</genre>
+    <year>2005</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//p2vGOFzKPoMuqaxMK9PbzE7vjC6.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//gzKW3emulMxIHzuXxZoyDB1lei9.jpg">http://image.tmdb.org/t/p/original//gzKW3emulMxIHzuXxZoyDB1lei9.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-08-19 09:18:50</dateadded>
+</movie>
+    

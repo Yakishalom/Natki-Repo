@@ -1,0 +1,50 @@
+<settings version="2">
+    <setting id="open_window" default="true">false</setting>
+    <setting id="files_folder" default="true">special://userdata/</setting>
+    <setting id="num_p">1</setting>
+    <setting id="order_networks" default="true">0</setting>
+    <setting id="bot_id3" default="true">6238492629</setting>
+    <setting id="use_bot_player3" default="true">false</setting>
+    <setting id="autologin">true</setting>
+    <setting id="first_time">false</setting>
+    <setting id="tmdb_api" default="true">b370b60447737762ca38457bd77579b3</setting>
+    <setting id="update_channel" default="true">false</setting>
+    <setting id="File_Manager" default="true">0</setting>
+    <setting id="Custom_Manager" default="true" />
+    <setting id="one_click" default="true">false</setting>
+    <setting id="sh_one_click">true</setting>
+    <setting id="auto_update">true</setting>
+    <setting id="update_chat_id" default="true">-1001416709781</setting>
+    <setting id="remove_title">true</setting>
+    <setting id="get_notify">true</setting>
+    <setting id="show_login">true</setting>
+    <setting id="disp_f">true</setting>
+    <setting id="files_display_type">1</setting>
+    <setting id="disp_v">true</setting>
+    <setting id="video_display_type">1</setting>
+    <setting id="disp_l">true</setting>
+    <setting id="disp_a2" default="true">false</setting>
+    <setting id="repo">true</setting>
+    <setting id="install_apk">true</setting>
+    <setting id="download_files">true</setting>
+    <setting id="remote_path" default="true" />
+    <setting id="auto_q" default="true">false</setting>
+    <setting id="order_by">1</setting>
+    <setting id="filter_watched" default="true">false</setting>
+    <setting id="filter_watched_time">90</setting>
+    <setting id="dup_links">true</setting>
+    <setting id="filter_text" default="true" />
+    <setting id="filter_size">20</setting>
+    <setting id="buffer_size_new">8</setting>
+    <setting id="wait_size">500</setting>
+    <setting id="time_buffer">1</setting>
+    <setting id="chunk_size_new22">240</setting>
+    <setting id="chunk_size_file">4</setting>
+    <setting id="advance_buffer" default="true">false</setting>
+    <setting id="port">63584</setting>
+    <setting id="next_player_option">true</setting>
+    <setting id="debug" default="true">false</setting>
+    <setting id="show_debug" default="true">false</setting>
+    <setting id="full_debug" default="true">false</setting>
+    <setting id="test" default="true" />
+</settings>

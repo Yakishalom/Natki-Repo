@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מרקו מקאקו</title>
+    <originaltitle>Marco Macaco</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>4.6</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2023-03-19 19:27:38
+ON,Dr,TE,TE,TE
+[COLOR lightblue]2020-09-09 16:32:27[/COLOR]
+[COLOR blue]BRRip 2012 נתי מדיה מרקו מקאקו מדובב.avi[/COLOR]
+0.76 GB
+מרקו מקאקו חולם להיות שוטר שמפצח מקרי פשע חשובים. במציאות הוא סך הכל מציל באי טרופי משעמם. תקוותיו לזכות בליבה של לולו היפה נגוזו כאשר קרלו, אורח באי, מחליט להקים בו קזינו. מרקו חושד בקרלו, וזוהי ההזדמנות שלו להפוך את החלום למציאות ולעקוב אחריו כמו בלש. במהרה מתגלה למרקו שקרלו מועניין להשתלט על האי ולהנהיג אותו כדיקטטור. הפעם מרקו אינו מתכוון לוותר.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מרקו מקאקו</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מרקו מקאקו\מרקו מקאקו.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מרקו מקאקו\מרקו מקאקו.strm</basepath>
+    <uniqueid type="tmdb" default="true">141009</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> קומדיה </genre>
+<genre> משפחה</genre>
+    <year>2012</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//bn9vlrmC64TkTkxQ1zgKBVmH6ue.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//8wUTJCWAjF47k88sQCZcknwLbsw.jpg">https://image.tmdb.org/t/p/original//8wUTJCWAjF47k88sQCZcknwLbsw.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-03-19 19:27:38</dateadded>
+</movie>
+    

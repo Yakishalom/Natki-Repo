@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>אגדת המלך שלמה</title>
+    <originaltitle>The Legend of King Solomon [2017] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5</value>
+            <votes>90</votes>
+        </rating>
+    </ratings>
+    <plot>2019-07-20 16:17:21
+ON,Dr
+[COLOR lightblue]2019-07-17 22:36:31[/COLOR]
+משולש אהבה תנ'כי נפרש בין המלך שלמה הצעיר, מלכת שבא והנסיכה הערבייה נעמה. השלושה מאחדים כוחות כדי להתגבר על השד הנורא אשמדאי, לעצור את ניסיון ההשתלטות שלו על ירושלים ולסכל את מזימתו למשול בעולם. חנן קמינסקי, מבכירי האנימטורים בישראל ובעולם ומייסד המחלקה לאנימציה בבצלאל, עמל על הכנת הסרט באנימציית דו-ממד במשך עשור. הבמאי מספר שביקש להעביר מסר של תקווה באמצעות גיבוריו הדו-לאומיים של הסיפור.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אגדת המלך שלמה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אגדת המלך שלמה\אגדת המלך שלמה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אגדת המלך שלמה\אגדת המלך שלמה.strm</basepath>
+    <uniqueid type="tmdb" default="true">478484</uniqueid>
+    
+    <genre>הסטוריה</genre>
+<genre>אנימציה</genre>
+    <year>2017</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//eoE6Px18LLHKjm9AOAaUratlFHP.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//4q4f1CRmPQ5Xe5zNbtHD5YpJEPf.jpg">http://image.tmdb.org/t/p/original//4q4f1CRmPQ5Xe5zNbtHD5YpJEPf.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-07-20 16:17:21</dateadded>
+</movie>
+    

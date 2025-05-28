@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>החרב הקסומה</title>
+    <originaltitle>Quest for Camelot</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.836</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE
+[COLOR lightblue]2023-08-29 17:18:51[/COLOR]
+[COLOR blue]DVDRip 1998 נתי מדיה החרב הקסומה מדובב.avi[/COLOR]
+1.11 GB
+בממלכתו של המלך ארתור חיה לה קיילי הצעירה, החולמת להיות אבירה כמו הגברים האמיצים בממלכה. כאשר חרבו המכושפת של המלך ארתור נגנבת, יוצאת קיילי למסע מסוכן כדי להוכיח את אבירותה ולהציל את הממלכה. בדרכה היא פוגשת ונעזרת בגארט העיוור ובמרלין הקוסם, המסייעים לה לגבור על כל המכשולים ולהציל את ארמון קמלוט ואת בני עמה.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\החרב הקסומה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\החרב הקסומה\החרב הקסומה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\החרב הקסומה\החרב הקסומה.strm</basepath>
+    <uniqueid type="tmdb" default="true">18937</uniqueid>
+    
+    <genre>פנטזיה </genre>
+<genre> אנימציה </genre>
+<genre> דרמה </genre>
+<genre> רומנטי </genre>
+<genre> משפחה</genre>
+    <year>1998</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//kkIFO0nqy25zHVRJ3wAvyqxI5Iy.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//m58yUAi6CuHJ61eYGtSOaV996qn.jpg">https://image.tmdb.org/t/p/original//m58yUAi6CuHJ61eYGtSOaV996qn.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-08-29 17:18:51</dateadded>
+</movie>
+    

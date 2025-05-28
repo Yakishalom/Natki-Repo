@@ -1,0 +1,10 @@
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>בחירת ערוץ לצפיה</label>
+		<label2>פריטים מותאמים אישית</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.idanplus/?name=%5BB%5D%D7%98%D7%9C%D7%95%D7%99%D7%96%D7%99%D7%94%5B%2FB%5D&amp;url=&amp;mode=1&amp;iconimage=C%253A%255CUsers%255Cuser%255CAppData%255CRoaming%255CKodi%255Caddons%255Cplugin.video.idanplus%255Cicon.png&amp;module=&amp;moredata=",return)</action>
+		</shortcut>
+	</shortcuts>

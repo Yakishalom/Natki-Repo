@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>רובוטס</title>
+    <originaltitle>Robots</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.427</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2018-09-23 03:13:23
+ON,TE,TE
+[COLOR lightblue]2018-09-23 02:36:50[/COLOR]
+[COLOR blue]רובוטס.מדובב.גוזלן.mp4[/COLOR]
+1.03 GB
+יוצרי הלהיט "עידן הקרח" מספקים לנו להיט נוסף בשם "רובוטים". קומדיית הרפתקאות באנימציה תלת מימדית המתרחשת כולה בעולם המאוכלס רק על ידי רובוטים. הסרט עוקב אחרי רובוט צעיר ומוכשר שרוצה שהעולם יהיה מקום שהרבה יותר טוב לחיות בו. המנהל המרושע של החברה בה הוא עובד מנסה למנוע ממנו להגשים את החלום וגם ישנה רובוטית מפתה שבה גיבור הסרט מתאהב. האם הוא יצליח להגשים את החלום שלו?TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\רובוטס</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\רובוטס\רובוטס.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\רובוטס\רובוטס.strm</basepath>
+    <uniqueid type="tmdb" default="true">9928</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> קומדיה </genre>
+<genre> משפחה </genre>
+<genre> מדע בדיוני</genre>
+    <year>2005</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//vYy0Afpj571fVYmw4tLHHRd6Fhy.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//4jgKGtOARAITsKbuNgPgZ9SSds7.jpg">https://image.tmdb.org/t/p/original//4jgKGtOARAITsKbuNgPgZ9SSds7.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-09-23 03:13:23</dateadded>
+</movie>
+    

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>בלאק ביוטי / הסייח השחור</title>
+    <originaltitle>Black Beauty</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>8.057</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>TE
+[COLOR lightblue]2021-10-13 23:41:33[/COLOR]
+[COLOR blue]נתי מדיה הסייח השחור מדובב.mp4[/COLOR]
+0.15 GB
+סוס פרא ונערה מתבגרת יוצרים קשר בלתי שביר המחזיק אותם מחוברים לכל החיים.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בלאק ביוטי _ הסייח השחור</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בלאק ביוטי _ הסייח השחור\בלאק ביוטי _ הסייח השחור.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בלאק ביוטי _ הסייח השחור\בלאק ביוטי _ הסייח השחור.strm</basepath>
+    <uniqueid type="tmdb" default="true">526702</uniqueid>
+    
+    <genre>דרמה</genre>
+    <year>1983</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//oW69lBfpI19SohfWAfeZmqDKJH1.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//lQAe1hfWYDdYypRVdzTbdg6JYWP.jpg">https://image.tmdb.org/t/p/original//lQAe1hfWYDdYypRVdzTbdg6JYWP.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-10-13 23:41:33</dateadded>
+</movie>
+    

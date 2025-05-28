@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>ספיי קידס</title>
+    <originaltitle>Spy Kids</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.78</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE
+[COLOR lightblue]2021-11-14 20:48:47[/COLOR]
+[COLOR blue]1080p BluRay 2001 נ.מ ספיי קידס 1 מדובב.mkv[/COLOR]
+1.42 GB
+לאח ואחות יש משימה: להציל את הוריהם ולעצור גאון מרושע. לשם כך, הם יצטרכו להצטייד בגאדג'טים, לנסוע מסביב לעולם — ולהסתדר זה עם זה.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ספיי קידס</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ספיי קידס\ספיי קידס.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ספיי קידס\ספיי קידס.strm</basepath>
+    <uniqueid type="tmdb" default="true">10054</uniqueid>
+    
+    <genre>אקשן </genre>
+<genre> קומדיה </genre>
+<genre> משפחה </genre>
+<genre> הרפתקאות</genre>
+    <year>2001</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//tjp2V6zcS0xRgIY9e5xT3zeV6Ni.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//wfStsmeSW7MtvYhD9Ac6ETXdbmx.jpg">https://image.tmdb.org/t/p/original//wfStsmeSW7MtvYhD9Ac6ETXdbmx.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-11-14 20:48:47</dateadded>
+</movie>
+    

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>יוסף נסיך החלומות</title>
+    <originaltitle>Joseph: King of Dreams</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.76</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,TE
+[COLOR lightblue]2020-12-23 20:46:15[/COLOR]
+[COLOR blue]DVDRip נ.מ. יוסף בעל החלומות מדובב.avi[/COLOR]
+0.76 GB
+הסרט מבוסס על הסיפור המופלא מהתנ"ך, של יוסף וחלומותיו. להבדיל מ-"נסיך מצריים", הסרט כמעט ולא מחסיר מהסיפור פרטים או משנה את העלילה המקורית. הוא בעצם מספר איך עם ישראל הגיע בכלל למצרים. יוסף הוא אח למחצה של עשרת בניהם של יעקב ולאה  שנולד מרחל, אשתו השנייה. יעקב אוהב אותו יותר מעשרת האחרים, מרוב אהבת יעקב ליוסף תופר לו יעקב כותונת יפה, וזה מרים את הקנאה של האחים ביוסף, שלא נדבר על התנשאות יוסף מעל אחיו בחלומותיו. האחים מחליטים להיפטר מיוסף, ומוכרים אותו לעבדות ואז...TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\יוסף נסיך החלומות</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\יוסף נסיך החלומות\יוסף נסיך החלומות.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\יוסף נסיך החלומות\יוסף נסיך החלומות.strm</basepath>
+    <uniqueid type="tmdb" default="true">16366</uniqueid>
+    
+    <genre>משפחה </genre>
+<genre> אנימציה</genre>
+    <year>2000</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//uNAdIbgakjmA8XQYzciqhq93vLG.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//n88p2RDLHfaa3qfOAiWVR5ANeY8.jpg">https://image.tmdb.org/t/p/original//n88p2RDLHfaa3qfOAiWVR5ANeY8.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-12-23 20:46:15</dateadded>
+</movie>
+    

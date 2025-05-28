@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>משפחת סופר-על</title>
+    <originaltitle>The Incredibles</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.704</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE
+[COLOR lightblue]2021-07-15 03:20:08[/COLOR]
+[COLOR blue]720p HDTV נתי.מ משפחת סופר על 1 מדובב.mkv[/COLOR]
+1.4 GB
+משפחה של גיבורי על נאלצת לעבור לחיות בפרברים כאנשים רגילים לחלוטין, לאחר שהממשלה החליטה לאסור על כל גיבורי העל בעולם להשתמש בכוחות שלהם מסיבות משפטיות, כלכליות ואחרות. ראש המשפחה, מר בוב סופר על, האדם החזק בעולם, משתגע מרוב שעמום מעבודתו הרגילה כסוכן ביטוח. ביאושו, הוא נופל למלכודת שטומן לו סינדרום, הנבל המטורף שיוצא לסגור חשבון עם כל גיבורי העל בעולם. אבל אף אחד לא חוטף את אבא סופר על בלי להסתבך גם עם האישה והילדים. ואם יש דבר אחד שאתם לא רוצים, הוא חשבון פתוח עם משפחה מיוחדת מאוד.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\משפחת סופר-על</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\משפחת סופר-על\משפחת סופר-על.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\משפחת סופר-על\משפחת סופר-על.strm</basepath>
+    <uniqueid type="tmdb" default="true">9806</uniqueid>
+    
+    <genre>אקשן </genre>
+<genre> הרפתקאות </genre>
+<genre> אנימציה </genre>
+<genre> משפחה</genre>
+    <year>2004</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//gJVkVsMFYKW0PLo5bHZCxBRo5Ie.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//se5Hxz7PArQZOG3Nx2bpfOhLhtV.jpg">https://image.tmdb.org/t/p/original//se5Hxz7PArQZOG3Nx2bpfOhLhtV.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-07-15 03:20:08</dateadded>
+</movie>
+    

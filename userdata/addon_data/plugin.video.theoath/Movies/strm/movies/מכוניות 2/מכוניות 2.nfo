@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מכוניות 2</title>
+    <originaltitle>Cars 2</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.074</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2021-07-15 20:15:23
+ON,Dr,TE,TE
+[COLOR lightblue]2020-12-23 20:45:49[/COLOR]
+[COLOR blue]HDTV 2011 נתי מדיה מכוניות 2 מדובב.avi[/COLOR]
+0.69 GB
+מכונית המרוצים מס' 1 בעולם - ספידי מקווין, וחברו הטוב, רכב הגרר - מייטר, לוקחים את החברות שלהם למקומות חדשים ומרגשים כשהם יוצאים לחו"ל כדי להתחרות בתחרות הגרנד פרי העולמית הראשון שתקבע מיהי מכונית המירוץ הכי מהירה בעולם. אבל הדרך לאליפות רצופה בורות, מעקפים והפתעות משעשעות כשמייטר נקלע להרפתקה מסקרנת משלו: ריגול בינלאומי. מייטר קרוע בין העזרה ללייטנינג מקווין במירוץ החשוב לבין תפקידו במשימת ריגול סודית. המסע מלא האקשן של מייטר מוביל אותו אל מרדף מלא פיצוצים ברחובות יפן ואירופה.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מכוניות 2</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מכוניות 2\מכוניות 2.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מכוניות 2\מכוניות 2.strm</basepath>
+    <uniqueid type="tmdb" default="true">49013</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> משפחה </genre>
+<genre> הרפתקאות </genre>
+<genre> קומדיה</genre>
+    <year>2011</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//njGjUzXSUZKzMjAEmr3julIgmOp.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//jTx4XlVsLJkDwbEQkFYwpApD556.jpg">https://image.tmdb.org/t/p/original//jTx4XlVsLJkDwbEQkFYwpApD556.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-07-15 20:15:23</dateadded>
+</movie>
+    

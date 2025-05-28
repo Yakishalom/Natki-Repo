@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>לא רעים בכלל</title>
+    <originaltitle>The Bad Guys</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2022-06-27 12:45:22[/COLOR]
+בעולם בו יש אנשים וחיות מואנשות, כנופיית פושעים הכוללת את מר זאב, מר נחש, מר כריש, מר פיראנה וגברת טרנטולה - הפושעים הכי מסוכנים בעיר. כשהזאב הרע וחבריו המפחידים יוצאים לשוד הגדול ביותר שלהם איי פעם, הם נתפסים על חם ובמקום ללכת לכלא מאובטח הם מסכימים לעבור שיקום. אך האם הרעים הגדולים ביותר שידע העולם יכולים להפוך לטובים? 'לא רעים בכלל' הוא סרט מרהיב, מצחיק ואופטימי שמוכיח שלכל אחד יש הזדמנות שניה.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לא רעים בכלל</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לא רעים בכלל\לא רעים בכלל.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לא רעים בכלל\לא רעים בכלל.strm</basepath>
+    <uniqueid type="tmdb" default="true">629542</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>קומדיה</genre>
+<genre>משפחה</genre>
+<genre>פשע</genre>
+    <year>2022</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=m8Xt0yXaDPU</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//eFrat6CShodPjXRJEsVTFnJ1njP.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//fEe5fe82qHzjO4yej0o79etqsWV.jpg">http://image.tmdb.org/t/p/original//fEe5fe82qHzjO4yej0o79etqsWV.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-06-27 12:45:22</dateadded>
+</movie>
+    

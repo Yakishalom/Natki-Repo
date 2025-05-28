@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>סטיץ': הסרט</title>
+    <originaltitle>Stitch! The Movie [Video 2003]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>6,145</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-01-7 08:22:12[/COLOR]
+סטיץ', חיית המחמד המצחיקה והחמודה שפותחה ע'י דוקטור ג'וקיבה בתור 'ניסוי 626', חי לו כיום באושר עם לילו ונאני. 'ניסוי 625', עוד אחד מהניסויים הכושלים של דוקטור ג'וקיבה, מביא לנחיתתם של יצורים 'תואמי סטיץ'' על כדור הארץ..... וסטיץ' לומד בשמחה להכיר את המשפחה החדשה שלו! מי שאהב וצחק בחלק הראשון.... ישמח להצטרף עם לילו וסטיץ' להרפתקאה מטורפת נוספת!</plot>
+    <runtime>60</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סטיץ__ הסרט</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סטיץ__ הסרט\סטיץ__ הסרט.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סטיץ__ הסרט\סטיץ__ הסרט.strm</basepath>
+    <uniqueid type="tmdb" default="true">15567</uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Adventure</genre>
+<genre>Comedy</genre>
+<genre>אנימציה</genre>
+<genre>קומדיה</genre>
+<genre>משפחה</genre>
+    <year>2003</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=dUr6plz3NHU</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//e3QVA8Zs5hixbsLYR7TZfgi4drV.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//6tgqVJmxndtbOu2bvxYtfFCd8Wi.jpg">http://image.tmdb.org/t/p/original//6tgqVJmxndtbOu2bvxYtfFCd8Wi.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-01-07 08:22:12</dateadded>
+</movie>
+    

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>ברבי מריפוסה ונסיכת הפיות</title>
+    <originaltitle>Barbie Mariposa and the Fairy Princess [2013]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>554</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2017-12-3 12:24:06[/COLOR]
+'מריפוסה וזי החבר הפרוותי שלה חוזרים  ב:ברבי מריפוסה נסיכת הפיות. בהרפתקה קסומה זו, מריפוסה הופכת לשגרירה המלכותית של Flutterfield ונשלחת להשכין שלום בין ארץ הפיות שלה ליריבותיהן, פיות הקריסטל של Shimmervale. בעוד מריפוסה לא עושה רושם ראשוני טוב על המלך שלהם, היא מתחברת מהר עם בתו הביישנית, הנסיכה קטאניה. עם זאת, אי הבנה גורמת שמריפוסה תגורש מן הארץ פיות. כאשר מריפוסה וזי חוזרים ל Flutterfield, הם נאלצים להתמודד עם הפיה האפלה בדרכה להשמיד Shimmervale. מריפוסה ממהרת בחזרה ומסייעת לנסיכה קטאניה להציל את ארץ הפיות. ויחד, שתי הבנות מוכיחות כי הדרך הטובה ביותר לעשות חבר, היא להיות חבר. '</plot>
+    <runtime>79</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ברבי מריפוסה ונסיכת הפיות</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ברבי מריפוסה ונסיכת הפיות\ברבי מריפוסה ונסיכת הפיות.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ברבי מריפוסה ונסיכת הפיות\ברבי מריפוסה ונסיכת הפיות.strm</basepath>
+    <uniqueid type="tmdb" default="true">196254</uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Family</genre>
+<genre>Fantasy</genre>
+<genre>פנטזיה</genre>
+<genre>אנימציה</genre>
+<genre>משפחה</genre>
+    <year>2013</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=KrmI0us6axw</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//twxU1AxLsWphM9RIYJgy8PZ32ye.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//zBDr2t9wNzfs5FWBvZ9hB27ZN7L.jpg">http://image.tmdb.org/t/p/original//zBDr2t9wNzfs5FWBvZ9hB27ZN7L.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2017-12-03 12:24:06</dateadded>
+</movie>
+    

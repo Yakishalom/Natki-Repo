@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>גנובים על הקרח</title>
+    <originaltitle>Arctic Dogs</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.175</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2023-08-21 18:35:56
+Dr,TE,TE,TE,TE
+[COLOR lightblue]2023-08-13 18:59:45[/COLOR]
+[COLOR blue]1080p 2019 ז.מ גנובים על הקרח מדובב.mkv[/COLOR]
+1.57 GB
+סוויפטי הוא שועל העובד בשירות הדואר המקומי באנטרקטיקה. אך יש לו חלומות גדולים. הוא חולם להיות מוביל מזחלות הדואר, כמו כלבי המזחלות הנערצים של העיירה בשל מהירותם ואומץ ליבם. כדי להוכיח שהוא ראוי, הוא מחליט לקחת מזחלת ולצאת לחלוקה לבדו ומוצא עצמו מוביל חבילה מסתורית למקום סודי. במקום הוא פוגש באוטו ואן ולרוס הנודע לשמצה וחושף את מזימתו הזדונית להמסת הקרחונים על ידי גז רעיל והרס לכדור הארץ. סוויפטי קורא לחבריו פיבי דב הקרח הניירוטי, ליימי האלבטרוס המטורלל ויתר החבורה המצחיקה לצאת עימו להרפתקה כנגד האיום הגדול ולהוכיח לעצמו שלא צריך לשאוף להיות אחר כדי להיות גיבור.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\גנובים על הקרח</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\גנובים על הקרח\גנובים על הקרח.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\גנובים על הקרח\גנובים על הקרח.strm</basepath>
+    <uniqueid type="tmdb" default="true">416153</uniqueid>
+    
+    <genre></genre>
+    <year>2019</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//uqYH0lPpwo2sQzZu4hqEoMHPMOX.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//yww85CMMMwJYNyiBZGM4qusWLnT.jpg">https://image.tmdb.org/t/p/original//yww85CMMMwJYNyiBZGM4qusWLnT.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-08-21 18:35:56</dateadded>
+</movie>
+    

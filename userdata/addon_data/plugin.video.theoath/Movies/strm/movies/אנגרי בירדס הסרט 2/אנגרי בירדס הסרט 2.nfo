@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>אנגרי בירדס הסרט 2</title>
+    <originaltitle>The Angry Birds Movie 2</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.128</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2019-12-31 06:30:53
+ON,Dr,TE
+[COLOR lightblue]2019-11-23 17:39:42[/COLOR]
+[COLOR blue]The_Angry_Birds_Movie_2_2019_1080p.mp4[/COLOR]
+1.42 GB
+האנגרי בירדס שלא יודעות לעוף והחזרזירים התככנים מעלים את העימות ביניהם לשלב הבא: כאשר איום חדש עולה אשר מעמיד בסכנה גם את אי הציפורים וגם את אי החזירים, כוכבי הסרט הקודם רד, הפצצה המתנדפת, ספידי צ'אק והעיט האדיר מגייסים את סילבר, אחותו הקטנה של צ'אק וגם את מנהיג החזירים לנארד, העוזרת האישית שלו קורטני והחזיר הטכנולוגי גארי ויחד הם יוצרים ברית רעועה שתכליתה להציל את בתיהם.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אנגרי בירדס הסרט 2</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אנגרי בירדס הסרט 2\אנגרי בירדס הסרט 2.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אנגרי בירדס הסרט 2\אנגרי בירדס הסרט 2.strm</basepath>
+    <uniqueid type="tmdb" default="true">454640</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> קומדיה </genre>
+<genre> הרפתקאות </genre>
+<genre> משפחה</genre>
+    <year>2019</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//3OSN7gRE0WgWEQiZO6QJ2s2Ha6K.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//bo5M1dW76b3QuRFcTL8KPmN6WYj.jpg">https://image.tmdb.org/t/p/original//bo5M1dW76b3QuRFcTL8KPmN6WYj.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-12-31 06:30:53</dateadded>
+</movie>
+    

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>החרב באבן</title>
+    <originaltitle>The Sword in the Stone</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.248</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>Dr,TE,TE
+[COLOR lightblue]2023-04-23 19:02:24[/COLOR]
+[COLOR blue]1080p BluRay 1963 נ.מ החרב באבן מדובב.mkv[/COLOR]
+1.81 GB
+זה סיפורה של חרב מוזהבות מופלאה, הנעוצה בתוך אבן ענקית. מי שיענה לאתגר ויצליח להוציאה מהאבן, יוכתר למלך אנגליה. בעיניו של וורט, נושא כלים מתלמד, משימה זו נראית ממש בלתי אפשרית. אבל בעזרתו של מרלין, המכשף המסתורי הנודע מכולם, וידידו בעל הנוצה ארכימדס הינשוף - מבין וורט כי אפשר להגשים גם את החלום הבלתי אפשרי.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\החרב באבן</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\החרב באבן\החרב באבן.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\החרב באבן\החרב באבן.strm</basepath>
+    <uniqueid type="tmdb" default="true">9078</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> משפחה</genre>
+    <year>1963</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//aQ4LyJ6oWW6rY4nuAY3uOFVRYgp.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//m1TOfgljbT3jOez3b4l1I1tm82W.jpg">https://image.tmdb.org/t/p/original//m1TOfgljbT3jOez3b4l1I1tm82W.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-04-23 19:02:24</dateadded>
+</movie>
+    

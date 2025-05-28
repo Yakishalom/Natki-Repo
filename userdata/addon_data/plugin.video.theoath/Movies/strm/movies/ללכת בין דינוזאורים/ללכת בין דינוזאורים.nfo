@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>ללכת בין דינוזאורים</title>
+    <originaltitle>Walking with Dinosaurs 3D [2013] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5</value>
+            <votes>10,155</votes>
+        </rating>
+    </ratings>
+    <plot>2019-08-5 17:04:16
+ON,Dr
+[COLOR lightblue]2019-08-3 12:20:34[/COLOR]
+מהרגע שבקע מן הביצה, פאצ'י נאלץ לצד אחיו ואחיותיו התחרותיים לשרוד בעולם פראי ובלתי צפוי, ולהתמודד עם טורפים פראיים כמו ווילי טרודון וגורגוזאורוס המפלצתי. לאחר שהיה עד למוות המזעזע של אביו על ידי שיניו של גורגוזאורוס, פאצ'י חובר לאחיו סקאולר ולחברתו ג'וניפר. הם עוברים את הנדידה הגדולה בסדרה של הרפתקאות משעשעות ומורטות-שיער עד שלבסוף מתאחדים עם משפחתם. אבל פאצ'י מופרד מאהובתו ג'וניפר, ואלה לא נפגשים עד בגרותם. עד אז היא מספיקה להיות עם אחיו הגדול של פאצ'י סקאולר, שנהפך ליריבו המר ביותר.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ללכת בין דינוזאורים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ללכת בין דינוזאורים\ללכת בין דינוזאורים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ללכת בין דינוזאורים\ללכת בין דינוזאורים.strm</basepath>
+    <uniqueid type="tmdb" default="true">77951</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>משפחה</genre>
+<genre>הרפתקאות</genre>
+    <year>2013</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=jv7hRBL9ygY</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//eLePQUlL4MIDuN1gZncvLOeSW4G.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//hzr9UdH3LN49IzkwtwxCXe9cehc.jpg">http://image.tmdb.org/t/p/original//hzr9UdH3LN49IzkwtwxCXe9cehc.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-08-05 17:04:16</dateadded>
+</movie>
+    

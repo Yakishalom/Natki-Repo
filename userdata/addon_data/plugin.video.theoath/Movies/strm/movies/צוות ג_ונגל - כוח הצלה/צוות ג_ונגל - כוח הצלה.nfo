@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>צוות ג'ונגל - כוח הצלה</title>
+    <originaltitle>Les As de la Jungle</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.395</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE
+[COLOR lightblue]2021-11-08 18:40:11[/COLOR]
+[COLOR blue]720p 2017 צוות ג'ונגל כח הצלה מדובב.mkv[/COLOR]
+1.07 GB
+קומדיית הרפתקאות צרפתית. מוריס, הפינגווין המאסטר קונג-פו המגושם בתבל, עם כוונות טובות. יחד עם חבורת צוות הג'ונגל המשעשעת, שכוללת את ג'וניור, בנו הדג המאומץ, הקופיף הננסי גילברט, שהוא המוח של החבורה, ומיגל הגורילה, התורם את כח שריריו לצוות, הוא שומר על הסדר הסביבתי, כפי שעשתה אימו הנמרה לפניו. כשאיגור הקואלה המעצבנת, הוגה תכנית זדונית להרוס את הג'ונגל עם להקת בבונים שלומיאלית. צוות הג'ונגל מאחד כוחות מחדש עם החבורה הוותיקה במטרה להגן על הביתTEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\צוות ג_ונגל - כוח הצלה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\צוות ג_ונגל - כוח הצלה\צוות ג_ונגל - כוח הצלה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\צוות ג_ונגל - כוח הצלה\צוות ג_ונגל - כוח הצלה.strm</basepath>
+    <uniqueid type="tmdb" default="true">448779</uniqueid>
+    
+    <genre></genre>
+    <year>2017</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//r5VWU3qabffK3LRIuftrTKLydiV.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//6swQWjlfmT9j2dt0vbAYAYNwzlw.jpg">https://image.tmdb.org/t/p/original//6swQWjlfmT9j2dt0vbAYAYNwzlw.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-11-08 18:40:11</dateadded>
+</movie>
+    

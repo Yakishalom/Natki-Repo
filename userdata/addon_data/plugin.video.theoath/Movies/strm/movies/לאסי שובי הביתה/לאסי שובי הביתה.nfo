@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>לאסי שובי הביתה</title>
+    <originaltitle>Lassie - Eine abenteuerliche Reise</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.7</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2022-01-19 16:26:30
+Dr,TE
+[COLOR lightblue]2018-11-13 07:27:48[/COLOR]
+[COLOR blue]לאסי.מדובב.גוזלן.mp4[/COLOR]
+0.44 GB
+פלו בן ה-12 והקולי האהובה שלו לאסי חיים באושר בכפר קטן, הם חברים טובים בלתי ניתנים להפרדה. כשאביו של פלו מאבד את עבודתו, המשפחה חייבת לעבור לדירה קטנה יותר ושם אסור להכניס בעלי חיים, פלו שבור הלב נאלץ לוותר על לאסי. לאסי נמסרת לידיה של הדוכסית וון ספרגל, אשר נוסעת לים הצפוני יחד עם נכדתה פריסילה המעצבנת בת ה-12. כששומר האחוזה הרשע מתחיל להתנהג כלפי לאסי לא יפה, היא מנצלת את הזדמנות, בורחת ויוצאת למסע הרפתקני לאורכה של הארץ בחיפוש אחרי פלו. אך לאסי היא לא היחידה שיוצאת למסע גם פלו לא יכול יותר ויוצא לחיפוש אחרי הכלבה שלו. השניים לא יכולים להיות מנוצחים בקלות כזאת.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לאסי שובי הביתה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לאסי שובי הביתה\לאסי שובי הביתה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לאסי שובי הביתה\לאסי שובי הביתה.strm</basepath>
+    <uniqueid type="tmdb" default="true">657811</uniqueid>
+    
+    <genre>הרפתקאות </genre>
+<genre> משפחה</genre>
+    <year>2020</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//PXxMKmbol8ZftRGTrJNaTxy5jU.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//gMRBMlcgp5yQeqJ0OAff0uyZfnw.jpg">https://image.tmdb.org/t/p/original//gMRBMlcgp5yQeqJ0OAff0uyZfnw.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-01-19 16:26:30</dateadded>
+</movie>
+    

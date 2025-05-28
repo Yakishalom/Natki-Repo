@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>סיפורי לילה</title>
+    <originaltitle>Nightbooks</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2021-09-21 15:42:46[/COLOR]
+אלכס חובב סיפורי האימה נחטף בידי מכשפה מרושעת שכולאת אותו יחד עם עוד נערה בדירתה המכושפת. התנאי לשחרורו: עליו לספר סיפור אימה מסמר שיער מדי לילה.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סיפורי לילה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סיפורי לילה\סיפורי לילה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סיפורי לילה\סיפורי לילה.strm</basepath>
+    <uniqueid type="tmdb" default="true">739990</uniqueid>
+    
+    <genre>פנטזיה</genre>
+<genre>משפחה</genre>
+<genre>אימה</genre>
+    <year>2021</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=aQO16k5Vdow</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//2xLeADdWh0MNXIxBcuHdpysI9EI.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//piz0BFUJ4Bro4BFzxxkNpsGCmOd.jpg">http://image.tmdb.org/t/p/original//piz0BFUJ4Bro4BFzxxkNpsGCmOd.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-09-21 15:42:46</dateadded>
+</movie>
+    

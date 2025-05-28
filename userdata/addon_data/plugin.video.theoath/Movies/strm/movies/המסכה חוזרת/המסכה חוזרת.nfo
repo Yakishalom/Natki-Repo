@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>המסכה חוזרת</title>
+    <originaltitle>Son of the Mask</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>4.122</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>TE
+[COLOR lightblue]2021-10-13 23:42:15[/COLOR]
+[COLOR blue]נתי מדיה המסכה חוזרת מדובב.avi[/COLOR]
+0.68 GB
+טים ארי הוא אנימטור במקצועו, אך נאלץ לעבוד כפרסומאי בקניון בעודו מחופש לצב. כלבו אוטיס, מוצא מסכה מסתורית השטה בנהר המוביל לאדג' סיטי, ומביא אותה לבעליו. טים שם את המסכה כקישוט, ולערב תחפושות נאלץ לקחת אותה כתחפושת. בדרך מגלה כי היא מסכת קסמים, ולובש אותה. הוא מרקיד את כל המסיבה ומנהלו של טים אוהב את "היצור הירוק" ורוצה שיהיה הכוכב הבא שלו. בינתיים, אל הקסמים הנורדי לוקי מקבל הודעה מאביו לחפש את המסכה שיצר, ויוצא למסע חיפושים ארוך סביב כל ארצות הברית והעולם. לאחר המסיבה, חוזר טים בדמות המסכה ונרדם כך עם אשתו. אשתו שהחלה להרות, קיבלה את המיקרובים של המסכה והילד שיצא להם יצא ילד בעל כוחות על. לוקי חיפש אחרי המסכה ואחרי הילד שנולד, ואחרי שאשתו של טים נוסעת מגלה טים את כוחות העל של ילדו, אלבי.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\המסכה חוזרת</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\המסכה חוזרת\המסכה חוזרת.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\המסכה חוזרת\המסכה חוזרת.strm</basepath>
+    <uniqueid type="tmdb" default="true">10214</uniqueid>
+    
+    <genre>פנטזיה </genre>
+<genre> קומדיה </genre>
+<genre> משפחה </genre>
+<genre> הרפתקאות</genre>
+    <year>2005</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//Adgnfhm9B8YAQmC0osuP4zO9SRc.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//od5chJN27AKS2ZfMhwZVShTo1Kg.jpg">https://image.tmdb.org/t/p/original//od5chJN27AKS2ZfMhwZVShTo1Kg.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-10-13 23:42:15</dateadded>
+</movie>
+    

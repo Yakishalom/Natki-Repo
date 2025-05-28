@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>אנגרי בירדס: הסרט</title>
+    <originaltitle>The Angry Birds Movie</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.204</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2019-10-13 19:31:51
+ON,Dr,TE
+[COLOR lightblue]2017-06-20 23:27:59[/COLOR]
+[COLOR blue]Angry.Birds.2016.BDRip.HebDub.XviD.avi[/COLOR]
+0.69 GB
+על אי שכמעט-כולו מיושב בידי ציפורים מאושרות ללא יכולת תעופה, שלוש ציפורים הרגישו תמיד אאוטסיידריות: רד הוא ציפור עם בעית מזג חם, צ'אק הוא מהיר ו-בומב הוא בלתי צפוי. כשחזרזירים משונים בצבע ירוק מבקרים באי, האאוטסיידרים שלנו מנסים להבין מה הסיבה האמיתית לביקור.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אנגרי בירדס_ הסרט</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אנגרי בירדס_ הסרט\אנגרי בירדס_ הסרט.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אנגרי בירדס_ הסרט\אנגרי בירדס_ הסרט.strm</basepath>
+    <uniqueid type="tmdb" default="true">153518</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> הרפתקאות </genre>
+<genre> קומדיה</genre>
+    <year>2016</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//xGYRTrTQSoVPMFz0lYcWmwpzZto.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//o4mhrLxv6I70kvYA42qANGUF7ya.jpg">https://image.tmdb.org/t/p/original//o4mhrLxv6I70kvYA42qANGUF7ya.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-10-13 19:31:51</dateadded>
+</movie>
+    

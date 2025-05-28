@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מועדון ווינקס 3: במעמקי הים הקסום</title>
+    <originaltitle>Winx Club: The Mystery of the Abyss [2014]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5</value>
+            <votes>174</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-04-5 11:42:18[/COLOR]
+הכל רגוע ושקט באלפיאה, בית הספר לפיות צעירות, בו עובדות הפיות של מועדון הווינקס. השלווה מופרת, כשחבורת טריקס המרושעת, האויבת המרה של הפיות, מגיעה לאוקינוס האין-סופי, במטרה לכבוש את כס הקיסרות ולטעון לכתר. חבורת טריקס חוברת לכוחות אופל חזקים נוספים, תוך כדי שהם מנסים לנצל את הזיהום שבני האדם יצרו באוקיינוס. הזיהום הזה מעמיד בסיכון את האיזון הטבעי ואת המערכת האקולוגית, מה שמוביל לחיבור כל הימים של מג'יקס.</plot>
+    <runtime>83</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מועדון ווינקס 3_ במעמקי הים הקסום</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מועדון ווינקס 3_ במעמקי הים הקסום\מועדון ווינקס 3_ במעמקי הים הקסום.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מועדון ווינקס 3_ במעמקי הים הקסום\מועדון ווינקס 3_ במעמקי הים הקסום.strm</basepath>
+    <uniqueid type="tmdb" default="true">290841</uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Action</genre>
+<genre>Adventure</genre>
+<genre>משפחה</genre>
+<genre>פנטזיה</genre>
+<genre>אנימציה</genre>
+    <year>2014</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Gb_0fo3tLig</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//oWZ2rbAnOKsyKTPkoB9gLvP2geg.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//5WFl1JRmurctiMq4uL3tnofqbqq.jpg">http://image.tmdb.org/t/p/original//5WFl1JRmurctiMq4uL3tnofqbqq.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-04-05 11:42:18</dateadded>
+</movie>
+    

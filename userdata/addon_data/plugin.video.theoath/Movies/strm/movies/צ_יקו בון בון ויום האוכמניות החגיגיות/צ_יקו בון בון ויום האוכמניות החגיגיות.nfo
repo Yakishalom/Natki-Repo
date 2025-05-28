@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>צ'יקו בון בון ויום האוכמניות החגיגיות</title>
+    <originaltitle>Chico Bon Bon and the Very Berry Holiday [2020] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5</value>
+            <votes>23</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2021-01-2 17:53:13[/COLOR]
+כדי למנוע אסון, חברי צוות השיפוץ מתכננים לעבור בכל בית ובית במהירות שיא ולהביא לכל תושבי העיירה עוגיות אוכמניות לפני שהם מתעוררים.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\צ_יקו בון בון ויום האוכמניות החגיגיות</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\צ_יקו בון בון ויום האוכמניות החגיגיות\צ_יקו בון בון ויום האוכמניות החגיגיות.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\צ_יקו בון בון ויום האוכמניות החגיגיות\צ_יקו בון בון ויום האוכמניות החגיגיות.strm</basepath>
+    <uniqueid type="tmdb" default="true">771305</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>משפחה</genre>
+    <year>2020</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//6uFfmr790HSdCJcfCeQcltAZUrt.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//sAczHq1GTmePqHu3OTTkIyI64pV.jpg">http://image.tmdb.org/t/p/original//sAczHq1GTmePqHu3OTTkIyI64pV.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-01-02 17:53:13</dateadded>
+</movie>
+    

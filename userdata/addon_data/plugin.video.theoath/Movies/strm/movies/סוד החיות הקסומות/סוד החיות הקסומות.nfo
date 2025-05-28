@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>סוד החיות הקסומות</title>
+    <originaltitle>Die Schule der magischen Tiere</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2023-07-30 08:33:49[/COLOR]
+בית הספר הזה מסתיר סוד: מי שיש לו מזל מוצא כאן את החבר הכי טוב בעולם: חיה קסומה שיודעת לדבר, אם היא שייכת לך. אידה לא מרגישה בנוח בבית הספר החדש שלה. , אך כשהיא זוכה לקבל חיה קסומה- השועל רבט, שמוכן תמיד לעזור, חייה משתנים. כשבבית הספר מתחילים להיעלם כל מיני דברים, הם יוצאים יחד לחקור את התעלומה והרפתקה מופלאה מתחילה.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סוד החיות הקסומות</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סוד החיות הקסומות\סוד החיות הקסומות.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סוד החיות הקסומות\סוד החיות הקסומות.strm</basepath>
+    <uniqueid type="tmdb" default="true">793937</uniqueid>
+    
+    <genre>משפחה</genre>
+<genre>הרפתקאות</genre>
+<genre>פנטזיה</genre>
+    <year>2021</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=H5DQw2FcEFo</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//azAgKSa6NZkY0q48vrWNEuBV5MK.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//1100JRh1VbDkGiKBciy3lSuLxX7.jpg">http://image.tmdb.org/t/p/original//1100JRh1VbDkGiKBciy3lSuLxX7.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-07-30 08:33:49</dateadded>
+</movie>
+    

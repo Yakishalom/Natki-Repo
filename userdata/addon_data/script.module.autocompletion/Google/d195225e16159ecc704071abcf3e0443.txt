@@ -1,0 +1,1 @@
+["backupyakinew", ["backup kinew"], [], {"google:suggestsubtypes": [[10]], "google:suggesttype": [""]}]

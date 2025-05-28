@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הלוויתן והשבלול</title>
+    <originaltitle>The Snail and the Whale</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2023-11-19 08:38:00[/COLOR]
+סרט אנימציה של חצי שעה לכל המשפחה המבוסס על הספר האהוב כל כך שכתבה ג'וליה דונלדסון ואייר אקסל שפלר. החילזון והלוויתן הוא הקלאסיקה האהובה שמראה לנו חילזון צעיר חסר מנוחה שיש לו שאיפות לטייל בעולם. שאר החלזונות חושבים שהיא צריכה להישאר במקום, אבל היא מוציאה קריאה ל'ליפט מבוקש מסביב לעולם'. בסופו של דבר השיחה שלה נענית על ידי לווייתן גדול אפור-כחול גבנון! היא יוצאת איתו לדרך מעבר לים. במסעם מגלים החילזון והלווייתן קרחונים נישאים ואדמות רחוקות, הרים לוהטים וחולות זהובים. החילזון מתמוגג מהעולם המופלא שסביבה, עד שהיא מבינה כמה קטן הוא גורם לה להרגיש.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הלוויתן והשבלול</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הלוויתן והשבלול\הלוויתן והשבלול.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הלוויתן והשבלול\הלוויתן והשבלול.strm</basepath>
+    <uniqueid type="tmdb" default="true">655424</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>משפחה</genre>
+    <year>2020</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//qWsqdJ6XUvwimqxwlplIazKjpve.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//2XLuLr1E1JiD8NOgsJ284Pc6R7Y.jpg">http://image.tmdb.org/t/p/original//2XLuLr1E1JiD8NOgsJ284Pc6R7Y.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-11-19 08:38:00</dateadded>
+</movie>
+    

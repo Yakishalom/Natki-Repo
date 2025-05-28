@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>קונג פו פנדה</title>
+    <originaltitle>Kung Fu Panda</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.235</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2018-10-29 23:27:20
+ON,Dr,TE,TE,TE,TE
+[COLOR lightblue]2016-12-11 22:04:52[/COLOR]
+[COLOR blue]יוסי סרטים קונג פו פנדה 1 מדובב.avi[/COLOR]
+0.31 GB
+פעם לפני מאות שנים, בסין העתיקה, חי פו - דוב הפנדה העצלן ביותר בעולם. את רוב הזמן הוא העביר במסעדת הנודלס המשפחתית חולם על גיבורי הקונג פו שלו. עד שיום אחד הגורל הגיע ודרש מפו להשתתף באחד הקרבות החשובים ביותר בהיסטורית הקונג פו. כעת על דוב הפנדה העצלן ללמוד ביחד עם חבריו להפוך במהרה ללוחם קונג-פו מקצועי, בייחוד לאחר שנמר השלג, טיי לונג, השתחרר מכלאו והוא נמצא בדרכו כדי להילחם מולו.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קונג פו פנדה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קונג פו פנדה\קונג פו פנדה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קונג פו פנדה\קונג פו פנדה.strm</basepath>
+    <uniqueid type="tmdb" default="true">9502</uniqueid>
+    
+    <genre>אקשן </genre>
+<genre> הרפתקאות </genre>
+<genre> אנימציה </genre>
+<genre> משפחה </genre>
+<genre> קומדיה</genre>
+    <year>2008</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//a1vVelF6mQjoQpe1ZrIZ79FmTja.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//vndouqEyQqpvvk0FwIlkfceblrh.jpg">https://image.tmdb.org/t/p/original//vndouqEyQqpvvk0FwIlkfceblrh.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-10-29 23:27:20</dateadded>
+</movie>
+    

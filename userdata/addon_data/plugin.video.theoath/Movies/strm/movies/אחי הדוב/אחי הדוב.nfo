@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>אחי הדוב</title>
+    <originaltitle>Brother Bear</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.256</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE
+[COLOR lightblue]2022-02-01 16:09:09[/COLOR]
+[COLOR blue]DVDRip 2003 נתי מדיה אחי הדוב מדובב.avi[/COLOR]
+0.68 GB
+באמריקה של לפני האדם הלבן השתרעו ג'ונגלים נרחבים על פני האדמה, וחיות בר שלטו בארץ ביד חזקה. השבטים האינדיאנים ילידי המדינה הפרו את שלוות החיים במרחבי הירוקת האדירים לעתים תדירות, כשהיו יוצאים למסעות צייד והורגים רבים מחיות הבר. זהו סיפורו של קינאי, אחד מאותם הציידים האימתניים, שאחיו סיטקה נהרג במהלך ניסיון לצוד דובה מאיימת במיוחד. קינאי נשבע לנקום את מות האח, בעוד אחיו הנוסף דינאהי קורא לו להפסיק את מעגל שפיכות הדמים ולא להיכנע ליצריו. כאשר הוא ממאן להקשיב וצד בכל זאת את הדובה, יורדת אליו רוחו של האח סיטקה משביל הרוחות של אלו שהלכו והופכת את קינאי לדוב בעצמו. כעת, עליו ללמוד לראות את העולם מהצד שכנגד, ולהבין מבעד לעיני הדוב החדשות כיצד חשים הדובים אשר נרדפים בידי בני-האדם.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אחי הדוב</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אחי הדוב\אחי הדוב.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אחי הדוב\אחי הדוב.strm</basepath>
+    <uniqueid type="tmdb" default="true">10009</uniqueid>
+    
+    <genre>הרפתקאות </genre>
+<genre> אנימציה </genre>
+<genre> משפחה</genre>
+    <year>2003</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//32jyzIZ5f79EIWSoGJHuqfEczow.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//nMKfeFtE9bML6yjdcymrt5vtaNz.jpg">https://image.tmdb.org/t/p/original//nMKfeFtE9bML6yjdcymrt5vtaNz.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-02-01 16:09:09</dateadded>
+</movie>
+    

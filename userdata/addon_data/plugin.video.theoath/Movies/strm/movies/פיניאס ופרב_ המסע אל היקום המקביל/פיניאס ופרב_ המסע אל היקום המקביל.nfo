@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>פיניאס ופרב: המסע אל היקום המקביל</title>
+    <originaltitle>Phineas and Ferb: The Movie: Across the 2nd Dimension</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.963</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>TE
+[COLOR lightblue]2020-12-04 14:21:44[/COLOR]
+[COLOR blue]נתי מדיה פיניאס ופרב מדובב 2011.avi[/COLOR]
+0.68 GB
+פיניאס ופרב משחקים באחת מהמצאותיהם ב"דמינפוס" - כדור עף פלטיפוסי. במהלך המשחק, פיניאס ופרב הורסים בטעות את הטרון של ד"ר דופנשמירץ, בינתיים מייג'ור מונוגרם מסביר לפרי הפלטיפוס, שאם ייתפס על ידי בעליו, הוא יאלץ לעזוב את משפחתו. בעוד פרי הולך לעצור את מזימתו של דופנשמירץ, פיניאס ופרב מתקנים את הטרון של דופנשמירץ. דופנשמירץ נכנס למימד השני יחד עם פיניאס, פרב ופרי ופוגשים את הרודן דופנשמירץ שתום העין. הרודן מציג לחבורה את פרי הפלטיבורג, הגנרל הצבאי שלו - פרי הפלטיפוס. הרודן מראה לפיניאס ופרב בנוסף, שחיית המחמד שלהם היא סוכן חשאי.סרט מלא הרפתקאות שונות ומוזרות. הסוף הוא בהחלט מותח ומרגש עד דמעות.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פיניאס ופרב_ המסע אל היקום המקביל</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פיניאס ופרב_ המסע אל היקום המקביל\פיניאס ופרב_ המסע אל היקום המקביל.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פיניאס ופרב_ המסע אל היקום המקביל\פיניאס ופרב_ המסע אל היקום המקביל.strm</basepath>
+    <uniqueid type="tmdb" default="true">71689</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> קומדיה </genre>
+<genre> משפחה </genre>
+<genre> סרט טלויזיה </genre>
+<genre> הרפתקאות </genre>
+<genre> מדע בדיוני</genre>
+    <year>2011</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//updMFSOZwEftfkJRpozwBlRlYI2.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//qXxENmYYPSs4TnPjU8gfnhUo714.jpg">https://image.tmdb.org/t/p/original//qXxENmYYPSs4TnPjU8gfnhUo714.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-12-04 14:21:44</dateadded>
+</movie>
+    

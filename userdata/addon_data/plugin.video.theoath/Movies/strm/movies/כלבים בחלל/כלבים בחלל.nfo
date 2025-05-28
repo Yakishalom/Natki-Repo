@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>כלבים בחלל</title>
+    <originaltitle>Space Dogs [2010]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5</value>
+            <votes>1,042</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-07-5 11:41:21[/COLOR]
+לבלקה, כלבת קרקס מפורסמת שכובשת לבבות, נמאס להיות באור הזרקורים. היא רוצה יותר משמעות בחייה מאשר להיות סתם כלבת שעשועים. סטרלקה, היא כלבת רחוב שובבה ומחוספסת, שגדלה והתחנכה ברחוב אבל אף פעם לא התאימה לשם. כבר נמאס לה לשוטט ברחובות ולחפש אוכל. יום אחד, בדרך לא דרך הן נפגשות והחברות ביניהן מרקיעה לשחקים...  יחד לוקחות אותנו שתיהן איתן להיות צוות מנצח בחלל!</plot>
+    <runtime>85</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\כלבים בחלל</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\כלבים בחלל\כלבים בחלל.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\כלבים בחלל\כלבים בחלל.strm</basepath>
+    <uniqueid type="tmdb" default="true">36696</uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Adventure</genre>
+<genre>Comedy</genre>
+<genre>משפחה</genre>
+<genre>אנימציה</genre>
+    <year>2010</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=wyYQ37wL7Yo</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//4NWudPU4JjG5aBOGiNsUD2rNFdx.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//7f1gvDWdnajjN1GXxYB7kk2fuyY.jpg">http://image.tmdb.org/t/p/original//7f1gvDWdnajjN1GXxYB7kk2fuyY.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-07-05 11:41:21</dateadded>
+</movie>
+    

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>אגדת שלג</title>
+    <originaltitle>The Legend of Sarila [2013]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5</value>
+            <votes>746</votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr
+[COLOR lightblue]2018-12-19 00:00:19[/COLOR]
+בצפון הרחוק, במרחבי הקרח האין סופיים, לאחר שכל חיות הבר נעלמו והשבט עומד בפני סכנת רעב. שלושה צעירים אסקימואים יוצאים למסע הרפתקאות מסוכן אחר האגדה של סרילה. על פי האגדה העתיקה, רחוק רחוק, בין הקרחונים, מסתתרת הארץ המובטחת, שתוכל להציל את כולם. רק אלו שנשמתם טהורה וכוונותיהם טובות, יוכלו למצוא אותה. השלושה הם פוטוליק, בנו של ראש השבט, ארוסתו היפהפיה אפיק ומארקוסי, גיבור הסרט, צעיר אמיץ המתכחש לכוחותיו המיוחדים. השמאן הזקן קרוליק, שאמור לעמוד לצידם, רותם את כוחות הרשע בניסיון להיפטר מ-מארקוסי, שמא זה יירש את מקומו. מארקוסי מוביל את השלושה למסע מלא בהרפתקאות שיילמד אותם מהי חברות אמיצה.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אגדת שלג</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אגדת שלג\אגדת שלג.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אגדת שלג\אגדת שלג.strm</basepath>
+    <uniqueid type="tmdb" default="true">233423</uniqueid>
+    
+    <genre>משפחה</genre>
+<genre>אנימציה</genre>
+<genre>הרפתקאות</genre>
+    <year>2013</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=GvsExrARHnI</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//1JAUGNhEjAnt9blDZVwdD9miaU2.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//cZ1x8OgK6vdHXRsBXT1poDMcJbJ.jpg">http://image.tmdb.org/t/p/original//cZ1x8OgK6vdHXRsBXT1poDMcJbJ.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-12-19 00:00:19</dateadded>
+</movie>
+    

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מסביב לעולם עם פליקס</title>
+    <originaltitle>Felix - Ein Hase auf Weltreise</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.2</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>TE
+[COLOR lightblue]2018-06-09 20:29:38[/COLOR]
+[COLOR blue]מסביב לעולם עם פליקס.מדובב.גוזלן.mp4[/COLOR]
+0.67 GB
+פליקס מבלה את חופשת הקיץ עם סופי ומשפחתה בנורווגיה. לאחר שהוא מציל אותם מידיו של טרול ענק, הם מאבדים אחד את השני, ופליקס צריך למצוא לבדו את הדרך חזרה הביתה. מסעו של פליקס מלווה בהרפתקאות רבות – הוא פוגש במפלצת ירוקה והינשוף החכם שמשרת אותה, מפלצת הלוך נס, "יטי" ביישן בהימלאיה, קפטן ברונו וצוות הצוללת שלו ואת צאצאיו המקסימים של הרוזן דרקולה מטרנסילבניה. האם פליקס יצליח להגיע בשלום הביתה, ולהתאחד עם חברתו סופי? האם הוא ימצא בדרך חברים חדשים?TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מסביב לעולם עם פליקס</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מסביב לעולם עם פליקס\מסביב לעולם עם פליקס.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מסביב לעולם עם פליקס\מסביב לעולם עם פליקס.strm</basepath>
+    <uniqueid type="tmdb" default="true">172625</uniqueid>
+    
+    <genre>משפחה </genre>
+<genre> אנימציה</genre>
+    <year>2005</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//8nvuRTlT9Gk0pxBENDFWxXOkZ6l.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//pZbHeEnree9ZfLoVDwWSiUPXs9h.jpg">https://image.tmdb.org/t/p/original//pZbHeEnree9ZfLoVDwWSiUPXs9h.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-06-09 20:29:38</dateadded>
+</movie>
+    

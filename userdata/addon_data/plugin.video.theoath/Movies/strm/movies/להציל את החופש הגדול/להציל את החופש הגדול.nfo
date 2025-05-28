@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>להציל את החופש הגדול</title>
+    <originaltitle>Recess: School%27s Out</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.6</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>Dr,TE,TE
+[COLOR lightblue]2023-04-19 19:45:28[/COLOR]
+[COLOR blue]1080p 2021 להציל את החופש הגדול מדובב.mkv[/COLOR]
+1.26 GB
+שנת הלימודים סוף סוף נגמרה, וטי-ג'יי מצפה לעוד חופשת קיץ שמחה וכיפית. בדיוק כשהשעמום מתחיל להשפיע, כאשר כל חבריו עוזבים למחנה קיץ, מגלה טי-ג'יי על תוכנית מרושעת של מנהל בית ספר לשעבר בשם ד"ר בנדיקט. הד"ר המטורף עומל על קרן לייזר שתשנה את מזג האוויר ותגרום לחורף תמידי - ובכך תבטל את חופשות הקיץ. או אז אוסף טי-ג'יי חבורה בלתי צפויה ויוצא לעצור את כוונתו של בנדיקט.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\להציל את החופש הגדול</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\להציל את החופש הגדול\להציל את החופש הגדול.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\להציל את החופש הגדול\להציל את החופש הגדול.strm</basepath>
+    <uniqueid type="tmdb" default="true">19405</uniqueid>
+    
+    <genre></genre>
+    <year>2001</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//oJ3z3ZBV4G4VbD3vUDbz7EyyKrQ.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//5Sfogeh6PbAZW7hiPV1L2MnQFxV.jpg">https://image.tmdb.org/t/p/original//5Sfogeh6PbAZW7hiPV1L2MnQFxV.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-04-19 19:45:28</dateadded>
+</movie>
+    

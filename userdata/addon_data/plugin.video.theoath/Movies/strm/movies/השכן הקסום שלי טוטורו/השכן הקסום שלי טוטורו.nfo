@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>השכן הקסום שלי טוטורו</title>
+    <originaltitle>となりのトトロ</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>8.071</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE
+[COLOR lightblue]2022-12-25 23:49:24[/COLOR]
+[COLOR blue]1080p_1988_השכן_הקסום_שלי_טוטורו_מדובב.mkv[/COLOR]
+1.62 GB
+סרט האנימציה הקלאסי מבית היוצר של מייאזקי (המסע המופלאת הטירה הנעה). שתי האחיות סאצוקי ומיי עוברות עם אביהם לבית בכפר כדי להיות קרובים לאמן המאושפזת בבית חולים קרוב, בגלל מחלה לא ברורה. ביער הסמוך לכפר מתוודעות האחיות לשדון יער בשם טוטורו, המכיר להן עולם שלם של יצורים פרוותים,מצחיקים וקסומים,בינהם גם חתול ענק שמשמש כאוטובוס. כאשר מיי מגלה כי מצבה של אמה מחמיר היא נעלמת, סאצוקי יוצאת למסע חיפושים אחרי מיי, אבל רק טוטורו יכול לסייע לה למצוא אותה...TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\השכן הקסום שלי טוטורו</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\השכן הקסום שלי טוטורו\השכן הקסום שלי טוטורו.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\השכן הקסום שלי טוטורו\השכן הקסום שלי טוטורו.strm</basepath>
+    <uniqueid type="tmdb" default="true">8392</uniqueid>
+    
+    <genre>פנטזיה </genre>
+<genre> אנימציה </genre>
+<genre> משפחה</genre>
+    <year>1988</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//ygejPdwdpOqeC1FyisofWbyySrD.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//fxYazFVeOCHpHwuqGuiqcCTw162.jpg">https://image.tmdb.org/t/p/original//fxYazFVeOCHpHwuqGuiqcCTw162.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-12-25 23:49:24</dateadded>
+</movie>
+    

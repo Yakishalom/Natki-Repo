@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הטרול בפארק הקסום</title>
+    <originaltitle>A Troll in Central Park [1994]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5</value>
+            <votes>5,123</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-04-4 16:34:45[/COLOR]
+סטנלי הוא בסך הכל טרול חמוד שלא מוכן להיות עצבני כמו כל שאר הטרולים. יש לו אגודל ירוק מיוחד שמאפשר לו לגדל פרחים בהינף יד, מה שבשלב מסוים מעלה את הסעיף למלכה שלו, הדורשת מכל הטרולים להתנהג באכזריות טרולית אופיינית. כדי ללמד אותו לקח היא משגרת אותו למסת הבטון של ניו יורק, אלא שהוא נוחת דווקא בסנטרל פארק, בין העצים והמדשאות. בפארק הוא פוגש אח ואחות שהוריהם יותר מדי עסוקים מכדי לטייל עמם, והשלושה נאלצים מהר מאוד להחזיר מלחמה למלכה הרגזנית שמגיעה לסדר את סטנלי אחת ולתמיד! אנימציה מאת היוצרים של 'אצבעונית' ו-'גן עדן לכלבים', דון בלות' וגארי גולדמן.</plot>
+    <runtime>76</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הטרול בפארק הקסום</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הטרול בפארק הקסום\הטרול בפארק הקסום.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הטרול בפארק הקסום\הטרול בפארק הקסום.strm</basepath>
+    <uniqueid type="tmdb" default="true">35614</uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Adventure</genre>
+<genre>Comedy</genre>
+<genre>פנטזיה</genre>
+<genre>אנימציה</genre>
+<genre>מדע בדיוני</genre>
+<genre>משפחה</genre>
+    <year>1994</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//40gJGTSRtsmjemvUogS4RG27fff.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//pvECEJIcsQnpGJudxaVEwMtbujm.jpg">http://image.tmdb.org/t/p/original//pvECEJIcsQnpGJudxaVEwMtbujm.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-04-04 16:34:45</dateadded>
+</movie>
+    

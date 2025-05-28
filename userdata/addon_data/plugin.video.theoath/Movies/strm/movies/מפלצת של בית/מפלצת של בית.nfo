@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מפלצת של בית</title>
+    <originaltitle>Monster House</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.668</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE,TE
+[COLOR lightblue]2023-09-10 18:28:49[/COLOR]
+[COLOR blue]1080p BluRay 2006 נ.מ מפלצת של בית מדובב.mkv[/COLOR]
+1.43 GB
+מבית היוצר של "רכבת לקוטב" מגיעה פנטזיה מצוירת חדשה על ההתמודדות עם הפחדים של גיל ההתבגרות. שני נערים מפוחדים חושדים שהבית הנטוש בקצה הרחוב הוא בעצם מפלצת אוכלת אדם ושבעל הבית המפחיד דואג לפטמה בעוברים ושבים. כשבעל הבית נעלם, הם יוצאים לחקור את ה"מפלצת", ומצרפים אל המאבק נערה בת גילם, ומתחילים בנוסף לכל צרותיהם מלחמה על ליבה.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מפלצת של בית</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מפלצת של בית\מפלצת של בית.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מפלצת של בית\מפלצת של בית.strm</basepath>
+    <uniqueid type="tmdb" default="true">9297</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> קומדיה </genre>
+<genre> משפחה </genre>
+<genre> פנטזיה</genre>
+    <year>2006</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//7J4bWcLsHXvSWUSO8fLcbQHWegs.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//aDnCTWpWMHcQxOeGWsITmoLuEGy.jpg">https://image.tmdb.org/t/p/original//aDnCTWpWMHcQxOeGWsITmoLuEGy.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-09-10 18:28:49</dateadded>
+</movie>
+    

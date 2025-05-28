@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>קופים בחלל 2: זרטוג מכה שנית</title>
+    <originaltitle>Space Chimps 2: Zartog Strikes Back</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>4.41</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>TE
+[COLOR lightblue]2021-11-14 21:51:17[/COLOR]
+[COLOR blue]1080p BluRay 2010 נ.מ קופים בחלל 2 מדובב.mkv[/COLOR]
+1.45 GB
+קומט הוא הקוף הטכנולוגי המחונן שחולם להיות אחד מהקופים האסטרונאוטים שנשלחים למשימות בחלל. כתוצאה מתקלה זוכה קומט סוף סוף לצאת למסע בין גלקטי לכוכב מאלגור, שם הוא פוגש את החייזר קילווט. אך הפנטזיה של קומט באה לקיצה והצרות מתחילות כאשר בזמן העדרו משתלט זרטוג הרשע על מרכז החלל בכדור הארץ, וקומט חייב לגלות אומץ ולעשות את הדבר הנכון. הוא נאלץ לחזור לכדור הארץ ולהצטרף ללונה, טיטאן והאם כדי להציל את העולם מהשתלטות על ידי זרטוג.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קופים בחלל 2_ זרטוג מכה שנית</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קופים בחלל 2_ זרטוג מכה שנית\קופים בחלל 2_ זרטוג מכה שנית.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קופים בחלל 2_ זרטוג מכה שנית\קופים בחלל 2_ זרטוג מכה שנית.strm</basepath>
+    <uniqueid type="tmdb" default="true">45662</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> משפחה</genre>
+    <year>2010</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//tGn09Iwv54ZT06ZpPZfqwBdtoss.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//kG5OLZZ5fNDQkaBVOgbnPFSURaJ.jpg">https://image.tmdb.org/t/p/original//kG5OLZZ5fNDQkaBVOgbnPFSURaJ.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-11-14 21:51:17</dateadded>
+</movie>
+    

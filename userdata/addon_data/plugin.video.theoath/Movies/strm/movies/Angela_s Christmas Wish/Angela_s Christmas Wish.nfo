@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Angela's Christmas Wish</title>
+    <originaltitle>Angela's Christmas Wish [2020] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7</value>
+            <votes>489</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2020-12-16 11:35:32[/COLOR]
+A determined Angela makes a wish to reunite her family in time for Christmas, then launches a plan to find her way from Ireland to Australia.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\Angela_s Christmas Wish</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\Angela_s Christmas Wish\Angela_s Christmas Wish.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\Angela_s Christmas Wish\Angela_s Christmas Wish.strm</basepath>
+    <uniqueid type="tmdb" default="true">752455</uniqueid>
+    
+    <genre>Animation</genre>
+    <year>2020</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=PCLmjgk4lTU</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//eu747ko823mktL3ygo7ohdZznP7.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//eo6pahstCYRUm0Lk4MORmfCs2SH.jpg">http://image.tmdb.org/t/p/original//eo6pahstCYRUm0Lk4MORmfCs2SH.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-12-16 11:35:32</dateadded>
+</movie>
+    

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>חברי הדרקון אליוט</title>
+    <originaltitle>Pete's Dragon [2016]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7</value>
+            <votes>42,195</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2017-12-3 16:15:59[/COLOR]
+במשך השנים, מר קארבר שימח את הילדים המקומיים בסיפוריו על דרקון אכזרי השוכן עמוק בתוך היערות של מערב האוקיינוס ​​השקט. לבתו גרייס, העובדת בתור שומרת יערות, הסיפורים האלה הם קצת יותר ממעשיות, עד שהיא פוגשת את פיט. פיט הוא ילד בן 10 מסתורי, ללא משפחה ובלי בית הטוען כי הוא חי ביער עם דרקון ענק ירוק בשם אליוט. מן התיאורים של פיט, אליוט נשמע דומה להפליא לדרקון מהסיפורים של מר קארבר. בעזרתה של נטלי, ילדה בת 11, גרייס יוצאת לגלות מאיפה פיט בא, לאן הוא שייך ואת האמת על הדרקון.</plot>
+    <runtime>102</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\חברי הדרקון אליוט</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\חברי הדרקון אליוט\חברי הדרקון אליוט.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\חברי הדרקון אליוט\חברי הדרקון אליוט.strm</basepath>
+    <uniqueid type="tmdb" default="true">294272</uniqueid>
+    
+    <genre>Action</genre>
+<genre>Adventure</genre>
+<genre>Comedy</genre>
+<genre>הרפתקאות</genre>
+<genre>משפחה</genre>
+<genre>פנטזיה</genre>
+    <year>2016</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=OlUkOid3TYc</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//u0yU8wNqCY3mwiRG6mMAMppG4gI.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//A0oHjaZPLMD6ruUwYxnIlOUx1ot.jpg">http://image.tmdb.org/t/p/original//A0oHjaZPLMD6ruUwYxnIlOUx1ot.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2017-12-03 16:15:59</dateadded>
+</movie>
+    

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>דרושות אמהות במאדים</title>
+    <originaltitle>Mars Needs Moms [2011] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5</value>
+            <votes>20,909</votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr
+[COLOR lightblue]2020-11-15 22:56:54[/COLOR]
+תוציא את הזבל, תאכל ברוקולי – מי צריך אמהות בכל? מיילו בן התשע מגלה עכשיו עד כמה הוא זקוק לאמא שלו, כשהיא נחטפת בידי יצורים מהמאדים שמתכננים לגנוב את האמהיות שלה בשביל צעירי הכוכב. מסעו של מיילו להציל את אימו הופך להרפתקה פרועה הכוללת התגנבות לחללית, ניווט בכוכב מתוחכם והשתלטות על העולם החייזרי ועל המנהיג שלה. בעזרתו של גיק טכנולוגי בשם גריבל וחייזרית מרדנית בשם קי, מיילו ימצא את הדרך חזרה אל אמו, תרתי משמע.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דרושות אמהות במאדים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דרושות אמהות במאדים\דרושות אמהות במאדים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דרושות אמהות במאדים\דרושות אמהות במאדים.strm</basepath>
+    <uniqueid type="tmdb" default="true">50321</uniqueid>
+    
+    <genre>הרפתקאות</genre>
+<genre>אנימציה</genre>
+<genre>משפחה</genre>
+    <year>2011</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=JWYVQzG0rYk</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//lOKqLd0ud1wdwaPK5h6bGNZIVLT.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//sU9wVEAgWPXPULYQMctd0T5MCdI.jpg">http://image.tmdb.org/t/p/original//sU9wVEAgWPXPULYQMctd0T5MCdI.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-11-15 22:56:54</dateadded>
+</movie>
+    

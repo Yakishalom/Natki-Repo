@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הדרקון הראשון שלי</title>
+    <originaltitle>How to Train Your Dragon</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.81</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE,TE,TE
+[COLOR lightblue]2021-09-16 22:23:58[/COLOR]
+[COLOR blue]1080p 2010 הדרקון הראשון שלי 1 מדובב.mkv[/COLOR]
+1.44 GB
+היקאפ הוא נער ויקינגי שחי על האי "ברק", אי שבו הלחימה בדרקונים היא דרך חיים. אך דעותיו המתקדמות וחוש הומור המיוחד שלו לא ממש מתישבים טוב עם אנשי השבט או מנהיג השבט. כאשר היקאפ נכלל באימון הדרקונים השנתי ביחד עם נערים ויקנגים אחרים, הוא רואה בזאת הזדמנות להוכיח את עצמו ולהראות שיש לו את מה שצריך כדי להיות לוחם. כשהוא פוגש דרקון פצוע ואף מצליח להתיידד איתו, עולמו מתהפך - מה שהחל כניסיון של היקאפ להוכיח את עצמו הופך במהרה להזדמנות להתוות דרך חדשה לשבט כולו.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הדרקון הראשון שלי</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הדרקון הראשון שלי\הדרקון הראשון שלי.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הדרקון הראשון שלי\הדרקון הראשון שלי.strm</basepath>
+    <uniqueid type="tmdb" default="true">10191</uniqueid>
+    
+    <genre>פנטזיה </genre>
+<genre> הרפתקאות </genre>
+<genre> אנימציה </genre>
+<genre> משפחה</genre>
+    <year>2010</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//BdqOoAfOJYEhZUmcq9QkWsfHVp.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//59vDC1BuEQvti24OMr0ZvtAK6R1.jpg">https://image.tmdb.org/t/p/original//59vDC1BuEQvti24OMr0ZvtAK6R1.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-09-16 22:23:58</dateadded>
+</movie>
+    

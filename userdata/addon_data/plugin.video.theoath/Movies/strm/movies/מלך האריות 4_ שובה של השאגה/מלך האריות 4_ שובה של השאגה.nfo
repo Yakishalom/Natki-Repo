@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מלך האריות 4: שובה של השאגה</title>
+    <originaltitle>מלך האריות 4: שובה של השאגה</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes> </votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-08-26 12:29:21[/COLOR]
+סרט המשך לסדרת 'מלך האריות', והסרט הפותח את הסדרה 'משמר האריות'. בסוואנה האפריקנית, קיאון [בנם של סימבה ונאלה] מקים את 'משמר האריות'. חיות צעירות לומדות כיצד לנצל כל אחד את יכולתו המיוחדת כדי לפתור את בעיותיהם ולהשיג את מטרותיהם, ועם זאת לשמור על האיזון הנכון של גלגל החיים.</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מלך האריות 4_ שובה של השאגה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מלך האריות 4_ שובה של השאגה\מלך האריות 4_ שובה של השאגה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מלך האריות 4_ שובה של השאגה\מלך האריות 4_ שובה של השאגה.strm</basepath>
+    <uniqueid type="tmdb" default="true"> </uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Adventure</genre>
+<genre>Family</genre>
+<genre>סרט טלויזיה</genre>
+<genre>אנימציה</genre>
+<genre>משפחה</genre>
+    <year>2015</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//iyuvVfb2rYgjanXdjYbrzqtVIwI.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//fINitD72d1LWLsvUi4gRQaUP4OQ.jpg">http://image.tmdb.org/t/p/original//fINitD72d1LWLsvUi4gRQaUP4OQ.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-08-26 12:29:21</dateadded>
+</movie>
+    

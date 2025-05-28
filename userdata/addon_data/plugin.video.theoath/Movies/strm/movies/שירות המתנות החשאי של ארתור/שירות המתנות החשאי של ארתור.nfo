@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>שירות המתנות החשאי של ארתור</title>
+    <originaltitle>Arthur Christmas</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr
+[COLOR lightblue]2021-09-11 17:43:52[/COLOR]
+ארתור הוא הבן המגושם של סנטה קלאוס. הוא אוהב כל דבר שקשור בחג המולד, הוא היחידי במשפחה שמוקסם מהחג. אחיו של ארתור הוא סטיב, שאמור עם הזמן להחליף את אביו, הוא הביא איתו בצורה מושלמת את הקדמה לקוטב הצפוני, אבל הוא נכנס יותר לצד הניהולי של העסק ופחות למהות של החג. אביהם, סנטה רואה את עצמו האחראי על הקוטב הצפוני, אבל נראה שהעסק גדל יותר ממה שהוא יכול להתעסק איתו. על כולם בסופו של דבר מוטלת המשימה להביא את המתנות לכל הילדים בעולם בחג המולד. אבל נראה שמכולם לארתור זה הכי אכפת.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\שירות המתנות החשאי של ארתור</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\שירות המתנות החשאי של ארתור\שירות המתנות החשאי של ארתור.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\שירות המתנות החשאי של ארתור\שירות המתנות החשאי של ארתור.strm</basepath>
+    <uniqueid type="tmdb" default="true">51052</uniqueid>
+    
+    <genre>דרמה</genre>
+<genre>אנימציה</genre>
+<genre>משפחה</genre>
+<genre>קומדיה</genre>
+    <year>2011</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=vxcz1XIKUmo</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//sPCrGLdTMn0ud3oAJG37VDxpQfZ.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//t4WQ36MAZf1sgiPKocTa0KBGBKI.jpg">http://image.tmdb.org/t/p/original//t4WQ36MAZf1sgiPKocTa0KBGBKI.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-09-11 17:43:52</dateadded>
+</movie>
+    

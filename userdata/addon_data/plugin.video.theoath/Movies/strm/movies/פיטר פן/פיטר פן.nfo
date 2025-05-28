@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>פיטר פן</title>
+    <originaltitle>Peter Pan</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.221</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2021-02-24 01:14:40
+ON,TE,TE,TE
+[COLOR lightblue]2018-06-04 11:57:11[/COLOR]
+[COLOR blue]פיטר פן.1953.מדובב.גוזלן.avi[/COLOR]
+0.68 GB
+הרפתקה מקסימה שמתחילה בדרך לכוכב השני מימין וממשיכה עד עלות השחר ממתינה לוונדי ולאחיה כשפיטר פן, גיבור הסיפורים שלה, לוקח אותם לעולם הקסום של ארץ לעולם לא. הם תרים אחר האי ואת מקום המסתור של פיטר והחבורה של הילדים האבודים, ומזנקים היישר לקרב נגד פיראטים נועזים ובראשם קפטן הוק הידוע לשמצה.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פיטר פן</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פיטר פן\פיטר פן.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פיטר פן\פיטר פן.strm</basepath>
+    <uniqueid type="tmdb" default="true">10693</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> משפחה </genre>
+<genre> הרפתקאות </genre>
+<genre> פנטזיה</genre>
+    <year>1953</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//a5q0vlSv4rsZIoglhF0nTLCyFMN.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//ueJvL733Do4QrE7Eh2oEooVSiaI.jpg">https://image.tmdb.org/t/p/original//ueJvL733Do4QrE7Eh2oEooVSiaI.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-02-24 01:14:40</dateadded>
+</movie>
+    

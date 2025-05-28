@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>די-ג'יי סינדרלה</title>
+    <originaltitle>Cinderela Pop</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.464</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>Dr,TE
+[COLOR lightblue]2023-04-30 15:22:11[/COLOR]
+[COLOR blue]1080p 2020 נ.מ די ג'יי סינדרלה מדובב.mkv[/COLOR]
+1.58 GB
+די-ג'יי צעירה ועצמאית שמאסה באהבה נחושה לפלס את דרכה לפסגה, עד שכוכב פופ חתיך נקרה בדרכה והיא כובשת את ליבו – ואת אוזניו.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\די-ג_יי סינדרלה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\די-ג_יי סינדרלה\די-ג_יי סינדרלה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\די-ג_יי סינדרלה\די-ג_יי סינדרלה.strm</basepath>
+    <uniqueid type="tmdb" default="true">553608</uniqueid>
+    
+    <genre>רומנטי </genre>
+<genre> קומדיה</genre>
+    <year>2019</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//uL0TrrV5MHQFkwRxlho0dDKTwvm.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//3tt3tp81aGboViMplQItugAI2RO.jpg">https://image.tmdb.org/t/p/original//3tt3tp81aGboViMplQItugAI2RO.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-04-30 15:22:11</dateadded>
+</movie>
+    

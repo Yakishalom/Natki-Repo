@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Shark Tale</title>
+    <originaltitle>Shark Tale [2004] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>166,479</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2021-01-11 11:07:52[/COLOR]
+Oscar is a small fish whose big aspirations often get him into trouble. Meanwhile, Lenny is a great white shark with a surprising secret that no sea creature would guess: He's a vegetarian. When a lie turns Oscar into an improbable hero and Lenny becomes an outcast, the two form an unlikely friendship.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\Shark Tale</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\Shark Tale\Shark Tale.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\Shark Tale\Shark Tale.strm</basepath>
+    <uniqueid type="tmdb" default="true">10555</uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Action</genre>
+<genre>Comedy</genre>
+<genre>Family</genre>
+    <year>2004</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=1VX7g_4IVfU</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//r08DpyPyhXcJTfNZAICNGMzcQ8l.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//z1oPj03g6b9F5VyUTyQMp7IJ7Y9.jpg">http://image.tmdb.org/t/p/original//z1oPj03g6b9F5VyUTyQMp7IJ7Y9.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-01-11 11:07:52</dateadded>
+</movie>
+    

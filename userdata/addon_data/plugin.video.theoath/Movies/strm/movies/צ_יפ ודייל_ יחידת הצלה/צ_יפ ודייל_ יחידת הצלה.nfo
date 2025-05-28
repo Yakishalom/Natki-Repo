@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>צ'יפ ודייל: יחידת הצלה</title>
+    <originaltitle>Chip %27n Dale: Rescue Rangers</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.01</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>Dr,TE
+[COLOR lightblue]2023-02-16 15:45:32[/COLOR]
+[COLOR blue]1080p 2022 ציפ ודייל יחידת הצלה מדובב.mkv[/COLOR]
+1.46 GB
+שנה לאחר שסדרת הטלוויזיה "יחידת ההצלה של צ'יפ ודייל" הסתיימה, צ'יפ עובד כאיש מכירות ודייל עבר "ניתוח הנפשה ממוחשבת" ומקווה לשחזר את ימי הזוהר. כאשר חברם לצוות לשעבר מונטריי ג'ק נעלם במיסתוריות, מוכרחים צ'יפ ודייל לאחד את שאר החבורה על מנת להציל את חבריהם ולשפר מחדש את חברותיהם.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\צ_יפ ודייל_ יחידת הצלה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\צ_יפ ודייל_ יחידת הצלה\צ_יפ ודייל_ יחידת הצלה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\צ_יפ ודייל_ יחידת הצלה\צ_יפ ודייל_ יחידת הצלה.strm</basepath>
+    <uniqueid type="tmdb" default="true">420821</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> משפחה </genre>
+<genre> קומדיה </genre>
+<genre> הרפתקאות </genre>
+<genre> מסתורין</genre>
+    <year>2022</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//fAf59xgBQKQwa5qFXVgKIyBnnoW.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//qK7Ssnrfvrt65F66A1thvehfQg2.jpg">https://image.tmdb.org/t/p/original//qK7Ssnrfvrt65F66A1thvehfQg2.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-02-16 15:45:32</dateadded>
+</movie>
+    

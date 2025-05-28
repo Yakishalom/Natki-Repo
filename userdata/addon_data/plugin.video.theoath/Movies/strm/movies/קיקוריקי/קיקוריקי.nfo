@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>קיקוריקי</title>
+    <originaltitle>Kikoriki: Team Invincible [2011]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>256</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-07-8 08:34:49[/COLOR]
+עולמם של שבעה קיקוריקי משתנה כאשר באי המדהים אך המשעמם בו הם גרים לפתע מתגלה הטלוויזיה. הקיקוריקי מתבלבלים לחשוב שהסרטים המוצגים על המסך הם המציאות ומחליטים לצאת לחפש את לוסיין, גיבור העל האהוב עליהם, על-מנת לעזור לו להציל את העולם מפני הרשע.</plot>
+    <runtime>90</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קיקוריקי</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קיקוריקי\קיקוריקי.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קיקוריקי\קיקוריקי.strm</basepath>
+    <uniqueid type="tmdb" default="true">85315</uniqueid>
+    
+    <genre>Animation</genre>
+<genre>אנימציה</genre>
+<genre>משפחה</genre>
+<genre>קומדיה</genre>
+    <year>2011</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//oE0bEBYzcQALCRdoBdXD5eb4E42.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//wOlsrwOs6G3k9xHlxGSGYJfzTYh.jpg">http://image.tmdb.org/t/p/original//wOlsrwOs6G3k9xHlxGSGYJfzTYh.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-07-08 08:34:49</dateadded>
+</movie>
+    

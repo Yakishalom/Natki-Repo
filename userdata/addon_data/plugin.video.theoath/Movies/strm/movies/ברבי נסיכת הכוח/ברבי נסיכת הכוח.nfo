@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>ברבי נסיכת הכוח</title>
+    <originaltitle>Barbie in Princess Power [TV Movie 2015]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>476</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2017-12-3 12:24:24[/COLOR]
+יום אחד, אחרי שקיבלה נשיקה מפרפר קסום, קארה מגלה שיש לה כוחות על שמאפשרים לה להפוך ל סופר ספרקל, כאשר בן דודה הקנאי מגלה על כך, הוא מחפש אחר הפרפר בכדי להפוך לדארק ספרקל, הנמסיס שלה.</plot>
+    <runtime>73</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ברבי נסיכת הכוח</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ברבי נסיכת הכוח\ברבי נסיכת הכוח.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ברבי נסיכת הכוח\ברבי נסיכת הכוח.strm</basepath>
+    <uniqueid type="tmdb" default="true">316322</uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Family</genre>
+<genre>Fantasy</genre>
+<genre>משפחה</genre>
+<genre>אנימציה</genre>
+    <year>2015</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//2k2V30CkllGKIwZ5BygMviJzYuF.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//eNNQo0CSJpN7KYrQB6lKFqcNE4W.jpg">http://image.tmdb.org/t/p/original//eNNQo0CSJpN7KYrQB6lKFqcNE4W.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2017-12-03 12:24:24</dateadded>
+</movie>
+    

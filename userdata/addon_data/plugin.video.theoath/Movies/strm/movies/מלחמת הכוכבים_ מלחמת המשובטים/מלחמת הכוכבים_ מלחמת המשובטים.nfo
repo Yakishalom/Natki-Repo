@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מלחמת הכוכבים: מלחמת המשובטים</title>
+    <originaltitle>Star Wars: The Clone Wars</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.121</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,TE
+[COLOR lightblue]2020-10-28 18:14:43[/COLOR]
+[COLOR blue]720p BluRay 2008 מלחמת המשובטים מדובב.mkv[/COLOR]
+1.42 GB
+מלחמת המשובטים סוחפת את הגלקסיה ואבירי הג'די נאבקים כדי להשליט סדר ולהחזיר את השקט. אנקין וחבורתו יוצאים למלחמה נגד כוחות השחור ומשתפי הפעולה אבל הרוזן דוקו יעשה הכול כדי שהם יכשלו במשימתם.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מלחמת הכוכבים_ מלחמת המשובטים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מלחמת הכוכבים_ מלחמת המשובטים\מלחמת הכוכבים_ מלחמת המשובטים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מלחמת הכוכבים_ מלחמת המשובטים\מלחמת הכוכבים_ מלחמת המשובטים.strm</basepath>
+    <uniqueid type="tmdb" default="true">12180</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> אקשן </genre>
+<genre> מדע בדיוני </genre>
+<genre> הרפתקאות</genre>
+    <year>2008</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//1688W2xeV0WXF9fVWxgXy1B6KtH.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//xEdnGUc8KeZ7h0eEgSN3ERhjgL0.jpg">https://image.tmdb.org/t/p/original//xEdnGUc8KeZ7h0eEgSN3ERhjgL0.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-10-28 18:14:43</dateadded>
+</movie>
+    

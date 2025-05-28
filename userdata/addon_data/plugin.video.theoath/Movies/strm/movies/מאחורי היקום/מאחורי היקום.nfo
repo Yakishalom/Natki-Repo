@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מאחורי היקום</title>
+    <originaltitle>Depois do Universo</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2023-07-1 23:15:21[/COLOR]
+פסנתרנית צעירה שמחכה להשתלת כליה יוצרת קשר מיוחד ומפתיע עם הרופא שלה ואוזרת אומץ להגשים את חלומותיה המוזיקליים.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מאחורי היקום</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מאחורי היקום\מאחורי היקום.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מאחורי היקום\מאחורי היקום.strm</basepath>
+    <uniqueid type="tmdb" default="true">962232</uniqueid>
+    
+    <genre>רומנטי</genre>
+<genre>דרמה</genre>
+    <year>2022</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//jv8PbopI3r3p0HrQJbLYcOzFHle.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//pKfvYWbxhVnGHg6By3VaxtrbLZe.jpg">http://image.tmdb.org/t/p/original//pKfvYWbxhVnGHg6By3VaxtrbLZe.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-07-01 23:15:21</dateadded>
+</movie>
+    

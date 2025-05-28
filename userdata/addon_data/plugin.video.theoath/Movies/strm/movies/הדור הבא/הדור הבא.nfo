@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הדור הבא</title>
+    <originaltitle>Next Gen</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.979</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2018-10-7 07:07:34
+ON,Dr,TE
+[COLOR lightblue]2018-09-13 14:58:27[/COLOR]
+[COLOR blue]הדור הבא.2018.מדובב.גוזלן.mp4[/COLOR]
+0.75 GB
+מיי הבודדה מגיעה ממשפחה לא מתפקדת; אביה עזב אותה ואת אימה. אימה בוחרת להתמודד עם הנטישה הזו בהשלמת החסר על ידי רכישת רובוט לבתה, שמצידה לא מתחברת אליו ובכלל מפתחת שנאה לרובוטים. לחברה שמייצרת את כל הגאדג'טים ביקום הזה קוראים איי-קיו. מיי חוברת בטעות לרובוט מיוחד שנמצא במעבדה וביחד הם ממלאים את כל משאלותיה, שהם בעיקר להרוס רובוטים. ברגע שהמפתחים מגלים שהרובוט ברח הם מנסים לאתר אותו, בזמן שהרובוט עצמו נמצא בבעיית זיכרון מוגבל - עליו לבחור באיזה מהזיכרונות להשתמש על מנת שכל המערכת שלו לא תתרסק.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הדור הבא</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הדור הבא\הדור הבא.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הדור הבא\הדור הבא.strm</basepath>
+    <uniqueid type="tmdb" default="true">523777</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> אקשן </genre>
+<genre> הרפתקאות </genre>
+<genre> קומדיה </genre>
+<genre> משפחה </genre>
+<genre> מדע בדיוני</genre>
+    <year>2018</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//lnSiZTlEsOFofefnxWpdLn4S5NF.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//4tO1A5g5ZOXVB22g2Wovcm39dYU.jpg">https://image.tmdb.org/t/p/original//4tO1A5g5ZOXVB22g2Wovcm39dYU.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-10-07 07:07:34</dateadded>
+</movie>
+    

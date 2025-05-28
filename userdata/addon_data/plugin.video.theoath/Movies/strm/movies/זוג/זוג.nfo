@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>זוג</title>
+    <originaltitle>Zog</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2023-11-19 08:36:12[/COLOR]
+זוג הוא דרקון צעיר ונלהב שרוצה ללמוד לעוף, לשאוג ולנשוף אש, ולכן הוא לומד בבית הספר לדרקונים. הוא נואש להרשים את המורה שלו ולזכות בכוכב מוזהב, אך הוא נוטה לתאונות ועליו להעזר בילדה צעירה וחביבה שמטפחת את בליטותיו וחבלותיו.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\זוג</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\זוג\זוג.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\זוג\זוג.strm</basepath>
+    <uniqueid type="tmdb" default="true">570701</uniqueid>
+    
+    <genre>משפחה</genre>
+<genre>אנימציה</genre>
+<genre>הרפתקאות</genre>
+    <year>2018</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=f6Fk6S3UqeI</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//cINsENlQophkPG25Ja9aCro2AZW.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//mInb0w8yFTOj7ylNEDJXcHg8yLS.jpg">http://image.tmdb.org/t/p/original//mInb0w8yFTOj7ylNEDJXcHg8yLS.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-11-19 08:36:12</dateadded>
+</movie>
+    

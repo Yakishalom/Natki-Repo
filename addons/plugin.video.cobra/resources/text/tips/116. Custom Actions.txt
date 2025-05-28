@@ -1,0 +1,8 @@
+
+In Settings-->Features-->Custom Actions there are a few settings you can try that will attempt to make various Cobra specific adjustments to default Kodi behavior.
+
+- "Open Cobra Menu Editor Instead of Kodi Context Menu (Menus)": When enabled, this will open Cobra's "Menu Editor" feature when the context menu is used on Root/Movies/TV Shows menus.
+- "Open Cobra Options Instead of Kodi Context Menu (Media)": When enabled, this will open Cobra's "Options" feature when the context menu is used on media within Cobra.
+- "Open Cobra Extras Instead of Kodi Info Dialog": When enabled, this will open Cobra's "Extras" feature when "Information" is called on media within Cobra.
+
+These are semi-experimental features that may not work well on certain skins/hardware.

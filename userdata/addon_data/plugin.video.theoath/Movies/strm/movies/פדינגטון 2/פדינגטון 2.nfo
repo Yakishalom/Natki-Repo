@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>פדינגטון 2</title>
+    <originaltitle>Paddington 2 [2017]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>8</value>
+            <votes>36,016</votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr
+[COLOR lightblue]2018-10-6 12:37:21[/COLOR]
+הדב פדינגטון נחוש בדעתו לקנות את המתנה המושלמת ליום ההולדת לדודה האהובה עליו, לוסי, שחוגגת 100. כדי להשיג את הכסף לקניית המתנה הוא נוטל על עצמו מגוון עבודות שונות ומשונות, אבל יש מי שמתכנן תכניות שונות לגמרי בנוגע למתנה של דודה לוסי .</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פדינגטון 2</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פדינגטון 2\פדינגטון 2.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פדינגטון 2\פדינגטון 2.strm</basepath>
+    <uniqueid type="tmdb" default="true">346648</uniqueid>
+    
+    <genre>הרפתקאות</genre>
+<genre>קומדיה</genre>
+<genre>משפחה</genre>
+<genre>אנימציה</genre>
+    <year>2017</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=52x5HJ9H8DM</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//cE20Fh5feMwmlz5B6FlEKPXL4oU.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//J1X0TeO9LetEJhP60xNbZTvNTi.jpg">http://image.tmdb.org/t/p/original//J1X0TeO9LetEJhP60xNbZTvNTi.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-10-06 12:37:21</dateadded>
+</movie>
+    

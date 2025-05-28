@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>סמי הכבאי: האקשן מתחיל!</title>
+    <originaltitle>Fireman Sam: Set for Action!</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.2</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE
+[COLOR lightblue]2019-12-18 16:36:03[/COLOR]
+[COLOR blue]1080p סמי הכבאי האקשן מתחיל מדובב.mkv[/COLOR]
+1.21 GB
+מצלמה, אורות, ו...אקשן! מבצעי ההצלה האמיצים של סמי הכבאי מתגלגלים למפיק סרטים בשם דון שפיצהאמר, שרוצה אותו ככוכב ראשי בסרט הקרוב שלו. אבל כוכב המשנה בסרט, פלקס דקסטר, נחוש בדעתו לקבל את התפקיד הראשי בכל מחיר, אפילו כשמדובר בסכנות בטיחות!TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סמי הכבאי_ האקשן מתחיל_</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סמי הכבאי_ האקשן מתחיל_\סמי הכבאי_ האקשן מתחיל_.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סמי הכבאי_ האקשן מתחיל_\סמי הכבאי_ האקשן מתחיל_.strm</basepath>
+    <uniqueid type="tmdb" default="true">550315</uniqueid>
+    
+    <genre>משפחה </genre>
+<genre> אנימציה </genre>
+<genre> אקשן </genre>
+<genre> הרפתקאות</genre>
+    <year>2018</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//lKfwd4TCTec2jRFPKBPEx2WkpHK.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//dT9QkNJ1SXZRRQ7u8z7Sn1O2bBc.jpg">https://image.tmdb.org/t/p/original//dT9QkNJ1SXZRRQ7u8z7Sn1O2bBc.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-12-18 16:36:03</dateadded>
+</movie>
+    

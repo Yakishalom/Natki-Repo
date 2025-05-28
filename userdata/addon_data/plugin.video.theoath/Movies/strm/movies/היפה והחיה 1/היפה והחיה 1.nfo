@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>היפה והחיה 1</title>
+    <originaltitle>היפה והחיה 1</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes> </votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-08-23 16:08:02[/COLOR]
+סרטו הקלאסי של דיסני 'היפה והחיה' הוא יצירת מופת מדהימה. הסרט היה מועמד לשישה פרסי אוסקר, ובין השאר בקטגוריית הסרט הטוב ביותר, זו הפעם הראשונה שסרט מצוייר מועמד לפרס זה. הסרט מביא את סיפור האגדה המפורסמת אודות הרפתקאותיה של בל, נערה חכמה ויפיפייה, הנכלאת בטירה הענקית של החיה המסתורית. בסיוע צוות המשרתים המכושף מתפתח בין בל והחיה סיפור אהבה, נוגע ללב ובו בל לומדת את השיעור החשוב מכל: 'אל תסתכל בקנקן אלא במה שיש בתוכו'. הסרט זכה לתשואות הקהל ברחבי העולם, ושבה את לב הצעירים והמבוגרים כאחד. פס קול הסרט אשר זכה בשני פרסי אוסקר, האנימציה המרהיבה ושלל הדמויות הבלתי נשכחות, הופכים את 'היפה והחיה' לסרט שתענוג לצפות בו שוב ושוב.</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\היפה והחיה 1</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\היפה והחיה 1\היפה והחיה 1.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\היפה והחיה 1\היפה והחיה 1.strm</basepath>
+    <uniqueid type="tmdb" default="true"> </uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Family</genre>
+<genre>Fantasy</genre>
+<genre>רומנטי</genre>
+<genre>משפחה</genre>
+<genre>אנימציה</genre>
+<genre>פנטזיה</genre>
+<genre>מוסיקה</genre>
+    <year>1991</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//7R9Ssp2w6KSMIUhekFpZR0tLNrC.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//9BQIYKXc0HMSeK2kl3h3YxX66ZN.jpg">http://image.tmdb.org/t/p/original//9BQIYKXc0HMSeK2kl3h3YxX66ZN.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-08-23 16:08:02</dateadded>
+</movie>
+    

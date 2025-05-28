@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>סרט לגו</title>
+    <originaltitle>The Lego Movie [2014] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>8</value>
+            <votes>301,521</votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr
+[COLOR lightblue]2019-04-20 09:54:59[/COLOR]
+בובת לגו רגילה מזוהה בטעות כ'מאסטר-בילדר' , בונה העל, ומגוייסת להרפתקה לעצירת עריץ לגו גדול המבקש להדביק את היקום יחד.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סרט לגו</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סרט לגו\סרט לגו.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סרט לגו\סרט לגו.strm</basepath>
+    <uniqueid type="tmdb" default="true">137106</uniqueid>
+    
+    <genre>הרפתקאות</genre>
+<genre>אנימציה</genre>
+<genre>קומדיה</genre>
+<genre>משפחה</genre>
+<genre>פנטזיה</genre>
+    <year>2014</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Yj4GeCk5SBk</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//lbctonEnewCYZ4FYoTZhs8cidAl.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//lWp5ZmmkUf99kzTj4XJ02TWpxvM.jpg">http://image.tmdb.org/t/p/original//lWp5ZmmkUf99kzTj4XJ02TWpxvM.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-04-20 09:54:59</dateadded>
+</movie>
+    

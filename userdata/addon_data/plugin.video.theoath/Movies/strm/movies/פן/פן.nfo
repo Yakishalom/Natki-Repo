@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>פן</title>
+    <originaltitle>Pan [2015]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>50,469</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2017-12-5 13:11:26[/COLOR]
+פיטר הוא ילד שובב בן 12 עם אופי מרדני חסר פשרות, אבל בבית היתומים העגום שם בילה את כל חייו, התכונות הללו לא מתקבלות בהבנה.  עד שבלילה מדהים אחד, פיטר מוברח מבית היתומים ונשלח אל עולם דמיוני של פיראטים, לוחמים ופיות שנקרא 'ארץ לעולם לא'.  שם, הוא מוצא הרפתקאות מדהימות ונלחם קרבות של חיים ומוות בעודו מנסה לחשוף את הסוד של אמו, שהשאירה אותו על מפתן בית היתומים לפני שנים רבות, ולדעת את מקומו בארץ הקסומה הזאת.  יחד עם הלוחמת טייגר לילי וחבר חדש בשם ג'יימס הוק, פיטר חייב להביס את שודד הים האכזרי בלאק בירד כדי להציל את 'ארץ לעולם לא' ולגלות את יעודו האמיתי – להפוך לגיבור שלעולמים ייקרא פיטר פן.</plot>
+    <runtime>111</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פן</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פן\פן.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פן\פן.strm</basepath>
+    <uniqueid type="tmdb" default="true">266647</uniqueid>
+    
+    <genre>Adventure</genre>
+<genre>Family</genre>
+<genre>Fantasy</genre>
+<genre>הרפתקאות</genre>
+<genre>משפחה</genre>
+<genre>פנטזיה</genre>
+    <year>2015</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Y1wRv8vTpxo</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//5IXfVOU2WfEW0hK8wITd5MH1k8Q.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//6Ym6bgfhvpgQS5Sg8kKnfW1hX7P.jpg">http://image.tmdb.org/t/p/original//6Ym6bgfhvpgQS5Sg8kKnfW1hX7P.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2017-12-05 13:11:26</dateadded>
+</movie>
+    

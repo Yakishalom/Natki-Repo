@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>עץ המשאלות</title>
+    <originaltitle>The Wishmas Tree</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2021-08-6 00:22:52[/COLOR]
+משאלתה של פוסום צעירה לשלג לא רק מקפיאה את העיר שלה – עיר המשאלות, היא גם מאיימת על חיי כל התושבים. לפני שעץ המשאלות הקסום ינבול וימות, היא חייבת לקחת על עצמה את המשימה לצאת למסע חסר פחד אל עבר הלא נודע . נלחמת בספקות עצמיים, טורפים נעלמים ולבסוף בהיכחדות עצמה כדי להחזיר את המצב לקדמותו, לתקן את הנזק שעשתה ולהציל את העיר שלה!</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\עץ המשאלות</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\עץ המשאלות\עץ המשאלות.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\עץ המשאלות\עץ המשאלות.strm</basepath>
+    <uniqueid type="tmdb" default="true">657561</uniqueid>
+    
+    <genre>משפחה</genre>
+<genre>אנימציה</genre>
+<genre>הרפתקאות</genre>
+<genre>אקשן</genre>
+    <year>2020</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=bHa5Qb1UrfA</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//7aruEVuoWr3gURIU4JCcvIqOiyh.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//8ki3UBFOn0ghCa8oUDHaKhmAMO3.jpg">http://image.tmdb.org/t/p/original//8ki3UBFOn0ghCa8oUDHaKhmAMO3.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-08-06 00:22:52</dateadded>
+</movie>
+    

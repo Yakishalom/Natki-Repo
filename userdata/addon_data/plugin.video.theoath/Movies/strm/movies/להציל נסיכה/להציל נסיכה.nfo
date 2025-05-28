@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>להציל נסיכה</title>
+    <originaltitle>Ritter Rost - Eisenhart & voll verbeult</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.2</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>TE
+[COLOR lightblue]2021-10-13 23:41:23[/COLOR]
+[COLOR blue]נתי מדיה להציל נסיכה מדובב.mp4[/COLOR]
+0.65 GB
+הרפתקה מסעירה ומרגשת, המגוללת את עלילותיו של האביר ראסטי, יצור מתכתי שובה לב אשר יוצא לקרב של חייו: רגע לפני שחלומו הגדול אודות זכייה בטורניר המשחקים המלכותי מתגשם, הוא מופלל ומואשם בגניבה על לא עוול בכפו. ברגע אחד, אבירנו מאבד את כל עולמו ויוצא למסע לטיהור שמו וזכייה מחודשת בתואר האבירות שלו, טירתו וליבה של אהובתו. זהו סיפור מרגש ומשעשע על חברות אמת ואומץ לב, ברקע ערכי של עולם, שכולו על טהרת המחזור.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\להציל נסיכה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\להציל נסיכה\להציל נסיכה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\להציל נסיכה\להציל נסיכה.strm</basepath>
+    <uniqueid type="tmdb" default="true">160873</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> משפחה</genre>
+    <year>2013</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//y6L0yL3OQA6UaygXsdwcZKg6kPc.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//f2nS2G5SWlc9rwwlnsUTUcm8bIp.jpg">https://image.tmdb.org/t/p/original//f2nS2G5SWlc9rwwlnsUTUcm8bIp.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-10-13 23:41:23</dateadded>
+</movie>
+    

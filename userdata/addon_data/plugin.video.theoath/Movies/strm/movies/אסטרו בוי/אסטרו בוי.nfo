@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>אסטרו בוי</title>
+    <originaltitle>Astro Boy</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.298</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2023-11-19 01:40:32
+ON,Dr,TE,TE
+[COLOR lightblue]2023-09-10 18:28:57[/COLOR]
+[COLOR blue]אסטרו-בוי.מדובב.גוזלן.avi[/COLOR]
+0.68 GB
+כשבנו הצעיר של מדען מת, הוא יוצר בחשאיות ילד רובוט רב-עוצמה על מנת שיחליף את מקום בנו, אולם הרובוט משתמש בכוחותיו הפנטסטיים כדי להיות גיבור-על בעל שם עולמי, והוא ניצב בפני האתגר הגדול ביותר כשגזע חוצנים מאיימים על כדור-הארץ...TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אסטרו בוי</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אסטרו בוי\אסטרו בוי.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אסטרו בוי\אסטרו בוי.strm</basepath>
+    <uniqueid type="tmdb" default="true">16577</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> אקשן </genre>
+<genre> משפחה </genre>
+<genre> מדע בדיוני</genre>
+    <year>2009</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//AvyrXsXkHxBzQYfSEwNdRTYKPPY.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//qXD5vfFe1blOXJbOHXlU5CYJMQB.jpg">https://image.tmdb.org/t/p/original//qXD5vfFe1blOXJbOHXlU5CYJMQB.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-11-19 01:40:32</dateadded>
+</movie>
+    

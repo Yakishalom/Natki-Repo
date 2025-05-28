@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>צ’ופה</title>
+    <originaltitle>Chupa</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2023-04-9 20:52:39[/COLOR]
+נער בודד שמבקר את משפחתו במקסיקו מתיידד עם יצור מיתי שמסתתר בחווה של סבו ויוצא להרפתקה של פעם בחיים.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\צ’ופה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\צ’ופה\צ’ופה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\צ’ופה\צ’ופה.strm</basepath>
+    <uniqueid type="tmdb" default="true">736790</uniqueid>
+    
+    <genre>הרפתקאות</genre>
+<genre>פנטזיה</genre>
+<genre>משפחה</genre>
+    <year>2023</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ViKnrHjzgn4</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//ra3xm8KFAkwK0CdbPRkfYADJYTB.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//aityu1Gma509jInlspHstEt8Jg0.jpg">http://image.tmdb.org/t/p/original//aityu1Gma509jInlspHstEt8Jg0.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-04-09 20:52:39</dateadded>
+</movie>
+    

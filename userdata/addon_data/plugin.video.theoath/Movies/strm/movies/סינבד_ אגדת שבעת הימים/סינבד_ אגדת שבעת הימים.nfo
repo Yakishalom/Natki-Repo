@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>סינבד: אגדת שבעת הימים</title>
+    <originaltitle>Sinbad: Legend of the Seven Seas</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.927</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,TE
+[COLOR lightblue]2019-11-15 09:24:20[/COLOR]
+[COLOR blue]לולו_סרטים_סינבד:_אגדת_שבעת_הימים_DVDRip_מדובב.avi[/COLOR]
+0.68 GB
+על החוף ליד הארמון פוגשת הנסיכה סרנה את המכשף בארקה. הנסיכה נדהמה מקסמיו ולא היתה מודעת לכוונותיו הזדוניות, ולקחה אותו לארמון להציגו בפני אביה המלך קנדרה. בעזרת שיקוי קסמים מחליף המכשף זהויות עם המלך ועכשיו הוא שולט הוא שולח את המלך למרתפי הארמון וגוזר עליו גזר דין מוות. הנסיכה מצליחה לברוח מן הארמון והיא נסה אל הנמל לחפש מלח שיעזור לה ויקח אותה למקום בו ניתן לבטל את הכישוף הזדוני. המלח הוא לא אחר מסינבד האגדי. הם יוצאים למסע קסום בעולם תת מימ הנשלט ע"י אחיו של בארקה, ושם נמצא השיקוי שיכול לבטל את הכישוף הנורא.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סינבד_ אגדת שבעת הימים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סינבד_ אגדת שבעת הימים\סינבד_ אגדת שבעת הימים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סינבד_ אגדת שבעת הימים\סינבד_ אגדת שבעת הימים.strm</basepath>
+    <uniqueid type="tmdb" default="true">14411</uniqueid>
+    
+    <genre>משפחה </genre>
+<genre> אנימציה </genre>
+<genre> הרפתקאות </genre>
+<genre> קומדיה </genre>
+<genre> פנטזיה </genre>
+<genre> אקשן</genre>
+    <year>2003</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//vnRyu34TfZRC119vdoRy8czcq3x.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//1Q1tAM49hoT3Hsj2kpx8O34kG01.jpg">https://image.tmdb.org/t/p/original//1Q1tAM49hoT3Hsj2kpx8O34kG01.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-11-15 09:24:20</dateadded>
+</movie>
+    

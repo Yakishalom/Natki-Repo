@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>פוקהונטס 2: מסע לעולם חדש</title>
+    <originaltitle>Pocahontas II: Journey to a New World</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.484</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2018-07-16 08:34:05
+ON,TE
+[COLOR lightblue]2018-06-21 23:06:15[/COLOR]
+[COLOR blue]פוקהונטס מס 2.מדובב.גוזלן.avi[/COLOR]
+0.5 GB
+פוקהונטס מפליגה לעבר אנגליה במטרה להביא לעולם הישן מתנה מושלמת – שלום. בליווי ג'ון רולף, שומר הראש אוטי ושלושה מסתננים חמודים, היא תחווה הרפתקאות חדשות בעולם שאינה מכירה.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פוקהונטס 2_ מסע לעולם חדש</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פוקהונטס 2_ מסע לעולם חדש\פוקהונטס 2_ מסע לעולם חדש.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פוקהונטס 2_ מסע לעולם חדש\פוקהונטס 2_ מסע לעולם חדש.strm</basepath>
+    <uniqueid type="tmdb" default="true">13761</uniqueid>
+    
+    <genre>משפחה </genre>
+<genre> הרפתקאות </genre>
+<genre> אנימציה </genre>
+<genre> רומנטי</genre>
+    <year>1998</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//xsE6XPXUUM1toT2s8ZvluhdLA8C.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//fzAnRGmaKJtm8sZuZ8a1nwSNTd3.jpg">https://image.tmdb.org/t/p/original//fzAnRGmaKJtm8sZuZ8a1nwSNTd3.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-07-16 08:34:05</dateadded>
+</movie>
+    

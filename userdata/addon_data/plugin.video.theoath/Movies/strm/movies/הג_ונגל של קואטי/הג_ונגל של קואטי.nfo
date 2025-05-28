@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הג'ונגל של קואטי</title>
+    <originaltitle>Koati</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2023-10-29 07:33:07[/COLOR]
+עמוק ביערות הגשם הנסתרים של דרום אמריקה, נרקמת חברות מפתיעה בין נצ'י, פאקו ונוצ'י - חוטמן, פרפר וצפרדע - אשר יוצאים למסע מלהיב ומלא הרפתקאות כדי למנוע מנחשית מרושעת בשם זאינה להרוס את ביתם. בדרך הם יגלו שכל אחד, כולל הם עצמם, יכול להיות הגיבור בסיפור של עצמו.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הג_ונגל של קואטי</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הג_ונגל של קואטי\הג_ונגל של קואטי.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הג_ונגל של קואטי\הג_ונגל של קואטי.strm</basepath>
+    <uniqueid type="tmdb" default="true">554594</uniqueid>
+    
+    <genre>אנימציה</genre>
+    <year>2021</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=eGywfUsEsaU</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//rqOk2K3ZS3SS9XWTYo208htD8Nl.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//dYghS9G00IbI3dEPHWcCm8YuviH.jpg">http://image.tmdb.org/t/p/original//dYghS9G00IbI3dEPHWcCm8YuviH.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-10-29 07:33:07</dateadded>
+</movie>
+    

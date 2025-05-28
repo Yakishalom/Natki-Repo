@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>טום וגרי: הטבעת הקסומה</title>
+    <originaltitle>טום וגרי: הטבעת הקסומה </originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes> </votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-09-12 12:27:56[/COLOR]
+ טום עוזב את הבית לכמה זמן, ובמשך הזמן הזה ג'רי מסתבך ובטעות נדבקת לו לראש טבעת יקרה מאוד של נסיכה. הוא קורא לחבר שלו שהוא קוסם כדי שינסה להוריד אותה ויחזיר אותה לנסיכה.</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טום וגרי_ הטבעת הקסומה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טום וגרי_ הטבעת הקסומה\טום וגרי_ הטבעת הקסומה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טום וגרי_ הטבעת הקסומה\טום וגרי_ הטבעת הקסומה.strm</basepath>
+    <uniqueid type="tmdb" default="true"> </uniqueid>
+    
+    <genre> אנימציה | משפחה | פעולה | קומדיה</genre>
+    <year>2002</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://www.sratim.co.il/contents/images/0/470.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://www.sratim.co.il/contents/images/0/470.jpg">https://www.sratim.co.il/contents/images/0/470.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-09-12 12:27:56</dateadded>
+</movie>
+    

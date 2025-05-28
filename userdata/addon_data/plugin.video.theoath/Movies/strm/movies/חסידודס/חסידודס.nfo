@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>חסידודס</title>
+    <originaltitle>Storks</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.639</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2023-08-01 22:20:26
+ON,Dr,TE,TE,TE
+[COLOR lightblue]2018-08-07 11:27:06[/COLOR]
+[COLOR blue]חסידודס - מדובב .avi[/COLOR]
+0.86 GB
+פעם אמנם החסידות היו שליחות של תינוקות, אבל כיום הן השליחות של תאגיד אינטרנט ענק. רגע לפני שהחסידה ג'וניור עומד לקבל קידום בעבודה, הוא מפעיל את מכונת יצור התינוקות, ותינוק לא-מורשה נולד. כעת, יהיה על ג'וניור וחברו הטוב לשלוח לראשונה בחייהם תינוק, מהר לפני שהמנהל שלהם ידע מהדבר.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\חסידודס</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\חסידודס\חסידודס.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\חסידודס\חסידודס.strm</basepath>
+    <uniqueid type="tmdb" default="true">332210</uniqueid>
+    
+    <genre>הרפתקאות </genre>
+<genre> אנימציה </genre>
+<genre> קומדיה </genre>
+<genre> משפחה</genre>
+    <year>2016</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//8f5HMfBq4x2Hmdh5TLwhmV7LyFP.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//3dhuShnYmB0UOQrn8v8gT9DBf0T.jpg">https://image.tmdb.org/t/p/original//3dhuShnYmB0UOQrn8v8gT9DBf0T.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-08-01 22:20:26</dateadded>
+</movie>
+    

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>אלדין 3 : ומלך הגנבים</title>
+    <originaltitle>אלדין 3 : ומלך הגנבים </originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes> </votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-08-16 15:24:07[/COLOR]
+המשך לסרט המצליח של דיסני. אלדין ויסמין עומדים סוף סוף להתחתן. למרות העידוד מחבריו ג'יני [בקולו של רובין וויליאמס], אפו הקוף והשטיח המעופף, אלדין עצבני ונרגש. הוא בעיקר מפוחד מלהיות אבא, כיוון שאף פעם לא פגש את אביו האמיתי. כשארבעים שודדים מגיעים לחתונה, מוצא עצמו אלדין שוב בהרפתקה מסוכנת, כאשר הוא חייב לסכל את משימתם, ולמצוא את אביו האבוד.</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אלדין 3 _ ומלך הגנבים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אלדין 3 _ ומלך הגנבים\אלדין 3 _ ומלך הגנבים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אלדין 3 _ ומלך הגנבים\אלדין 3 _ ומלך הגנבים.strm</basepath>
+    <uniqueid type="tmdb" default="true"> </uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Adventure</genre>
+<genre>Comedy</genre>
+<genre>הרפתקאות</genre>
+<genre>אנימציה</genre>
+<genre>משפחה</genre>
+    <year>1996</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//skumDXnNanfBpYww75VTPnB4JUM.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//4EX04WSbSuWOREHVzhXgnFeJbI9.jpg">http://image.tmdb.org/t/p/original//4EX04WSbSuWOREHVzhXgnFeJbI9.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-08-16 15:24:07</dateadded>
+</movie>
+    

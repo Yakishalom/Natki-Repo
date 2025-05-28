@@ -1,0 +1,1 @@
+["backup100924", ["backup full", "backup failed", "no backupset selected to be restored", "backup configuration", "backup 123"], [], {"google:suggestsubtypes": [[512, 546], [512, 546], [512, 546], [512, 546], [512, 546]], "google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

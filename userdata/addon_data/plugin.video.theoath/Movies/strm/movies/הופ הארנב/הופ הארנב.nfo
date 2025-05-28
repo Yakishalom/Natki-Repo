@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הופ הארנב</title>
+    <originaltitle>Hop [2011] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5</value>
+            <votes>31,015</votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr
+[COLOR lightblue]2020-11-15 22:30:30[/COLOR]
+ליד חופי דרום אמריקה, על האי הידוע בכינויו אי הממתקים, שוכן לו מפעל הממתקים המופלא בעולם. שלוש מאות שישים וחמישה ימים בשנה עובד צוות של ארנבים ואפרוחים שמכינים את סלי הממתקים הנשלחים לילדים ברחבי העולם.  ערב הכתרתו ליורש של אביו כמנהל המפעל, ארנב הממתקים נוסע להוליווד כדי להגשים את חלומו להפוך למתופף. כשהוא מגיע, הוא פוגש את פרד [ג'יימס מרסדן מ'אקס מן'], שלא מזמן פוטר מעבודתו והוא נחוש להחזיר את חייו למסלול הנכון. אחרי שסולק 'באהבה רבה' מבית הוריו, הוא פוגש במקרה את ארנב הממתקים, שמביים פציעה ומדהים אותו עם יכולת הדיבור שלו, מה שגורם לפרד לספק לו מחסה.  בחזרה לאי הממתקים, הסגן של ארנב הממתקים, תרנגול גדול בשם קרלוס, מנצל את היעלמותו של ארנב הממתקים כדי לרקוח מזימה משלו. בסופו של דבר, פרד וארנב הממתקים הם תקוותו היחידה של חג הממתקים, והם מוצאים את עצמם חוזרים לאי הממתקים, היישר אל הקרב העתיק להצלת החג.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הופ הארנב</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הופ הארנב\הופ הארנב.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הופ הארנב\הופ הארנב.strm</basepath>
+    <uniqueid type="tmdb" default="true">50359</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>קומדיה</genre>
+<genre>משפחה</genre>
+    <year>2011</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Z7M3ofz3TvA</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//2FrDmwXWjRE1zpNP288YncRt5RF.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//lqOcVQXfsqba8kUd6dZEJnJIK7T.jpg">http://image.tmdb.org/t/p/original//lqOcVQXfsqba8kUd6dZEJnJIK7T.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-11-15 22:30:30</dateadded>
+</movie>
+    

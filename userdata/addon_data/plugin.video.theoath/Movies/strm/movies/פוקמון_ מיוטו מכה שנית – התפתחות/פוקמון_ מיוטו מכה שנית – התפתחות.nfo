@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>פוקמון: מיוטו מכה שנית – התפתחות</title>
+    <originaltitle>Pokémon: Mewtwo Strikes Back - Evolution [2019] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>2,945</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2020-03-30 21:25:03[/COLOR]
+אש, מיסטי וברוק מקבלים הזמנה ממאמן מסתורי ופוגשים את מיוטו, פוקמון מעשה ידי אדם עם יצר קרב מפותח במיוחד.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פוקמון_ מיוטו מכה שנית – התפתחות</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פוקמון_ מיוטו מכה שנית – התפתחות\פוקמון_ מיוטו מכה שנית – התפתחות.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פוקמון_ מיוטו מכה שנית – התפתחות\פוקמון_ מיוטו מכה שנית – התפתחות.strm</basepath>
+    <uniqueid type="tmdb" default="true">571891</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>אקשן</genre>
+<genre>הרפתקאות</genre>
+<genre>משפחה</genre>
+<genre>פנטזיה</genre>
+    <year>2019</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=D0zYJ1RQ-fs</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//pf3FoKe0EdcNnHuUtiwre0wGkLM.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//olQLBp49qFpbWSt0z5OdNpFHP3g.jpg">http://image.tmdb.org/t/p/original//olQLBp49qFpbWSt0z5OdNpFHP3g.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-03-30 21:25:03</dateadded>
+</movie>
+    

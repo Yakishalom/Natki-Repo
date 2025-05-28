@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>גיבורה בהפתעה</title>
+    <originaltitle>Combat Wombat</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2024-01-8 19:49:01[/COLOR]
+טוויסט מהנה לסיפור הקלאסי של מתבודד שהופך לגיבור בעל כורחו, מגי דיגינס, וומבט שהופכת להיות גיבורת על, כאשר שלא במתכוון ובחוסר רצון וחשק, היא מצילה גיבור על מתחיל ממוות בטוח והופכת להיות גיבורת העל של עיר המשאלות.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\גיבורה בהפתעה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\גיבורה בהפתעה\גיבורה בהפתעה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\גיבורה בהפתעה\גיבורה בהפתעה.strm</basepath>
+    <uniqueid type="tmdb" default="true">732721</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>משפחה</genre>
+<genre>פנטזיה</genre>
+    <year>2020</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=KQhW254FVac</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//xb67iZQ678Fpte3hGgftSUCqzQF.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//rlY3YEDVx6kHhrWyz2zgr3pMFez.jpg">http://image.tmdb.org/t/p/original//rlY3YEDVx6kHhrWyz2zgr3pMFez.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2024-01-08 19:49:01</dateadded>
+</movie>
+    

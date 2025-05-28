@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>לעוף עם ערפד</title>
+    <originaltitle>The Little Vampire 3D</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.148</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE,TE
+[COLOR lightblue]2023-04-17 21:45:23[/COLOR]
+[COLOR blue]1080p BluRay 2017 ז.מ לעוף עם ערפד מדובב.mkv[/COLOR]
+1.55 GB
+רודולף הוא ערפד צעיר, בן 13 בלבד, אשר נמלט עם משפחתו מאימתו של צייד ערפדים נודע. בזמן המנוסה נפרדות דרכי המשפחה ורודולף, שנותר לבדו, מוצא מסתור בטירה ישנה ביער השחור. אל הטירה, המשמשת כבית מלון, מגיע טוני- ילד רגיל בן גילו של רודולף, חובב סיפורי ערפדים, טירות מכושפות ויצורי לילה מסתוריים. השניים מתיידדים כמעט מיד ולאחר טיסה משותפת בשמי הלילה מחליט טוני להתגייס לעזרת חברו החדש, למצוא את משפחתו ולעזור להם לנצח את הצייד שמנסה ללכוד אותם.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לעוף עם ערפד</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לעוף עם ערפד\לעוף עם ערפד.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לעוף עם ערפד\לעוף עם ערפד.strm</basepath>
+    <uniqueid type="tmdb" default="true">442056</uniqueid>
+    
+    <genre></genre>
+    <year>2017</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//jBdcJrM4OhbLSCC7a9damgL2Txf.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//vZw7cUeCj0n0o9hmubL0rSUYEhM.jpg">https://image.tmdb.org/t/p/original//vZw7cUeCj0n0o9hmubL0rSUYEhM.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-04-17 21:45:23</dateadded>
+</movie>
+    

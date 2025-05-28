@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מבצע קוקוריקו</title>
+    <originaltitle>Un rescate de huevitos</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2024-02-21 00:44:03[/COLOR]
+תרנגול חמוד בשם טוטו, חי חיי שלווה בחווה ביחד עם התרנגולת די. הם בדיוק הפכו להורים הגאים של זוג ביצים חמודות וזהובות בשם 'אולי' ו-'מקס'. אספן ביצים חמדן חוטף את הילדים ולוקח אותם לאפריקה, שם הוא מתכנן ארוחת ביצים מיוחדת לעשירי העולם, שמוכנים לשלם כסף רב תמורת המנות האקזוטיות ביותר. אך טוטו לא ייתן לזה לקרות, ומבצע קוקוריקו יוצא לדרך!</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מבצע קוקוריקו</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מבצע קוקוריקו\מבצע קוקוריקו.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מבצע קוקוריקו\מבצע קוקוריקו.strm</basepath>
+    <uniqueid type="tmdb" default="true">573164</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>קומדיה</genre>
+<genre>הרפתקאות</genre>
+<genre>משפחה</genre>
+    <year>2021</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=WmxOTcZDSa4</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//hsXoKqCr6KEHnUJ0ZYzwJhksKBA.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//uHmvk8FnoxpgujDU0RIXLkv2fNt.jpg">http://image.tmdb.org/t/p/original//uHmvk8FnoxpgujDU0RIXLkv2fNt.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2024-02-21 00:44:03</dateadded>
+</movie>
+    

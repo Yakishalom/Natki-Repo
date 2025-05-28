@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>טום וג'רי והדרקון האבוד</title>
+    <originaltitle>Tom and Jerry: The Lost Dragon [Video 2014] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>586</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2019-09-21 13:03:19[/COLOR]
+כאשר טום וג'רי מוצאים ביצה מוזרה ביער ושיצא לאוויר הפתוח כדי לייצר דרקון תינוק, הם מוצאים את עצמם נאלצים לעשות בייביסיטר ליצור הקטן.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טום וג_רי והדרקון האבוד</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טום וג_רי והדרקון האבוד\טום וג_רי והדרקון האבוד.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טום וג_רי והדרקון האבוד\טום וג_רי והדרקון האבוד.strm</basepath>
+    <uniqueid type="tmdb" default="true">287233</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>קומדיה</genre>
+<genre>משפחה</genre>
+    <year>2014</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=FpMNlArW7yM</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//7BcxrWmC5dpAQtGPKL2fFHPqz5W.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//bcNtYvZwrigdIYxkAQc3xAw38hs.jpg">http://image.tmdb.org/t/p/original//bcNtYvZwrigdIYxkAQc3xAw38hs.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-09-21 13:03:19</dateadded>
+</movie>
+    

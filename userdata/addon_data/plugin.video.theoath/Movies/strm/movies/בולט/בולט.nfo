@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>בולט</title>
+    <originaltitle>Bolt</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.491</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE
+[COLOR lightblue]2022-02-07 15:55:56[/COLOR]
+[COLOR blue]חננאל סרטים בולט מדובב 2008 BIuRay 1080p.mp4[/COLOR]
+0.98 GB
+עבור בולט, כלב-על, כל יום הוא הרפתקה, מלא בסכנות מסקרנות, לפחות עד שהמצלמות מפסיקות לצלם. כשבולט, כוכב תכנית הטלוויזיה המצליחה, נשלח בטעות מהאולפנים בהוליווד לניו-יורק, הוא מתחיל את ההרפתקה הגדולה ביותר שלו; מסע מחוף לחוף דרך העולם האמיתי על מנת לחזור לבעליו ושותפתו לתוכנית, פני. חמוש רק באשליות שכל כוחות העל המדהימים שלו אמיתיים, ובעזרתם של שני חברים לא רגילים; חתול בית תשוש ונטוש בשם מיטנס, ואוגר חולה טלוויזיה בשם ריינו, בולט מגלה שהוא לא זקוק לכוחות העל המדומים כדי להיות גיבור.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בולט</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בולט\בולט.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בולט\בולט.strm</basepath>
+    <uniqueid type="tmdb" default="true">13053</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> משפחה </genre>
+<genre> הרפתקאות </genre>
+<genre> קומדיה</genre>
+    <year>2008</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//yUhwH1SUtbtKhraTOyzxPeutWUH.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//uWIyXlBRwW2MIBcBysj50A9nv7D.jpg">https://image.tmdb.org/t/p/original//uWIyXlBRwW2MIBcBysj50A9nv7D.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-02-07 15:55:56</dateadded>
+</movie>
+    

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>פרדיננד</title>
+    <originaltitle>Ferdinand</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.237</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2021-03-08 16:53:47
+Dr,TE,TE,TE
+[COLOR lightblue]2018-06-02 20:32:26[/COLOR]
+[COLOR blue]פרדיננד.מדובב.גוזלן.BDRip.avi[/COLOR]
+0.71 GB
+לאחר שפרדיננד, שור עם לב זהב, נחשד בטעות כחיה מסוכנת, הוא נלכד ונשלח רחוק מביתו. נחוש לשוב למשפחתו, הוא נעזר בקבוצת אאוטסיידרים היוצאים איתו להרפתקה.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פרדיננד</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פרדיננד\פרדיננד.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פרדיננד\פרדיננד.strm</basepath>
+    <uniqueid type="tmdb" default="true">364689</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> משפחה </genre>
+<genre> הרפתקאות </genre>
+<genre> קומדיה</genre>
+    <year>1938</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//y9iXWnKPisIlvaFaooejIAfxTfu.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//sTOhZruocNubL0HxjvdouwCEL9I.jpg">https://image.tmdb.org/t/p/original//sTOhZruocNubL0HxjvdouwCEL9I.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-03-08 16:53:47</dateadded>
+</movie>
+    

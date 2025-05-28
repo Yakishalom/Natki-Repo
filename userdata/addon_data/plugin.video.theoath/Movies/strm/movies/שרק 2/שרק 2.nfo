@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>שרק 2</title>
+    <originaltitle>Shrek 2</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.243</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2019-01-5 16:50:07
+ON,Dr,TE
+[COLOR lightblue]2017-08-31 13:06:19[/COLOR]
+[COLOR blue]חן סרטים שרק 2 מדובב עי נועםם.avi[/COLOR]
+0.68 GB
+היישר אחרי ירח הדבש שלהם, שרק והנסיכה פיונה מגיעים לארוחת ערב אצל הוריה של פיונה. הבעיות מתחילות בכך שלהורים אין מושג שבתם היא מפלצת ירקרקה כעת, וממשיכות עם הבטחה שנתן אביה של פיונה לחתן את בתו עם נסיך אחר. כעת הוא שוכר חתול במגפים המתמחה בחיסול מפלצות ירקרקות בכדי להוציא את שרק מהתמונה.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\שרק 2</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\שרק 2\שרק 2.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\שרק 2\שרק 2.strm</basepath>
+    <uniqueid type="tmdb" default="true">809</uniqueid>
+    
+    <genre></genre>
+    <year>2004</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//ExFnYPDNUX793zWl6P7WBc1mXT.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//wD44moEofk0EZyFxLQItuwdGsvV.jpg">https://image.tmdb.org/t/p/original//wD44moEofk0EZyFxLQItuwdGsvV.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-01-05 16:50:07</dateadded>
+</movie>
+    

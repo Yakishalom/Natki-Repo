@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>לילי המכשפה - הדרקון וספר הכשפים</title>
+    <originaltitle>Lilly the Witch: The Dragon and the Magic Book [2009]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5</value>
+            <votes>419</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-07-16 14:52:39[/COLOR]
+עיבוד לסדרת ספרי הילדים האהובה. לילי היא נערה רגילה לחלוטין שיום אחד מוצאת בביתה ספר קסמים ומגלה שהיא אמורה להגן עליו מפני מכשף שרוצה להשתלט על העולם.</plot>
+    <runtime>89</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לילי המכשפה - הדרקון וספר הכשפים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לילי המכשפה - הדרקון וספר הכשפים\לילי המכשפה - הדרקון וספר הכשפים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לילי המכשפה - הדרקון וספר הכשפים\לילי המכשפה - הדרקון וספר הכשפים.strm</basepath>
+    <uniqueid type="tmdb" default="true">30144</uniqueid>
+    
+    <genre>Comedy</genre>
+<genre>Family</genre>
+<genre>Fantasy</genre>
+<genre>פנטזיה</genre>
+<genre>משפחה</genre>
+<genre>קומדיה</genre>
+    <year>2009</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=DFoZ-nvxIqo</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//AwCRJp2htzZiBDxNHMp4ezl3X6W.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//rkrnym7C4psax45bbgyW0VLWW1T.jpg">http://image.tmdb.org/t/p/original//rkrnym7C4psax45bbgyW0VLWW1T.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-07-16 14:52:39</dateadded>
+</movie>
+    

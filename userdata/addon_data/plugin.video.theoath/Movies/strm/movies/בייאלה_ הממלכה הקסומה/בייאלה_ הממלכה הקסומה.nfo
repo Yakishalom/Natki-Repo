@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>בייאלה: הממלכה הקסומה</title>
+    <originaltitle>Bayala - Das magische Elfenabenteuer</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.8</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>Dr,TE
+[COLOR lightblue]2022-11-23 20:59:39[/COLOR]
+[COLOR blue]720p HDTV 2019 זירה מדיה בייאלה מדובב.mkv[/COLOR]
+1.04 GB
+מבוסס על מותג הפיות האהוד בעולם! לאחר שהדרקונים כמעט נעלמו מהממלכה, כוחן של הפיות הולך ונחלש. הנסיכות סרה וסורה נרגשות לגלות שיש להן את המפתח להצלת הממלכה הקסומה: ביצת דרקון! כעת האחיות חייבות לצאת למסע להרי הדרקונים להרפתקה אל הלא נודע. בדרכן הן יפגשו חברים חדשים ויתעמתו מול סכנות ואתגרים. בייאלה: הממלכה הקסומה הינו הסרט הראשון בהרפתקאותיהן של הפיות וחד הקרןTEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בייאלה_ הממלכה הקסומה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בייאלה_ הממלכה הקסומה\בייאלה_ הממלכה הקסומה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בייאלה_ הממלכה הקסומה\בייאלה_ הממלכה הקסומה.strm</basepath>
+    <uniqueid type="tmdb" default="true">587065</uniqueid>
+    
+    <genre>הרפתקאות </genre>
+<genre> אנימציה </genre>
+<genre> משפחה </genre>
+<genre> פנטזיה</genre>
+    <year>2019</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//rzOfCGADsUtMq8bHELk5bWeH3DM.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//yLUbwjAZnBCizuAGGeZV6Jlba9q.jpg">https://image.tmdb.org/t/p/original//yLUbwjAZnBCizuAGGeZV6Jlba9q.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-11-23 20:59:39</dateadded>
+</movie>
+    

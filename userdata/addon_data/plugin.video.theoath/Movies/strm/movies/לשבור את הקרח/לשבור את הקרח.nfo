@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>לשבור את הקרח</title>
+    <originaltitle>Frozen [2013] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7</value>
+            <votes>551,804</votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr
+[COLOR lightblue]2020-04-23 00:10:23[/COLOR]
+כשנבואה לוכדת ממלכה בחורף נצחי, אנה, אופטימית חסרת מורא, מתחברת עם כריסטוף הענק והעוזר שלו סוון האייל. ביחד הם יוצאים למסע במטרה למצוא את אחותה של אנה אלסה, מלכת השלג ולשים סוף לכישוף הקר שלה. הם פוגשים בדרך טרולים מכושפים, איש שלג מצחיק בשם אולף, עוברים דרך תנאים כמו באוורסט ומוצאים קסם בכל פינה. אנה וכריסטוף נאבקים תוך כדי מרוץ כדי להציל את הממלכה מהרס מוחלט.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לשבור את הקרח</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לשבור את הקרח\לשבור את הקרח.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לשבור את הקרח\לשבור את הקרח.strm</basepath>
+    <uniqueid type="tmdb" default="true">109445</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>הרפתקאות</genre>
+<genre>משפחה</genre>
+    <year>2013</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=TbQm5doF_Uc</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//aU2ESjiFP2D57qSCFPBVjgbUyB2.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//fydUcbkqLyESCFa9U5XKqi8dIVj.jpg">http://image.tmdb.org/t/p/original//fydUcbkqLyESCFa9U5XKqi8dIVj.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-04-23 00:10:23</dateadded>
+</movie>
+    

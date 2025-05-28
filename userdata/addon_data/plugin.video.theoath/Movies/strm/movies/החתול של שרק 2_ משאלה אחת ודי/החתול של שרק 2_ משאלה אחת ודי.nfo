@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>החתול של שרק 2: משאלה אחת ודי</title>
+    <originaltitle>Puss in Boots: The Last Wish</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>8.275</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2023-03-5 18:26:49
+Dr,TE,TE,TE
+[COLOR lightblue]2018-08-25 20:08:26[/COLOR]
+[COLOR blue]החתול במגפיים.מדובב.גוזלן.avi[/COLOR]
+0.68 GB
+עולם האגדות של שרק חוזר סוף סוף לקולנוע בהרפתקה חדשה על החתול במגפיים: החתול המפורסם בעולם מגלה שמתשע נשמות - נשארה לו רק נשמה אחת ואחרונה. הוא יוצא למסע מצחיק ומטורף בעולם האגדות כדי להשיג את כוכב המשאלות ולהביע רק עוד משאלה אחת ודי.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\החתול של שרק 2_ משאלה אחת ודי</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\החתול של שרק 2_ משאלה אחת ודי\החתול של שרק 2_ משאלה אחת ודי.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\החתול של שרק 2_ משאלה אחת ודי\החתול של שרק 2_ משאלה אחת ודי.strm</basepath>
+    <uniqueid type="tmdb" default="true">315162</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> משפחה </genre>
+<genre> פנטזיה </genre>
+<genre> הרפתקאות </genre>
+<genre> קומדיה </genre>
+<genre> אקשן</genre>
+    <year>2009</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//5MafAZMOptC2At9qwBOWyoVv4FB.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//jr8tSoJGj33XLgFBy6lmZhpGQNu.jpg">https://image.tmdb.org/t/p/original//jr8tSoJGj33XLgFBy6lmZhpGQNu.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-03-05 18:26:49</dateadded>
+</movie>
+    

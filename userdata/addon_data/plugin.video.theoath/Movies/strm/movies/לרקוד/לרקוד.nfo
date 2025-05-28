@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>לרקוד</title>
+    <originaltitle>Ballerina</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.178</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2023-07-23 20:17:06
+ON,Dr,TE,TE,TE
+[COLOR lightblue]2018-06-02 20:32:27[/COLOR]
+[COLOR blue]לרקוד.מדובב.גוזלן.BDRip.mp4[/COLOR]
+0.33 GB
+פליסיה, ילדה יתומה, שובבה ואדומת שיער אשר גדלה בבית יתומים תחת מנהל המקום המרושע. יש לה תשוקה אחת ענקית - לרקוד! יחד עם חברה הטוב ויקטור שחולם להיות ממציא דגול, הם בורחים מבית היתומים לפאריז, עיר האורות. פליסיה מתגנבת לבית האופרה הנוצץ, מתחזה לתלמידה בבית הספר לריקוד שם ומקווה שסודה לא ייחשף. שם היא נלחמת מול הרקדניות הטובות ביותר ועליה להוכיח לעצמה ולמורה הקפדן והקשוח שלה כי הלב והאהבה תמיד ינצחו. בעזרתה של המנקה של בית האופרה, שלוקחת אותה לביתה ומאמנת אותה באופן אישי, מנסה פליסיה בכל כוחה להגשים את חלומה הגדול ביותר; להיות פרימה בלרינה באופרה של פאריז.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לרקוד</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לרקוד\לרקוד.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לרקוד\לרקוד.strm</basepath>
+    <uniqueid type="tmdb" default="true">342473</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> הרפתקאות </genre>
+<genre> קומדיה </genre>
+<genre> משפחה</genre>
+    <year>2006</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//e3wF8P0p3PvTn5Fx7w2Gdbd97u5.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//wlLdcK3Sm7zp0w1ZuVvnFlmcchM.jpg">https://image.tmdb.org/t/p/original//wlLdcK3Sm7zp0w1ZuVvnFlmcchM.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-07-23 20:17:06</dateadded>
+</movie>
+    

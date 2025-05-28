@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>רמי, ילד של אף אחד</title>
+    <originaltitle>Rémi sans famille</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.959</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE
+[COLOR lightblue]2023-05-04 19:42:57[/COLOR]
+[COLOR blue]1080p BluRay 2018 רמי ילד של אף אחד מדובב.mkv[/COLOR]
+1.42 GB
+דניאל אוטיי (גדול שחקני צרפת) בעיבוד קולנועי כובש ומרגש לספרו הבלתי נשכח של הקטור מאלו. רמי (התגלית החדשה מלום פקן), יתום צעיר, יוצא למסע התבגרות, חיפוש והרפתקאות ברחבי צרפת. לצידו של ויטאליס (דניאל אוטיי), מוסיקאי נודד ומסתורי, יאלץ רמי לשיר עבור פת לחם ויעבור שיעור בהישרדות. הקשר הנרקם בין רמי לויטאליס, הסכנות שבדרך, העזרה ההדדית ושירתו המופלאה של רמי, יובילו אותו אל סוד מוצאו ...TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\רמי, ילד של אף אחד</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\רמי, ילד של אף אחד\רמי, ילד של אף אחד.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\רמי, ילד של אף אחד\רמי, ילד של אף אחד.strm</basepath>
+    <uniqueid type="tmdb" default="true">458302</uniqueid>
+    
+    <genre>הרפתקאות </genre>
+<genre> משפחה </genre>
+<genre> דרמה</genre>
+    <year>2018</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//y3y181D96NAuE4WkDkHheI9Rd3c.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//4aFtD31RpP018y8XipTLrU8Y3pa.jpg">https://image.tmdb.org/t/p/original//4aFtD31RpP018y8XipTLrU8Y3pa.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-05-04 19:42:57</dateadded>
+</movie>
+    

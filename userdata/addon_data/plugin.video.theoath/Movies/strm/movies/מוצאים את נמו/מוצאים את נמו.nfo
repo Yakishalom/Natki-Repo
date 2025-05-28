@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מוצאים את נמו</title>
+    <originaltitle>Finding Nemo</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.824</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2023-03-27 00:00:36
+ON,Dr,TE,TE,TE
+[COLOR lightblue]2018-07-15 07:31:19[/COLOR]
+[COLOR blue]מוצאים את נמו - מדובב.avi[/COLOR]
+1.12 GB
+מרלין הוא דג מודאג שאיבד את בנו, נמו ברחבי האוקיינוס. נמו מוצא עצמו באקווריום של רופא שיניים ואילו אביו יוצא למסע חיפושים מסוכן ומרתק אחר בנו בעזרתה של דורי, דגה ידידותית אך קצת שכחנית. בדרכם הם פוגשים ביצורי ים שונים ועוברים הרפתקאות שונות ומשונות.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מוצאים את נמו</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מוצאים את נמו\מוצאים את נמו.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מוצאים את נמו\מוצאים את נמו.strm</basepath>
+    <uniqueid type="tmdb" default="true">12</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> משפחה</genre>
+    <year>2003</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//36hDQxJIy8J9vttN1ie3X2mKIhw.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//hp9xwBjFOEndoM2QBfr3kmeQuS4.jpg">https://image.tmdb.org/t/p/original//hp9xwBjFOEndoM2QBfr3kmeQuS4.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-03-27 00:00:36</dateadded>
+</movie>
+    

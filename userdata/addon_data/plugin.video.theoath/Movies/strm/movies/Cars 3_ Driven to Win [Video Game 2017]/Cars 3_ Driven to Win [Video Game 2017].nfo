@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Cars 3: Driven to Win [Video Game 2017]</title>
+    <originaltitle>Cars 3: Driven to Win [Video Game 2017]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>8</value>
+            <votes>97</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2019-02-7 20:24:16[/COLOR]
+ </plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\Cars 3_ Driven to Win [Video Game 2017]</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\Cars 3_ Driven to Win [Video Game 2017]\Cars 3_ Driven to Win [Video Game 2017].strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\Cars 3_ Driven to Win [Video Game 2017]\Cars 3_ Driven to Win [Video Game 2017].strm</basepath>
+    <uniqueid type="tmdb" default="true">None</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>הרפתקאות</genre>
+<genre>קומדיה</genre>
+<genre>משפחה</genre>
+    <year>2017</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://m.media-amazon.com/images/M/MV5BY2UzYjJhZDgtZjkxNC00Mzk2LTg0ZTYtNzYyNjUyMDMwYzhmXkEyXkFqcGdeQXVyMzA2NzA3NjQ@._V1_UY268_CR9,0,182,268_AL_.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://m.media-amazon.com/images/M/MV5BY2UzYjJhZDgtZjkxNC00Mzk2LTg0ZTYtNzYyNjUyMDMwYzhmXkEyXkFqcGdeQXVyMzA2NzA3NjQ@._V1_UY268_CR9,0,182,268_AL_.jpg">https://m.media-amazon.com/images/M/MV5BY2UzYjJhZDgtZjkxNC00Mzk2LTg0ZTYtNzYyNjUyMDMwYzhmXkEyXkFqcGdeQXVyMzA2NzA3NjQ@._V1_UY268_CR9,0,182,268_AL_.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-02-07 20:24:16</dateadded>
+</movie>
+    

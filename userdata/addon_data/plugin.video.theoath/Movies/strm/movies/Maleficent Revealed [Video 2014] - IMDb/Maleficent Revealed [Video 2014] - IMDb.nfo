@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Maleficent Revealed [Video 2014] - IMDb</title>
+    <originaltitle>Maleficent Revealed [Video 2014] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7</value>
+            <votes>280</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2019-11-30 08:48:55[/COLOR]
+ </plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\Maleficent Revealed [Video 2014] - IMDb</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\Maleficent Revealed [Video 2014] - IMDb\Maleficent Revealed [Video 2014] - IMDb.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\Maleficent Revealed [Video 2014] - IMDb\Maleficent Revealed [Video 2014] - IMDb.strm</basepath>
+    <uniqueid type="tmdb" default="true">None</uniqueid>
+    
+    <genre> </genre>
+    <year>2014</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://m.media-amazon.com/images/M/MV5BODY3NGNkNzAtNDAwMC00OWQ3LTlkNzEtMWYwNDc1NjRkNzk2XkEyXkFqcGdeQXVyNjQxMzkzODk@._V1_UX182_CR0,0,182,268_AL_.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://m.media-amazon.com/images/M/MV5BODY3NGNkNzAtNDAwMC00OWQ3LTlkNzEtMWYwNDc1NjRkNzk2XkEyXkFqcGdeQXVyNjQxMzkzODk@._V1_UX182_CR0,0,182,268_AL_.jpg">https://m.media-amazon.com/images/M/MV5BODY3NGNkNzAtNDAwMC00OWQ3LTlkNzEtMWYwNDc1NjRkNzk2XkEyXkFqcGdeQXVyNjQxMzkzODk@._V1_UX182_CR0,0,182,268_AL_.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-11-30 08:48:55</dateadded>
+</movie>
+    

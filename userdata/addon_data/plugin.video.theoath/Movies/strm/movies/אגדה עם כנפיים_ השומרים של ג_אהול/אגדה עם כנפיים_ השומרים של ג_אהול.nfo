@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>אגדה עם כנפיים: השומרים של ג'אהול</title>
+    <originaltitle>Legend of the Guardians: The Owls of Ga%27Hoole</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.795</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE
+[COLOR lightblue]2020-10-25 14:50:18[/COLOR]
+[COLOR blue]אגדה עם כנפיים.מדובב.גוזלן.mp4[/COLOR]
+0.54 GB
+סורן הוא ינשוף צעיר, השבוי בסיפוריו של אביו אודות לוחמים מכונפים שלחמו בקרב גדול כדי להציל את כל ממלכת הינשופים מפני האיום הנורא של 'הטהורים'. סורן חולם להצטרף ללוחמים, אבל אחיו הבוגר, קלאד, בז לו על הרעיון, דבר שעולה להם ביוקר, כשהשניים נופלים בשבי בידי הטהורים. סורן מצליח לברוח בקושי, ובעזרת חבריו הינשופים הצעירים, הוא עובר סכנות אינספור כדי למצוא את מקום מסתורם של הלוחמים האגדיים, ולהציל את הממלכה מתוכניותיהם של הטהורים.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אגדה עם כנפיים_ השומרים של ג_אהול</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אגדה עם כנפיים_ השומרים של ג_אהול\אגדה עם כנפיים_ השומרים של ג_אהול.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אגדה עם כנפיים_ השומרים של ג_אהול\אגדה עם כנפיים_ השומרים של ג_אהול.strm</basepath>
+    <uniqueid type="tmdb" default="true">41216</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> הרפתקאות </genre>
+<genre> משפחה </genre>
+<genre> פנטזיה</genre>
+    <year>2010</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//24m3LoDTLJQc1W1yulh6k8fsB8t.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//s1aCCFPCRl4Zw2EBHLGK1dAHs1L.jpg">https://image.tmdb.org/t/p/original//s1aCCFPCRl4Zw2EBHLGK1dAHs1L.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-10-25 14:50:18</dateadded>
+</movie>
+    

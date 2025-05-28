@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הפוני הקטן שלי - הסרט</title>
+    <originaltitle>הפוני הקטן שלי - הסרט</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes> </votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2019-06-2 21:49:34[/COLOR]
+כוח אפל מאיים על , הפונים יוצאים למסע בלתי נשכח שבו הם פוגשים חברים חדשים ואתגרים מרגשים ומשתמשים בקסם של ידידות כדי להציל את ביתם</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הפוני הקטן שלי - הסרט</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הפוני הקטן שלי - הסרט\הפוני הקטן שלי - הסרט.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הפוני הקטן שלי - הסרט\הפוני הקטן שלי - הסרט.strm</basepath>
+    <uniqueid type="tmdb" default="true"> </uniqueid>
+    
+    <genre>הרפתקאות</genre>
+<genre>אנימציה</genre>
+<genre>משפחה</genre>
+<genre>קומדיה</genre>
+    <year>2017</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://www.lev.co.il/wp-content/uploads/2017/10/10994.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview=" https://www.coloring4fun.com/wp-content/uploads/2015/05/my-little-pony_HE1.jpg"> https://www.coloring4fun.com/wp-content/uploads/2015/05/my-little-pony_HE1.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-06-02 21:49:34</dateadded>
+</movie>
+    

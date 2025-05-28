@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>אראקס</title>
+    <originaltitle>Erax</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2022-03-8 06:25:04[/COLOR]
+יצורים מפלצתיים מזנקים מתוך ספר קסום, ועכשיו דודה אופל והאחיינית הצעירה נינה צריכות להתמודד עם הבלגן. סרט קצר ומצמרר.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אראקס</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אראקס\אראקס.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אראקס\אראקס.strm</basepath>
+    <uniqueid type="tmdb" default="true">929472</uniqueid>
+    
+    <genre>מסתורין</genre>
+<genre>משפחה</genre>
+    <year>2022</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//rMp04rYhy4yfOfjZq5F9R3wkeqo.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//n67cIiOFqzdralhIbjppltWZDYe.jpg">http://image.tmdb.org/t/p/original//n67cIiOFqzdralhIbjppltWZDYe.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-03-08 06:25:04</dateadded>
+</movie>
+    

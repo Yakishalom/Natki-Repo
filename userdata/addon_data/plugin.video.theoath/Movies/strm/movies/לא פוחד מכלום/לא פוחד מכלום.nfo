@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>לא פוחד מכלום</title>
+    <originaltitle>Fearless</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.169</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2021-05-29 23:07:51
+Dr,TE,TE
+[COLOR lightblue]2021-05-02 20:37:24[/COLOR]
+[COLOR blue]לא פוחד מכלום מדובב 720p WEBRip.mp4[/COLOR]
+1.58 GB
+גיימר צעיר שמשחק הווידאו האהוב עליו מנחית בחצר ביתו שלושה תינוקות-על נאלץ לשכלל את המהלכים שלו ולשמש כבייביסיטר במשרה מלאה.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לא פוחד מכלום</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לא פוחד מכלום\לא פוחד מכלום.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לא פוחד מכלום\לא פוחד מכלום.strm</basepath>
+    <uniqueid type="tmdb" default="true">726664</uniqueid>
+    
+    <genre>משפחה </genre>
+<genre> אנימציה </genre>
+<genre> קומדיה</genre>
+    <year>2020</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//cow7DcY9rnH1L8ZbJ6sVqAlniSm.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//s7NC2kntiPB3WltWj9bnNTkoqUp.jpg">https://image.tmdb.org/t/p/original//s7NC2kntiPB3WltWj9bnNTkoqUp.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-05-29 23:07:51</dateadded>
+</movie>
+    

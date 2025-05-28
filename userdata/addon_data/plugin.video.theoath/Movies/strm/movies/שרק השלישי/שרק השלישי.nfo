@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>שרק השלישי</title>
+    <originaltitle>Shrek the Third</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.287</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2020-07-09 15:09:10
+ON,Dr,TE,TE
+[COLOR lightblue]2017-01-15 21:59:54[/COLOR]
+[COLOR blue]שרק 3 מדובב.avi[/COLOR]
+1.28 GB
+המלך הארולד חולה מאוד ולכן אינו מסוגל להמשיך לתפקד כמלך. שרק הוא המועמד הטבעי לתפקיד המלך הבא. רק שמשמעות הדבר היא שיאלץ לוותר על ביצתו האהובה ולהסתגל לחיים בארמון - מחשבה בלתי נסבלת עבור טרול. יחד עם חבריו החתול במגפיים וחמור, שרק מנסה להמליך את ארטי המרדן במקומו לכתר. במקביל, הנסיכה פיונה אוספת את חברותיה כדי להדוף את ההפיכה שהנסיך צ'ארמינג מתכנן.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\שרק השלישי</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\שרק השלישי\שרק השלישי.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\שרק השלישי\שרק השלישי.strm</basepath>
+    <uniqueid type="tmdb" default="true">810</uniqueid>
+    
+    <genre>פנטזיה </genre>
+<genre> הרפתקאות </genre>
+<genre> אנימציה </genre>
+<genre> קומדיה </genre>
+<genre> משפחה</genre>
+    <year>2004</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//cYeY7g3KS84HGuktgfJwpJXfWVm.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//qSNz1G1Ts8fFw6v4Vae4aMAjcY7.jpg">https://image.tmdb.org/t/p/original//qSNz1G1Ts8fFw6v4Vae4aMAjcY7.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-07-09 15:09:10</dateadded>
+</movie>
+    

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>כלב מי שמנגן 3: הקרב על הקצב</title>
+    <originaltitle>Rock Dog 3 Battle the Beat</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2023-09-29 11:02:16[/COLOR]
+לאחר מסע הופעות מסביב לעולם עם להקתו, בודי, כלב הרוקנרול, לוקח פסק זמן וחוזר לכפר הולדתו. כאשר הרכב בנות צעיר בתוכנית ריאלטי מוזיקלית מתוודות שאינן מכירות את אלילי הרוק הוותיקים, מחליט בודי להצטרף לצוות השופטים בתוכנית, וללמד אותן דבר או שניים על רוקנרול. ההתנגשות בין הפופ הנוצץ של ההרכב הצעיר והרוקנרול החייתי של בודי, יניב הצלחה ענקית - אבל גם מתחים גדולים. האם הם יצליחו ללמוד לחיות [ולשיר] בהרמוניה?</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\כלב מי שמנגן 3_ הקרב על הקצב</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\כלב מי שמנגן 3_ הקרב על הקצב\כלב מי שמנגן 3_ הקרב על הקצב.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\כלב מי שמנגן 3_ הקרב על הקצב\כלב מי שמנגן 3_ הקרב על הקצב.strm</basepath>
+    <uniqueid type="tmdb" default="true">1054972</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>הרפתקאות</genre>
+<genre>קומדיה</genre>
+    <year>2023</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=FtFmyP-nz7M</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//qmR0oLV0h3j6QxzVSMa7STqCf4d.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//1Z8PEjwJduCWLA40HxlmvuoCGI8.jpg">http://image.tmdb.org/t/p/original//1Z8PEjwJduCWLA40HxlmvuoCGI8.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-09-29 11:02:16</dateadded>
+</movie>
+    

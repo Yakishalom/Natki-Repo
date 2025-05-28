@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הדרקון הראשון שלי: השיבה הביתה</title>
+    <originaltitle>How to Train Your Dragon: Homecoming</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>8.081</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>TE
+[COLOR lightblue]2023-04-19 19:45:48[/COLOR]
+[COLOR blue]1080p 2019 הדרקון - השיבה הביתה מדובב.mkv[/COLOR]
+0.58 GB
+היקוק וחסר שיניים מתאחדים מחדש כדי להזכיר לשני המינים את הקשר הבלתי נפרד בין ויקינגים לדרקונים.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הדרקון הראשון שלי_ השיבה הביתה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הדרקון הראשון שלי_ השיבה הביתה\הדרקון הראשון שלי_ השיבה הביתה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הדרקון הראשון שלי_ השיבה הביתה\הדרקון הראשון שלי_ השיבה הביתה.strm</basepath>
+    <uniqueid type="tmdb" default="true">638507</uniqueid>
+    
+    <genre></genre>
+    <year>2019</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//kXj2Qrfm994yLeuADqbOieU1mUH.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//lI2AHx0QQrNnEkUqUG01QHUdLDW.jpg">https://image.tmdb.org/t/p/original//lI2AHx0QQrNnEkUqUG01QHUdLDW.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-04-19 19:45:48</dateadded>
+</movie>
+    

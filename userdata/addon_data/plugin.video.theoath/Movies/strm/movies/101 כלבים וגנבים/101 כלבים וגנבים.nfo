@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>101 כלבים וגנבים</title>
+    <originaltitle>101 Dalmatians</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.89</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2019-04-3 21:22:45
+ON,Dr,TE
+[COLOR lightblue]2018-10-29 12:01:03[/COLOR]
+[COLOR blue]על כלבים וגנבים 2.מדובב.גוזלן.avi[/COLOR]
+0.67 GB
+לאחר שהתאהבו זוג הדלמטים והביאו לחתונת הבעלים שלהם, יוצאים הארבעה בעקבות חוטפי כלבים דלמטיים. פונגו ופרדי הם זוג הדלמטים המאוהב שמוביל את החבורה. קרואלה דוויל (קלוז) היא החוטפת האכזרית שמחזיקה עשרות דלמטים וחיות אחרות בכליאה. החוטפים מוכנעים לאחר מרדפים קומיים ומלאי פעולה, ומוסגרים למשטרה. "101 כלבים" מבוסס על סרט אנימציה בעל אותו שם מ-1961, גם הוא סוחף ומצליח, בהפקת אולפני וולט דיסני.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\101 כלבים וגנבים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\101 כלבים וגנבים\101 כלבים וגנבים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\101 כלבים וגנבים\101 כלבים וגנבים.strm</basepath>
+    <uniqueid type="tmdb" default="true">11674</uniqueid>
+    
+    <genre>משפחה </genre>
+<genre> קומדיה</genre>
+    <year>2002</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//8o2ADoAyG796UwTjwBFjPyBz0yG.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//yVETHRV225yv3jI7HbOUz66QNrO.jpg">https://image.tmdb.org/t/p/original//yVETHRV225yv3jI7HbOUz66QNrO.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-04-03 21:22:45</dateadded>
+</movie>
+    

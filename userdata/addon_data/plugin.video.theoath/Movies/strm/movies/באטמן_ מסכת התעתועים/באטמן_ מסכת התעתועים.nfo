@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>באטמן: מסכת התעתועים</title>
+    <originaltitle>Batman: Mask of the Phantasm</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.495</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,TE
+[COLOR lightblue]2021-06-25 18:21:19[/COLOR]
+[COLOR blue]720p_1993_ז_מ_באטמן_מסכת_התעתועים_מדובב.mkv[/COLOR]
+1.14 GB
+רוצח סידרתי מסתורי עם גרזן במקום יד, מגיע לעיר גותהם ומחסל באופן שיטתי את ראשי הפשע בעיר. בגלל חזותו הכהה, בטעות הוא מזוהה כבאטמן. עכשיו באטמן, כפושע נרדף, צריך לפתור את התעלומה, שבהמשך גם מערבת את יריבו משכבר הימים - הגו'קר. העלילה מסתבכת כשאהובה ישנה של באטמן מגיעה גם היא לעיר.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\באטמן_ מסכת התעתועים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\באטמן_ מסכת התעתועים\באטמן_ מסכת התעתועים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\באטמן_ מסכת התעתועים\באטמן_ מסכת התעתועים.strm</basepath>
+    <uniqueid type="tmdb" default="true">14919</uniqueid>
+    
+    <genre></genre>
+    <year>1993</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//g7pqyZVjW7hxxa5qqNPhX5p96nS.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//9BtUWZhigispqSUYhrS6cJHpvwx.jpg">https://image.tmdb.org/t/p/original//9BtUWZhigispqSUYhrS6cJHpvwx.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-06-25 18:21:19</dateadded>
+</movie>
+    

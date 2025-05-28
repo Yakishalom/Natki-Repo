@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>לעוף על הזמן</title>
+    <originaltitle>Free Birds [2013]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>19,538</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2017-12-4 11:32:15[/COLOR]
+שני תרנגולי הודו משני חוות שונות צריכים לשים את המחלוקות ביניהם כדי להצתוות למסע בזמן שעתיד לשנות את מסלול ההיסטוריה ולשים את ההודו מחוץ לתפריטים אחת ולתמיד.</plot>
+    <runtime>91</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לעוף על הזמן</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לעוף על הזמן\לעוף על הזמן.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לעוף על הזמן\לעוף על הזמן.strm</basepath>
+    <uniqueid type="tmdb" default="true">175574</uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Adventure</genre>
+<genre>Comedy</genre>
+<genre>אנימציה</genre>
+<genre>קומדיה</genre>
+<genre>משפחה</genre>
+    <year>2013</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=UhxSOkTFGvo</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//8m3aLe44SW8riCmRMsxdDbpWQxU.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//kMQHV8A0jOl4eRkBFP7dy6Jt5Gv.jpg">http://image.tmdb.org/t/p/original//kMQHV8A0jOl4eRkBFP7dy6Jt5Gv.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2017-12-04 11:32:15</dateadded>
+</movie>
+    

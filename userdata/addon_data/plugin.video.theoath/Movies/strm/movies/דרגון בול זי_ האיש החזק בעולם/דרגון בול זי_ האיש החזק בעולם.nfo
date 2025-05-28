@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>דרגון בול זי: האיש החזק בעולם</title>
+    <originaltitle>Dragon Ball Z: The World's Strongest [1990] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7</value>
+            <votes>5,854</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2021-04-16 15:02:40[/COLOR]
+גוהאן, אולונג ובולמה מגלים שכל כדורי הדרגון בול נאספו. מי שאסף אותם היה דוקטור שחבר שלו קפוא בהר מושלג, וברצונו לבקש משאנלונג שיפשיר את ההר המושלג. ואז מעבדה עצומה יוצאת מהשלג וממנה יוצאים הרבה מפלצות ירוקות. גוהאן ואולונג מנסים לעצור בעדם אבל המפלצות מתחילות להביס את גוהאן בקרב עד שפיקולו מגיע פתאום. פיקולו מציל את גוהאן אבל לא מצליח להציל את עצמו. ואז עוברים לבית של מאסטר רושי שגם בולמה נמצאה איתו והמפלצות חוטפות אותם . המפלצות מביאים אותם למעבדה של הדוקטור כי הדוקטור חושב שמאסטר רושי הוא האיש הכי חזק בעולם כי לפני הרבה שנים הוא זכה באליפות באומנויות לחימה אז הוא רוצה לבחון אותו. גוקו קרילין וגוהאן יוצאים למשימה על מנת להציל אותם.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דרגון בול זי_ האיש החזק בעולם</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דרגון בול זי_ האיש החזק בעולם\דרגון בול זי_ האיש החזק בעולם.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דרגון בול זי_ האיש החזק בעולם\דרגון בול זי_ האיש החזק בעולם.strm</basepath>
+    <uniqueid type="tmdb" default="true">39100</uniqueid>
+    
+    <genre>אקשן</genre>
+<genre>אנימציה</genre>
+<genre>מדע בדיוני</genre>
+    <year>1990</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=RuViG2-w_To</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//3ipNfb1BIs6xGORZETfL2rYUy4w.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//xVHgLL32VHlPMl1syvVMuZFSVLM.jpg">http://image.tmdb.org/t/p/original//xVHgLL32VHlPMl1syvVMuZFSVLM.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-04-16 15:02:40</dateadded>
+</movie>
+    

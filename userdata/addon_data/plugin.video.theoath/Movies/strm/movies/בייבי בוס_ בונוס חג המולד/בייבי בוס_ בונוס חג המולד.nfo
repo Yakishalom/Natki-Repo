@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>בייבי בוס: בונוס חג המולד</title>
+    <originaltitle>The Boss Baby: Christmas Bonus</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.8</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2021-07-09 17:05:05
+TE,TE
+[COLOR lightblue]2018-07-12 08:45:29[/COLOR]
+[COLOR blue]בייבי בוס - מדובב.avi[/COLOR]
+0.7 GB
+ערב חג מולד מקבל תפנית מפתיעה כשבייבי בוס מתחלף בטעות עם אחד האֶלפים של סנטה קלאוס ונתקע בקוטב הצפוני.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בייבי בוס_ בונוס חג המולד</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בייבי בוס_ בונוס חג המולד\בייבי בוס_ בונוס חג המולד.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בייבי בוס_ בונוס חג המולד\בייבי בוס_ בונוס חג המולד.strm</basepath>
+    <uniqueid type="tmdb" default="true">1045944</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> משפחה </genre>
+<genre> הרפתקאות </genre>
+<genre> סרט טלויזיה</genre>
+    <year>2017</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//86WqNTSlkaPuCzF4ZXaadGjXfok.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//nITzFbM1JS7WEvFjjGL0kCb2yPr.jpg">https://image.tmdb.org/t/p/original//nITzFbM1JS7WEvFjjGL0kCb2yPr.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-07-09 17:05:05</dateadded>
+</movie>
+    

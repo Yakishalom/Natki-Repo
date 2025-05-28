@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>ים עמוק</title>
+    <originaltitle>Deep Sea [2006]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>8</value>
+            <votes>1,541</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-04-5 11:30:11[/COLOR]
+סרט IMAX חדש המעוטר בפס קול מאת המלחין דני אלפמן ומלווה בקריינות של ג'וני דפ וקייט ווינסלט שמדריכים את הצופים בצלילה למעמקי האוקיינוסים. בדרך פוגשים מגוון של יצורים מקסימים ומסוכנים.</plot>
+    <runtime>41</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ים עמוק</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ים עמוק\ים עמוק.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ים עמוק\ים עמוק.strm</basepath>
+    <uniqueid type="tmdb" default="true">17700</uniqueid>
+    
+    <genre>Documentary</genre>
+<genre>Short</genre>
+<genre>דוקומנטרי</genre>
+    <year>2006</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=TkyxupKe054</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//2UglT7JjN6o7dYni4G16NYOFRJO.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//wwwkeSqtU4Agi7HFp1NvtZCD5IJ.jpg">http://image.tmdb.org/t/p/original//wwwkeSqtU4Agi7HFp1NvtZCD5IJ.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-04-05 11:30:11</dateadded>
+</movie>
+    

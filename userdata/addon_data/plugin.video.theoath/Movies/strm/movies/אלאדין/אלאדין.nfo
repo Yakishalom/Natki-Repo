@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>אלאדין</title>
+    <originaltitle>Aladdin</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.116</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,ON,Dr,Dr,TE,TE
+[COLOR lightblue]2022-03-26 21:31:56[/COLOR]
+[COLOR blue]720p BluRay 2019 זירה מדיה אלאדין מדובב.mkv[/COLOR]
+1.41 GB
+עיבוד לייב אקשן מרגש וססגוני לקלאסיקה המצויירת של אולפני דיסני, 'אלאדין' מספר את סיפורו המרגש של נער רחוב מקסים, נסיכה אמיצה ונחושה בשם יסמין וג'יני שייתכן שהוא המפתח לעתידם.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אלאדין</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אלאדין\אלאדין.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אלאדין\אלאדין.strm</basepath>
+    <uniqueid type="tmdb" default="true">420817</uniqueid>
+    
+    <genre>הרפתקאות </genre>
+<genre> פנטזיה </genre>
+<genre> רומנטי </genre>
+<genre> משפחה</genre>
+    <year>2019</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//iRlampVNwDPYeqSp23hbgd9JuMr.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//rVqY0Bo4Npf6EIONUROxjYAJfmD.jpg">https://image.tmdb.org/t/p/original//rVqY0Bo4Npf6EIONUROxjYAJfmD.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-03-26 21:31:56</dateadded>
+</movie>
+    

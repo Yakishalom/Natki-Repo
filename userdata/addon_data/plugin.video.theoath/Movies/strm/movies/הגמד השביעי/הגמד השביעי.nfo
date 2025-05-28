@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הגמד השביעי</title>
+    <originaltitle>Der 7bte Zwerg</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.487</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,TE
+[COLOR lightblue]2018-06-02 20:32:26[/COLOR]
+[COLOR blue]הגמד השביעי.מדובב.גוזלן.mp4[/COLOR]
+0.69 GB
+אירוע מהאגדות מפגיש בין כוכבי האגדות הגדולים; שלגיה, היפיפיה הנרדמת, כיפה אדומה ועוד. אולם רגע לפני האירוע מגלים הגמדים של שלגיה, שהמכשפה הרעה מתכננת להרדים את הנסיכה רוז היפיפיה. הם מספיקים לספר לה על המזימה בניסיון לסכל אותם, במהלך שאמור היה לשנות את פני סיפורי האגדות לנצח. אולם הגורל חזק מכל דימיון, ובשל טעות גמדית אחת, של הגמד הקטן מכולם, נדקרת הנסיכה רוז באצבעה ושוקעת בתרדמה בת 100 שנים. יחד איתה קופאת הממלכה כולה. הגמדים, אכולי רגשות אשם ומרץ בלתי נלאה, מחליטים לצאת למסע מחוץ לממלכה הרדומה ולמצוא את ג'ק, אהובה של הנסיכה, שצפוי לנשק אותה ולהציל את הממלכה כולה. הבעיה היא שג'ק כלוא אצל המכשפה הרעה, שבוי בידי דרקון אימתני. השבעה יוצאים למסע הרפתקאות מהיר, רצוף בסכנות וקשיים, בו מתגלה גדלות הנפש שלהם, ובמיוחד זו של בובו הקטן, החכם והמגושם.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הגמד השביעי</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הגמד השביעי\הגמד השביעי.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הגמד השביעי\הגמד השביעי.strm</basepath>
+    <uniqueid type="tmdb" default="true">247788</uniqueid>
+    
+    <genre>משפחה </genre>
+<genre> פנטזיה </genre>
+<genre> אנימציה </genre>
+<genre> הרפתקאות</genre>
+    <year>2014</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//sLCAaFHgKUgogHR6OuTOwIPhN8l.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//3F4lVW7O4urxTHkQSAanIxKQUgD.jpg">https://image.tmdb.org/t/p/original//3F4lVW7O4urxTHkQSAanIxKQUgD.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-06-02 20:32:26</dateadded>
+</movie>
+    

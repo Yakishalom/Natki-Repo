@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>סרט לגו באטמן</title>
+    <originaltitle>The Lego Batman Movie</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.216</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>TE,TE
+[COLOR lightblue]2020-07-09 15:09:35[/COLOR]
+[COLOR blue]סרט לגו באטמן.מדובב.גוזלן.avi[/COLOR]
+0.7 GB
+שינויים רבים מתרחשים בעיר גות'הם. בכדי להציל את העיר מההשתלטות העוינת של הג'וקר, באטמן יוצא למסע העצמה אישי במסגרתו יצטרך להשיל מעליו את כל המגננות וללמוד את חשיבותה של עבודת צוות.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סרט לגו באטמן</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סרט לגו באטמן\סרט לגו באטמן.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סרט לגו באטמן\סרט לגו באטמן.strm</basepath>
+    <uniqueid type="tmdb" default="true">324849</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> אקשן </genre>
+<genre> קומדיה </genre>
+<genre> משפחה</genre>
+    <year>2017</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//w66unq8AZgqM9iH1Vb8xOwjVY6s.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//eoMushgujydxFplE9yPZ54lwOvo.jpg">https://image.tmdb.org/t/p/original//eoMushgujydxFplE9yPZ54lwOvo.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-07-09 15:09:35</dateadded>
+</movie>
+    

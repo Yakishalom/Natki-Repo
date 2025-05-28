@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הדבורה מאיה: גביע הדבש</title>
+    <originaltitle>Maya the Bee: The Honey Games [2018]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>503</votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr
+[COLOR lightblue]2019-02-17 17:58:09[/COLOR]
+הדבורה מאיה, ברגע של התלהבות, גורמת לתאונה מביכה אשר מביישת את הקיסרית של באזטרופוליס. בעקבות המקרה היא נאלצת לחבור לקבוצת חרקים לא יוצלחים במטרה להוביל אותם לתחרות 'משחקי הדבש', כדי להציל את הכוורת.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הדבורה מאיה_ גביע הדבש</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הדבורה מאיה_ גביע הדבש\הדבורה מאיה_ גביע הדבש.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הדבורה מאיה_ גביע הדבש\הדבורה מאיה_ גביע הדבש.strm</basepath>
+    <uniqueid type="tmdb" default="true">499088</uniqueid>
+    
+    <genre>קומדיה</genre>
+<genre>משפחה</genre>
+<genre>אנימציה</genre>
+<genre>הרפתקאות</genre>
+    <year>2018</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=bWxzgmcC_Jw</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//93TEMptx1ky7DwUGzxcfULspoWO.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//ceVcKocztpxoxQlN8nXIKVOyTyy.jpg">http://image.tmdb.org/t/p/original//ceVcKocztpxoxQlN8nXIKVOyTyy.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-02-17 17:58:09</dateadded>
+</movie>
+    

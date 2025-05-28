@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>דרגון בול זי: האזור המת</title>
+    <originaltitle>Dragon Ball Z: Dead Zone [1989] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7</value>
+            <votes>6,285</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2021-04-16 14:56:54[/COLOR]
+פיקורו מתאמן בשביל להיות יותר חזק מגוקו כדי שיוכל לנקום בו אך במהלך אימוניו הוא פוגש שלוש מפלצות של גארליק. בעבר גארליק נילחם נגד גוד כי הוא רצה להיות בתפקיד של גוד, גוד ניצח את גארליק וגארליק התעצבן והוא שלח את צבאות האופל כי רצה להרוס את העולם אבל גוד הגן על כדור הארץ ואז גוד הרג את גארליק וגארליק נשבע שהוא ינקום. אחרי 300 שנה גארליק חוזר ושולח את המפלצות שלו כדי שיקחו את כדורי הדרגון בול.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דרגון בול זי_ האזור המת</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דרגון בול זי_ האזור המת\דרגון בול זי_ האזור המת.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דרגון בול זי_ האזור המת\דרגון בול זי_ האזור המת.strm</basepath>
+    <uniqueid type="tmdb" default="true">28609</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>אקשן</genre>
+<genre>פנטזיה</genre>
+    <year>1989</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=eqIgKOSOTcQ</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//i6Z26eMeu4ONWpS57DvoABeYmqQ.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//4dmEpmTdXJffmD0FM90WNY3vd3C.jpg">http://image.tmdb.org/t/p/original//4dmEpmTdXJffmD0FM90WNY3vd3C.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-04-16 14:56:54</dateadded>
+</movie>
+    

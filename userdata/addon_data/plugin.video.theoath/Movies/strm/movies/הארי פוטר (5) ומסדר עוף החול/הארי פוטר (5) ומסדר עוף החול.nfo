@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הארי פוטר (5) ומסדר עוף החול</title>
+    <originaltitle>הארי פוטר (5) ומסדר עוף החול</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes> </votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-08-19 09:20:08[/COLOR]
+הארי חוזר לשנת לימודיו החמישית בהוגוורטס ומגלה כי רוב קהילת הקוסמים חייה בהכחשת המפגש האחרון בינו לבין הלורד וולדמורט הרשע, ומעדיפים להסתכל בעין עיוורת לגבי חזרתו של וולדמורט. בהרגשה כי מנהל בית הספר הנכבד של הוגוורטס, אלבוס דמבלדור, משקר לגבי חזרתו של וולדמורט על מנת להחליש את כוחו ולרשת את מקומו של שר הקסמים, קורנליוס פאדג', והוא ממנה מורה חדשה להתגוננות מפני כוחות האופל כדי להשגיח על דמבלדור והתלמידים. אבל פרופסור אמברידג', המורה שמונתה מטעם המשרד, אינה מלמדת את קסמי ההגנה, ונותנת לתלמידים שיעורים תיאורטיים בלבד. בכך משאירה אותם בלתי מוכנים באופן מעורר רחמים להגנה על עצמם מפני כוחות האופל אשר מסכנים אותם ואת קהילת הקוסמים כולה. לכן, בעזרתם של הרמיוני ורון, הארי לוקח את העניין לידיו. בפגישות סודיות עם קבוצה קטנה של תלמידים אשר קוראים לעצמם 'צבא דמבלדור', הארי מלמד אותם כיצד להתגונן מפני כוחות האופל, ומכין את הקוסמים הצעירים באומץ לב לקרב המתקרב.</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הארי פוטר (5) ומסדר עוף החול</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הארי פוטר (5) ומסדר עוף החול\הארי פוטר (5) ומסדר עוף החול.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הארי פוטר (5) ומסדר עוף החול\הארי פוטר (5) ומסדר עוף החול.strm</basepath>
+    <uniqueid type="tmdb" default="true"> </uniqueid>
+    
+    <genre>Adventure</genre>
+<genre>Family</genre>
+<genre>Fantasy</genre>
+<genre>הרפתקאות</genre>
+<genre>פנטזיה</genre>
+<genre>משפחה</genre>
+<genre>מסתורין</genre>
+    <year>2007</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//vEOcwZStWQFR22nm4UiwnDDFlrJ.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//gGt4ePOhD8ilxd3FYhKB06L2CyG.jpg">http://image.tmdb.org/t/p/original//gGt4ePOhD8ilxd3FYhKB06L2CyG.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-08-19 09:20:08</dateadded>
+</movie>
+    

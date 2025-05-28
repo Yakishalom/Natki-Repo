@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>טינקרבל והאוצר האבוד</title>
+    <originaltitle>Tinker Bell and the Lost Treasure</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.781</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,TE
+[COLOR lightblue]2023-03-15 16:18:08[/COLOR]
+[COLOR blue]HDTV 2009 זירה מדיה טינקרבל 2 מדובב.mkv[/COLOR]
+0.76 GB
+טינקרבל מקבלת לידיה את פיקסי העץ, הוא חומר שרביט הקסם המיוחד הנותן כוח לפיות הטובות לקסום את קסמיהן בעונת הסתיו תחת הירח המלא.  אך טינקרבל עושה בו שימוש לא נכון ועולם הפיות נתון בסכנה !  טינקרבל האמיצה לא מוותרת, ומחליטה לתקן את מה שעשתה.  היא יוצאת למסע ארוך ומסוכן, בו היא חוצה את הים ומגיעה למרחקים, בעזרת חבריה הטובים - טרנס ובלייז הגחלילית.  ובדרך להציל את עולם הקסמים הם מגלים שם אוצר אבוד ויקר.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טינקרבל והאוצר האבוד</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טינקרבל והאוצר האבוד\טינקרבל והאוצר האבוד.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טינקרבל והאוצר האבוד\טינקרבל והאוצר האבוד.strm</basepath>
+    <uniqueid type="tmdb" default="true">25475</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> משפחה </genre>
+<genre> הרפתקאות </genre>
+<genre> פנטזיה</genre>
+    <year>2009</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//3bBT2O6wLH3qBl2HSYarpBuaVMv.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//5oBjxcY1OMfZKnPEk5QS4j6yBSW.jpg">https://image.tmdb.org/t/p/original//5oBjxcY1OMfZKnPEk5QS4j6yBSW.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-03-15 16:18:08</dateadded>
+</movie>
+    

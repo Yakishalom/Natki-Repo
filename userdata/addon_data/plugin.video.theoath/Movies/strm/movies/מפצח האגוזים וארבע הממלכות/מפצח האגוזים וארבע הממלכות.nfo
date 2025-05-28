@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מפצח האגוזים וארבע הממלכות</title>
+    <originaltitle>The Nutcracker and the Four Realms [2018] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>15,703</votes>
+        </rating>
+    </ratings>
+    <plot>2021-03-29 17:41:18
+ON,Dr,Dr
+[COLOR lightblue]2019-03-16 19:12:36[/COLOR]
+נסיך מצרי לומד על זהותו העברית, ומנסה להוציא לחופשי את בני עמו... במצריים לפני ימים רבים, מלך מצרים פרעה סתי, מורה שכל התינוקות העברים ממן זכר יושלכו לייאור ויוטבעו. אם הנואשת מניחה את בנה בסל נצרים בייאור. כשהיא סומכת על אלוהי העברים שיציל אותו. הסל נמצא ע'י בת המלוכה, ומשה נלקח לארמון וגודל כאח ליורש העצר רעמסס. שנים אחרי האחים שגודלים בעושר ואושר נפרדים ברגע שמשה מזהה את מורשתו האמיתית ונקרא ע'י אלוהים למשימה של שחרור העברים מהעבדות.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מפצח האגוזים וארבע הממלכות</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מפצח האגוזים וארבע הממלכות\מפצח האגוזים וארבע הממלכות.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מפצח האגוזים וארבע הממלכות\מפצח האגוזים וארבע הממלכות.strm</basepath>
+    <uniqueid type="tmdb" default="true">426543</uniqueid>
+    
+    <genre>הרפתקאות</genre>
+<genre>אנימציה</genre>
+<genre>דרמה</genre>
+<genre>משפחה</genre>
+    <year>2018</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=BXfxLIuNJvw</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//otCCpkDrRMSPeOb8qEHxKBquDzj.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//cVa8EkjvT7IP0NMrGOKXs1UVUKs.jpg">http://image.tmdb.org/t/p/original//cVa8EkjvT7IP0NMrGOKXs1UVUKs.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-03-29 17:41:18</dateadded>
+</movie>
+    

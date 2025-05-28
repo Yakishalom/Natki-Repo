@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>בובספוג מכנסמרובע: הסרט</title>
+    <originaltitle>The SpongeBob SquarePants Movie [2004]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7</value>
+            <votes>64,740</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2017-12-3 12:22:05[/COLOR]
+בובספוג מכנסמרובע הוא ספוג אופטימי שנולד בצורה מרובעת, בדיוק כמו ספוג מטבח. הוא חי בתוך אננס שבמים בעיר 'ביקיני בוטום', ועובד כטגן במסעדת 'הסרטן הפריך', וחבריו הם פטריק כוכב-הים, סנדי הסנאית וסקווידוורד התמנון.</plot>
+    <runtime>87</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בובספוג מכנסמרובע_ הסרט</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בובספוג מכנסמרובע_ הסרט\בובספוג מכנסמרובע_ הסרט.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בובספוג מכנסמרובע_ הסרט\בובספוג מכנסמרובע_ הסרט.strm</basepath>
+    <uniqueid type="tmdb" default="true">11836</uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Adventure</genre>
+<genre>Comedy</genre>
+<genre>אנימציה</genre>
+<genre>קומדיה</genre>
+<genre>משפחה</genre>
+    <year>2004</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Tv8xk7BKaNM</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//h0gjp7VfKHgEVSLLfTehP5tS40c.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//w7TyHY4QRyEfGfssn7AlcoLafUZ.jpg">http://image.tmdb.org/t/p/original//w7TyHY4QRyEfGfssn7AlcoLafUZ.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2017-12-03 12:22:05</dateadded>
+</movie>
+    

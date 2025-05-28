@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הנוקמים המופלאים 2: עלייתו של הפנתר</title>
+    <originaltitle>Ultimate Avengers II</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2021-09-11 05:57:52[/COLOR]
+ווקנדה המסתורית שוכנת בלב ליבה של אפריקה האפלה, מבודדת ולא מוכרת לשאר העולם, נשלטת בידי המלך הצעיר הידוע בכינויו 'הפנתר השחור'. פולשים אכזריים מהחלל עומדים להגיע לכדור הארץ, לשלוט על השמיים והאדמה, הם מחפשים את מה שקבור מתחת לווקנדה העתיקה. הפנתר השחור פונה לגיבורי העל - הנוקמים האולטימטיביים - בכדי שיעזרו לו כנגד הפלישה. הנוקמים הללו נלחמו בעבר בפלישה הקודמת ובקושי שרדו, הם חשבו שזה נגמר אך מסתבר שלא.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הנוקמים המופלאים 2_ עלייתו של הפנתר</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הנוקמים המופלאים 2_ עלייתו של הפנתר\הנוקמים המופלאים 2_ עלייתו של הפנתר.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הנוקמים המופלאים 2_ עלייתו של הפנתר\הנוקמים המופלאים 2_ עלייתו של הפנתר.strm</basepath>
+    <uniqueid type="tmdb" default="true">14611</uniqueid>
+    
+    <genre>הרפתקאות</genre>
+<genre>אנימציה</genre>
+<genre>אקשן</genre>
+<genre>מדע בדיוני</genre>
+    <year>2006</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=gl4jsZcYt9k</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//sMFyYZR9krqcQC99G6jnb10Zv4P.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//ldxi7dKtud2KrStUr8V9P65ixNr.jpg">http://image.tmdb.org/t/p/original//ldxi7dKtud2KrStUr8V9P65ixNr.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-09-11 05:57:52</dateadded>
+</movie>
+    

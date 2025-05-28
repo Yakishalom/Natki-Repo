@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>לב של אש</title>
+    <originaltitle>Fireheart</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.384</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>Dr,TE
+[COLOR lightblue]2023-04-07 12:37:06[/COLOR]
+[COLOR blue]1080p BluRay 2022 ז.מ לב של אש מדובב.mkv[/COLOR]
+1.47 GB
+החלום של מיה היה לעבוד ככבאית. אך בניו יורק של שנות ה-20 התפקיד שמור אך ורק לגברים. מיה מחליטה לא לוותר, מתחפשת לנער צעיר, ומתגייסת לכוחות מכבי האש בהם אבא שלה הוא המפקד.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לב של אש</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לב של אש\לב של אש.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לב של אש\לב של אש.strm</basepath>
+    <uniqueid type="tmdb" default="true">778810</uniqueid>
+    
+    <genre></genre>
+    <year>2022</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//7zvbLpC6DDB6iuscAkEZzozWM1f.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//rEX8tOPvdgWqURQWx6oEzQqSWsM.jpg">https://image.tmdb.org/t/p/original//rEX8tOPvdgWqURQWx6oEzQqSWsM.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-04-07 12:37:06</dateadded>
+</movie>
+    

@@ -1,0 +1,1 @@
+["\u05d7\u05d98\u05d5", ["j8hnb", "8ujm", "jhbufh"], [], {"google:suggestsubtypes": [[512, 546], [512, 546], [512, 546]], "google:suggesttype": ["QUERY", "QUERY", "QUERY"]}]

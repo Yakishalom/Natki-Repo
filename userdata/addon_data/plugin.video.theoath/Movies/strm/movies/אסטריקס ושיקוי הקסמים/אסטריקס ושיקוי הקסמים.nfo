@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>אסטריקס ושיקוי הקסמים</title>
+    <originaltitle>Astérix - Le Secret de la Potion Magique</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.906</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE,TE
+[COLOR lightblue]2021-03-08 16:54:39[/COLOR]
+[COLOR blue]אסטריקס_ושיקוי_הקסמים_מדובב_גוזלן.mp4[/COLOR]
+1.17 GB
+הקוסם אשפיקס מטפס על עצים בזריזות עולה ויורד על עצי האלון בכדי לאסוף את צמחי הדבקון אשר ביערות המקיפים את הכפר שלו ושל חבריו האמיצים אסטריקס ואובליקס. יום אחד המטפס המומחה נופל, הוא לוקח את זה קשה!, הוא מודאג! מה יקרה לכפרו האהוב אם יום אחד הוא לא יוכל להכין את שיקוי הקסמים? עם אסטריקס ואובליקס לצידו, הוא יוצא לחפש ברחבי גאליה אחרי קוסם מוכשר וצעיר כדי להעביר לו את סוד הכנת שיקוי הקסמים...TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אסטריקס ושיקוי הקסמים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אסטריקס ושיקוי הקסמים\אסטריקס ושיקוי הקסמים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אסטריקס ושיקוי הקסמים\אסטריקס ושיקוי הקסמים.strm</basepath>
+    <uniqueid type="tmdb" default="true">527729</uniqueid>
+    
+    <genre>משפחה </genre>
+<genre> אנימציה </genre>
+<genre> קומדיה </genre>
+<genre> הרפתקאות</genre>
+    <year>2018</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//hPXs6yyCxsvMK0k3jjHuJVQsCc5.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//kAWcTZA6sbdR5ORwsHxHzsr7PXF.jpg">https://image.tmdb.org/t/p/original//kAWcTZA6sbdR5ORwsHxHzsr7PXF.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-03-08 16:54:39</dateadded>
+</movie>
+    

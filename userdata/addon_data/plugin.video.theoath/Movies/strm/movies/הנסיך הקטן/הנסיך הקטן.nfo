@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הנסיך הקטן</title>
+    <originaltitle>The Little Prince</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.611</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,TE
+[COLOR lightblue]2021-07-30 01:50:56[/COLOR]
+[COLOR blue]The.Little.Prince.2015.720p.BluRay.x264.HebDub.mkv[/COLOR]
+0.93 GB
+סיפורו הקלאסי והאהוב של סנט אכזופרי מגיע אל הקולנוע בעיבוד אנימציה חדשני ומקורי, המשלב בין אנימציה ממוחשבת לאיורים הידניים המקוריים של אכזופרי. כל מה שרצו מהילדה בת ה-12 הוא שתגדל, תלמד ותעשה את המוטל עליה כדי שבבוא היום היא תהיה "מבוגרת" נפלאה... אלא שהילדה הקטנה מעדיפה דווקא את חברתו של השכן המצחיק מהבית הישן ממול... זה שבחצרו מטוס עץ ישן, ולפני המון שנים הוא נאלץ לנחות נחיתת אונס בלב המדבר. כך מתחיל הסרט וסיפורו של המפגש בין הטייס לנסיך הקטן, עם הכבשה, השושנה, עצי הבאובב והשועל. הסרט, שהוקרן לראשונה בפסטיבל קאן השנה, זכה לשבחים אדירים ונחשב לעיבוד המוצלח והמרגש ביותר שנעשה אי פעם ולסרט שיכבוש את לבבות הילדים וההורים כאחד.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הנסיך הקטן</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הנסיך הקטן\הנסיך הקטן.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הנסיך הקטן\הנסיך הקטן.strm</basepath>
+    <uniqueid type="tmdb" default="true">309809</uniqueid>
+    
+    <genre>הרפתקאות </genre>
+<genre> אנימציה </genre>
+<genre> פנטזיה </genre>
+<genre> משפחה</genre>
+    <year>2015</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//je5Z7gbFTzrs3FPHINo9yGiHoVo.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//ugXEDHKGNUAp1ma4x7JOUCSmAXs.jpg">https://image.tmdb.org/t/p/original//ugXEDHKGNUAp1ma4x7JOUCSmAXs.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-07-30 01:50:56</dateadded>
+</movie>
+    

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>גיבור על נמלים</title>
+    <originaltitle>The Ant Bully</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.707</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE,TE,TE
+[COLOR lightblue]2023-09-07 14:32:10[/COLOR]
+[COLOR blue]DVDRip 2006 נ.מ גיבור על נמלים מדובב.avi[/COLOR]
+0.67 GB
+סיפורו של ילד בן 10 שיוצא למסע מדהים. לוקאס הוא חדש בשכונה, ללא חברים ומאויים על הביריון של השכונה. הוא מוציא את תסכוליו על מושבת נמלים בחצר ביתו. יום אחד הנמלים נוקמות ומכווצות אותו לגודל שלהם ומכריחות אותו לחיות איתם. בעולמו החדש, לוקאס יצטרך למצוא דרכים להתיידד על הסביבה שלו.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\גיבור על נמלים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\גיבור על נמלים\גיבור על נמלים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\גיבור על נמלים\גיבור על נמלים.strm</basepath>
+    <uniqueid type="tmdb" default="true">9906</uniqueid>
+    
+    <genre>פנטזיה </genre>
+<genre> הרפתקאות </genre>
+<genre> אנימציה </genre>
+<genre> קומדיה </genre>
+<genre> משפחה</genre>
+    <year>2006</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//59HsKBiKXUc4QnObXVuKOjtPL2S.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//zT7GDvQl2zgs0p3Z2wGwxsaEjNZ.jpg">https://image.tmdb.org/t/p/original//zT7GDvQl2zgs0p3Z2wGwxsaEjNZ.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-09-07 14:32:10</dateadded>
+</movie>
+    

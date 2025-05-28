@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מלכת השלג</title>
+    <originaltitle>Snezhnaya koroleva [2012] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5</value>
+            <votes>2,225</votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr
+[COLOR lightblue]2020-04-23 06:58:34[/COLOR]
+כדי ליצור עולם חדש ללא רגשות באמצעות רוח הקוטב שתקפיא את הנפש האנושית, מלכת השלג כיסתה את העולם בקרח ויצאה בעקבות יוצר זכוכית בשם וגארד, שמראותיו משקפות גם את הנפש. רוח הקוטב לוקחת עמה את וגארד, אך ילדיו מצליחים להתחבא. לאחר זמן רב, המלכה מאמינה שמצאה את בנו ויורשו, קאי, וחוטפת אותו. אך אחותו, גרדה, יוצאת למסע להצילו, וכדי לעשות זאת עליה לחצות את ארץ הקרח.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מלכת השלג</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מלכת השלג\מלכת השלג.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מלכת השלג\מלכת השלג.strm</basepath>
+    <uniqueid type="tmdb" default="true">164372</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>פנטזיה</genre>
+<genre>משפחה</genre>
+    <year>2012</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=HF_oaTD1rXg</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//41ibWCvBSrKE5e6GZN2lwph2LtW.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//gvCnzzk9QELPQNkR27p4W9uFFGV.jpg">http://image.tmdb.org/t/p/original//gvCnzzk9QELPQNkR27p4W9uFFGV.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-04-23 06:58:34</dateadded>
+</movie>
+    

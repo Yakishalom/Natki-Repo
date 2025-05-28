@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>פינוקיו</title>
+    <originaltitle>Pinocchio</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr
+[COLOR lightblue]2022-09-9 12:13:10[/COLOR]
+גרסה מצולמת של הסיפור האהוב על בובת עץ שמשתוקקת להפוך לילד אמיתי.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פינוקיו</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פינוקיו\פינוקיו.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פינוקיו\פינוקיו.strm</basepath>
+    <uniqueid type="tmdb" default="true">532639</uniqueid>
+    
+    <genre>פנטזיה</genre>
+<genre>הרפתקאות</genre>
+<genre>משפחה</genre>
+    <year>2022</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=2vNVGZGlUok</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//4PkMhKEJdiJmWH6kVUpL5PaNPe0.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//nnUQqlVZeEGuCRx8SaoCU4XVHJN.jpg">http://image.tmdb.org/t/p/original//nnUQqlVZeEGuCRx8SaoCU4XVHJN.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-09-09 12:13:10</dateadded>
+</movie>
+    

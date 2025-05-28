@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>פו הדב: האביב של רו</title>
+    <originaltitle>Winnie the Pooh: Springtime with Roo</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.654</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,TE
+[COLOR lightblue]2020-04-27 14:20:15[/COLOR]
+[COLOR blue]1080p BluRay 2004 האביב של רו מדובב.mkv[/COLOR]
+1.42 GB
+היום הוא יום האביבי היפה ביותר בכל הזמנים, הדבורים מזמזמות הפרחים פורחים ורו, פו וטיגר מוכנים לצחוק ולהשתעשע.אבל הארנב מצפה מהם להשאר בבית עד אשר יגמר נקיון האביב הבלתי נלאה. האם יש מישהו או משהו המסוגל לשנות את דעתו של הארנב? חוכמתו נסיונו ואהבתו של רו מוכיחים לארנב כי ימים מיוחדים חייבים לחלוק בדרכים מיוחדות! בהשתתפות כל הדמויות האהובות, חמישה שירים שובי לב ולקחים אודות אדיבות וחיבה.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פו הדב_ האביב של רו</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פו הדב_ האביב של רו\פו הדב_ האביב של רו.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פו הדב_ האביב של רו\פו הדב_ האביב של רו.strm</basepath>
+    <uniqueid type="tmdb" default="true">16394</uniqueid>
+    
+    <genre>הרפתקאות </genre>
+<genre> אנימציה </genre>
+<genre> קומדיה </genre>
+<genre> משפחה</genre>
+    <year>2004</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//dHAeZkOSUg4SqNl83qaOWnh3arM.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//eg6db3KpXpUBfFaWQNa7S6Ob3MC.jpg">https://image.tmdb.org/t/p/original//eg6db3KpXpUBfFaWQNa7S6Ob3MC.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-04-27 14:20:15</dateadded>
+</movie>
+    

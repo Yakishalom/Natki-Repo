@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>בובספוג הסרט</title>
+    <originaltitle>The SpongeBob SquarePants Movie</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.0</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>TE
+[COLOR lightblue]2021-12-13 15:22:38[/COLOR]
+[COLOR blue]DVDRip 2004 נ.מ בובספוג הסרט מדובב.avi[/COLOR]
+0.66 GB
+בובספוג מכנסמרובע הוא ספוג אופטימי שנולד בצורה מרובעת, בדיוק כמו ספוג מטבח. הוא חי בתוך אננס שבמים בעיר "ביקיני בוטום", ועובד כטגן במסעדת "הסרטן הפריך", וחבריו הם פטריק כוכב-הים, סנדי הסנאית וסקווידוורד התמנון.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בובספוג הסרט</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בובספוג הסרט\בובספוג הסרט.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בובספוג הסרט\בובספוג הסרט.strm</basepath>
+    <uniqueid type="tmdb" default="true">11836</uniqueid>
+    
+    <genre>משפחה </genre>
+<genre> אנימציה </genre>
+<genre> קומדיה </genre>
+<genre> פנטזיה </genre>
+<genre> הרפתקאות</genre>
+    <year>2004</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//hUkgozhDZFP7hTsayqjgFIymqby.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//i2fZIltljrhFPsUK9PN6O6ZE7M4.jpg">https://image.tmdb.org/t/p/original//i2fZIltljrhFPsUK9PN6O6ZE7M4.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-12-13 15:22:38</dateadded>
+</movie>
+    

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הפוני הקטן שלי בנות אקווסטריה: חברות שנשכחה</title>
+    <originaltitle>הפוני הקטן שלי בנות אקווסטריה: חברות שנשכחה</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes> </votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-10-13 08:21:06[/COLOR]
+ כאשר סנסט מגלה שחבריה אינם זוכרים אותה, היא מזועזעת לשמוע שאחרי שדימדום האדם עבר רפורמה, כל עקבותיה של סנסט פשוט נעלמו. נואשת ונחושה להחזיר את זיכרונות החברים שלה אליהם. אבל כדי לעשות זאת, היא חייבת קודם למצוא את העבריין שעשה דבר כזה מלכתחילה.</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הפוני הקטן שלי בנות אקווסטריה_ חברות שנשכחה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הפוני הקטן שלי בנות אקווסטריה_ חברות שנשכחה\הפוני הקטן שלי בנות אקווסטריה_ חברות שנשכחה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הפוני הקטן שלי בנות אקווסטריה_ חברות שנשכחה\הפוני הקטן שלי בנות אקווסטריה_ חברות שנשכחה.strm</basepath>
+    <uniqueid type="tmdb" default="true"> </uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>משפחה</genre>
+<genre>פנטזיה</genre>
+    <year>2018</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//dY7pdaPfbTnJnfnZBjRFprgRuUn.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//vOEH1fRl9btF2Nem4ZOw6bruI1i.jpg">http://image.tmdb.org/t/p/original//vOEH1fRl9btF2Nem4ZOw6bruI1i.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-10-13 08:21:06</dateadded>
+</movie>
+    

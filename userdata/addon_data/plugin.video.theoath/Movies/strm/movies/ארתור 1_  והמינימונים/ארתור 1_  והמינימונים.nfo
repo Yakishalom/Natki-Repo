@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>ארתור 1:  והמינימונים</title>
+    <originaltitle>ארתור 1:  והמינימונים</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes> </votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-08-16 16:22:17[/COLOR]
+לפני ארבע שנים סבו של ארתור נעלם בפתאומיות והשאיר אחריו ספר כשפים ישן מלא רמזים. אחד מן הרמזים האלה מוביל לאוצר שמצוי בממלכת המינימונים, שלמרבה הפלא שוכנת בחצר ביתו של ארתור וסבתו. האוצר הזה יכול להציל את ביתם מהריסה, אבל כדי להגיע אליו, ארתור צריך להיות כמו אחד המינימונים, וזה אומר קטן יותר ממה שעין רגילה יכולה לראות.</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ארתור 1_  והמינימונים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ארתור 1_  והמינימונים\ארתור 1_  והמינימונים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ארתור 1_  והמינימונים\ארתור 1_  והמינימונים.strm</basepath>
+    <uniqueid type="tmdb" default="true"> </uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Adventure</genre>
+<genre>Family</genre>
+<genre>הרפתקאות</genre>
+<genre>פנטזיה</genre>
+<genre>אנימציה</genre>
+<genre>משפחה</genre>
+    <year>2006</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//pcE9qEqB1dwef4beZA0EsdEi8RF.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//3zpcmA6Lcv2K7kxGV5hQfegQd7Y.jpg">http://image.tmdb.org/t/p/original//3zpcmA6Lcv2K7kxGV5hQfegQd7Y.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-08-16 16:22:17</dateadded>
+</movie>
+    

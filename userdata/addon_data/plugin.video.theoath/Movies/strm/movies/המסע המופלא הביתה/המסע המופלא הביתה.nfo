@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>המסע המופלא הביתה</title>
+    <originaltitle>Homeward Bound: The Incredible Journey [1993] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7</value>
+            <votes>38,750</votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr
+[COLOR lightblue]2019-04-30 22:08:39[/COLOR]
+שלוש חיות מחמד, צ'אנס ['הזדמנות'], כלב צעיר שאינו מכיר את העולם; שאדו ['צל'], כלב זקן וחכם, וסאסי ['חוצפנית'], חתולה שחצנית, ניטשות כשמשפחתן הולכת לחופשה. בעודם אינם בטוחים במה שקרה, החיות יוצאות למסע כדי למצוא את משפחתם. המסע לרוחב אמריקה הינו מאוד מסוכן, והחיות מסתכנות בכך שלעולם לא יראו את האדונים שלהם שוב. קבוצת חיות המחמד מטיילת דרך הרים מיוערים, ואזורים כפריים נרחבים, בעוד משפחתם מחפשת אותם באותם האזורים.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\המסע המופלא הביתה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\המסע המופלא הביתה\המסע המופלא הביתה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\המסע המופלא הביתה\המסע המופלא הביתה.strm</basepath>
+    <uniqueid type="tmdb" default="true">6878</uniqueid>
+    
+    <genre>הרפתקאות</genre>
+<genre>קומדיה</genre>
+<genre>דרמה</genre>
+<genre>משפחה</genre>
+    <year>1993</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=U8LO9hRL3fQ</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//el6dJEpK97OJRQiQhuiSGk2jkV5.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//gRxDE4UYVQpOsqyxhdSkl27sMlH.jpg">http://image.tmdb.org/t/p/original//gRxDE4UYVQpOsqyxhdSkl27sMlH.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-04-30 22:08:39</dateadded>
+</movie>
+    

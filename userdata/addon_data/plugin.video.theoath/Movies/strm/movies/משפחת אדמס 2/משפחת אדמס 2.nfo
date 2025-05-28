@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>משפחת אדמס 2</title>
+    <originaltitle>The Addams Family 2</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2022-10-10 22:47:35[/COLOR]
+מורטישיה וגומז מוטרדים מכמה מהר ילדיהם גדלים ומכך שהם מבריזים מארוחות משפחתיות ומכלים את כל זמנם בעיסוקים שלהם. על מנת להחיות את הקשר המשפחתי מחליטים ההורים לדחוס את וונסדיי, פאגסלי, הדוד פסטר ושאר החבורה אל תוך הקרוואן הרדוף שלהם ולצאת לחופשה משפחתית אומללה אחרונה. הרפתקאתם ברחבי אמריקה מוציאה אותם מסביבתם הטבעית ומביאה למפגשים עם דודנם האייקוני 'זה' ועוד מגוון דמויות מטורללות. מה כבר יכול להשתבש?</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\משפחת אדמס 2</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\משפחת אדמס 2\משפחת אדמס 2.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\משפחת אדמס 2\משפחת אדמס 2.strm</basepath>
+    <uniqueid type="tmdb" default="true">639721</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>הרפתקאות</genre>
+<genre>קומדיה</genre>
+<genre>משפחה</genre>
+<genre>פנטזיה</genre>
+<genre>אימה</genre>
+    <year>2021</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Kd82bSBDE84</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//24JCsmi85tGaibMAR9MHJ3QlWzt.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//9e6wp707XMouPG939o2fHunXXJR.jpg">http://image.tmdb.org/t/p/original//9e6wp707XMouPG939o2fHunXXJR.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-10-10 22:47:35</dateadded>
+</movie>
+    

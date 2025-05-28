@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הנה בא הגראמפ</title>
+    <originaltitle>A Wizard%27s Tale</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.845</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2023-03-30 12:28:29
+ON,Dr,TE,TE
+[COLOR lightblue]2018-10-08 11:35:50[/COLOR]
+[COLOR blue]הנה בא הגראמפ.מדובב.גוזלן.720p.avi[/COLOR]
+1.41 GB
+טרי הוא ילד בעל דמיון עשיר, שסבתו היא בעלת פארק שעשועים בו הוא מבלה וחולם על ארצות קסומות, דמויות צבעוניות, בלונים מדברים, דרקונים מגושמים ואולי אפילו נסיכה אחת או שתיים... יום אחד פיסת קסם שנשארה באחד המתקנים מעיפה אותו לממלכה קסומה, הדומה לזאת שהוא זוכר מהסיפורים של סבתו. טרי מגלה שהקוסם גראמפ הטיל על הממלכה כישוף של עצב ואולי הוא היחידי שיוכל לעזור לתושביה...TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הנה בא הגראמפ</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הנה בא הגראמפ\הנה בא הגראמפ.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הנה בא הגראמפ\הנה בא הגראמפ.strm</basepath>
+    <uniqueid type="tmdb" default="true">502259</uniqueid>
+    
+    <genre>קומדיה </genre>
+<genre> אנימציה </genre>
+<genre> הרפתקאות </genre>
+<genre> משפחה </genre>
+<genre> פנטזיה</genre>
+    <year>2018</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//3d7f6XJOtBx1hZyHt220oManqFG.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//dr1A8iy8tG1oq6YQ3LvT1qnHCZ3.jpg">https://image.tmdb.org/t/p/original//dr1A8iy8tG1oq6YQ3LvT1qnHCZ3.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-03-30 12:28:29</dateadded>
+</movie>
+    

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מטען חורג</title>
+    <originaltitle>Carga Máxima</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2023-10-3 10:19:02[/COLOR]
+כאשר רוכב המשאיות רוג'ר מאבד הכל, הוא מקבל הצעה מפתה אך מסוכנת: לעבוד כנהג המילוט של כנופיית גנבים.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מטען חורג</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מטען חורג\מטען חורג.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מטען חורג\מטען חורג.strm</basepath>
+    <uniqueid type="tmdb" default="true">818511</uniqueid>
+    
+    <genre>אקשן</genre>
+<genre>מותחן</genre>
+<genre>דרמה</genre>
+    <year>2023</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=6vgLc_Goo4g</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//ocKoEvCPX809gWsyEXRP2zTViY5.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//efro4duB7agkA2Xl5LmkD3HeCim.jpg">http://image.tmdb.org/t/p/original//efro4duB7agkA2Xl5LmkD3HeCim.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-10-03 10:19:02</dateadded>
+</movie>
+    

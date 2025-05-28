@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>ווילי: מהיר וחייכני</title>
+    <originaltitle>Wheely</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.923</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE
+[COLOR lightblue]2020-11-05 15:24:14[/COLOR]
+[COLOR blue]720p WEB 2018 ווילי מהיר וחייכני מדובב.mkv[/COLOR]
+1.44 GB
+ווילי הוא מונית 'אנדרדוג' עם לב של נהג מרוצים, המנסה להחזיר את חייו למסלול. לאחר שטעות קטנה הוציאה את הקריירה שלו לשוליים, הוא חוזר לשכונה, אל מאמא אימו, פאט פאט חברו המטורלל וידידיו וחולם על היום שיחזור להתחרות בגדול. במהלך שליחות שיוצאת מכלל שליטה ווילי נתקל בבלה - מכונית אדומה עם אישיות כובשת. כשבלה נחטפת על ידי קייזר בעל 18 הגלגלים וכנופייתו, ווילי מגייס את חבריו מהשכונה ויוצא להרפתקה כדי לחלצהTEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ווילי_ מהיר וחייכני</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ווילי_ מהיר וחייכני\ווילי_ מהיר וחייכני.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ווילי_ מהיר וחייכני\ווילי_ מהיר וחייכני.strm</basepath>
+    <uniqueid type="tmdb" default="true">488397</uniqueid>
+    
+    <genre>משפחה </genre>
+<genre> אנימציה </genre>
+<genre> הרפתקאות </genre>
+<genre> קומדיה</genre>
+    <year>2018</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//iQQcmqJWflC9GE0Y1pvM7ObkHNf.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//eP4FHnXyDmIsYKY6wMedaIovCgg.jpg">https://image.tmdb.org/t/p/original//eP4FHnXyDmIsYKY6wMedaIovCgg.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-11-05 15:24:14</dateadded>
+</movie>
+    

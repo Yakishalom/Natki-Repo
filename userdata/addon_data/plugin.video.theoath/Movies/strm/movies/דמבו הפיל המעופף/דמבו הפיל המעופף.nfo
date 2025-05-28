@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>דמבו הפיל המעופף</title>
+    <originaltitle>Dumbo [1941] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7</value>
+            <votes>106,379</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2019-04-6 16:27:33[/COLOR]
+סרט האנימציה השנון על דמבו, גור פילים אשר נולד עם אוזניים ענקיות. כל חיות הקרקס לעגו לו והעליבו אותו והוא הצליח להתחבר רק עם טימוטי, העכבר המשעשע, עם קצת מזל, התמדה והרבה אומץ דמבו לומד לעוף כמו הכוכב המעופף של הקירקס. מדהים, קסום ונוגע ללב דמבו נשאר אחד מסרטי האנימציה הפופולריים והיפים ביותר.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דמבו הפיל המעופף</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דמבו הפיל המעופף\דמבו הפיל המעופף.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דמבו הפיל המעופף\דמבו הפיל המעופף.strm</basepath>
+    <uniqueid type="tmdb" default="true">11360</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>משפחה</genre>
+    <year>1941</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Biigna1PMOw</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//ablUDJMzD2rWzZ38Rw3WzCJHhBX.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//sa5vHfu5n4NFqZbVf2hzqGr6bim.jpg">http://image.tmdb.org/t/p/original//sa5vHfu5n4NFqZbVf2hzqGr6bim.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-04-06 16:27:33</dateadded>
+</movie>
+    

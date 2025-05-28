@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>כולם אוהבים את מיקי</title>
+    <originaltitle>כולם אוהבים את מיקי </originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes> </votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-08-30 07:11:17[/COLOR]
+ אוסף סרטונים של וולט דיסני המתרכז בדמותו של מיקי העכבר בעל הקול הצפצפני. הדמות המצוירת השלישית הכי פופולרית בעולם (אחרי באגס באני במקום הראשון והומר סימפסון בשני).</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\כולם אוהבים את מיקי</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\כולם אוהבים את מיקי\כולם אוהבים את מיקי.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\כולם אוהבים את מיקי\כולם אוהבים את מיקי.strm</basepath>
+    <uniqueid type="tmdb" default="true"> </uniqueid>
+    
+    <genre> </genre>
+    <year>2002</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://m.media-amazon.com/images/M/MV5BMGM0ZDA0ZTYtNDVmYS00OTMzLWFkODgtNDU2NDljMWQ4Mzc0XkEyXkFqcGdeQXVyNjExODE1MDc@._V1_UY268_CR4,0,182,268_AL_.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://m.media-amazon.com/images/M/MV5BMGM0ZDA0ZTYtNDVmYS00OTMzLWFkODgtNDU2NDljMWQ4Mzc0XkEyXkFqcGdeQXVyNjExODE1MDc@._V1_UY268_CR4,0,182,268_AL_.jpg">https://m.media-amazon.com/images/M/MV5BMGM0ZDA0ZTYtNDVmYS00OTMzLWFkODgtNDU2NDljMWQ4Mzc0XkEyXkFqcGdeQXVyNjExODE1MDc@._V1_UY268_CR4,0,182,268_AL_.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-08-30 07:11:17</dateadded>
+</movie>
+    

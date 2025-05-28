@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>המסע של חיקו</title>
+    <originaltitle>Xico's Journey [2020] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5</value>
+            <votes>288</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2021-03-30 19:46:55[/COLOR]
+ילדה יוצאת עם חברהּ הטוב כדי להציל הר שתאגיד תאב בצע זומם להשתלט עליו. מתברר שהמפתח להצלחה הוא חיקו, הכלב שלצידה.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\המסע של חיקו</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\המסע של חיקו\המסע של חיקו.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\המסע של חיקו\המסע של חיקו.strm</basepath>
+    <uniqueid type="tmdb" default="true">749618</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>משפחה</genre>
+    <year>2020</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=a0y94pfWkMM</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//ssk0Gd27ziryP2OUxprIVhAvr3e.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//fZHvSNUBKSgRAduB5k0fFST1xYn.jpg">http://image.tmdb.org/t/p/original//fZHvSNUBKSgRAduB5k0fFST1xYn.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-03-30 19:46:55</dateadded>
+</movie>
+    

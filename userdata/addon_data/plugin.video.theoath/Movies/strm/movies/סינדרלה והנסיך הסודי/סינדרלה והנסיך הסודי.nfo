@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>סינדרלה והנסיך הסודי</title>
+    <originaltitle>Cinderella and the Secret Prince</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.534</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>Dr,TE,TE
+[COLOR lightblue]2023-02-20 22:10:29[/COLOR]
+[COLOR blue]720p HDTV 2018 סינדרלה והנסיך מדובב.mkv[/COLOR]
+1.12 GB
+סינדרלה ושלושת חבריה העכברים מצליחים להימלט מעליית הגג הנעולה, ועושים את דרכם אל הארמון, כדי להשתתף בנשף המלכותי. אולם אז הם מגלים את הסוד הגדול והבלתי נתפס: מכשפה רעה כישפה את הנסיך האמיתי, שהפך לעכבר, והנסיך המככב בנשף, הוא בכלל זיוף! החבורה יוצאת למסע סוחף ומסוכן להשיב את הנסיך האמיתי אל עצמו ואל כס המלכות ולהביס את כוחות הרשע, בעולם של תעתועים קסומים.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סינדרלה והנסיך הסודי</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סינדרלה והנסיך הסודי\סינדרלה והנסיך הסודי.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סינדרלה והנסיך הסודי\סינדרלה והנסיך הסודי.strm</basepath>
+    <uniqueid type="tmdb" default="true">543583</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> הרפתקאות </genre>
+<genre> משפחה </genre>
+<genre> פנטזיה</genre>
+    <year>2018</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//iHhxMkZly1fBwmOzAgxkJ5uPqwl.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//ozUAPUxhpzwePlyp7TULZ4kQ64M.jpg">https://image.tmdb.org/t/p/original//ozUAPUxhpzwePlyp7TULZ4kQ64M.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-02-20 22:10:29</dateadded>
+</movie>
+    

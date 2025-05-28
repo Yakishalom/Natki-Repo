@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מדגסקר 2: הבריחה לאפריקה</title>
+    <originaltitle>Madagascar: Escape 2 Africa</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.482</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2019-02-1 00:06:27
+ON,Dr,TE
+[COLOR lightblue]2017-04-12 21:11:17[/COLOR]
+[COLOR blue]לולו_סרטים-נועםם-מדובב-מדגסקר_2:_הבריחה_לאפריקה_DVDRip.avi[/COLOR]
+0.69 GB
+סרט ההמשך לסרט האנימציה המצליח. החיות החביבות מגן החיות הניו-יורקי - אלכס האריה, מרטי הזברה, מלמן הג'ירפה, וגלוריה ההיפופוטם - מחליטים לעזוב את האי בעזרתם האדיבה של הפינגוונים. הם נוחתים באפריקה שם אלכס פוגש לראשונה את בני משפחתו.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מדגסקר 2_ הבריחה לאפריקה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מדגסקר 2_ הבריחה לאפריקה\מדגסקר 2_ הבריחה לאפריקה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מדגסקר 2_ הבריחה לאפריקה\מדגסקר 2_ הבריחה לאפריקה.strm</basepath>
+    <uniqueid type="tmdb" default="true">10527</uniqueid>
+    
+    <genre>משפחה </genre>
+<genre> הרפתקאות </genre>
+<genre> אנימציה </genre>
+<genre> קומדיה</genre>
+    <year>2008</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//enDyRZ0J7TymbeHaHryUt7r60Ga.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//r2M9ElkHxEJP7riCFbT5N0uXZTc.jpg">https://image.tmdb.org/t/p/original//r2M9ElkHxEJP7riCFbT5N0uXZTc.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-02-01 00:06:27</dateadded>
+</movie>
+    

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>קופים בחלל</title>
+    <originaltitle>Space Chimps</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>4.835</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE
+[COLOR lightblue]2021-11-14 21:51:07[/COLOR]
+[COLOR blue]720p BluRay 2008 נ.מ קופים בחלל 1 מדובב.mkv[/COLOR]
+1.43 GB
+קבוצת קופים נשלחת למשימה סודית בחלל, שתביא לשלום ויציבות בכובב רחוק מאוד. מפקד המשימה הוא שימפנזה מוערכת בעל עבר משפחתי מפואר של משימות לחלל. סגן מפקד הכח הוא קוף עצלן ומגושם אך עם כוונות טובות. במהלך המשימה האירועים יוצאים מכלל שליטה וסגן מפקד הצוות הופך בעל כורחו לגיבור היום ולומד כמה דברים חשובים על חברות ואחריות.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קופים בחלל</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קופים בחלל\קופים בחלל.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קופים בחלל\קופים בחלל.strm</basepath>
+    <uniqueid type="tmdb" default="true">11802</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> משפחה </genre>
+<genre> הרפתקאות </genre>
+<genre> קומדיה </genre>
+<genre> מדע בדיוני</genre>
+    <year>2008</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//ktVBSjGJZBwZHpz7g7IUW9hF8vQ.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//8mVTIFHZRTWVMhASQjltc3pVK60.jpg">https://image.tmdb.org/t/p/original//8mVTIFHZRTWVMhASQjltc3pVK60.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-11-14 21:51:07</dateadded>
+</movie>
+    

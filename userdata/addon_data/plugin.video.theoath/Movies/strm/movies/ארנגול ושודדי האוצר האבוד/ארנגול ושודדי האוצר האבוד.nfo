@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>ארנגול ושודדי האוצר האבוד</title>
+    <originaltitle>Chickenhare and the Hamster of Darkness</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.421</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2023-02-6 22:07:54
+Dr,TE
+[COLOR lightblue]2022-10-05 21:48:04[/COLOR]
+[COLOR blue]1080p WEB-DL 2022 זירה מדיה ארנגול.mkv[/COLOR]
+1.41 GB
+מלך חובב ארכיאולוגיה והרפתקאות, מוצא ביערות תינוק נטוש אך שונה: הוא חצי ארנב וחצי תרנגול. הוא מחליט לאמצו ולגדלו כבנו שלו. ארנגול גדל להיות סקרן וחובב הרפתקאות כמו אביו, אך הוא מושא ללעג בגלל השוני שבו. כאשר הממלכה בסכנת השתלטות של הדוד הרע שלו, ארנגול מחליט לצאת למסע, מלווה בחברו הצב ובואשית שובבה ואמיצה, בכדי להציל את עמו.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ארנגול ושודדי האוצר האבוד</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ארנגול ושודדי האוצר האבוד\ארנגול ושודדי האוצר האבוד.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ארנגול ושודדי האוצר האבוד\ארנגול ושודדי האוצר האבוד.strm</basepath>
+    <uniqueid type="tmdb" default="true">778855</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> הרפתקאות </genre>
+<genre> קומדיה </genre>
+<genre> משפחה </genre>
+<genre> פנטזיה</genre>
+    <year>2022</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//sxzUyMmYE9y0Yy5B7H8CzwA3VAl.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//7neeXze9HB3MTxDYyh3wwysydMN.jpg">https://image.tmdb.org/t/p/original//7neeXze9HB3MTxDYyh3wwysydMN.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-02-06 22:07:54</dateadded>
+</movie>
+    

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>דרגון בול זי: בוג'אק משוחרר</title>
+    <originaltitle>Dragon Ball Z: Bojack Unbound [1993] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7</value>
+            <votes>5,416</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2021-04-16 17:53:43[/COLOR]
+באמצע תחרות אמנויות הלחימה בכדור הארץ, פולשים שדים מעולם הנפשות לתחרות ומאיימים להשמיד את לוחמי ה-זי ואת כל האזור.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דרגון בול זי_ בוג_אק משוחרר</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דרגון בול זי_ בוג_אק משוחרר\דרגון בול זי_ בוג_אק משוחרר.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דרגון בול זי_ בוג_אק משוחרר\דרגון בול זי_ בוג_אק משוחרר.strm</basepath>
+    <uniqueid type="tmdb" default="true">39105</uniqueid>
+    
+    <genre>אקשן</genre>
+<genre>אנימציה</genre>
+<genre>מדע בדיוני</genre>
+    <year>1993</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=DJZ3vjBqYFU</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//9gNEyR5CofjsasyemTCCE6EFdKd.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//k5ypSoY4Ze0Gfi8zkijhr6lV3yx.jpg">http://image.tmdb.org/t/p/original//k5ypSoY4Ze0Gfi8zkijhr6lV3yx.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-04-16 17:53:43</dateadded>
+</movie>
+    

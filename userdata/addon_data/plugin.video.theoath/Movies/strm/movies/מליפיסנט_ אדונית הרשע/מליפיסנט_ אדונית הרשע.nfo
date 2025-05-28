@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מליפיסנט: אדונית הרשע</title>
+    <originaltitle>Maleficent: Mistress of Evil</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.328</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>Dr,TE
+[COLOR lightblue]2021-06-02 00:07:31[/COLOR]
+[COLOR blue]מליפיסנט_אדונית_הרשע_מדובב_גוזלן.mp4[/COLOR]
+1.26 GB
+חלפו כמה שנים מאז ראינו את האירועים שהקשיחו את לבה של הנבלית המפורסמת ביותר של דיסני וגרמו לה להטיל קללה על הנסיכה אורורה התינוקת. הסרט הזה ממשיך לחקור את מערכת היחסית המורכבת בין הפיה בעלת הקרניים והמלכה לעתיד, בעוד הן כורתות בריתות חדשות ועומדות בפני יריבים חדשים במאבקן להגן על הביצות ועל היצורים הקסומים שחיים בהן.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מליפיסנט_ אדונית הרשע</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מליפיסנט_ אדונית הרשע\מליפיסנט_ אדונית הרשע.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מליפיסנט_ אדונית הרשע\מליפיסנט_ אדונית הרשע.strm</basepath>
+    <uniqueid type="tmdb" default="true">420809</uniqueid>
+    
+    <genre>משפחה </genre>
+<genre> פנטזיה </genre>
+<genre> הרפתקאות </genre>
+<genre> אקשן</genre>
+    <year>2019</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//rd2YHbPaggq74RIvoJOVlPZXU4v.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//skvI4rYFrKXS73BJxWGH54Omlvv.jpg">https://image.tmdb.org/t/p/original//skvI4rYFrKXS73BJxWGH54Omlvv.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-06-02 00:07:31</dateadded>
+</movie>
+    

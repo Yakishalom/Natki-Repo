@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>כנפי הרעם</title>
+    <originaltitle>Thunderbirds [2004]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>4</value>
+            <votes>12,194</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-11-15 14:34:42[/COLOR]
+תקומה קולנועית נוספת לסדרת טלוויזיה אגדית משנות הששים, היא 'ציפורי הרעם' הבריטית; סדרת מדע-בדיוני לילידים שרצה 32 פרקים בלבד על המרקע, אבל נכנסה לתודעה כאחת מסדרות הילדים המצליחות אי-פעם.  הפעם הלכו המפיקים הפוך על הפוך, כאשר בחרו לצלם 'גרסה חיה' של סדרה זו, שהייתה ידועה בשל האנימציה הייחודית שלה [בובות על חוט ממוזערות שצלומו בצילומים חיים תחת תפאורות מרהיבות דמויות-חלל וכלי-רכב ממוזערים ומעוררי התפעלות]. הסרט, כמו הסדרה, יעקוב אחר סיפורו של קולונל בדימוס ג'ף טרייסי [השחקן ביל פקסטון, 'טיטאניק', 'אפולו 13'], אסטרונאוט לשעבר המקים בשנות הששים של המאה ה-21 [</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\כנפי הרעם</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\כנפי הרעם\כנפי הרעם.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\כנפי הרעם\כנפי הרעם.strm</basepath>
+    <uniqueid type="tmdb" default="true">14623</uniqueid>
+    
+    <genre>אקשן</genre>
+<genre>הרפתקאות</genre>
+<genre>קומדיה</genre>
+<genre>משפחה</genre>
+<genre>פנטזיה</genre>
+<genre>מדע בדיוני</genre>
+    <year>2004</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=lGOwT8goZZY</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//4rv0fgJkPnzlDmhaANC72ipz9MT.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//340C4ZcAOLXEVsMEzWoPk5iuvOW.jpg">http://image.tmdb.org/t/p/original//340C4ZcAOLXEVsMEzWoPk5iuvOW.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-11-15 14:34:42</dateadded>
+</movie>
+    

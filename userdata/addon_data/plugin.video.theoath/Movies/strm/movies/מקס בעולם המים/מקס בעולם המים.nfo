@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מקס בעולם המים</title>
+    <originaltitle>מקס בעולם המים</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes> </votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-04-5 11:51:55[/COLOR]
+מקס וחבריו חוזרים בהרפתקה חדשה כשהפעם הם מנסים לעצור את זעמו של האוקיינוס. האגדה מספרת על שני פנינים שהלכו לאיבוד – פנינת ההרס ופנינת הבריאה. על מקס לאתר את הפנינים ולהציל פעם נוספת את הממלכה.</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מקס בעולם המים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מקס בעולם המים\מקס בעולם המים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מקס בעולם המים\מקס בעולם המים.strm</basepath>
+    <uniqueid type="tmdb" default="true"> </uniqueid>
+    
+    <genre> </genre>
+    <year> </year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original/</thumb>
+    <fanart>
+      <thumb colors="" preview="https://ia.media-imdb.com/images/M/MV5BMzZhZDhjMDEtMzhlYS00MTNlLThiMGItMzU4NDExYTQ2NGM5XkEyXkFqcGdeQXVyNjc0MDM5OTc@._V1_UX182_CR0,0,182,268_AL_.jpg">https://ia.media-imdb.com/images/M/MV5BMzZhZDhjMDEtMzhlYS00MTNlLThiMGItMzU4NDExYTQ2NGM5XkEyXkFqcGdeQXVyNjc0MDM5OTc@._V1_UX182_CR0,0,182,268_AL_.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-04-05 11:51:55</dateadded>
+</movie>
+    

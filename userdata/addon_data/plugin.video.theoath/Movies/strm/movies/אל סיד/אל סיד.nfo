@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>אל סיד</title>
+    <originaltitle>El Cid: The Legend [2003]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>726</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-10-27 08:18:53[/COLOR]
+רודריגו הוא הגיבור המושלם: הוא צעיר אמיץ ונאה, בעל חוש הומור, עם עתיד מבטיח לפניו. אבל ימי השקט של רודריגו בחצר בית המלוכה הספרדים עומדים להסתיים. מותו של המלך פרננדו מביא עמו תהפוכות לחיים בספרד ורודריגו מוצא את עצמו באמצע מזימות למרד ומהפכה. בן המלך נרצח, ובמקומו מומלך אחיו הצעיר אלפונסו. כשהוא רחוק מן הבית במדינה זרה, רודריגו יחל במסע מלא תשוקה והרפתקאות בעזרתו של של נסיך ערבי. בדרך יגלה רודריגו את ערכם של חברות, אהבה וכבוד.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אל סיד</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אל סיד\אל סיד.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אל סיד\אל סיד.strm</basepath>
+    <uniqueid type="tmdb" default="true">44514</uniqueid>
+    
+    <genre>הרפתקאות</genre>
+<genre>אנימציה</genre>
+    <year>2003</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=_Aav1RkXWek</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//6XStOBBOhL68Dr5BaZ6JwJryyJ0.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//7miTD0Z63vqcga43D3DRFnV9gcy.jpg">http://image.tmdb.org/t/p/original//7miTD0Z63vqcga43D3DRFnV9gcy.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-10-27 08:18:53</dateadded>
+</movie>
+    

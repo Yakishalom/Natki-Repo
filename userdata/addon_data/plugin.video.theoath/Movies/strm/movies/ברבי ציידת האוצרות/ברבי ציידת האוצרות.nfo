@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>ברבי ציידת האוצרות</title>
+    <originaltitle>Barbie & Her Sisters in the Great Puppy Adventure [Video 2015]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>328</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2018-12-7 12:48:13[/COLOR]
+ברבי חוזרת ממליבו אל עיר ילדותה עם אחיותיה, לבלות את חופשת הקיץ אצל סבתן. במהלך שיטוטים בעליית הגג, נתקלות האחיות הסקרניות במפת אוצר ישנה, אשר ייתכן ומובילה אל אוצר עתיק הקבור תחת האדמה בעירייה המנומנמת. יחד עם גורי כלבלבים חמודים ושובבים אשר רק נולדו בחצר בית הסבתא, יוצאות הבנות למסע מופלא בעקבות האוצר האבוד, בין דפי ההיסטוריה של העיר, בנייניה העתיקים ועד בטן האדמה.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ברבי ציידת האוצרות</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ברבי ציידת האוצרות\ברבי ציידת האוצרות.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ברבי ציידת האוצרות\ברבי ציידת האוצרות.strm</basepath>
+    <uniqueid type="tmdb" default="true">361380</uniqueid>
+    
+    <genre>משפחה</genre>
+<genre>אנימציה</genre>
+<genre>הרפתקאות</genre>
+    <year>2015</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=_q5vwvhPYO4</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//3ybjPWweUjPXXqIXFERgPnOQ5O3.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//bzs3YSZGpybrc2XJSBQm26pL7yJ.jpg">http://image.tmdb.org/t/p/original//bzs3YSZGpybrc2XJSBQm26pL7yJ.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-12-07 12:48:13</dateadded>
+</movie>
+    

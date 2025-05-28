@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>משפחת הקיסרים 2: הקריאה</title>
+    <originaltitle>L%27empereur</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.746</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>TE
+[COLOR lightblue]2023-03-30 12:28:21[/COLOR]
+[COLOR blue]720p WEB 2017 משפחת הקיסרים 2 מדובב.mkv[/COLOR]
+1.07 GB
+סיפורו של פינגווין צעיר, שעומד לצאת לראשונה בחייו למסע הארוך, לאחר שקיבל את הקריאה המסתורית ה"מאלצת" כל פינגווין לצאת ליעד לא ידוע בהגיע החורף. דרך העיניים והזיכרונות של הפינגווינים המבוגרים בני ה-45, נתבונן ברגע המכריע הזה, בקריאה המגנטית: נעקוב אחרי הפינגווין הצעיר שלנו מקרוב לאורך מסע כובש-הלב, בלבטיו, פחדיו ובאתגרים איתם הוא צריך להתמודד לאורך המסע. גורלו של פינגווין אחד צעיר שבזכות האינסטינקטים המיוחדים שלו מצליח לשרוד.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\משפחת הקיסרים 2_ הקריאה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\משפחת הקיסרים 2_ הקריאה\משפחת הקיסרים 2_ הקריאה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\משפחת הקיסרים 2_ הקריאה\משפחת הקיסרים 2_ הקריאה.strm</basepath>
+    <uniqueid type="tmdb" default="true">405931</uniqueid>
+    
+    <genre>דוקומנטרי</genre>
+    <year>2017</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//5XqqYfGRoWYSJ2Mfv2BDFcOWyJE.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//eLUl2ohoTV3tQ92x9EYieto7h19.jpg">https://image.tmdb.org/t/p/original//eLUl2ohoTV3tQ92x9EYieto7h19.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-03-30 12:28:21</dateadded>
+</movie>
+    

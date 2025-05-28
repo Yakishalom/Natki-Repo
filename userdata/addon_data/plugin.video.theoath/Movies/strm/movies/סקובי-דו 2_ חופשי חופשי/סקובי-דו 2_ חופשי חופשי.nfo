@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>סקובי-דו 2: חופשי חופשי</title>
+    <originaltitle>Scooby-Doo 2: Monsters Unleashed [2004]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5</value>
+            <votes>39,427</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-07-16 09:21:13[/COLOR]
+החבורה חוקרת את מזימותיו השפלות של רשע עטוי מסכה המתכנן להשתלט על העיירה קולסוויל, בעזרת 'מכונת המפלצות' שמייצרת מחדש את האויבים הגדולים ביותר של החבורה, ביניהם שד 10,000 הוולט, קפטן קאטלר והקריפר. החקירה מובילה את החבורה למוזיאון קולסוניאן, בו הם משתתפים בהשקה מפוארת של ספר חדש, ובו הם פוגשים את אוצר המוזיאון המסתורי, פטריק, וכתבת מטרידה, המכניסה עלילת-משנה רומנטית הכוללת אותה ואת פרד חביבנו.</plot>
+    <runtime>93</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סקובי-דו 2_ חופשי חופשי</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סקובי-דו 2_ חופשי חופשי\סקובי-דו 2_ חופשי חופשי.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סקובי-דו 2_ חופשי חופשי\סקובי-דו 2_ חופשי חופשי.strm</basepath>
+    <uniqueid type="tmdb" default="true">11024</uniqueid>
+    
+    <genre>Adventure</genre>
+<genre>Comedy</genre>
+<genre>Family</genre>
+<genre>מסתורין</genre>
+<genre>פנטזיה</genre>
+<genre>הרפתקאות</genre>
+<genre>קומדיה</genre>
+    <year>2004</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=b-mArPr_Txg</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//vEp6qw25qY2n03O9EaeiWNv89vb.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//2vRVzvqY0tydcStBkNn73JPPOPL.jpg">http://image.tmdb.org/t/p/original//2vRVzvqY0tydcStBkNn73JPPOPL.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-07-16 09:21:13</dateadded>
+</movie>
+    

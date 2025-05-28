@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>צעצוע של סיפור 2</title>
+    <originaltitle>Toy Story 2</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.587</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE
+[COLOR lightblue]2023-03-29 00:21:46[/COLOR]
+[COLOR blue]1080p BluRay 1999 צעצוע של סיפור 2 מדובב.mkv[/COLOR]
+1.6 GB
+אנדי יוצא למחנה בוקרים ומשאיר את וודי האהוב בבית. אספן צעצועים אובססיבי הרוצה למכור את בובת וודי הנדירה למיליונר יפני חוטף את וודי. שאר הצעצועים יוצאים למבצע חילוץ, ואילו וודי מתיידד עם צעצועים השייכים לאותה סדרת ייצור כמוהו, ודווקא מתפתה להצטרף אל המסע ליפן.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\צעצוע של סיפור 2</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\צעצוע של סיפור 2\צעצוע של סיפור 2.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\צעצוע של סיפור 2\צעצוע של סיפור 2.strm</basepath>
+    <uniqueid type="tmdb" default="true">863</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> קומדיה </genre>
+<genre> משפחה</genre>
+    <year>1999</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//1405pnMLz1rN5ONcpWOQ4CHgz7V.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//91qfG6VaxRsCh1SbIi1w2vxknsL.jpg">https://image.tmdb.org/t/p/original//91qfG6VaxRsCh1SbIi1w2vxknsL.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-03-29 00:21:46</dateadded>
+</movie>
+    

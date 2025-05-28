@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מטוסים 2: לוחמי האש</title>
+    <originaltitle>Planes: Fire & Rescue</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.139</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2021-06-23 17:25:17
+ON,Dr,TE,TE
+[COLOR lightblue]2018-06-24 23:45:40[/COLOR]
+[COLOR blue]מטוסים מס 2.מדובב.גוזלן.DVDRip.mkv[/COLOR]
+0.74 GB
+כשמטוס המירוץ המפורסם דאסטי מבין שהמנוע שלו נפגע והוא עלול להפסיק להתחרות, הוא חייב לשנות הילוך ולשגר את עצמו אל עולם של לוחמה אווירית באש. דאסטי מאחד כוחות עם ההליקופטר הלוחם בליידרנג'ר והצוות האמיץ שלו, שכולל את דיפר, וינדליפטר, קאבי וחבורה לבבית של כלי רכב אמיצים שידועים בתור לוחמי האש. ביחד הצוות חסר המורא נלחם נגד שריפה גדולה ודאסטי לומד איך להפוך לגיבור אמיתי.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מטוסים 2_ לוחמי האש</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מטוסים 2_ לוחמי האש\מטוסים 2_ לוחמי האש.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מטוסים 2_ לוחמי האש\מטוסים 2_ לוחמי האש.strm</basepath>
+    <uniqueid type="tmdb" default="true">218836</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> קומדיה </genre>
+<genre> הרפתקאות </genre>
+<genre> משפחה</genre>
+    <year>2014</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//n0sWZpAcLxnh4LLsmg3kG1MXkQg.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//9GRprCMQOWJzczPxqAaGxYft5m9.jpg">https://image.tmdb.org/t/p/original//9GRprCMQOWJzczPxqAaGxYft5m9.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-06-23 17:25:17</dateadded>
+</movie>
+    

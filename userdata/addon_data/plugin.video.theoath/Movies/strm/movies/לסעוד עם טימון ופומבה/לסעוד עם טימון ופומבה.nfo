@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>לסעוד עם טימון ופומבה</title>
+    <originaltitle>Dining Out with Timon & Pumbaa</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.2</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>TE
+[COLOR lightblue]2017-07-16 18:27:50[/COLOR]
+[COLOR blue]לסעוד עם טימון ופומבה.avi[/COLOR]
+0.68 GB
+הצטרפו אל טימון ופומבה, החברים האהובים ממלך האריות, והכינו עצמכם להינות ולצחוק בהרפתקה חובקת בעולם זו. הם קבעו מסלולם לעבר צרפת בפרק "הצ'יפס הצרפתי", כאשר השף המרושע קווינט מנסה להפוך את חברם החילזון, למנת גורמה בטעם שבלולים! בפרק "השעה הרוסית" ההצגה נמשכת בבגדי ריקוד צמודים, ברגע שפומבה חייב להופיע עם להקת הבלט בולשוי ברוסיה. בפרק "ציפור הקילימנג'רו" הנוצות עפות באוויר, כאשר טימון ופומבה עושים בייביסיטר על נשר צעיר באפריקה הרחוקה. התחנה האחרונה של חברינו המצחיקים היא ארצות הברית, בפרק "הרי הרוקי" שבו פומבה מתיידד עם זחל... כלומר עד שטימון מתבלבל בינו לבין ארוחת הצהרים שלו!TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לסעוד עם טימון ופומבה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לסעוד עם טימון ופומבה\לסעוד עם טימון ופומבה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\לסעוד עם טימון ופומבה\לסעוד עם טימון ופומבה.strm</basepath>
+    <uniqueid type="tmdb" default="true">40697</uniqueid>
+    
+    <genre>משפחה </genre>
+<genre> אנימציה </genre>
+<genre> קומדיה</genre>
+    <year>1996</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//bzoM5t4E4fn1KF2r4rQpNTwTlVV.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//gcmJahI7l99vM0XpusQiJUXQb6h.jpg">https://image.tmdb.org/t/p/original//gcmJahI7l99vM0XpusQiJUXQb6h.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2017-07-16 18:27:50</dateadded>
+</movie>
+    

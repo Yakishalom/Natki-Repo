@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>רקסי המלך</title>
+    <originaltitle>The Queen%27s Corgi</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.033</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE,TE
+[COLOR lightblue]2021-09-16 22:23:13[/COLOR]
+[COLOR blue]1080p BluRay 2019 נ.מדיה רקסי המלך מדובב.mkv[/COLOR]
+1.41 GB
+מאז הגעתו לארמון בקינגהאם, רקס חי חיי מותרות. הוא הכלב הראשי בארמון ואפילו עקף 3 מחבריו הקורגיים במאבק על ליבה של המלכה. היהירות שלו יכולה להיות די מעצבנת. כאשר הוא גורם לתקרית דיפלומטית במהלך ארוחה רשמית עם נשיא ארצות הברית, הוא במהרה יורד מגדולתו. כאשר הוא נבגד על ידי אחד מחבריו, רקס הופך להיות כלב משוטט ברחובות לונדון. כיצד יוכל להציל את עצמו? באמצעות האהבה, הוא ימצא את הדרך לעמוד בפני הסכנות הגדולות.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\רקסי המלך</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\רקסי המלך\רקסי המלך.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\רקסי המלך\רקסי המלך.strm</basepath>
+    <uniqueid type="tmdb" default="true">509730</uniqueid>
+    
+    <genre>משפחה </genre>
+<genre> אנימציה</genre>
+    <year>2019</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//bVGAcIRHU5ek2NqJsm0ClKqtHmO.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//wnJhAKgq55gedTozuTcbscGkTXd.jpg">https://image.tmdb.org/t/p/original//wnJhAKgq55gedTozuTcbscGkTXd.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-09-16 22:23:13</dateadded>
+</movie>
+    

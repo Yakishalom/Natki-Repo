@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הרקולס</title>
+    <originaltitle>Hercules</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.501</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2020-11-15 22:32:34
+ON,Dr,TE
+[COLOR lightblue]2017-06-21 17:48:23[/COLOR]
+[COLOR blue]הרקולס מצוייר מדובב 1997.avi[/COLOR]
+0.67 GB
+הרקולס, בנו של זאוס גדול האלים, אשר ניכן בכוחות מיוחדים, ניצב בפני מכשולים רבים שמציב בפניו האדס הרשע וחם המזג הזומם להשתלט על הר האולימפוס. הרקולס חייב לבחור בין כוח האגדי לבין אהבת חייו, מג היווניה היפיפיה. רק לאחר שילמד שיעור בעל ערך... כי לא מידת הכוח קובעת, אלא הכוח הפועם בלבך... יוכל הרקולס להציל את האולימפוס ולזכות בתואר גיבור.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הרקולס</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הרקולס\הרקולס.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הרקולס\הרקולס.strm</basepath>
+    <uniqueid type="tmdb" default="true">11970</uniqueid>
+    
+    <genre></genre>
+    <year>1997</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//8XRctMWAzp25G2siKx6CyvkuwBI.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//26FT7NBKiGvWJBB3VG9i72LnI8S.jpg">https://image.tmdb.org/t/p/original//26FT7NBKiGvWJBB3VG9i72LnI8S.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-11-15 22:32:34</dateadded>
+</movie>
+    

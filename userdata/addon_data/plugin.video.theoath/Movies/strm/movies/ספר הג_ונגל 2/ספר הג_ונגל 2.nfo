@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>ספר הג'ונגל 2</title>
+    <originaltitle>The Jungle Book 2 [2003]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5</value>
+            <votes>12,632</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2017-12-5 11:25:12[/COLOR]
+אולפני וולט דיסני מציגים פרק חדש לאחד הסרטים המצוירים הקלאסיים האהובים ביותר - ' ספר הג'ונגל 2 ' , סרט המשך לסרט הבלתי נשכח מ 1967 , 'ספר הג'ונגל' המבוסס על ספרו של רודיארד קיפלינג והיה לאחד הלהיטים הגדולים ביותר של אולפני וולט דיסני. סרט ההמשך ,'ספר הג'ונגל 2' הוא חגיגה נהדרת צבעונית ומרהיבה עם הדמויות הבלתי נשכחות ושירים ומוסיקה שתרקיד אתכם בכיסאות . 'ספר הג'ונגל 2' מתחיל קצת אחרי המקום בו נגמר הסרט הראשון , כשמוגלי נקרע בין שני העולמות. גור האדם מתגורר עכשיו בכפר, בין בני האדם ולומד , בפעם הראשונה, מה זאת אהבת משפחה.</plot>
+    <runtime>72</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ספר הג_ונגל 2</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ספר הג_ונגל 2\ספר הג_ונגל 2.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ספר הג_ונגל 2\ספר הג_ונגל 2.strm</basepath>
+    <uniqueid type="tmdb" default="true">14873</uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Adventure</genre>
+<genre>Family</genre>
+<genre>משפחה</genre>
+<genre>אנימציה</genre>
+<genre>הרפתקאות</genre>
+    <year>2003</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=3GebHaOcjjQ</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//pJ09XgNOVHHhjmrDXUeFtZhMT7o.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//mJP6tf0ScfoRZtagfsnWW7Jon1l.jpg">http://image.tmdb.org/t/p/original//mJP6tf0ScfoRZtagfsnWW7Jon1l.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2017-12-05 11:25:12</dateadded>
+</movie>
+    

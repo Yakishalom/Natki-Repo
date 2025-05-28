@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>דמבו</title>
+    <originaltitle>Dumbo [2019] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>36,412</votes>
+        </rating>
+    </ratings>
+    <plot>2019-07-20 16:17:01
+ON,Dr
+[COLOR lightblue]2019-07-19 21:47:22[/COLOR]
+בעל הקרקס מקס מדיצ'י שוכר את שירותיו כוכב העבר הולט פרייר ואת ילדיו מילי וג'ו כדי לטפל בפיל תינוק שאזניו הענקיות הופכים אותו למושא ללעג בקרקס. אך כשהם מגלים שדמבו יכול לעוף, הקרקס עושה קאמבק מרהיב ומושך אליו את היזם הכריזמטי וי איי ואנדרוויר, המגייס את הפיל המוזר למיזם הבידור החדש והגדול מהחיים – דרימלנד. דמבו ממריא לגבהים חדשים לצדה של הלוליינית המקסימה והמהממת, קולט מארצ'נט – עד שהולט מגלה שמתחת לציפוי הנוצץ, דרימלנד מלא סודות אפלים.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דמבו</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דמבו\דמבו.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דמבו\דמבו.strm</basepath>
+    <uniqueid type="tmdb" default="true">329996</uniqueid>
+    
+    <genre>הרפתקאות</genre>
+<genre>משפחה</genre>
+<genre>פנטזיה</genre>
+    <year>2019</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=7NiYVoqBt-8</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//lCioqlq1yByPUfKxEJLhBvVtzpO.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//5tFt6iuGnKapHl5tw0X0cKcnuVo.jpg">http://image.tmdb.org/t/p/original//5tFt6iuGnKapHl5tw0X0cKcnuVo.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-07-20 16:17:01</dateadded>
+</movie>
+    

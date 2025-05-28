@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>ביוניקל 2: סיפורי מטרו נואי</title>
+    <originaltitle>Bionicle 2: Legends of Metru Nui [Video 2004]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>1,145</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-04-2 09:42:42[/COLOR]
+סרט אנימציה באורך מלא, המהווה המשך לסרט הראשון, גם הוא בבימוים של דיוויד מולינה וטרי שייקספיר, מגולל את סיפורי העבר של מטרו-נואי. סיפור ההרפתקאה על המלחמה בצמח הרשע, שחיפש דרכים לשלוט באי בימיו הראשונים.</plot>
+    <runtime>75</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ביוניקל 2_ סיפורי מטרו נואי</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ביוניקל 2_ סיפורי מטרו נואי\ביוניקל 2_ סיפורי מטרו נואי.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ביוניקל 2_ סיפורי מטרו נואי\ביוניקל 2_ סיפורי מטרו נואי.strm</basepath>
+    <uniqueid type="tmdb" default="true">21379</uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Action</genre>
+<genre>Adventure</genre>
+<genre>אקשן</genre>
+<genre>משפחה</genre>
+<genre>אנימציה</genre>
+    <year>2004</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//wkTDqm1hKDN2LzR52G66Rblwwds.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//A1qJxNjLUrlQTfXtyssZjJ7zQtW.jpg">http://image.tmdb.org/t/p/original//A1qJxNjLUrlQTfXtyssZjJ7zQtW.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-04-02 09:42:42</dateadded>
+</movie>
+    

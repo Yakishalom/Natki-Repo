@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>טד, החוקר החופר, חוזר</title>
+    <originaltitle>Tadeo Jones 3: La Tabla Esmeralda</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.661</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2023-04-17 07:26:46
+Dr,TE
+[COLOR lightblue]2018-09-25 23:20:39[/COLOR]
+[COLOR blue]טד החוקר החופר.מדובב.גוזלן.720p.avi[/COLOR]
+0.91 GB
+חלומו הגדול של טד הוא שחבריו הארכיאולוגים יעריכו אותו, אך אופיו השלומיאלי מפריע לחלום הזה להתגשם. כאשר טד בטעות הורס סרקופג נדיר, מוטל כישוף אשר מסכן את חיי חבריו. הניסיון להציל את מומיה, ג'ף ובלזוני יוביל את טד ושרה להרפתקה בכל קצוות העולם על מנת למצוא דרך לעצור את הכישוף של אבן האזמרגד.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טד, החוקר החופר, חוזר</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טד, החוקר החופר, חוזר\טד, החוקר החופר, חוזר.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טד, החוקר החופר, חוזר\טד, החוקר החופר, חוזר.strm</basepath>
+    <uniqueid type="tmdb" default="true">676701</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> הרפתקאות </genre>
+<genre> משפחה </genre>
+<genre> קומדיה </genre>
+<genre> פנטזיה</genre>
+    <year>2017</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//oi2aKpV4aJNcC0k5R3EO0lUAr5q.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//tUBN1paMQ1tmVA5Sjy1ZjPWVsiF.jpg">https://image.tmdb.org/t/p/original//tUBN1paMQ1tmVA5Sjy1ZjPWVsiF.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-04-17 07:26:46</dateadded>
+</movie>
+    

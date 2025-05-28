@@ -1,0 +1,1 @@
+["\u05e0\u05e9\u05d1\u05dc\u05d5\u05e4\u05d8\u05e9", ["backupta", "backuptactical", "backup pricing", "sql backup table", "backuptarget wbadmin", "terastation backuptask01_failure_info"], [], {"google:suggestsubtypes": [[512, 13], [512, 13], [30, 13, 10], [30, 13, 10], [30, 13], [5, 30, 13]], "google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

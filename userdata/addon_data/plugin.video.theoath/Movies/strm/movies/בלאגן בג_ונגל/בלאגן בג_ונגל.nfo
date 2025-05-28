@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>בלאגן בג'ונגל</title>
+    <originaltitle>Jungle Shuffle [2014]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5</value>
+            <votes>215</votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr
+[COLOR lightblue]2019-01-29 20:07:58[/COLOR]
+מאנו וסאשה הם שני דביבונים צעירים שגרים ביער גשם במקסיקו ומאוהבים זה בזו! הבעיה היחידה היא שסאשה הינה בתו של ראש השבט ומאנו הוא ״עושה הצרות״ של השבט, לכן המלך החליט לשלוח אותו לחיות לבד בג׳ונגל. כאשר סאשה נתפסת על ידי ציידים, מאנו חובר לצ׳אי, קוף תוסס ואמיץ וביחד הם יוצאים להרפתקה כדי להציל את נסיכת הדביבונים וגם להחזיר את מאנו לשבט.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בלאגן בג_ונגל</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בלאגן בג_ונגל\בלאגן בג_ונגל.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בלאגן בג_ונגל\בלאגן בג_ונגל.strm</basepath>
+    <uniqueid type="tmdb" default="true">283671</uniqueid>
+    
+    <genre>משפחה</genre>
+<genre>אנימציה</genre>
+<genre>הרפתקאות</genre>
+    <year>2014</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=kumpU9Y0ElA</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//crcj3IEAUtzIySVjw3HN2tS910S.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://m.media-amazon.com/images/M/MV5BNjY4OTAzNjc5Ml5BMl5BanBnXkFtZTgwNjExODc3MDE@._V1_UY268_CR4,0,182,268_AL_.jpg">https://m.media-amazon.com/images/M/MV5BNjY4OTAzNjc5Ml5BMl5BanBnXkFtZTgwNjExODc3MDE@._V1_UY268_CR4,0,182,268_AL_.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-01-29 20:07:58</dateadded>
+</movie>
+    

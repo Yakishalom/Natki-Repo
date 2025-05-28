@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>טום וג'רי והקוסם מארץ עוץ</title>
+    <originaltitle>Tom and Jerry & The Wizard of Oz [Video 2011]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-09-2 13:24:56[/COLOR]
+הם יצאו לדרך כדי למצוא את הקוסם, הקוסם הנפלא מארץ עוץ! טום וג'רי מרחפים אל מעבר לקשת ופוסעים על פני שביל האבנים הצהובות בסיפור חדש זה, המספר שוב את המעשייה הקלאסית. אתם תפגשו את הדמויות האהובות: דורותי, טוטו, הדחליל, איש הפח, האריה, המכשפה הרעה מהמערב, הקוסם, המנצ'קינים ועוד. תשמעו הרבה שירים אהובים, כולל 'מעבר לקשת', ותצחקו ממעשי הקונדס של החתול והעכבר האהובים, כשהם נסחפים בסופה, נאבקים בקופים העפים ופורצים בסערה לטירה של המכשפה הרעה בניסיון גבורה להחזיר את דורותי וטוטו [ואת עצמם] בבטחה בחזרה לקנזס. אחרי הכול, אין כמו בבית!</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טום וג_רי והקוסם מארץ עוץ</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טום וג_רי והקוסם מארץ עוץ\טום וג_רי והקוסם מארץ עוץ.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טום וג_רי והקוסם מארץ עוץ\טום וג_רי והקוסם מארץ עוץ.strm</basepath>
+    <uniqueid type="tmdb" default="true">72972</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>משפחה</genre>
+<genre>קומדיה</genre>
+    <year>2011</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=MK7evFDGdjc</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//nwFH4eyx0iEv41bt4TAuj83kIkL.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//bJfMzaQww79VCIqK1ZF86UAYnjY.jpg">http://image.tmdb.org/t/p/original//bJfMzaQww79VCIqK1ZF86UAYnjY.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-09-02 13:24:56</dateadded>
+</movie>
+    

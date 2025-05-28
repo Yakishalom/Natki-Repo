@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>תולעת כל יודעת</title>
+    <originaltitle>Superworm</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2023-11-19 08:33:58[/COLOR]
+תולעת העל היא סופר ארוכה וסופר חזקה, ותמיד מצילה את היום. אבל מי יכול להציל אותו כשהוא מתמלא יותר מדי מעצמו ונלכד על ידי לטאת הקוסם המרושע?</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\תולעת כל יודעת</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\תולעת כל יודעת\תולעת כל יודעת.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\תולעת כל יודעת\תולעת כל יודעת.strm</basepath>
+    <uniqueid type="tmdb" default="true">912802</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>משפחה</genre>
+<genre>קומדיה</genre>
+    <year>2021</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=8yCEfSfFVEs</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//hzvZDTb9r9Yceomz2GCHn2eneiD.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//i258RQovDRatmVONIqY4oDaKYjY.jpg">http://image.tmdb.org/t/p/original//i258RQovDRatmVONIqY4oDaKYjY.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-11-19 08:33:58</dateadded>
+</movie>
+    

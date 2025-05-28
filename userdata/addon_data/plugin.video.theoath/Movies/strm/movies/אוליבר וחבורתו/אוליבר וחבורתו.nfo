@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>אוליבר וחבורתו</title>
+    <originaltitle>Oliver & Company</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.713</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,TE
+[COLOR lightblue]2021-02-08 19:15:04[/COLOR]
+[COLOR blue]אוליבר וחבורתו.מדובב.גוזלן.DVDRip.avi[/COLOR]
+0.81 GB
+בואו לחוות הרפתקה קסומה ומלאה בחברות, אוליבר, חתול שובב וצעיר מגלה את ניו-יורק בקלאסיקת האנימציה המרגשת המבוססת בחוכמה על סיפורו העל-זמני של צ'ארלס דיקנס, "אוליבר טוויסט", עם שירים בלתי נשכחים בביצועם של גדולי המוסיקה! אוליבר לומד כי החזקים שורדים בכך שהם שומרים על חלומותיהם בחיים. וכשהוא מאומץ על ידי ג'ני, אוליבר יודע כי הוא מצא חברה לחיים ובית אמיתי.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אוליבר וחבורתו</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אוליבר וחבורתו\אוליבר וחבורתו.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אוליבר וחבורתו\אוליבר וחבורתו.strm</basepath>
+    <uniqueid type="tmdb" default="true">12233</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> קומדיה </genre>
+<genre> משפחה</genre>
+    <year>1988</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//kn8DXZFppYMghx2pHnrvPOs2GNK.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//gWJvu0qMxH1g86UJN5ytRIFrpwy.jpg">https://image.tmdb.org/t/p/original//gWJvu0qMxH1g86UJN5ytRIFrpwy.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-02-08 19:15:04</dateadded>
+</movie>
+    

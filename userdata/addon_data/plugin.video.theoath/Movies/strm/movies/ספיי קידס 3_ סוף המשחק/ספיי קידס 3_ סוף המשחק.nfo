@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>ספיי קידס 3: סוף המשחק</title>
+    <originaltitle>Spy Kids 3-D: Game Over</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.09</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE
+[COLOR lightblue]2021-11-14 20:49:06[/COLOR]
+[COLOR blue]1080p BluRay 2003 נ.מ ספיי קידס 3 מדובב.mkv[/COLOR]
+1.42 GB
+כרמן לכודה בתוך משחק מציאות מדומה של נבל חדש, ואחיה המרגל ג'וני חייב להתקדם שלב אחר בשלב בתוכנית הבוגדנית כדי להציל את אחותו.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ספיי קידס 3_ סוף המשחק</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ספיי קידס 3_ סוף המשחק\ספיי קידס 3_ סוף המשחק.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ספיי קידס 3_ סוף המשחק\ספיי קידס 3_ סוף המשחק.strm</basepath>
+    <uniqueid type="tmdb" default="true">12279</uniqueid>
+    
+    <genre>אקשן </genre>
+<genre> הרפתקאות </genre>
+<genre> קומדיה </genre>
+<genre> משפחה </genre>
+<genre> מדע בדיוני</genre>
+    <year>2003</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//oP53PyexPlQd1xDt8kkvX5LdQdT.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//bmuTrxbPcr1nKCsV5YWWJi73PGR.jpg">https://image.tmdb.org/t/p/original//bmuTrxbPcr1nKCsV5YWWJi73PGR.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-11-14 20:49:06</dateadded>
+</movie>
+    

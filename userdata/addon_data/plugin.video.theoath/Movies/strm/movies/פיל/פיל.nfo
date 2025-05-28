@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>פיל</title>
+    <originaltitle>Elephant</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2022-12-24 21:23:40[/COLOR]
+הסרט עוקב אחר הפילה האפריקנית שאני ובנה ג'ומו כשעדרם מבצע מסע אפי של מאות קילומטרים ברחבי מדבר קלהארי העצום. בהובלת זקנת העדר הגדולה גאיה, המשפחה ניצבת בפני חום אכזרי, משאבים מתמעטים וטורפים מתמידים, כשהם הולכים בדרכם של אבותיהם במסע להגיע לגן עדן שופע וירוק.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פיל</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פיל\פיל.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פיל\פיל.strm</basepath>
+    <uniqueid type="tmdb" default="true">665135</uniqueid>
+    
+    <genre>דוקומנטרי</genre>
+<genre>משפחה</genre>
+    <year>2020</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=58xTMQrSLj4</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//wvRbUiOuqedyDmwToErkp7wuFCv.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//jqEaYZQTwvvq6CThrtXDTfVfk7m.jpg">http://image.tmdb.org/t/p/original//jqEaYZQTwvvq6CThrtXDTfVfk7m.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-12-24 21:23:40</dateadded>
+</movie>
+    

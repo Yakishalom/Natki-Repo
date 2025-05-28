@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>רובר מלך החווה</title>
+    <originaltitle>Rover Dangerfield [1991]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>2,575</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-07-8 08:22:43[/COLOR]
+רובר הכלב עושה חיים משוגעים בלאס וגאס, מהמר על עצמות ורודף אחרי נשים יחד עם חברו הטוב אדי ומתגורר עם בעלתו נערת השעשועים, קוני. לילה אחד הוא רואה את החבר של קוני, רוקי, עושה החלפות עם חבורה של גנגסטרים ומפריע לא בכוונה. כשהגנגסטרים חשבו שרוקי הוא שוטר הם הלכו ואמרו לרוקי שזו ההזדמנות האחרונה שלו. יום למחרת קוני נוסעת לסיבוב הופעות למשך שבועיים והשאירה את רוקי כדי לשמור על רובר. אולם בעקבות הריסת העסקה עם הגנגסטרים, רוקי שם את רובר בשק, נסע לסכר הובר וזרק את רובר לים. רובר ניצל כאשר השק עלה על ידי שני דייגים שדגו את השק, כשאר השק נפתח רובר רץ במהרה ונתקל בחקלאי בשם קאל ובבנו דני אשר רצה לאמץ אותו, אביו הסכים בתנאי אחד, שאם רובר יעשה צרות הוא יכנס למכלאה לבעלי חיים.</plot>
+    <runtime>74</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\רובר מלך החווה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\רובר מלך החווה\רובר מלך החווה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\רובר מלך החווה\רובר מלך החווה.strm</basepath>
+    <uniqueid type="tmdb" default="true">22466</uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Comedy</genre>
+<genre>Family</genre>
+<genre>אנימציה</genre>
+<genre>קומדיה</genre>
+<genre>משפחה</genre>
+    <year>1991</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Yf4S8z6496w</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//Arx4ki3LnrbtFyhLr6C5MG5l4bX.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//rXXNKK2NfGRZyxFKLgJe3YbScod.jpg">http://image.tmdb.org/t/p/original//rXXNKK2NfGRZyxFKLgJe3YbScod.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-07-08 08:22:43</dateadded>
+</movie>
+    

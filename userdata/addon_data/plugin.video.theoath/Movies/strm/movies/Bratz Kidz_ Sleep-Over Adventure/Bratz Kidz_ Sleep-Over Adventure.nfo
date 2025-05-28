@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Bratz Kidz: Sleep-Over Adventure</title>
+    <originaltitle>Bratz Kidz: Sleep-Over Adventure [Video 2007]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5</value>
+            <votes>93</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-04-2 16:23:29[/COLOR]
+הצטרפו לבראץ קידס למסיבת פגי'מות מדהימה מלאה בכיף וחוויות. </plot>
+    <runtime>74</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\Bratz Kidz_ Sleep-Over Adventure</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\Bratz Kidz_ Sleep-Over Adventure\Bratz Kidz_ Sleep-Over Adventure.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\Bratz Kidz_ Sleep-Over Adventure\Bratz Kidz_ Sleep-Over Adventure.strm</basepath>
+    <uniqueid type="tmdb" default="true">43069</uniqueid>
+    
+    <genre>Animation</genre>
+<genre>אנימציה</genre>
+<genre>משפחה</genre>
+    <year>2007</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//gaZ7an3GWrTFystJzgMm89MzB1l.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//wNVWQSgvXW0PSLsYVYeGVPfAySA.jpg">http://image.tmdb.org/t/p/original//wNVWQSgvXW0PSLsYVYeGVPfAySA.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-04-02 16:23:29</dateadded>
+</movie>
+    

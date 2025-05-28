@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>בובספוג מכנסמרובע הסרט: גיבורים מחוץ למים</title>
+    <originaltitle>The SpongeBob Movie: Sponge Out of Water [2015] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>43,863</votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr
+[COLOR lightblue]2019-07-11 20:09:03[/COLOR]
+מי היה מאמין שספוג צהוב יכול לכבוש את העולם? והנה, בוב ספוג מכנס מרובע עושה זאת שוב. אחרי שחי במעמקי הים, בבית שהוא בכלל אננס וכל מה שרצה בחיים זה שכולם יהיו מאושרים ושמחים בחלקם, בוב ספוג יוצא לראשונה למסע בעולם האמיתי שעל פני היבשה. החיים בבקיני לא יכולים להיות טובים יותר לאופטימיסט הנצחי בוב ספוג [טום קני] וחבריו. אך כאשר המתכון הסודי ביותר שלהם לקציצות סרטנים נגנב, בוב ספוג ויריבו הנצחי פלנקטון חייבים לאחד כוחות במטרה לנסוע בזמן ובמרחב ולתפוס את הפירט בורגר בירד [אנטוניו בנדרס] אשר לו תוכניות אחרות למתכון הקציצות המפורסם.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בובספוג מכנסמרובע הסרט_ גיבורים מחוץ למים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בובספוג מכנסמרובע הסרט_ גיבורים מחוץ למים\בובספוג מכנסמרובע הסרט_ גיבורים מחוץ למים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בובספוג מכנסמרובע הסרט_ גיבורים מחוץ למים\בובספוג מכנסמרובע הסרט_ גיבורים מחוץ למים.strm</basepath>
+    <uniqueid type="tmdb" default="true">228165</uniqueid>
+    
+    <genre>הרפתקאות</genre>
+<genre>קומדיה</genre>
+<genre>משפחה</genre>
+<genre>פנטזיה</genre>
+<genre>אנימציה</genre>
+    <year>2015</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=TGjbpO1toTc</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//2WDmjUlSAPlA27i2OwEC7sRTFw3.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//4KwIKuVkkRDpop5pP8C8Q7hIBMo.jpg">http://image.tmdb.org/t/p/original//4KwIKuVkkRDpop5pP8C8Q7hIBMo.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-07-11 20:09:03</dateadded>
+</movie>
+    

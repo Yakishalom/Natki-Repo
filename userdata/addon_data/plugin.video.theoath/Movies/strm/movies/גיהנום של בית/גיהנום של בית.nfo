@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>גיהנום של בית</title>
+    <originaltitle>Home Sweet Hell</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.376</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>TE
+[COLOR lightblue]2021-02-08 19:17:48[/COLOR]
+[COLOR blue]בית.2015.מדובב.גוזלן אלירן.720p.mp4[/COLOR]
+0.97 GB
+לדון (פטריק ווילסון, "השומרים") יש חיים מושלמים לכאורה, עם אישה יפה (קתרין הייגל, "האנטומיה של גריי"), שני ילדים ועסק מצליח. אבל בפועל אשתו מונה ממררת לו את החיים, משתלטת על משק הבית ומנהלת את הלו"ז המשפחתי ביד קשה. דון, שרוצה קצת אוויר לנשימה, מוצא מעט נחמה בדמותה של דסטי (ג'ורדנה ברוסטר, "מהיר ועצבני"), צעירה חצופה ויפה שמנסה למצוא את דרכה למיטתו של דון. אבל כאשר העניינים מתחממים ביניהם, הצרות של דון רק מתחילות. קומדיה שחורה שביים אנתוני ברנס.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\גיהנום של בית</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\גיהנום של בית\גיהנום של בית.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\גיהנום של בית\גיהנום של בית.strm</basepath>
+    <uniqueid type="tmdb" default="true">276839</uniqueid>
+    
+    <genre>מסתורין </genre>
+<genre> מותחן </genre>
+<genre> קומדיה </genre>
+<genre> דרמה</genre>
+    <year>2015</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//vETciJiWTLD0AdDHUANb8HkFdJ5.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//c4sKPgyJj19GBCAvUjpPRiiA45.jpg">https://image.tmdb.org/t/p/original//c4sKPgyJj19GBCAvUjpPRiiA45.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-02-08 19:17:48</dateadded>
+</movie>
+    

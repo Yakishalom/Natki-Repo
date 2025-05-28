@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הקול בראש</title>
+    <originaltitle>Inside Out</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.92</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2021-07-13 19:35:50
+ON,Dr,TE,TE
+[COLOR lightblue]2018-07-15 07:36:05[/COLOR]
+[COLOR blue]הקול בראש - מדובב.avi[/COLOR]
+1.4 GB
+זה לא פשוט לגדול, וככה זה גם עבור ריילי שנאלצת לעבור מביתה במערב ארה"ב, כשאביה מקבל עבודה חדשה בסן פרנסיסקו. כמו כולנו, ריילי תלויה ברגשותיה – אושר, פחד, כעס, גועל ועצב. הרגשות חיים במפקדת הראש - מרכז העצבים בתוך ראשה של ריילי, משם הם נותנים את עצותיהם במהלך חיי היום יום. כשריילי ורגשותיה מתמודדים עם החיים החדשים בסן פרנסיסקו, סערה משתוללת במפקדת הראש. למרות ש-"אושר", הרגש המרכזי והחשוב ביותר של ריילי משתדל לשמור על רוח חיובית, הרגשות מתעמתים על הדרך שבה אפשר להתמודד עם עיר חדשה, בית חדש ובי"ס חדש.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הקול בראש</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הקול בראש\הקול בראש.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הקול בראש\הקול בראש.strm</basepath>
+    <uniqueid type="tmdb" default="true">150540</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> משפחה </genre>
+<genre> הרפתקאות </genre>
+<genre> דרמה </genre>
+<genre> קומדיה</genre>
+    <year>2015</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//goSlABNQSB2Ko9DILVAFh7oKiRp.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//j29ekbcLpBvxnGk6LjdTc2EI5SA.jpg">https://image.tmdb.org/t/p/original//j29ekbcLpBvxnGk6LjdTc2EI5SA.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-07-13 19:35:50</dateadded>
+</movie>
+    

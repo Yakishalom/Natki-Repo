@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>אדומה אש</title>
+    <originaltitle>Turning Red</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2022-06-24 17:41:38[/COLOR]
+מיי היא נערה חנונית בת 13, אשר קרועה בין להיות בת צייתנית לאימה לבין הכאוס שהוא גיל ההתבגרות. אמה המגוננת-על-גבול-השתלטנית, מינג, תמיד נמצאת בקרבת מקום - וזו מציאות די מתסכלת בעבור נערה מתבגרת. אם מיי חשבה ששינויי גיל ההתבגרות כוללים רק שינוי תחומי עניין, מערכות יחסים חדשות ושינויים גופניים, ברגע שהיא מתרגשת קצת יותר מדי [שזה כמעט כל הזמן], היא נהפכת לפנדה אדומה ענקית.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אדומה אש</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אדומה אש\אדומה אש.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אדומה אש\אדומה אש.strm</basepath>
+    <uniqueid type="tmdb" default="true">508947</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>משפחה</genre>
+<genre>קומדיה</genre>
+<genre>פנטזיה</genre>
+    <year>2022</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=TjxKrctRDtQ</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//84pt1FUT82fOsXSRVcjIBX59YFR.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//fOy2Jurz9k6RnJnMUMRDAgBwru2.jpg">http://image.tmdb.org/t/p/original//fOy2Jurz9k6RnJnMUMRDAgBwru2.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-06-24 17:41:38</dateadded>
+</movie>
+    

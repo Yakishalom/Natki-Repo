@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הקרקס של טורו</title>
+    <originaltitle>La gallina Turuleca</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2022-07-9 20:55:10[/COLOR]
+טורו היא תרנגולת שאינה מסוגלת להטיל ביצים וניחנת במראה יוצא דופן. המפגש שלה עם איזבל, בעלת חווה קשישה, מאפשר לה לגלות את הכשרונות החבויים שיש לה - להבין ולדבר עם בני אדם ולשיר בקול מרהיב. איזבל, שחוששת שבני אדם אחרים ינצלו את טורו כאשר יגלו את כשרונותיה הרבים, מסתירה אותה בחווה שלה., צירוף מקרים מוביל את טורו להכיר את מטיאס, ילד בן עשר, ואת אביו, בעל קרקס נודד. במהרה טורו הופכת להיות הכוכבת הראשית בקרקס ועוברת סדרה של הרפתקאות המגלות לה את החשיבות של חברות אמת.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הקרקס של טורו</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הקרקס של טורו\הקרקס של טורו.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הקרקס של טורו\הקרקס של טורו.strm</basepath>
+    <uniqueid type="tmdb" default="true">653247</uniqueid>
+    
+    <genre>משפחה</genre>
+<genre>אנימציה</genre>
+<genre>מוסיקה</genre>
+<genre>הרפתקאות</genre>
+    <year>2019</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Cffy5OTSMMw</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//cgfpMabF3oqL3h2oYC1xwHgAESG.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//aZOO8jOCx2tael77wDrQ4mwxapz.jpg">http://image.tmdb.org/t/p/original//aZOO8jOCx2tael77wDrQ4mwxapz.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-07-09 20:55:10</dateadded>
+</movie>
+    

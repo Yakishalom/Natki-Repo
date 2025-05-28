@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מומיות</title>
+    <originaltitle>Mummies</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2023-09-15 07:43:36[/COLOR]
+המומיות מגיעות, והן יודעות לשיר! שלוש מומיות מצריות שחיות בעיר סודית תת-קרקעית: נסיכה שרוצה להיות זמרת, רוכב-מרכבות יהיר, ואחיו הצעיר – מגיעים במפתיע לעולם האמיתי בן ימינו. לאחר שטבעת המלוכה הקסומה נגנבת, למומיות אין ברירה אלא להתחקות אחריה עד ללונדון במסע מטורף חוצה יבשות וזמן.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מומיות</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מומיות\מומיות.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מומיות\מומיות.strm</basepath>
+    <uniqueid type="tmdb" default="true">816904</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>קומדיה</genre>
+<genre>משפחה</genre>
+<genre>הרפתקאות</genre>
+<genre>פנטזיה</genre>
+    <year>2023</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=WRB8YIc4U68</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//mt8xuymhX7eakKUxrLMDaGW7KUt.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//xVFpOIVdVn5ZUq1QIf0UJcZWjO2.jpg">http://image.tmdb.org/t/p/original//xVFpOIVdVn5ZUq1QIf0UJcZWjO2.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-09-15 07:43:36</dateadded>
+</movie>
+    

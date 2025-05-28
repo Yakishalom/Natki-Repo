@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>נורם יוצא לחופשה</title>
+    <originaltitle>Norm of the North: Family Vacation</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2023-02-22 20:49:16[/COLOR]
+הרביעי בסדרת סרטי האנימציה לכל המשפחה, מיוצרי 'צעצוע של סיפור'. נורם, המלך הנערץ של דובי הקוטב יוצא עם משפחתו לחופשה חלומית בסין, שבמהרה משתבשת לאחר שהכתר שלו נעלם באופן מסתורי.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\נורם יוצא לחופשה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\נורם יוצא לחופשה\נורם יוצא לחופשה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\נורם יוצא לחופשה\נורם יוצא לחופשה.strm</basepath>
+    <uniqueid type="tmdb" default="true">610045</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>קומדיה</genre>
+<genre>משפחה</genre>
+    <year>2020</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=fOJPkDCzyWs</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//ohWU8bPbAK5WEAboIabivld9Hyw.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//A2Z4AOYgdhSuFAt1LRMlEDfwSWD.jpg">http://image.tmdb.org/t/p/original//A2Z4AOYgdhSuFAt1LRMlEDfwSWD.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-02-22 20:49:16</dateadded>
+</movie>
+    

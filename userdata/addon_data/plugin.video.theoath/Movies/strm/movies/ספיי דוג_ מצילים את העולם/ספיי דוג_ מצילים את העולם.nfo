@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>ספיי דוג: מצילים את העולם</title>
+    <originaltitle>Фокстер і Макс</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.841</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>Dr,TE
+[COLOR lightblue]2023-04-07 12:37:26[/COLOR]
+[COLOR blue]720p HDTV 2019 זירה מדיה ספיי דוג מדובב.mkv[/COLOR]
+1.14 GB
+הרפתקת אקשן קצבית ומצחיקה. ילד צעיר מצייר גרפיטי עם ספריי שמצא, ומגלה להפתעתו שהכלב שצייר מתעורר לחיים כ״סופר-כלב״ שעשוי מננו-בוטים, אלא שכעת גם הוא וגם הכלב נרדפים אחרי הפושע הכי מסוכן בסביבה, שרוצה להשיג את הטכנולוגיה המשוכללת.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ספיי דוג_ מצילים את העולם</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ספיי דוג_ מצילים את העולם\ספיי דוג_ מצילים את העולם.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ספיי דוג_ מצילים את העולם\ספיי דוג_ מצילים את העולם.strm</basepath>
+    <uniqueid type="tmdb" default="true">611014</uniqueid>
+    
+    <genre>הרפתקאות </genre>
+<genre> פנטזיה </genre>
+<genre> משפחה</genre>
+    <year>2019</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//ecLtYkOyMZQJ5HP0HrJ6qkvxwuG.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//xgBjOcLGnjFs4N2LAR64cV3awDB.jpg">https://image.tmdb.org/t/p/original//xgBjOcLGnjFs4N2LAR64cV3awDB.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-04-07 12:37:26</dateadded>
+</movie>
+    

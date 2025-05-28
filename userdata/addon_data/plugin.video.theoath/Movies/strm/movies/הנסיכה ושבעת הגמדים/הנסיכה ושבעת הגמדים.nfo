@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הנסיכה ושבעת הגמדים</title>
+    <originaltitle>레드슈즈</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.759</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2022-02-18 21:23:15
+Dr,Dr,TE,TE,TE
+[COLOR lightblue]2021-02-08 19:18:39[/COLOR]
+[COLOR blue]הנסיכה_ושבעת_הגמדים_מדובב_2020_גוזלן.mp4[/COLOR]
+1.02 GB
+באי האגדות, אחד מכול תריסר תושבים הוא נסיך או נסיכה, פשוטו כמשמעו. מתוך עשרות הנסיכים על האי, ישנה חבורה מיוחדת בשם "7 האמיצים" הידועים כלוחמים חסרי פחד. שבעת הנסיכים מסתבכים עם נסיכת הפיות, היא הופכת אותם לגמדים ירוקים שרק נשיקה מהנסיכה היפה ביותר בממלכה תסיר את הקללה. הסיפור הקלאסי בו נסיך מציל נערה יפיפייה מדרקון יורק אש בקלי קלות, מקבל תפנית מפתיעה כשהנסיכה לא כמו ששבעת הנסיכים דמיינו שתהיה... שלגיה מוצאת זוג נעלי קסם אדומות שהופכות אותה לנסיכה אחרת, נסיכה שמעולם היא לא רצתה להיות. היא נמלטת מהאם החורגת המרושעת שלה אשר רוצה את הנעלים, מוצאת את דרכה לביתם של שבעת הגמדים ומבקשת את עזרתם במציאת אביה הנעדר.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הנסיכה ושבעת הגמדים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הנסיכה ושבעת הגמדים\הנסיכה ושבעת הגמדים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הנסיכה ושבעת הגמדים\הנסיכה ושבעת הגמדים.strm</basepath>
+    <uniqueid type="tmdb" default="true">486589</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> רומנטי </genre>
+<genre> משפחה </genre>
+<genre> קומדיה </genre>
+<genre> פנטזיה</genre>
+    <year>2019</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//qU7Ul7bcumK1GaHWlDtbH4SQhVO.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//nN4Gs3vZAOJ1D6FRtrwbU9VGYwU.jpg">https://image.tmdb.org/t/p/original//nN4Gs3vZAOJ1D6FRtrwbU9VGYwU.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-02-18 21:23:15</dateadded>
+</movie>
+    

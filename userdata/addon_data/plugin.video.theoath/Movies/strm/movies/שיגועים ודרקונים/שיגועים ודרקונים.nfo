@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>שיגועים ודרקונים</title>
+    <originaltitle>Clara</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.0</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2021-09-11 16:54:12
+Dr,TE
+[COLOR lightblue]2021-07-28 23:56:38[/COLOR]
+[COLOR blue]שיגועים ודרקונים מדובב 2019 WEB-DL 720p.mp4[/COLOR]
+1.46 GB
+רק פעם באלף שנה נולד דרקון קסום בארץ הפיות. בהיותם כול כך נדירים, כוחות הרשע חוטפים את גור הדרקונים כדי להשתמש ביכולות הקסומות שלו, אבל בטעות מאבדים אותו. מי שמוצא אותו הם שני חברים – דביבון עליז וגמד זעפן. החברים יוצאים למסע הארוך כדי להחזיר את הדרקון הקטן לעיר הדרקונים.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\שיגועים ודרקונים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\שיגועים ודרקונים\שיגועים ודרקונים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\שיגועים ודרקונים\שיגועים ודרקונים.strm</basepath>
+    <uniqueid type="tmdb" default="true">475871</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> הרפתקאות </genre>
+<genre> קומדיה </genre>
+<genre> פנטזיה </genre>
+<genre> משפחה</genre>
+    <year>2019</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//lwuzhQmSYSXsaXPCxsDXkGArXmN.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//rK11JTcItkNii9DSLc1DffO84u9.jpg">https://image.tmdb.org/t/p/original//rK11JTcItkNii9DSLc1DffO84u9.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-09-11 16:54:12</dateadded>
+</movie>
+    

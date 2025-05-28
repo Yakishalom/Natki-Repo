@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>טינקרבל</title>
+    <originaltitle>Tinker Bell [Video 2008] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7</value>
+            <votes>11,663</votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr
+[COLOR lightblue]2020-11-16 09:00:35[/COLOR]
+אל עולם הפיות הקסום שבארץ לעולם-לא מגיעה פיה חדשה בשם טינקרבל. היא שייכת לאחוות פיות התיקונים המוכשרות, אבל משתוקקת להיות פיית טבע, כדי שתוכל לעוף אל העולם האחר ולהביא לשם את האביב. מה תהיה מוכנה טינקרבל לעשות על מנת להשיג את מבוקשה? ומה יהיה המחיר שייאלצו היא ושאר הפיות לשלם על מעלליה?</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טינקרבל</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טינקרבל\טינקרבל.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טינקרבל\טינקרבל.strm</basepath>
+    <uniqueid type="tmdb" default="true">13179</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>משפחה</genre>
+<genre>הרפתקאות</genre>
+<genre>פנטזיה</genre>
+    <year>2008</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=g0CTqqTkXH8</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//tEv0286pi6N1mLdp2l6Eg4uQPpX.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//uMDrlSv4QFsRhb3K5VWHWP7ykZO.jpg">http://image.tmdb.org/t/p/original//uMDrlSv4QFsRhb3K5VWHWP7ykZO.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-11-16 09:00:35</dateadded>
+</movie>
+    

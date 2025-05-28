@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>סיפורו של דולפין 2</title>
+    <originaltitle>Dolphin Tale 2 [2014]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>7,120</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-07-15 14:00:13[/COLOR]
+סרט המשך. הצוות שהציל את חייו של וינטר, מתאחדים שוב לאחר מותה של אמה הסרוגייט, כדי למצוא לה חבר, עימו תוכל להישאר תחת השגחה.</plot>
+    <runtime>107</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סיפורו של דולפין 2</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סיפורו של דולפין 2\סיפורו של דולפין 2.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סיפורו של דולפין 2\סיפורו של דולפין 2.strm</basepath>
+    <uniqueid type="tmdb" default="true">227735</uniqueid>
+    
+    <genre>Drama</genre>
+<genre>Family</genre>
+<genre>משפחה</genre>
+<genre>דרמה</genre>
+    <year>2014</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=gMDymk_gx3A</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//ga714OrcrFhCrhbHUfDG47fUU5F.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//mAGjEDmpqOU9iy6ZDNQmMxcNtOl.jpg">http://image.tmdb.org/t/p/original//mAGjEDmpqOU9iy6ZDNQmMxcNtOl.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-07-15 14:00:13</dateadded>
+</movie>
+    

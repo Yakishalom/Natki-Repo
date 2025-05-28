@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>העי''ג</title>
+    <originaltitle>The BFG</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.253</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2019-07-2 22:16:22
+ON,Dr,TE
+[COLOR lightblue]2018-06-02 20:32:27[/COLOR]
+[COLOR blue]העיג.מדובב.גוזלן.BDRip.avi[/COLOR]
+0.79 GB
+הסרט בבימויו של סטיבן שפילברג מגולל את הרפתקאותיה של סופי וחברה יוצא הדופן. באחד הלילות סופי לא נרדמת והיא נזכרת בסיפורי אימה ידועים. לפתע היא רואה ענק מפחיד מחוץ לביתה ומגלה שהוא ענק ידידותי גדול (עי"ג). העי"ג הוא יצור עדין שמסרב לאכול ילדים כמו שאר הענקים. סופי מתוודעת לעולם שלם של ענקים לא חברותיים שרוצים לפלוש אל עולם בני האדם ויחד השניים יוצאים לעצור את הענקים הרעים.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\העי__ג</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\העי__ג\העי__ג.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\העי__ג\העי__ג.strm</basepath>
+    <uniqueid type="tmdb" default="true">267935</uniqueid>
+    
+    <genre>הרפתקאות </genre>
+<genre> משפחה </genre>
+<genre> פנטזיה</genre>
+    <year>1989</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//cuFewHnPivOPYyhyAHMxtF8UzWJ.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//tOTtJelsPKX0bvSdvDVL2ou3cGS.jpg">https://image.tmdb.org/t/p/original//tOTtJelsPKX0bvSdvDVL2ou3cGS.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-07-02 22:16:22</dateadded>
+</movie>
+    

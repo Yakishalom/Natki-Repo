@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>סיפורי נרניה 2: הנסיך כספיאן</title>
+    <originaltitle>סיפורי נרניה 2: הנסיך כספיאן</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes> </votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-09-3 06:50:34[/COLOR]
+האחים פבנסי חוזרים לנרניה לאחר אלף שנה ומגלים שהמלך האכזר, מיראז השתלט על הארץ ומונע מהנסיך הטוב למשול. הם התגייסו פעם נוספת לעזור ליצורים הססגוניים של נרניה יחד עם העכבר האמיץ, ריפיציפ, אסלן והנסיך כספיאן ומפילים את המלך מהשלטון. עכשיו נשאלת השאלה, כיצד ימצאו את דרכם בחזרה הביתה?</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סיפורי נרניה 2_ הנסיך כספיאן</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סיפורי נרניה 2_ הנסיך כספיאן\סיפורי נרניה 2_ הנסיך כספיאן.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סיפורי נרניה 2_ הנסיך כספיאן\סיפורי נרניה 2_ הנסיך כספיאן.strm</basepath>
+    <uniqueid type="tmdb" default="true"> </uniqueid>
+    
+    <genre>Action</genre>
+<genre>Adventure</genre>
+<genre>Family</genre>
+<genre>הרפתקאות</genre>
+<genre>משפחה</genre>
+<genre>פנטזיה</genre>
+    <year>2008</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//40bbhmk8luCtZa4VZ3TeawuWPmF.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//auf8faMtXBU4u4UpaNGdxAzHAKu.jpg">http://image.tmdb.org/t/p/original//auf8faMtXBU4u4UpaNGdxAzHAKu.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-09-03 06:50:34</dateadded>
+</movie>
+    

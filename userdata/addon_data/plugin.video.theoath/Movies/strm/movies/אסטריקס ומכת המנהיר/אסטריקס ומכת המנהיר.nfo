@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>אסטריקס ומכת המנהיר</title>
+    <originaltitle>Astérix et le coup du menhir</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2021-08-6 00:28:41[/COLOR]
+מפקד מחנה הרומאים, בוסה נובה במבטא 'איטלקי', שולח את חייליו ללכוד את אשפיקס הקוסם בכדי למנוע את שיקוי הקסמים מהגאלים, ההופך אותם לסופר חזקים. בזמן ניסיון החטיפה ביער אובליקס משגר' רקטת סלע מנהיר' בטעות על ראשו של אשפיקס, מה שגורם לו לאבד את זכרונו ולדבר שטויות ללא הרף. בנתיים מגיד עתידות שקרן וערמומי מגיע לכפר וגורם לאשת הצ'יף הגאלי ליפול קורבן לשקריו. הרומאים ממשיכים בניסיונות למצוא דרך לתקוף את הכפר בעוד אסטריקס ואובליקס מנסים להשיב את זכרונו של הקוסם לפני שהרומאים יגלו מה קרה. בסרט משולב השיר 'מוכה בראש', הזיה של הקוסם שנעשה מעורפל בראשו עקב החבטה הקשה.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אסטריקס ומכת המנהיר</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אסטריקס ומכת המנהיר\אסטריקס ומכת המנהיר.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אסטריקס ומכת המנהיר\אסטריקס ומכת המנהיר.strm</basepath>
+    <uniqueid type="tmdb" default="true">11625</uniqueid>
+    
+    <genre>משפחה</genre>
+<genre>אנימציה</genre>
+<genre>הרפתקאות</genre>
+<genre>קומדיה</genre>
+    <year>1989</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=gnuJVzlQXpI</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//kgqsnHGcOY9x7LKEdZAn9PqBpox.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//r03ktNASNATDBay3anM17OV4bqw.jpg">http://image.tmdb.org/t/p/original//r03ktNASNATDBay3anM17OV4bqw.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-08-06 00:28:41</dateadded>
+</movie>
+    

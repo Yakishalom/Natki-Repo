@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מרמדיוק</title>
+    <originaltitle>Marmaduke</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2024-01-8 19:52:25[/COLOR]
+קומדיה משפחתית על כלב דני ענק, בעל אופי סוער ונטייה להסתבך בצרות. מלא אהבה ונאמנות אין סופית למשפחתו. סרטון בו הוא מצולם הופך לויראלי , מאלף כלבים מפורסם רואה אותו  ומחליט לקחת עליו את האתגר ולאמן את מרמדיוק כדי שיזכה באליפות העולם לכלבים!</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מרמדיוק</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מרמדיוק\מרמדיוק.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מרמדיוק\מרמדיוק.strm</basepath>
+    <uniqueid type="tmdb" default="true">678287</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>משפחה</genre>
+<genre>קומדיה</genre>
+<genre>הרפתקאות</genre>
+    <year>2022</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=wDXYjxxnALU</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//gj9fWhYIX2HDGNO3ikB8Px51jBz.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//9vTBaNp8wPrO1jcJZyM2Q55eBFm.jpg">http://image.tmdb.org/t/p/original//9vTBaNp8wPrO1jcJZyM2Q55eBFm.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2024-01-08 19:52:25</dateadded>
+</movie>
+    

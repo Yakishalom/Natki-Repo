@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>פלישת הדובים המפורסמת לסיציליה</title>
+    <originaltitle>La fameuse invasion des ours en Sicile</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2023-07-30 08:25:09[/COLOR]
+מלך הדובים מוליך את שבטו מפסגות ההרים, אל עולמם של בני האדם, במסע חיפוש אחר בנו האובד ובמטרה לשרוד את תלאות החורף. לאחר מנוסה ממפלצות ונצחון על הדוכס הרשע, יחיו הדובים ובני האדם יחד בשלום…. לזמן מה.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פלישת הדובים המפורסמת לסיציליה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פלישת הדובים המפורסמת לסיציליה\פלישת הדובים המפורסמת לסיציליה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פלישת הדובים המפורסמת לסיציליה\פלישת הדובים המפורסמת לסיציליה.strm</basepath>
+    <uniqueid type="tmdb" default="true">537655</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>הרפתקאות</genre>
+<genre>משפחה</genre>
+<genre>פנטזיה</genre>
+    <year>2019</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=VDlqfHCwjyQ</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//cihHyOx9ugAn1kMUovpm3yUQKa1.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//8NE6VgSJ2Dx0fQm1UxY9KVt9fLm.jpg">http://image.tmdb.org/t/p/original//8NE6VgSJ2Dx0fQm1UxY9KVt9fLm.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-07-30 08:25:09</dateadded>
+</movie>
+    

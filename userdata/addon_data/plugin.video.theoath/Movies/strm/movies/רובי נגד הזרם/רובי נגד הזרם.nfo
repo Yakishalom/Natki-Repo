@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>רובי נגד הזרם</title>
+    <originaltitle>Ruby Gillman, Teenage Kraken</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2023-09-18 23:59:23[/COLOR]
+רובי גילמן המתוקה והמוזרה בת ה-16 נואשת להשתלב בתיכון 'אושנסייד', אבל מרגישה שאף אחד לא באמת רואה אותה. אמהּ המגוננת מידי אוסרת על רובי באיסור חמור לעולם לא להיכנס לתוך המים. אך ביום שרובי מפרה את הכלל החמור שהוצב לה, היא מגלה שהיא צאצאית ישירה של מלכות קראקן לוחמות ושהיא נועדה לרשת את הכתר מסבתהּ המפקדת המלכה-הלוחמת של שבעת הימים. הקראקן נשבעו להגן על האוקיינוסים של העולם מפני בנות הים הרעות, אשר נלחמות בקראקן במשך עידנים. אבל יש בעיה אחת גדולה עם הדבר הזה: הנערה החדשה, היפהפה והפופולרית בתיכון: צ'לסי, היא לא רק יפה, אלא גם בת ים. עכשיו רובי תצטרך להכיר במי שהיא באמת, ולהגן על אהוביה.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\רובי נגד הזרם</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\רובי נגד הזרם\רובי נגד הזרם.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\רובי נגד הזרם\רובי נגד הזרם.strm</basepath>
+    <uniqueid type="tmdb" default="true">1040148</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>משפחה</genre>
+<genre>פנטזיה</genre>
+<genre>קומדיה</genre>
+    <year>2023</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=iAMKwDsfUeU</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//xnYFatzrQFgf1VZmyDnxzeDXJZr.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//f7UI3dYpr7ZUHGo0iIr1Qvy1VPe.jpg">http://image.tmdb.org/t/p/original//f7UI3dYpr7ZUHGo0iIr1Qvy1VPe.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-09-18 23:59:23</dateadded>
+</movie>
+    

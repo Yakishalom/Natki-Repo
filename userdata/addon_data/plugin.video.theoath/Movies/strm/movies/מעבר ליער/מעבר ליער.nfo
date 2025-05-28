@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מעבר ליער</title>
+    <originaltitle>Over the Hedge</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.539</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2020-11-16 07:24:39
+ON,Dr,TE
+[COLOR lightblue]2018-06-02 20:25:15[/COLOR]
+[COLOR blue]מעבר ליער.מדובב.גוזלן.DVDRip.avi[/COLOR]
+0.68 GB
+אר-ג'יי, דביבון המטייל בעולם, מגיע לחורשה מחוץ לעיר בדרום המרכז, כולו נרגש מהפלאים שהאדם יכול להביא לחיות רעבות. מה שהוא מגלה, זו קומונה קטנה של חיות בר שמפחדות בני אדם, אחרי שהמנהיג שלהם הסמור ורן, נתקל בילדי אדם שמפחידים אותו. בהתקלו עם אר-ג'יי הוא והחיות לאט עוברים את החומה שהפרידה ביניהם שהם גילו שהוקמה בזמן שנת החורף שלהם, ואר-ג'יי מראה להם, עולם חדש, היכן שבני האדם משאירים קופסאות פחים מלאים דגים ושאר אוכל בתוך פחים גדולים, שרק מחכים שישתמשו בהם. ככל שהם מתקרבים יותר ויותר לבני האדם, הנוחות שלהם ביער נראת כמאיימת...TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מעבר ליער</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מעבר ליער\מעבר ליער.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מעבר ליער\מעבר ליער.strm</basepath>
+    <uniqueid type="tmdb" default="true">7518</uniqueid>
+    
+    <genre>משפחה </genre>
+<genre> קומדיה </genre>
+<genre> אנימציה</genre>
+    <year>2009</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//c5Ngxg9036zkWaaVWVmeJii7fr1.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//ohDtIpcfP2NXtvAANsQFsh76BO0.jpg">https://image.tmdb.org/t/p/original//ohDtIpcfP2NXtvAANsQFsh76BO0.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-11-16 07:24:39</dateadded>
+</movie>
+    

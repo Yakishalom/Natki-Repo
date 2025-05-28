@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>צעצוע של סיפור בקיצור: חיית מסיבות</title>
+    <originaltitle>Partysaurus Rex</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.181</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>TE
+[COLOR lightblue]2017-06-01 16:55:07[/COLOR]
+[COLOR blue]חן סרטים צעצוע של סיפור 3 מדובב.avi[/COLOR]
+0.69 GB
+סרטון קצר מבית היוצר של פיקסאר המבוסס על סדרת הסרטים המצליחה צעצוע של סיפור. רקס, דינוזאור הצעצוע, הורס לצעצועים בטעות את הכיף שלהם ובכך מקבל את הכינוי "רקס הורס המסיבות" ממר תפו"א. לאחר מכן, נשכח רקס באמבטיה, ובעקבות ההעלבה מחבריו, רקס מחליט להישאר ולעשות מסיבה ביחד עם צעצועי האמבט.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\צעצוע של סיפור בקיצור_ חיית מסיבות</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\צעצוע של סיפור בקיצור_ חיית מסיבות\צעצוע של סיפור בקיצור_ חיית מסיבות.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\צעצוע של סיפור בקיצור_ חיית מסיבות\צעצוע של סיפור בקיצור_ חיית מסיבות.strm</basepath>
+    <uniqueid type="tmdb" default="true">130925</uniqueid>
+    
+    <genre>משפחה </genre>
+<genre> אנימציה </genre>
+<genre> קומדיה</genre>
+    <year>2010</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//iukkUikRxktNzaK89PyQ1ioPVdm.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//sRPMsLAygtI3GlZS8fLERQrzIvk.jpg">https://image.tmdb.org/t/p/original//sRPMsLAygtI3GlZS8fLERQrzIvk.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2017-06-01 16:55:07</dateadded>
+</movie>
+    

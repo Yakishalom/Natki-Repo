@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>בית ספר למפלצות</title>
+    <originaltitle>Monsters University [2013] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7</value>
+            <votes>288,666</votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr
+[COLOR lightblue]2019-04-6 16:30:34[/COLOR]
+מייק ווזובסקי וג'יימס פ. סאליבן הם זוג מפלצות בלתי נפרד, אבל זה לא היה תמיד הסיפור. מהרגע שבו שתי המפלצות הכל כך לא מתאימות נפגשו הם לא יכלו לסבול אחד את השני. 'בית ספר למפלצות' פותח את הדלת ומראה כיצד מייק וסאליבן התגברו על ההבדלים ביניהם והפכו לחברים הכי טובים.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בית ספר למפלצות</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בית ספר למפלצות\בית ספר למפלצות.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\בית ספר למפלצות\בית ספר למפלצות.strm</basepath>
+    <uniqueid type="tmdb" default="true">62211</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>משפחה</genre>
+    <year>2013</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=xBzPioph8CI</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//tyHHjZEzJutWggujN1KP0a1jfLX.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//mIpCxBWNz6SHCQBe2K2PFr5MB7f.jpg">http://image.tmdb.org/t/p/original//mIpCxBWNz6SHCQBe2K2PFr5MB7f.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-04-06 16:30:34</dateadded>
+</movie>
+    

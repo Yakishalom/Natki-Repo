@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>The Return of Jafar</title>
+    <originaltitle>The Return of Jafar [Video 1994] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>26,437</votes>
+        </rating>
+    </ratings>
+    <plot>ON,ON
+[COLOR lightblue]2020-12-16 12:29:22[/COLOR]
+The evil Jafar escapes from the magic lamp as an all-powerful genie, ready to plot his revenge against Aladdin. From battling elusive villains atop winged horses, to dodging flames inside an exploding lava pit, it's up to Aladdin - with Princess Jasmine and the outrageously funny Genie by his side - to save the kingdom once and for all.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\The Return of Jafar</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\The Return of Jafar\The Return of Jafar.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\The Return of Jafar\The Return of Jafar.strm</basepath>
+    <uniqueid type="tmdb" default="true">15969</uniqueid>
+    
+    <genre>Family</genre>
+<genre>Adventure</genre>
+<genre>Animation</genre>
+<genre>Romance</genre>
+    <year>1994</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=4BimOXmpW3k</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//1mw2vRHNiA8l7lWXwKs8Q2eNADy.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//sLF3zgqfFC6Vev84h9aK4U88M2C.jpg">http://image.tmdb.org/t/p/original//sLF3zgqfFC6Vev84h9aK4U88M2C.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2020-12-16 12:29:22</dateadded>
+</movie>
+    

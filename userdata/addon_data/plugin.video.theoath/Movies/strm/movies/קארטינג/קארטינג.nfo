@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>קארטינג</title>
+    <originaltitle>Go!</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.641</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,TE
+[COLOR lightblue]2021-02-24 01:16:23[/COLOR]
+[COLOR blue]קארטינג.2020.מדובב.גוזלן.720p.mp4[/COLOR]
+1.36 GB
+ג'ק בן ה-15 עובר עם אימו לעיר חדשה ונכבש בקסמיו של עולם מרוצי הקארטינג. בעזרתם של חברים חדשים ושל נהג מרוצים לשעבר שמסתיר עבר אפל, ג'ק חייב ללמוד אחריות מהי בתקווה לזכות באליפות הארצית.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קארטינג</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קארטינג\קארטינג.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\קארטינג\קארטינג.strm</basepath>
+    <uniqueid type="tmdb" default="true">520765</uniqueid>
+    
+    <genre>משפחה</genre>
+    <year>2020</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//tOLC9552jBvymwsgHc3ri2SyuyD.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//hRgQVdKh65nFiy2l7KhfWo7DHof.jpg">https://image.tmdb.org/t/p/original//hRgQVdKh65nFiy2l7KhfWo7DHof.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-02-24 01:16:23</dateadded>
+</movie>
+    

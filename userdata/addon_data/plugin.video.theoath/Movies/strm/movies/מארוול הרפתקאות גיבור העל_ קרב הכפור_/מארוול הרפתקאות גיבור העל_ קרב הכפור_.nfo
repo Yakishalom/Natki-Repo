@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מארוול הרפתקאות גיבור העל: קרב הכפור!</title>
+    <originaltitle>Marvel Super Hero Adventures: Frost Fight!</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2022-07-16 23:21:52[/COLOR]
+גיבורי מארוול מתאחדים כדי לנסות ולעצור את לוקי וימיר ענק הכפור לכבוש את העולם, על מנת לעשות זאת הם מנסים לגנוב את כוחותיו של סנטה.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מארוול הרפתקאות גיבור העל_ קרב הכפור_</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מארוול הרפתקאות גיבור העל_ קרב הכפור_\מארוול הרפתקאות גיבור העל_ קרב הכפור_.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מארוול הרפתקאות גיבור העל_ קרב הכפור_\מארוול הרפתקאות גיבור העל_ קרב הכפור_.strm</basepath>
+    <uniqueid type="tmdb" default="true">372631</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>פנטזיה</genre>
+    <year>2015</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//2StM8Vavf7ukvuj9mxg1o7nKxmi.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//yRbDw6Ly8MSQNDfLQNffHZuPZpS.jpg">http://image.tmdb.org/t/p/original//yRbDw6Ly8MSQNDfLQNffHZuPZpS.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-07-16 23:21:52</dateadded>
+</movie>
+    

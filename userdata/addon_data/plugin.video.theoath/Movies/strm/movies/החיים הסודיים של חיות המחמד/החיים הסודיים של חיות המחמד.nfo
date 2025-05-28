@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>החיים הסודיים של חיות המחמד</title>
+    <originaltitle>The Secret Life of Pets [2016]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>151,682</votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr
+[COLOR lightblue]2018-10-31 21:41:34[/COLOR]
+חייו של מקס מתהפכים כאשר מעמדו בתור חיית המחמד האהובה ביותר מתערער משבעליו מביא חיית מחמד נוספת בשם דיוק. אבל הצמד הזה חייב להניח את המשקעים בינהם בצד, כשהם מגלים שארנב מרושע מקים צבא של חיות בית נטושות על מנת לנקום בכל חיות המחמד ובעליהן שכן מאושרים.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\החיים הסודיים של חיות המחמד</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\החיים הסודיים של חיות המחמד\החיים הסודיים של חיות המחמד.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\החיים הסודיים של חיות המחמד\החיים הסודיים של חיות המחמד.strm</basepath>
+    <uniqueid type="tmdb" default="true">328111</uniqueid>
+    
+    <genre>הרפתקאות</genre>
+<genre>קומדיה</genre>
+<genre>אנימציה</genre>
+<genre>משפחה</genre>
+    <year>2016</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=i-80SGWfEjM</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//hnmXNfheKD8YvIrlwwaaRszq77N.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//4opUo35gYdZi7iAnseXYn1N8bjb.jpg">http://image.tmdb.org/t/p/original//4opUo35gYdZi7iAnseXYn1N8bjb.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-10-31 21:41:34</dateadded>
+</movie>
+    

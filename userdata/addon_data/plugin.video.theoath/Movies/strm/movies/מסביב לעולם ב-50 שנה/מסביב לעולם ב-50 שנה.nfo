@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מסביב לעולם ב-50 שנה</title>
+    <originaltitle>A Turtle's Tale: Sammy's Adventures [2010] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>6,217</votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr
+[COLOR lightblue]2019-03-8 23:59:36[/COLOR]
+סיפורו של צב ים שבקע לעולם בחופי קליפורניה בשנת 1959. מיד עם צאתו לאוויר העולם הוא נכנס אל המים ומיד מוצא את אהבת חייו צבת ים העונה לשלם שלי, אותה הוא מאבד מיד. סמי יוצא, למסע סביב העולם, ברחבי האוקיאנוסים. מסע שכל צבי הים משלימים לפני שהם חוזרים אל החוף שבו נולדו. סמי, עובר את כל ההרפתקאות האפשריות וניצב מול כל הסכנות שבדרך בחיפושיו אחר אהובתו שלי.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מסביב לעולם ב-50 שנה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מסביב לעולם ב-50 שנה\מסביב לעולם ב-50 שנה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מסביב לעולם ב-50 שנה\מסביב לעולם ב-50 שנה.strm</basepath>
+    <uniqueid type="tmdb" default="true">49953</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>משפחה</genre>
+    <year>2010</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=VJdnPh5Gt28</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//8QDvyFWeGA91ZEJRntQmqOMs2av.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//z0lHSm05A0j8PcjREwmzCkzW2U3.jpg">http://image.tmdb.org/t/p/original//z0lHSm05A0j8PcjREwmzCkzW2U3.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-03-08 23:59:36</dateadded>
+</movie>
+    

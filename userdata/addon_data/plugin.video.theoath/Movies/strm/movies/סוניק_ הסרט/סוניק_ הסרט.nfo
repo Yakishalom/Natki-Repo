@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>סוניק: הסרט</title>
+    <originaltitle>Sonic the Hedgehog</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.347</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE,TE,TE
+[COLOR lightblue]2023-09-04 14:29:51[/COLOR]
+[COLOR blue]1080p BluRay 2020 נתי מדיה סוניק מדובב.mkv[/COLOR]
+1.43 GB
+לאחר שהוענק לו כוח מדהים שלא לגמרי מובן לו, סוניק נשלח למחבוא בכדור הארץ וניתן לו חוק אחד: בשום אופן אל תיתן לעולם לדעת שאתה קיים. אך זו לא משימה פשוטה עבור נער בן 15 – במיוחד עם גישה ויכולות כשל סוניק. במהרה הוא מתגלה ע"י טום – שוטר סרקסטי מעיירה קטנה ועם לב גדול. יחד הם יוצאים להרפתקה מדהימה ועמוסה באקשן, כשבעקבותיהם ד"ר רובוטניק המטורף ויצירותיו המכאניות.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סוניק_ הסרט</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סוניק_ הסרט\סוניק_ הסרט.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סוניק_ הסרט\סוניק_ הסרט.strm</basepath>
+    <uniqueid type="tmdb" default="true">454626</uniqueid>
+    
+    <genre>אקשן </genre>
+<genre> מדע בדיוני </genre>
+<genre> קומדיה </genre>
+<genre> משפחה</genre>
+    <year>2020</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//qFMpGmDn4aA0cqI1SDovyvK5o7q.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//stmYfCUGd8Iy6kAMBr6AmWqx8Bq.jpg">https://image.tmdb.org/t/p/original//stmYfCUGd8Iy6kAMBr6AmWqx8Bq.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-09-04 14:29:51</dateadded>
+</movie>
+    

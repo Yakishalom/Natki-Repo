@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>טרולים מסביב לעולם</title>
+    <originaltitle>Trolls World Tour</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2021-10-2 12:50:40[/COLOR]
+בהרפתקה שתיקח אותם לסיבוב עולמי, הטרולית ההרפתקנית פופי, והטרול האהוב בראנץ' מגלים תגלית מדהימה - קיימים בעולם שישה שבטי טרולים שונים הפזורים בשש ארצות שונות וסוגדים לשישה סוגים שונים של מוזיקה: פאנק, קאנטרי, טכנו, קלאסית, פופ ורוק. כאשר מלכת הרוק ברב, בסיוע אביה המלך טראש, מחליטה להרוס את כל סוגי המוזיקה האחרים כדי לאפשר לרוק לשלוט, גורל העולם מונח על כף המאזניים. פופי ובראנץ', יחד עם חבריהם – צריכים לאחד בהרמוניה את כל סגנונות המוזיקה בשביל להציל את המצב.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טרולים מסביב לעולם</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טרולים מסביב לעולם\טרולים מסביב לעולם.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טרולים מסביב לעולם\טרולים מסביב לעולם.strm</basepath>
+    <uniqueid type="tmdb" default="true">446893</uniqueid>
+    
+    <genre>משפחה</genre>
+<genre>אנימציה</genre>
+<genre>קומדיה</genre>
+<genre>פנטזיה</genre>
+<genre>הרפתקאות</genre>
+<genre>מוסיקה</genre>
+    <year>2020</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=SyTg7RIn-X8</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//7W0G3YECgDAfnuiHG91r8WqgIOe.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//qsxhnirlp7y4Ae9bd11oYJSX59j.jpg">http://image.tmdb.org/t/p/original//qsxhnirlp7y4Ae9bd11oYJSX59j.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-10-02 12:50:40</dateadded>
+</movie>
+    

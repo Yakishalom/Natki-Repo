@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>פוניו על הצוק ליד הים</title>
+    <originaltitle>崖の上のポニョ</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.739</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2022-12-25 23:50:16
+ON,TE,TE
+[COLOR lightblue]2021-04-16 15:57:37[/COLOR]
+[COLOR blue]פוניו_על_הצוק_ליד_הים_מדובב_גוזלן_DVDRip.avi[/COLOR]
+0.65 GB
+פוניו היא דג זהב קטנה שחיה במעמקי הים. יום אחד היא תופסת "טרמפ" עם מדוזה ועולה אל פני הים, אך נתקעת בתוך צנצנת ריקה שהושלכה למים ונסחפת אל החוף. סוסקה, ילד בן 5, מציל אותה ולוקח אותה איתו בדלי קטן לבית הספר. אביה של פוניו, מכשף ששונא את עולם בני האדם, נחוש בדעתו להחזיר אותה אל מקומה הטבעי ומגייס את כל כוחות הים כדי להשיבה אליו. אבל פוניו כבר הספיקה להתאהב בילד שהציל אותה. יש לה כוחות קסומים משל עצמה, היא החליטה שהיא רוצה להיהפך לילדה אנושית ו להישאר עם סוסקה. פוניו וסוסקה יוצאים להרפתקה שתעמיד במבחן את ידידותם אל מול כוחות הים והיבשה.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פוניו על הצוק ליד הים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פוניו על הצוק ליד הים\פוניו על הצוק ליד הים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פוניו על הצוק ליד הים\פוניו על הצוק ליד הים.strm</basepath>
+    <uniqueid type="tmdb" default="true">12429</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> פנטזיה </genre>
+<genre> משפחה</genre>
+    <year>2008</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//gVk4yHgAoxeUzvoIoJzMfd6HpJA.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//shqLeIkqPAAXM8iT6wVDiXUYz1p.jpg">https://image.tmdb.org/t/p/original//shqLeIkqPAAXM8iT6wVDiXUYz1p.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-12-25 23:50:16</dateadded>
+</movie>
+    

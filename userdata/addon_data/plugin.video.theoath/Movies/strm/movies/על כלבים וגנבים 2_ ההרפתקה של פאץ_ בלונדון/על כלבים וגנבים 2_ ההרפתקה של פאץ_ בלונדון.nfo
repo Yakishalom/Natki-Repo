@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>על כלבים וגנבים 2: ההרפתקה של פאץ' בלונדון</title>
+    <originaltitle>101 Dalmatians II: Patch&apos;s London Adventure</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,Dr
+[COLOR lightblue]2022-08-21 21:39:38[/COLOR]
+הכלב פאטש' הקטן משתוקק להיות כלב יוצא דופן, הוא חולם להיות 'כלב פלא' ממש כמו כוכב הטלויזיה האהוב עליו חץ מקשת. פאטש' מופרד בטעות ממשפחתו ונמצל את המצב לפגוש את אלילו. בנתיים קרואלה דה ויל חוטפת את הגורים פאטש וחץ מקשת יוצאים להצילם.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\על כלבים וגנבים 2_ ההרפתקה של פאץ_ בלונדון</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\על כלבים וגנבים 2_ ההרפתקה של פאץ_ בלונדון\על כלבים וגנבים 2_ ההרפתקה של פאץ_ בלונדון.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\על כלבים וגנבים 2_ ההרפתקה של פאץ_ בלונדון\על כלבים וגנבים 2_ ההרפתקה של פאץ_ בלונדון.strm</basepath>
+    <uniqueid type="tmdb" default="true">13654</uniqueid>
+    
+    <genre>משפחה</genre>
+<genre>הרפתקאות</genre>
+<genre>קומדיה</genre>
+<genre>אנימציה</genre>
+    <year>2002</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=S13zxIByQXg</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//yytEKwEJ8cvzBCOk8NhO9H0pTMc.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//k9tMAeSgaFASNedoxvyzMnTcilV.jpg">http://image.tmdb.org/t/p/original//k9tMAeSgaFASNedoxvyzMnTcilV.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-08-21 21:39:38</dateadded>
+</movie>
+    

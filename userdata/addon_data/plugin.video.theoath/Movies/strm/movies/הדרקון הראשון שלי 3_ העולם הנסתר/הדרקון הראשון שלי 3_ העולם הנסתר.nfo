@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הדרקון הראשון שלי 3: העולם הנסתר</title>
+    <originaltitle>How to Train Your Dragon: The Hidden World</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.8</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE
+[COLOR lightblue]2021-09-16 22:24:29[/COLOR]
+[COLOR blue]720p 2019 הדרקון הראשון שלי 3 מדובב.mkv[/COLOR]
+1.42 GB
+היקאפ, כעת המנהיג של עיר הויקינגים, יצר אוטופיה משותפת של בני אדם ודרקונים. אבל החיים המשותפים ניצבים בפני סכנה נוראית כאשר צייד דרקונים מרשע ומסוכן במיוחד מגלה את מיקום העיר. אנשי, נשות ודרקוני העיר חייבים לעזוב את הבית היחיד שהם מכירים ומתחילים במסע לעולם הנסתר של הדרקונים שנחשב לאגדה. בדרך הם נתקלים בדרקונית אור לבנה וחזקה במיוחד. שום שן מתאהב בה מיד, אבל האם דרקונית האור היא אוייבת או חברה?TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הדרקון הראשון שלי 3_ העולם הנסתר</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הדרקון הראשון שלי 3_ העולם הנסתר\הדרקון הראשון שלי 3_ העולם הנסתר.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הדרקון הראשון שלי 3_ העולם הנסתר\הדרקון הראשון שלי 3_ העולם הנסתר.strm</basepath>
+    <uniqueid type="tmdb" default="true">166428</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> משפחה </genre>
+<genre> הרפתקאות</genre>
+    <year>2019</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//ay3EAur8jATqm739XzIdW1I7z52.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//lFwykSz3Ykj1Q3JXJURnGUTNf1o.jpg">https://image.tmdb.org/t/p/original//lFwykSz3Ykj1Q3JXJURnGUTNf1o.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-09-16 22:24:29</dateadded>
+</movie>
+    

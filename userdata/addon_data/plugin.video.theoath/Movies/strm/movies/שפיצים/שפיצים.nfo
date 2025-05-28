@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>שפיצים</title>
+    <originaltitle>Metegol</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.759</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,TE,TE
+[COLOR lightblue]2023-02-20 22:11:08[/COLOR]
+[COLOR blue]720p HDTV 2013 זירה מדיה שפיצים מדובב.mkv[/COLOR]
+1.09 GB
+הנער אמדאו הוא שחקן כדורגל-השולחן הטוב ביותר בכל הזמנים, שמעביר את חייו בבטלה חסרת כיוון בעיירה שהזמן בה עצר מלכת. אפילו חברת הילדות שלו, לורה, בה הוא מאוהב, לא יודעת זאת. חיי השגרה שלו נקטעים כאשר חוזר במפתיע למקום אייס, שחקן הכדורגל הטוב בעולם, שלא מסתפק בתואר זה. צמא נקמה, הוא רוצה להרוס את חייו של אמדאו, שהביס אותו במשחק כדורגל-שולחן עשר שנים קודם לכן.  אולם אז קורה משהו מופלא, ולצידו של אמדאו מתייצבות הדמויות הקטנות של כדורגל-השולחן שלו. הן קמות לתחייה ומסתבר שהן יכולות לדבר, לזוז לבד ובעיקר – לשחק כדורגל! נחושים לעזור לאמאדו להציל את עולמו, יוצאת החבורה להרפתקה מדהימה מלאת אתגרים והרפתקאות בניסיון להציל את הכפר ולכבוש את ליבה של לורה. עליהם לפעול כצוות מאוחד עד ליישוב העניין הישן באצטדיון כדורגל בגודל מלא.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\שפיצים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\שפיצים\שפיצים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\שפיצים\שפיצים.strm</basepath>
+    <uniqueid type="tmdb" default="true">153158</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> הרפתקאות </genre>
+<genre> רומנטי</genre>
+    <year>2013</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//zoBnunVJI1ok8Lt4onn3dyKfmd7.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//6jQ9XMFLTM08ImKRkOq4olCbh5E.jpg">https://image.tmdb.org/t/p/original//6jQ9XMFLTM08ImKRkOq4olCbh5E.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-02-20 22:11:08</dateadded>
+</movie>
+    

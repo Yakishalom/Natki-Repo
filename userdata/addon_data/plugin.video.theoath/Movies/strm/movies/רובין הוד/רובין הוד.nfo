@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>רובין הוד</title>
+    <originaltitle>Robin Hood</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.9</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE,TE
+[COLOR lightblue]2023-07-27 22:16:02[/COLOR]
+[COLOR blue]1080p BluRay 1973 ז.מ רובין הוד מדובב.mkv[/COLOR]
+1.29 GB
+רובין הוד, אציל לשעבר ולוחם מחונן ולמוד קרבות, שב ממסעות הצלב כשבליבו כעס. כשהוא מוצא שבני עמו סובלים תחת שלטון של שריף אכזר, הוא מחליט לחבור למי שהיה אויבו בקרב. בעזרתו, כשהוא תחת מסווה, הם יוצאים למרד נגד השריף וצמרת השלטון של העיר נוטינגהם.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\רובין הוד</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\רובין הוד\רובין הוד.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\רובין הוד\רובין הוד.strm</basepath>
+    <uniqueid type="tmdb" default="true">375588</uniqueid>
+    
+    <genre></genre>
+    <year>2018</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//10d50DzXkGInOIYCueymJO56XmR.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//zSJT1sKGRKcmP4I9b8dIOuepw6I.jpg">https://image.tmdb.org/t/p/original//zSJT1sKGRKcmP4I9b8dIOuepw6I.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-07-27 22:16:02</dateadded>
+</movie>
+    

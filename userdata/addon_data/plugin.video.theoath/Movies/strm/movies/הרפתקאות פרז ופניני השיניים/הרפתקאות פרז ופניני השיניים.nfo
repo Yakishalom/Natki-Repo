@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הרפתקאות פרז ופניני השיניים</title>
+    <originaltitle>El ratón Pérez</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2022-08-21 21:29:05[/COLOR]
+לוסיה הקטנה עומדת לאבד את אחת משיניה. סנטיאגו, אביה המובטל, ופילאר, אמה החיננית, מבטיחים ללוסיה שהלילה, בעודה ישנה, תבוא לחדרה פיית השיניים ותחליף את השן הקטנה בכיס מכסף. 'פיית השיניים' היא לא אחרת מפרז העכבר. וכשהשמועה אודות השן המתנדנדת מגיעה לאוזני העכברים שבבית, הם דואגים להעביר אותה הלאה עד שהיא מגיעה אל העכבר החשוב מכולם, הלוא הוא פרז. פרז חי בספינה נטושה יחד עם מאות עכברים אחרים. העכברים עמלים יום וליל בצחצוח השיניים שהוא מביא לספינה כדי להפוך אותן לפנינים יקרות. בעוד פרז מתקרב אל יעדו כדי לבצע את המוטל עליו, חוטפים אותו קבוצת בריונים מרשעים הזוממים להשתלט על הספינה שלו ועל אוסף הפנינים היקר שהיא מכילה. למזלו של פרז, לוסיה הקטנה תבוא לעזרתו.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הרפתקאות פרז ופניני השיניים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הרפתקאות פרז ופניני השיניים\הרפתקאות פרז ופניני השיניים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הרפתקאות פרז ופניני השיניים\הרפתקאות פרז ופניני השיניים.strm</basepath>
+    <uniqueid type="tmdb" default="true">36617</uniqueid>
+    
+    <genre>משפחה</genre>
+<genre>אנימציה</genre>
+    <year>2006</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=skuC3rAkomY</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//jpc8Zdn5Ju0tkQdkqbL4T4tKw61.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//khy2Qq5UjLfERvfR1DnvXdrkOqu.jpg">http://image.tmdb.org/t/p/original//khy2Qq5UjLfERvfR1DnvXdrkOqu.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-08-21 21:29:05</dateadded>
+</movie>
+    

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הנסיכה והעדשה</title>
+    <originaltitle>The Princess and the Pea [2002]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>209</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-04-4 17:18:53[/COLOR]
+'לב אציל באמת הוא לב רגיש', אמר העורב הזקן והחכם, סבסטיאן, המחפש פיתרון שיציל את ממלכת קורזיון מפני נקמתו של לייר אחיו של המלך. ככל שחיפושיו של סבסטיאן לפתרון התעלומה מתרחבים, חברו הנסיך רולו מחפש לב רגיש באמת בקרב הנסיכות המפונקות של ממלכות האזור, הגורל מזמן לנסיך נערה עם לב טוב שגורמת לרולו להרהר איפה נמצא היופי האמיתי. האם סבסטיאן ימצא בזמן את הפתרון להצלת הממלכה ממזימותיו של לייר? הצטרפו למסע אחרי אצילות אמיתית. הסרט מבוסס על האגדה הקלאסית מאת הנס כריסטיאן אנדרסון ומציע אנימציה קסומה לצד מוסיקה בלתי נשכחת.</plot>
+    <runtime>75</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הנסיכה והעדשה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הנסיכה והעדשה\הנסיכה והעדשה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הנסיכה והעדשה\הנסיכה והעדשה.strm</basepath>
+    <uniqueid type="tmdb" default="true">14492</uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Adventure</genre>
+<genre>Family</genre>
+<genre>אנימציה</genre>
+<genre>פנטזיה</genre>
+<genre>משפחה</genre>
+    <year>2002</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Mcbo3pgd8d8</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//s0XBd0CCXto5ox5fbjZofIsmlgW.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//ePpnAibL9ALmp0OGwO9fHgS1Keu.jpg">http://image.tmdb.org/t/p/original//ePpnAibL9ALmp0OGwO9fHgS1Keu.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-04-04 17:18:53</dateadded>
+</movie>
+    

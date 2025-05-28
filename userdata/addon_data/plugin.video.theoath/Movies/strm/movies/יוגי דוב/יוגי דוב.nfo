@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>יוגי דוב</title>
+    <originaltitle>Yogi Bear</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.585</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,TE
+[COLOR lightblue]2019-11-19 19:53:12[/COLOR]
+[COLOR blue]יוגי דוב - מדובב.avi[/COLOR]
+1.31 GB
+במאית סרטים תיעודיים מגיעה לפארק הנופש גליסטון ונתקלת בדוב המדבר יוגי, עוזרו הצעיר בו-בו ושומר היערות סמית'. מבוסס על סרטי אנימציה קלאסים.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\יוגי דוב</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\יוגי דוב\יוגי דוב.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\יוגי דוב\יוגי דוב.strm</basepath>
+    <uniqueid type="tmdb" default="true">41515</uniqueid>
+    
+    <genre>קומדיה </genre>
+<genre> משפחה </genre>
+<genre> אנימציה </genre>
+<genre> הרפתקאות</genre>
+    <year>2010</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//hDd4Yf9jkysYMuXeVjFXKmrthjl.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//olt6xjI8QvrTmm1GTH6VtX6ROCl.jpg">https://image.tmdb.org/t/p/original//olt6xjI8QvrTmm1GTH6VtX6ROCl.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-11-19 19:53:12</dateadded>
+</movie>
+    

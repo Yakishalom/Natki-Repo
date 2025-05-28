@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>דרגון בול זי: סופר אנדרואיד 13</title>
+    <originaltitle>Dragon Ball Z: Super Android 13 [1992] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7</value>
+            <votes>6,189</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2021-04-16 17:38:24[/COLOR]
+שלושה אנדרואידים נוספים של ד'ר ג'ירו מתעוררים ופונים להרוג את גוקו והסאייאנים כשלבסוף מתאחדים לאנדרואיד עוצמתי אחד.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דרגון בול זי_ סופר אנדרואיד 13</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דרגון בול זי_ סופר אנדרואיד 13\דרגון בול זי_ סופר אנדרואיד 13.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דרגון בול זי_ סופר אנדרואיד 13\דרגון בול זי_ סופר אנדרואיד 13.strm</basepath>
+    <uniqueid type="tmdb" default="true">39104</uniqueid>
+    
+    <genre>אקשן</genre>
+<genre>אנימציה</genre>
+<genre>מדע בדיוני</genre>
+    <year>1992</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Ph2tugLEjpc</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//k6O0cgVpYbYeiw0kwjY8h93sUuL.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//mGr18hk6oDQyGjaSpbF7o5epoJV.jpg">http://image.tmdb.org/t/p/original//mGr18hk6oDQyGjaSpbF7o5epoJV.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-04-16 17:38:24</dateadded>
+</movie>
+    

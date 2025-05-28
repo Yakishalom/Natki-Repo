@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מליפיסנט</title>
+    <originaltitle>Maleficent</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.092</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,TE
+[COLOR lightblue]2021-10-27 15:52:26[/COLOR]
+[COLOR blue]נתי מדיה מליפיסנט מדובב.mkv[/COLOR]
+0.74 GB
+מליפיסנט הייתה אישה צעירה ויפהפיה בעלת לב טהור. היו לה חיים אידיאלים כשגדלה ביער שליו בממלכה, עד שיום אחד הגיע צבא פולש שאיים על ההרמוניה של הממלכה. מליפיסנט הופכת להיות המגינה של המדינה, אבל היא סובלת בסופו של דבר מבגידה נוראית- מעשה שיהפוך את ליבה הטהור לאבן. כשהיא מונעת ע"י הנקמה, מליפיסנט עומדת מול קרב גדול מול יורש העצר הפולש וכתוצאה מטילה כישוף על התינוקת שתיוולד לו, אורורה. כשהילדה גדלה, מליפיסנט מבינה שאורורה מחזיקה את המפתח לשלום בממלכה- ואולי גם לאושר שלה עצמה.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מליפיסנט</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מליפיסנט\מליפיסנט.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מליפיסנט\מליפיסנט.strm</basepath>
+    <uniqueid type="tmdb" default="true">102651</uniqueid>
+    
+    <genre>פנטזיה </genre>
+<genre> הרפתקאות </genre>
+<genre> אקשן </genre>
+<genre> משפחה </genre>
+<genre> רומנטי</genre>
+    <year>2019</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//7t7DKiG2zBxKGVkw8nnepQCGrBY.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//xjotE7aFdZ0D8aGriYjFOtDayct.jpg">https://image.tmdb.org/t/p/original//xjotE7aFdZ0D8aGriYjFOtDayct.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-10-27 15:52:26</dateadded>
+</movie>
+    

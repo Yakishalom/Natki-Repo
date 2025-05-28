@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Robinson Crusoe: The Wild Life</title>
+    <originaltitle>The Wild Life [2016] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5</value>
+            <votes>5,712</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2021-02-18 17:20:02[/COLOR]
+On a tiny exotic island, Tuesday, an outgoing parrot lives with his quirky animal friends in paradise. However, Tuesday can't stop dreaming about discovering the world. After a violent storm, Tuesday and his friends wake up to find a strange creature on the beach: Robinson Crusoe. Tuesday immediately views Crusoe as his ticket off the island to explore new lands. Likewise, Crusoe soon realizes that the key to surviving on the island is through the help of Tuesday and the other animals. It isn't always easy at first, as the animals don't speak 'human.' Slowly but surely, they all start living together in harmony, until one day, when their comfortable life is overturned by two savage cats, who wish to take control of the island. A battle ensues between the cats and the group of friends but Crusoe and the animals soon discover the true power of friendship up against all odds [even savage cats].</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\Robinson Crusoe_ The Wild Life</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\Robinson Crusoe_ The Wild Life\Robinson Crusoe_ The Wild Life.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\Robinson Crusoe_ The Wild Life\Robinson Crusoe_ The Wild Life.strm</basepath>
+    <uniqueid type="tmdb" default="true">368940</uniqueid>
+    
+    <genre>Adventure</genre>
+<genre>Animation</genre>
+<genre>Comedy</genre>
+<genre>Family</genre>
+    <year>2016</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=KNCjU9VEuNc</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//6NwKjz1FyPNZK6j4OBzpzohcvvF.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//pjYpeugt3WOmRSYw8nH6vtu8f1M.jpg">http://image.tmdb.org/t/p/original//pjYpeugt3WOmRSYw8nH6vtu8f1M.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-02-18 17:20:02</dateadded>
+</movie>
+    

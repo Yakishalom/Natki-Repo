@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>סינדרלה</title>
+    <originaltitle>Cinderella</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.439</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,TE
+[COLOR lightblue]2019-10-26 19:11:27[/COLOR]
+[COLOR blue]Cinderella.1950.HDTV.HebDub.XviD-Sweet-Star.avi[/COLOR]
+0.68 GB
+גרסה עדכנית "נועזת" ומיוזיקלית לאגדה הקלאסית, בכיכובה של קמילה קביו ובבימויה של קיי קאנון ("פיץ' פרפקט"). לגיבורה השאפתנית סינדרלה יש חלומות גדולים, ובעזרת הסנדקית המהממת שלה היא מתעקשת להגשים אותם.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סינדרלה</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סינדרלה\סינדרלה.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סינדרלה\סינדרלה.strm</basepath>
+    <uniqueid type="tmdb" default="true">593910</uniqueid>
+    
+    <genre></genre>
+    <year>2021</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//clDFqATL4zcE7LzUwkrVj3zHvk7.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//3EmwUuGBp44hTzZGJqpzyiAmAVT.jpg">https://image.tmdb.org/t/p/original//3EmwUuGBp44hTzZGJqpzyiAmAVT.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-10-26 19:11:27</dateadded>
+</movie>
+    

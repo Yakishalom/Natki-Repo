@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>פרנגלי: היער הקסום</title>
+    <originaltitle>FernGully: The Last Rainforest [1992]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>23,533</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-07-8 08:44:13[/COLOR]
+אנשי הפיה של פרנגלי מעולם לא ראו בני אדם בעבר, אבל כשכריסטה רואה אחד, זאק, היא בטעות מכווצת אותו לגודלה. אבל ישנה בעיה בפרנגלי, מאחר וזאק הוא חלק מקבוצת כריתת עצים שנמצא שם כדי לכרות את היער.</plot>
+    <runtime>76</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פרנגלי_ היער הקסום</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פרנגלי_ היער הקסום\פרנגלי_ היער הקסום.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פרנגלי_ היער הקסום\פרנגלי_ היער הקסום.strm</basepath>
+    <uniqueid type="tmdb" default="true">13225</uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Adventure</genre>
+<genre>Family</genre>
+<genre>פנטזיה</genre>
+<genre>אנימציה</genre>
+<genre>מדע בדיוני</genre>
+<genre>משפחה</genre>
+<genre>דרמה</genre>
+    <year>1992</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=pBczHcahPOE</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//gU2TbLTJ2s0aL5OsPuYQgZR8y3A.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//aZxUgA9WV4pdjwtY9TtukD6EsoG.jpg">http://image.tmdb.org/t/p/original//aZxUgA9WV4pdjwtY9TtukD6EsoG.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-07-08 08:44:13</dateadded>
+</movie>
+    

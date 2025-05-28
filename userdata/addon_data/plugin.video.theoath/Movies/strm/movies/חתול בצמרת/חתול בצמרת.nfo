@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>חתול בצמרת</title>
+    <originaltitle>Don Gato y su pandilla</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.0</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>2022-02-28 06:03:30
+ON,Dr,TE,TE
+[COLOR lightblue]2017-10-11 13:42:24[/COLOR]
+[COLOR blue]חן_סרטים_חתול_בצמרת_מדובב_עי_נועםם.avi[/COLOR]
+0.68 GB
+אחת מסדרות הטלוויזיה המצוירות האהובות בכל הזמנים הופכת לסרט באורך מלא. הפעם החתול ושאר חברי הכנופיה שלו נאלצים להתמודד עם התערבותם של שני שוטרים במקביל - האחד הוא מפקד משטרה חדש מתוחכם, והשני הוא השוטר דיבל, אויבם הוותיק משכבר הימים. שני השוטרים אינם מתכוונים להפסיק להציק לכנופיית החתולים עד שיצליחו להבריח אותה מסמטת הרחוב. כנופיית החתולים מחזירה מלחמה, ודואגת כל פעם מחדש להערים על צמד השוטרים האומלל.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\חתול בצמרת</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\חתול בצמרת\חתול בצמרת.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\חתול בצמרת\חתול בצמרת.strm</basepath>
+    <uniqueid type="tmdb" default="true">78570</uniqueid>
+    
+    <genre></genre>
+    <year>2011</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//p1AprKk4pUbmz2WsAvjWvkG1tgj.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//iTWfYuqu315DOZgcH9wwKwcGeI8.jpg">https://image.tmdb.org/t/p/original//iTWfYuqu315DOZgcH9wwKwcGeI8.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-02-28 06:03:30</dateadded>
+</movie>
+    

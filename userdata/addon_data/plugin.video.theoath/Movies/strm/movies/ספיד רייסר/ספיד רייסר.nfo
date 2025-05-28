@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>ספיד רייסר</title>
+    <originaltitle>Speed Racer [2008]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>64,475</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2019-02-10 14:35:14[/COLOR]
+מבית היוצר של טרילוגיית 'המטריקס'. סרט המבוסס על סדרת אנימציה יפנית קלאסית משנות השישים, העוסקת בנהג מרוצים צעיר העונה לשם המפתיע 'ספיד רייסר'. ספיד נולד מאחורי ההגה והדבר היחיד שמונע ממנו להשתתף במרוצים הוא מותו של אחיו הבכור, רקס, בתאונת דרכים. למרות זאת, הוא חייב להתגבר על הפחדים שלו כדי להלחם בתאגידים מושחתים המאיימים להשתלט על עסקי המרוצים, בעזרתו של אביו, חברתו ואפילו יריב לשעבר. עכשיו הוא חייב להשתתף במרוץ ולנצח אחרת הוא יפסיד הכול.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ספיד רייסר</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ספיד רייסר\ספיד רייסר.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\ספיד רייסר\ספיד רייסר.strm</basepath>
+    <uniqueid type="tmdb" default="true">7459</uniqueid>
+    
+    <genre>אקשן</genre>
+<genre>משפחה</genre>
+    <year>2008</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=8V8sLlqJB2w</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//tjs02MUBUo58L7bfGH6kIkJQHJu.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//5tbEFOVutwr0HdihrGj27eGIsxC.jpg">http://image.tmdb.org/t/p/original//5tbEFOVutwr0HdihrGj27eGIsxC.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2019-02-10 14:35:14</dateadded>
+</movie>
+    

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>זוג והרופאים המעופפים</title>
+    <originaltitle>Zog and the Flying Doctors</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2023-09-30 21:45:54[/COLOR]
+פרל וגדאבוט הם כעת שלישיית רופאים מעופפים, המטפלים ביצורים כולל בתולת ים, חד קרן ואריה מתעטש. אולם כאשר מזג אוויר גרוע מאלץ אותם לנחות בארמון, פרל ננעלת על ידי דודה, המלך.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\זוג והרופאים המעופפים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\זוג והרופאים המעופפים\זוג והרופאים המעופפים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\זוג והרופאים המעופפים\זוג והרופאים המעופפים.strm</basepath>
+    <uniqueid type="tmdb" default="true">779611</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>משפחה</genre>
+<genre>סרט טלויזיה</genre>
+    <year>2021</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid= </trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//aow2SrU1nKY1onSTjHhhLW8Ndd6.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//3VeNFWlxgCJd7Oq8EvoSv50N5Jv.jpg">http://image.tmdb.org/t/p/original//3VeNFWlxgCJd7Oq8EvoSv50N5Jv.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-09-30 21:45:54</dateadded>
+</movie>
+    

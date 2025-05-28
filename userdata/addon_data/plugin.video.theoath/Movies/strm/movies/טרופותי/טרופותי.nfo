@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>טרופותי</title>
+    <originaltitle>The Gruffalo [TV Movie 2009]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>8</value>
+            <votes>4,504</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2017-12-3 16:20:55[/COLOR]
+עכברון מתוחכם עובר ביער בעקבות אגוז נחשק, ונתקל בשלוש חיות צייד שחושקות בבשרו - שועל, ינשוף ונחש. השלוש מנסות להביא אותו למאורתן כדי להפוך אותו לארוחת ערב, אבל הוא מוכר להן לוקשים על מחויבות קודמת לידידו טרופותי – חיית טרף דמיונית שמפחידה את השלוש וגורמת להן לסגת מתוכניותיהן. העכברון ממשיך בדרכו, אבל מה קורה כשהוא פוגש במציאות את פרי דמיונו טרופותי?</plot>
+    <runtime>27</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טרופותי</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טרופותי\טרופותי.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טרופותי\טרופותי.strm</basepath>
+    <uniqueid type="tmdb" default="true">28118</uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Family</genre>
+<genre>אנימציה</genre>
+<genre>משפחה</genre>
+    <year>2009</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=cVkj4McR1Fo</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//uGkceAf8WvOYnFNsSlQMPO8NKAi.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//ovmpIFAfOSRN8QWaNwLHAOO44Yc.jpg">http://image.tmdb.org/t/p/original//ovmpIFAfOSRN8QWaNwLHAOO44Yc.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2017-12-03 16:20:55</dateadded>
+</movie>
+    

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>אגדה ממבט ראשון</title>
+    <originaltitle>Koshchey: Nachalo</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>0</value>
+            <votes>0</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2023-10-10 15:22:18[/COLOR]
+גבריאל, אביר צעיר הנקלע להרפתקה כאשר אבן עתיקה נחטפת מן ארמון המלך. מי שיפעיל את כוחות הקסם שלה, יכול להוביל להרס וחורבן הממלכה. לצד האביר יוצאת חבורה הכוללת את נערת קרקס , שדון ג'לי מטורלל, שטיח מעופף נמרץ, וחרב קסמים משעשעת. יחד הם יעברו בין עולמות קסומים, ילחמו במפלצת הקרח, יגלו שיקוי נצח וייקלעו להרפתקאות מסמרות שיער על מנת להשיב את הממלכה על כנה.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אגדה ממבט ראשון</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אגדה ממבט ראשון\אגדה ממבט ראשון.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\אגדה ממבט ראשון\אגדה ממבט ראשון.strm</basepath>
+    <uniqueid type="tmdb" default="true">586380</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>הרפתקאות</genre>
+<genre>משפחה</genre>
+    <year>2021</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=B49ifAbfXKA</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//2Oh2k4fudQgi80rwJnXm8e8KTBZ.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//82dWPD77RRnym8gIXYg1rzyY1OK.jpg">http://image.tmdb.org/t/p/original//82dWPD77RRnym8gIXYg1rzyY1OK.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-10-10 15:22:18</dateadded>
+</movie>
+    

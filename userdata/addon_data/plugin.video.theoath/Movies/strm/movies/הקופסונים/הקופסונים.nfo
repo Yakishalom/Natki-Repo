@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>הקופסונים</title>
+    <originaltitle>The Boxtrolls [2014]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7</value>
+            <votes>46,948</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2017-12-3 16:12:02[/COLOR]
+על פי האגדה בה מאמינים תושבי העיר, הקופסונים זוחלים מידי ערב דרך חורי הביוב אל פני רחובותיה של העיירה המוקפדת, ונוהגים לגנוב את שלל תושבי העיירה וגם את ילדי העיירה וגבינות מסריחות. אך הקופסונים אינם כאלו כלל וכלל, הם יצורים קטנים ומוזרים, תמהונים וחביבים אשר לובשים קופסאות קרטון ממוחזרות והופכים את הזבל של תושבי העיירה לשלל שלהם. בין הקופסונים חי אגס [המפסטד רייט], ילד אנושי אותו אימצו הקופסונים עוד בינקותו והוא חי איתם את חייהם כאחד משלהם. בוקר אחד מגיח לעיירה מדביר אכזרי ורשע ארצ'יבלד סנצ'ר [קינסלי] אשר נחוש להדביר ולהשמיד את הקופסונים במטרה להשתמש בכך ככרטיס הכניסה שלו לחברה הגבוהה של צ'יזברידג'. אגס, שחי עם הקופסונים, מחליט להציל את חבריו שמתחת לפני האדמה אך גם את חבריו שמעל לפני האדמה. ומנסה לבנות גשר בין שני העולמות ומחדיר את רוחות השינוי, וריחות הגבינה.</plot>
+    <runtime>96</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הקופסונים</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הקופסונים\הקופסונים.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\הקופסונים\הקופסונים.strm</basepath>
+    <uniqueid type="tmdb" default="true">170687</uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Adventure</genre>
+<genre>Comedy</genre>
+<genre>אנימציה</genre>
+<genre>קומדיה</genre>
+<genre>משפחה</genre>
+<genre>פנטזיה</genre>
+    <year>2014</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=z3eHd87dx6M</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//pWursPWcs4ZIqxxAsbfDVEeCKQm.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//yFtr1BD7AHeruIm9jsVnoebEN2v.jpg">http://image.tmdb.org/t/p/original//yFtr1BD7AHeruIm9jsVnoebEN2v.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2017-12-03 16:12:02</dateadded>
+</movie>
+    

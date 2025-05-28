@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>טרמפ לירח</title>
+    <originaltitle>Fly Me to the Moon 3D [2008]</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>4</value>
+            <votes>3,866</votes>
+        </rating>
+    </ratings>
+    <plot>ON
+[COLOR lightblue]2018-07-16 15:01:23[/COLOR]
+השנה היא 1969 והמעבורת אפולו 11 עובדת לעשות היסטוריה ולנחות בפעם הראשונה בתולדות האנושות על הירח. כשעיני העולם כולו נשואות אל שלושת האסטונאוטים האמיצים שלושה זבובים צעירים תופסים טרמפ עם המעבורת ומוצאים את עצמם בדרך לירח.</plot>
+    <runtime>84</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טרמפ לירח</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טרמפ לירח\טרמפ לירח.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\טרמפ לירח\טרמפ לירח.strm</basepath>
+    <uniqueid type="tmdb" default="true">13956</uniqueid>
+    
+    <genre>Animation</genre>
+<genre>Adventure</genre>
+<genre>Family</genre>
+<genre>הרפתקאות</genre>
+<genre>פנטזיה</genre>
+<genre>אנימציה</genre>
+<genre>אקשן</genre>
+<genre>מדע בדיוני</genre>
+<genre>משפחה</genre>
+    <year>2008</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=3TCI9Ptkyeg</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//26DeIwp2HpIwVso9UIiE7LlLSYF.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//adBgQtsqOcGJwfHvMCxltaMVOV1.jpg">http://image.tmdb.org/t/p/original//adBgQtsqOcGJwfHvMCxltaMVOV1.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2018-07-16 15:01:23</dateadded>
+</movie>
+    

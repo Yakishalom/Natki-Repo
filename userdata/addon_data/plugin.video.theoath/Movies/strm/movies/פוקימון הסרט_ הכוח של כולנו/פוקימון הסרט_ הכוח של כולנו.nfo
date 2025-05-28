@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>פוקימון הסרט: הכוח של כולנו</title>
+    <originaltitle>Pokémon the Movie: The Power of Us [2018] - IMDb</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6</value>
+            <votes>2,027</votes>
+        </rating>
+    </ratings>
+    <plot>Dr
+[COLOR lightblue]2021-01-30 18:45:58[/COLOR]
+אש ופיקאצ'ו מגיעים לעיר פולה כדי להשתתף ב'פסטיבל הרוח'. מול איום של אסון קרב, הם נאלצים לשתף פעולה עם חבורת גיבורים בלתי צפויה כדי להציל את המצב.</plot>
+    <runtime>0</runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פוקימון הסרט_ הכוח של כולנו</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פוקימון הסרט_ הכוח של כולנו\פוקימון הסרט_ הכוח של כולנו.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\פוקימון הסרט_ הכוח של כולנו\פוקימון הסרט_ הכוח של כולנו.strm</basepath>
+    <uniqueid type="tmdb" default="true">494407</uniqueid>
+    
+    <genre>אנימציה</genre>
+<genre>משפחה</genre>
+<genre>הרפתקאות</genre>
+<genre>פנטזיה</genre>
+    <year>2018</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=8PGsP59Io20</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">http://image.tmdb.org/t/p/original//qp1wXju81fpFkVeSt5EVvnpKmgf.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="http://image.tmdb.org/t/p/original//b1EKIjZWYAoC3WUk14012DX46Cb.jpg">http://image.tmdb.org/t/p/original//b1EKIjZWYAoC3WUk14012DX46Cb.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-01-30 18:45:58</dateadded>
+</movie>
+    

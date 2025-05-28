@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>כיפה אדומה סוגרת חשבון</title>
+    <originaltitle>Hoodwinked Too! Hood VS. Evil</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.14</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,TE
+[COLOR lightblue]2023-03-02 14:01:13[/COLOR]
+[COLOR blue]PDTV 2011 זירה מדיה כיפה אדומה 2 מדובב.mkv[/COLOR]
+0.67 GB
+טייק נוסף על אגדת כיפה אדומה אחרי "כיפה אדומה: הסיפור האמיתי" מ-2005. אנו מוצאים את כיפהל'ה מתאמנת עם "אחיות הכיפה", כשהיא מגלה שסבתא, שנותרה תחת השגחתו של וולף הזאב, נעלמה. כיפה אדומה יוצאת להציל את סבתא מציפורניה של מכשפה מרושעת הנשלטת ע"י לא אחרים מאשר צמד האחים הנזל וגרטל, הלא הם עמי ותמי בגירסה העברית.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\כיפה אדומה סוגרת חשבון</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\כיפה אדומה סוגרת חשבון\כיפה אדומה סוגרת חשבון.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\כיפה אדומה סוגרת חשבון\כיפה אדומה סוגרת חשבון.strm</basepath>
+    <uniqueid type="tmdb" default="true">57089</uniqueid>
+    
+    <genre>קומדיה </genre>
+<genre> אנימציה </genre>
+<genre> משפחה</genre>
+    <year>2011</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//rp3oWYCiiOKddzsObLlgSGWz37.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//pWMHjziBdlBlU6jRmvBI0qzzB8S.jpg">https://image.tmdb.org/t/p/original//pWMHjziBdlBlU6jRmvBI0qzzB8S.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-03-02 14:01:13</dateadded>
+</movie>
+    

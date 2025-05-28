@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>דיפ וחברים בים הגדול</title>
+    <originaltitle>Deep</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.97</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>Dr,TE
+[COLOR lightblue]2023-03-30 12:58:12[/COLOR]
+[COLOR blue]720p 2017 דיפ וחברים בים הגדול מדובב.mkv[/COLOR]
+1.09 GB
+בשנת 2100, כאשר האנושות נטשה את כדור הארץ, שרדה מושבה של יצורים ראוותנים משגשגים במעמקי האוקיינוס. גם דיפ, תמנון הרפתקני, ואחרון מסוגו, חי שם עם 2 חבריו; איבו, דג טורף, חנון ומגושם ואליס, שרימפית נוירוטית. כאשר תאונה מחריבה את ביתם, הקראקן, מגן המושבה שלהם, שולח את דיפ וחבריו למסע מסוכן במטרה למצוא בית חדש. במהלך משימתם הם יחברו ל-מאורה, צלופחית זללנית, ויחדיו הם יטיילו למקומות מדהימים כמו לעיר השקועה ניו יורק, הטיטאניק והקוטב הצפוני, ויתמודד עם אויבים מפחידים וסיטואציות משעשעות.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דיפ וחברים בים הגדול</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דיפ וחברים בים הגדול\דיפ וחברים בים הגדול.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\דיפ וחברים בים הגדול\דיפ וחברים בים הגדול.strm</basepath>
+    <uniqueid type="tmdb" default="true">430474</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> משפחה </genre>
+<genre> הרפתקאות</genre>
+    <year>2017</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//zMZTBbBa9eevwpWoVIVHh4Gm1ij.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//3fUule7CGt4Eq1lPPqyz3qSXa8C.jpg">https://image.tmdb.org/t/p/original//3fUule7CGt4Eq1lPPqyz3qSXa8C.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2023-03-30 12:58:12</dateadded>
+</movie>
+    

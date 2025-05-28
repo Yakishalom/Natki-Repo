@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>מפלצת של מלון</title>
+    <originaltitle>Hotel Transylvania</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.953</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE
+[COLOR lightblue]2022-01-16 01:23:23[/COLOR]
+[COLOR blue]720p BluRay נ.מ מפלצת של מלון 1 מדובב.mkv[/COLOR]
+1.36 GB
+הנה עובדה אחת ידועה בקשר לדרקולה הוא לא רק נסיך האופל הוא גם אב מגן מאוד לנערה בשם מייביס. דרקולה בונה את בית מלון טרנסילבניה כאזור מבטחים למייבן בוא היא תוכל לגדול בשקט ובנוסף הוא מארח בו ג את המפלצות המוכרות ביותר בעולם – פרנקנשטיין ואשתו, המומיה, האיש הנעלם ומשפחה של אנשי זאב. האם האב יצליח להישאר בשלווה כאשר בן אנוש צעיר מגיע גם הוא לבית המלון ומושך את עינה של מייביס.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מפלצת של מלון</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מפלצת של מלון\מפלצת של מלון.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\מפלצת של מלון\מפלצת של מלון.strm</basepath>
+    <uniqueid type="tmdb" default="true">76492</uniqueid>
+    
+    <genre></genre>
+    <year>2012</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//rGvit1v2ZREGD2S3WDTBLxEThsi.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//5rARlA8beRAVXPYzSaF2NoS8Ry5.jpg">https://image.tmdb.org/t/p/original//5rARlA8beRAVXPYzSaF2NoS8Ry5.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-01-16 01:23:23</dateadded>
+</movie>
+    

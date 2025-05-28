@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>סוכנות בילוש לחיות מחמד</title>
+    <originaltitle>Spycies</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>7.513</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>Dr,TE
+[COLOR lightblue]2022-09-08 17:17:33[/COLOR]
+[COLOR blue]720p_2019_סוכנות_בילוש_לחיות_מחמד_מדובב.mkv[/COLOR]
+0.94 GB
+בנג'מין והקטור, שני סוכנים חשאיים מנוגדים זה לזה מכל הבחינות, מנסים לשחזר חומר סודי ביותר שנגנב על ידי פולשים לא ידועים.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סוכנות בילוש לחיות מחמד</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סוכנות בילוש לחיות מחמד\סוכנות בילוש לחיות מחמד.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\סוכנות בילוש לחיות מחמד\סוכנות בילוש לחיות מחמד.strm</basepath>
+    <uniqueid type="tmdb" default="true">550738</uniqueid>
+    
+    <genre>אנימציה </genre>
+<genre> קומדיה </genre>
+<genre> אקשן </genre>
+<genre> הרפתקאות </genre>
+<genre> משפחה</genre>
+    <year>2020</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//ouUIiubSX4szQZ2M9ZUrG1sdhpc.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//3nQrVnuYy0qDnyKT3EiedkCK1hg.jpg">https://image.tmdb.org/t/p/original//3nQrVnuYy0qDnyKT3EiedkCK1hg.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2022-09-08 17:17:33</dateadded>
+</movie>
+    

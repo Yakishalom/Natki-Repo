@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>משפחת אדמס</title>
+    <originaltitle>The Addams Family</originaltitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.619</value>
+            <votes></votes>
+        </rating>
+    </ratings>
+    <plot>ON,Dr,TE,TE
+[COLOR lightblue]2021-04-16 15:54:20[/COLOR]
+[COLOR blue]משפחת אדאמס.מדובב.גוזלן.1080p.mp4[/COLOR]
+1.39 GB
+חייהם של משפחת אדמס עומדים למבחן כאשר הם מוצאים את עצמם פנים מול פנים מול מארחת תוכנית ריאליטי ערמומית ובו בזמן גם נאלצים להתכונן אל בואם של משפחתם המורחבת עבור חגיגה גדולה. גרסת אנימציה חדשה לעלילותיה של המשפחה הכי משונה בשכונה - משפחת אדמס, שמגדירה מחדש את המושג 'שכנות טובה'.TEME</plot>
+    <runtime></runtime>
+    <path>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\משפחת אדמס</path>
+    <filenameandpath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\משפחת אדמס\משפחת אדמס.strm</filenameandpath>
+    <basepath>C:\Users\user\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.theoath\Movies\strm\movies\משפחת אדמס\משפחת אדמס.strm</basepath>
+    <uniqueid type="tmdb" default="true">481084</uniqueid>
+    
+    <genre>משפחה </genre>
+<genre> אנימציה </genre>
+<genre> קומדיה </genre>
+<genre> פנטזיה</genre>
+    <year>1998</year>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</trailer>
+    <thumb spoof="" cache="" aspect="poster" preview="">https://image.tmdb.org/t/p/original//lTaQCJ79j2XvM0jkxFtmTpoKelq.jpg</thumb>
+    <fanart>
+      <thumb colors="" preview="https://image.tmdb.org/t/p/original//uCAy0n0WHTGU4d3LMJtE0fQxCej.jpg">https://image.tmdb.org/t/p/original//uCAy0n0WHTGU4d3LMJtE0fQxCej.jpg</thumb>
+            
+    </fanart>
+    <dateadded>2021-04-16 15:54:20</dateadded>
+</movie>
+    
